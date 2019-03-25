@@ -1,0 +1,563 @@
+twitter_id,date,tweet
+1109236724989743104,2019-03-22 23:33:38,b'RT @digimkr: Super cool! https://t.co/ytI6omAZNA'
+1109106394588811265,2019-03-22 14:55:45,"b'RT @v8js: \xf0\x9f\x94\xa5 What\xe2\x80\x99s new in V8 v7.4? Wasm threads/Atomics, private class fields, performance and memory improvements, and much more! https://\xe2\x80\xa6'"
+1108798699948240896,2019-03-21 18:33:05,"b""RT @tarngerine: \xf0\x9f\x93\xa3\xf0\x9f\x91\xb2\xf0\x9f\x8f\xbb\xf0\x9f\x92\xbc Looking for remote work \xe2\x80\x94 \xf0\x9f\x94\x81please RT!\n\nI'm a senior-level product designer who loves breaking down complex problems an\xe2\x80\xa6"""
+1108081888525058049,2019-03-19 19:04:44,"b""RT @firefox: While we're talking about making things easier\xe2\x80\x94the team also worked on making security warnings easier to understand. \n\nSecuri\xe2\x80\xa6"""
+1108038471241748480,2019-03-19 16:12:12,b'@christianoliff @mbarker_84 @Jayphen @jensimmons My point was that you can evolve your tooling as needed. You can s\xe2\x80\xa6 https://t.co/l09NZ7Nh1S'
+1107742985230245888,2019-03-18 20:38:03,"b'@mbarker_84 @Jayphen @jensimmons I recently read https://t.co/NuASKPZPeW and really liked it, but there are lots of\xe2\x80\xa6 https://t.co/sFKk3PQjdE'"
+1107721520984395776,2019-03-18 19:12:45,"b'@Jayphen @mbarker_84 @jensimmons FWIW some of this can be solved with simple shell scripts, e.g. `cat header.html p\xe2\x80\xa6 https://t.co/Zn5FmF5hXp'"
+1107712143359504385,2019-03-18 18:35:29,"b""RT @humble: We've teamed up with @OReillyMedia for our latest book bundle about web programming! Get CSS: The Definitive Guide; You Don't K\xe2\x80\xa6"""
+1106800099940679680,2019-03-16 06:11:21,b'@Ricardo_Nikolay JavaScript'
+1106728602857439233,2019-03-16 01:27:15,"b""RT @jsoverson: Video's up! This week it's bcrypt, node core's crypto.pbkdf2 &amp; password security in general\n\nIf you don't know how you'd sto\xe2\x80\xa6"""
+1106667787076820993,2019-03-15 21:25:35,b'RT @owickstrom: Are there any resources on what software engineers can do specifically in their work to help with #climatechange? Better al\xe2\x80\xa6'
+1106626511270887425,2019-03-15 18:41:35,b'@kuvos I need a \xf0\x9f\xa4\xa3 reaction \xf0\x9f\x98\x89'
+1106608541261918208,2019-03-15 17:30:10,b'TIL: there is yet another way how functions can get their `this` value.\nEven though the `with` statement is obsolet\xe2\x80\xa6 https://t.co/BzDwl3hfyB'
+1106603346192785408,2019-03-15 17:09:32,b'RT @billpollock: Authors wanted. Please send us your tech book proposals! editors@nostarch.com @nostarch'
+1105915317702672384,2019-03-13 19:35:33,b'@reimertz @tjholowaychuk https://t.co/mORBqJNPpQ'
+1105915072952524800,2019-03-13 19:34:34,"b'@M_Rutter @tjholowaychuk If Babel is configured to convert import/export syntax to something else, it would be on B\xe2\x80\xa6 https://t.co/VP5AsHXB6D'"
+1105616914502451201,2019-03-12 23:49:48,b'RT @letsencrypt: Happy 30th birthday to the World Wide Web! We are thrilled to be a part of a more open and secure Web. Follow us today as\xe2\x80\xa6'
+1105603625579995136,2019-03-12 22:57:00,b'@rauschma same \xf0\x9f\x98\x82'
+1105601296411709440,2019-03-12 22:47:44,"b'@jankrems @tjholowaychuk I think you are right, if I understand https://t.co/9PjNwHqIVj correctly. Step 8.d.ii throws a SyntaxError.'"
+1105592126086107136,2019-03-12 22:11:18,b'@sharabiania @tjholowaychuk Modules are strict by default.'
+1105541020802899968,2019-03-12 18:48:13,"b'RT @firefox: Send files up to 1G\xe2\x80\x942.5G with a free account\xe2\x80\x94with Firefox Send. We made it, but you can use it on any browser!\n\nChoose when yo\xe2\x80\xa6'"
+1105528672079929344,2019-03-12 17:59:09,"b'@tjholowaychuk Ahhh... I agree. Given that modules are supposed to be statically analyzable, it would have been nic\xe2\x80\xa6 https://t.co/MOs6oNK3sg'"
+1105521680997208065,2019-03-12 17:31:23,b'@tjholowaychuk `undefined` is a global binding (with *value* `undefined`). Nothing prevents you from creating a dif\xe2\x80\xa6 https://t.co/CGm5SO8dx3'
+1105136611023413248,2019-03-11 16:01:15,b'@Ch1zo @mathias Not yet \xf0\x9f\x99\x82 What would you like to see visualized / explained?'
+1105136175419813889,2019-03-11 15:59:31,b'@mathias Thank you @mathias! I may have drawn inspiration from your tools \xf0\x9f\x98\x89Thank you for them!'
+1104531223148281856,2019-03-09 23:55:39,b'I made some visual changes and added a permalink option. https://t.co/jcxGhw11VD'
+1104093918960840704,2019-03-08 18:57:58,"b'@Qbe_Root Whoops, thanks \xf0\x9f\x98\x84'"
+1103785000418209797,2019-03-07 22:30:26,"b'RT @ioctaptceb: Hey folks! I am soliciting feedback (everything from kneejerk reactions ""this is ugly"" to more detailed stuff) for the tc39\xe2\x80\xa6'"
+1103720421193445376,2019-03-07 18:13:49,"b'RT @MicTig: Now in @FirefoxNightly: In the box-model widget, hold shift and hover over a value to jump to its source CSS! https://t.co/7jVX\xe2\x80\xa6'"
+1103697943763144704,2019-03-07 16:44:30,"b'Last night I finally split out a little tool that I wrote for a class to explain the curious case of ""loose"" compar\xe2\x80\xa6 https://t.co/beZgzWfdaF'"
+1103695356406063104,2019-03-07 16:34:13,b'It\xe2\x80\x99s a fun challenge: how to present information effectively and how to enable people to do whatever they need/want\xe2\x80\xa6 https://t.co/GDdYiIk0J3'
+1103487888224710656,2019-03-07 02:49:49,b'@kentcdodds What I want to say is: make sure your know your requirements for equality first. There are some interes\xe2\x80\xa6 https://t.co/DQGmxvYR7o'
+1103486863896002561,2019-03-07 02:45:44,b'@kentcdodds Depends on what you need. I wrote https://t.co/YU53vNt2hQ once which is based on lodash. You may find\xe2\x80\xa6 https://t.co/6ICclwNNfD'
+1103416494161973248,2019-03-06 22:06:07,b'RT @jsoverson: Here are my slides for the @woprsummit workshop: How to Reverse Engineer Web Applications https://t.co/lRTRBjZYp9\n\nGithub re\xe2\x80\xa6'
+1103083769416695808,2019-03-06 00:03:59,b'RT @dan_abramov: Want to give a shoutout to @fkling42\xe2\x80\x99s https://t.co/49reEDusgS + @geteslint docs. I\xe2\x80\x99m so much more productive than I could\xe2\x80\xa6'
+1103083741868515328,2019-03-06 00:03:53,b'@dan_abramov @geteslint &lt;3 Thank you!'
+1103009581146365952,2019-03-05 19:09:11,"b""@TheLarkInn That's why I keep entries for every trip in my calendar \xf0\x9f\x98\x90"""
+1102995727326691333,2019-03-05 18:14:08,"b""@getify We may have misunderstood each other. I don't want auto-bound methods for all the reasons you mentioned. Yo\xe2\x80\xa6 https://t.co/lLlFgSXC5H"""
+1102983340716515328,2019-03-05 17:24:55,b'@getify All I want to say is that prototype concepts and autobound methods are not inherently incompatible. It was\xe2\x80\xa6 https://t.co/GbJRD6nHQD'
+1102981498544676865,2019-03-05 17:17:36,"b'@getify You wouldn\xe2\x80\x99t have to store it if it was created at property access time, just like you proposed as hack. AF\xe2\x80\xa6 https://t.co/B0tGRgJCFj'"
+1102979668624388096,2019-03-05 17:10:20,"b'@getify In a way, that\xe2\x80\x99s what the Reference specification type is.'"
+1102978894104150016,2019-03-05 17:07:15,b'@getify I have to disagree with you here. Being prototype based shouldn\xe2\x80\x99t inherently prevent this. I\xe2\x80\x99m not a langua\xe2\x80\xa6 https://t.co/hgyAQGVnVv'
+1102045596326682624,2019-03-03 03:18:39,b'@MMiszy @getify @akronymn I think people have often problems understanding JavaScript because many behaviors seem \xe2\x80\x9c\xe2\x80\xa6 https://t.co/qI8ziTMi56'
+1102044380200755201,2019-03-03 03:13:49,"b'@MMiszy @getify @akronymn Everyone learns differently, but knowing that `this` in. an arrow function works like any\xe2\x80\xa6 https://t.co/V9l0SkdUGy'"
+1102042738000719872,2019-03-03 03:07:18,b'@wincent In this case though I have come across a question on Stack Overflow that asked why applying the \xe2\x80\x9coperator\xe2\x80\x9d\xe2\x80\xa6 https://t.co/Z2CPOQHSCR'
+1102041731480969216,2019-03-03 03:03:18,b'@rauschma https://t.co/FKy0jWENPT ... I also recently removed the term \xe2\x80\x9cspread operator\xe2\x80\x9d from some eslint rule.'
+1101252603256565760,2019-02-28 22:47:35,"b""(not JavaScript) I wrote about what's needed to get Sonos speakers to work on a dedicated subnet (should be applica\xe2\x80\xa6 https://t.co/Hbhkwy4EZP"""
+1101222053896568832,2019-02-28 20:46:12,"b""@jsoverson I'm thinking about how to simplify the toolbar and make parser settings more prominent because I believe\xe2\x80\xa6 https://t.co/0tOQfP6ATk"""
+1101215998747672576,2019-02-28 20:22:08,b'@jsoverson There is! Click the gear icon next to the parser name and then you can switch the source type in the dia\xe2\x80\xa6 https://t.co/696cE9Cp8D'
+1101017429101035522,2019-02-28 07:13:05,b'@YDKJS https://t.co/XYHHBDjt4B'
+1098303925826908160,2019-02-20 19:30:36,"b""RT @MozDevNet: We've been asking you what you need in your Developer Tools. Our main takeaway: developers and designers of every experience\xe2\x80\xa6"""
+1097938221642575872,2019-02-19 19:17:25,"b'I never thought I would say this but astexplorer ""does blockchain"" now (kinda): Support for a Solidity parser was a\xe2\x80\xa6 https://t.co/73bhloXDN2'"
+1096536139064721408,2019-02-15 22:26:02,b'https://t.co/kybir6J68t got a shout out from @jasonlaster11 in the latest episode of  @scriptandstyle (\xe2\x80\xa6 https://t.co/YSIrA3dDnT'
+1096091214879674368,2019-02-14 16:58:04,"b'RT @TinkerSec: ~=8 Character Passwords Are Dead=~\n\nNew benchmark means that the entire keyspace, or every possible combination of:\n- Upper\xe2\x80\xa6'"
+1093588999959044096,2019-02-07 19:15:10,b'. @TschinderDaniel built a playground for react-docgen! https://t.co/3yfdRpxPSp https://t.co/YrBodmf78p'
+1086054898293125120,2019-01-18 00:17:20,"b'@slicknet When I talk about my OS ideas/projects with my dad, he always asks how I would earn money from it. ""That\'\xe2\x80\xa6 https://t.co/Di5It18UiN'"
+1083406509550198789,2019-01-10 16:53:35,b'@linkedktk @BolverBlitz @opnsense I can confirm that radius works without issues with UniFi APs.'
+1082371482351677441,2019-01-07 20:20:45,"b""It's not necessarily trivial due to the variety of forms, but maybe  this could be done for the more simple and most common type of forms."""
+1082371481529593858,2019-01-07 20:20:45,"b'Besides different styling across websites, the labels used for form fields also vary a lot (e.g. user name, account\xe2\x80\xa6 https://t.co/ZYtHr0Vwzq'"
+1082371480619429889,2019-01-07 20:20:45,b'For me the biggest issue is forms. Ideally sites would give browsers just a spec or type of form and then browsers\xe2\x80\xa6 https://t.co/Pirm3QHFBf'
+1081260863791673344,2019-01-04 18:47:33,"b'@jordwalke vi (often linked to vim) is available almost everywhere because of POSIX. Sure, I may not get all my fan\xe2\x80\xa6 https://t.co/pAlhm3VA6C'"
+1075870313265520641,2018-12-20 21:47:26,b'@littlecalculist I really like how OpenBSD has similar syntax for configuration files across core services (e.g. pf and opensmtp).'
+1075830490639159296,2018-12-20 19:09:11,"b""@WillsLab @geteslint Probably. But, unless there are any other subtleties between `return` and `return await`, I'd\xe2\x80\xa6 https://t.co/Kq54GD9ei3"""
+1075824539991330816,2018-12-20 18:45:32,"b""@WillsLab @geteslint Strictly speaking I don't know that `bar` returns a promise, but I know that who wrote the function expects it to."""
+1075824403001135104,2018-12-20 18:45:00,"b""@WillsLab @geteslint Technical differences aside, I'd always use `return await x`, it makes the intent much clearer\xe2\x80\xa6 https://t.co/pCzp4MkLaD"""
+1075556702030770176,2018-12-20 01:01:15,b'RT @rwaldron: Download all of your GitHub data | The GitHub Blog https://t.co/rhY0yxldVl'
+1075512682671788033,2018-12-19 22:06:20,b'@jordwalke More info: https://t.co/nTsVSVKA30 and https://t.co/EIgDBuK7AN'
+1075498387300995072,2018-12-19 21:09:31,b'@jordwalke OpenBSD does this by default. It tracks a (configurable) list of files and emails a diff of them every day (if there are any).'
+1075476597711335425,2018-12-19 19:42:56,"b""If you are interested in security: https://t.co/tdj9ep7Zry has some interesting books (can't speak about how good t\xe2\x80\xa6 https://t.co/jy2GQNezFP"""
+1075452094490980352,2018-12-19 18:05:34,b'@slicknet That\xe2\x80\x99s what https://t.co/JffkhgQ5yD does. I really enjoyed it (at least the parts that I completed).'
+1075118556130402305,2018-12-18 20:00:13,"b'https://t.co/l4wnvFDpgE has now support for cherow (https://t.co/IcoMcI5aAs), mdx (https://t.co/A7RfSSLXHC) and yam\xe2\x80\xa6 https://t.co/662oKWGnsy'"
+1074758921607233536,2018-12-17 20:11:09,"b'@getify Yep. With understanding also comes the ability to better avoid the ""bad""/confusing parts (or alternatively\xe2\x80\xa6 https://t.co/L15LGTml6S'"
+1072919211876352005,2018-12-12 18:20:48,b'@RReverser @kentcdodds What are you using now? Are you still happy with the switch? What was the most difficult part about switching?'
+1072596537736335362,2018-12-11 20:58:37,b'RT @WillsLab: @CascadiaJS A mostly complete transcription of my talk: https://t.co/k8q6unYWKu \xf0\x9f\x98\x8a. The wonderful AST Explorer by @fkling42: h\xe2\x80\xa6'
+1072596521579921409,2018-12-11 20:58:33,"b'RT @CascadiaJS: 15/ How Linters, Compilers &amp; Other Cool Things Work by @WillsLab at #cjs18\n\nhttps://t.co/zohDDKgh7w'"
+1070778204930039808,2018-12-06 20:33:12,b'An article that compares/explains \xe2\x80\x9ccore oop\xe2\x80\x9d and it\xe2\x80\x99s flavors (class based vs prototype based) would be great. In m\xe2\x80\xa6 https://t.co/hPFHKmQpS8'
+1070778202518315008,2018-12-06 20:33:12,"b'I have to be honest, I don\xe2\x80\x99t have a good idea of the complete picture either. E.g. is visibility (private, public)\xe2\x80\xa6 https://t.co/ED2IRULcsK'"
+1070214210414501888,2018-12-05 07:12:06,"b'And v0.6.1 follows on its heels, fixing some issue with the Typescript parser and allows the transformer to be writ\xe2\x80\xa6 https://t.co/Hrb3UXOU3g'"
+1069758327666618369,2018-12-04 01:00:35,"b'I finally published a new version of jscodeshift (https://t.co/ihmdYmWTcA): Support for Typescript, file list from\xe2\x80\xa6 https://t.co/1Qsp1UyA1A'"
+1068262319338086400,2018-11-29 21:55:58,b'@awbjs Then maybe __globalProperties__ \xf0\x9f\x98\x89'
+1068207627195183104,2018-11-29 18:18:39,"b""@rauschma Not sure if my comment there adds anything to the discussion. But what I don't understand is, if the dist\xe2\x80\xa6 https://t.co/69oFNpr34D"""
+1067143202589691906,2018-11-26 19:49:00,"b'@getify I always felt like I as ""simple"" software engineer have it quite easy  (especially web development). If som\xe2\x80\xa6 https://t.co/Ukq7X1ceY4'"
+1064310767774720005,2018-11-19 00:13:55,"b""RT @jkup: @swyx @babeljs @fkling42 I can't imagine where our industry would be without that website.. srsly it's gold"""
+1063543728990646272,2018-11-16 21:25:59,"b""RT @getify: I'm grateful to 31 patrons who support me with $127/mo on @patreon.\n\nIf you appreciate the things I do for the JS community (co\xe2\x80\xa6"""
+1063523929283674112,2018-11-16 20:07:18,"b'RT @keeleyhammond: Awesome talk on abstract syntax trees, writing lint rules, and \xe2\x80\x9csick AST transforms\xe2\x80\x9d using AST Explorer with @WillsLab #\xe2\x80\xa6'"
+1063522794011410432,2018-11-16 20:02:48,b'@left_pad @ryanflorence @jamiebuilds @brianleroux \xe2\x9d\xa4\xef\xb8\x8f thank you all!'
+1062867706116894720,2018-11-15 00:39:42,b'@getify Probably any code that uses overloaded operators / functions that perform different operators for different\xe2\x80\xa6 https://t.co/BkmlfoRMbt'
+1062866015023853569,2018-11-15 00:32:59,b'@WillsLab Awesome! Good luck with your presentation \xf0\x9f\x99\x82'
+1062863979670728704,2018-11-15 00:24:54,b'@WillsLab \xf0\x9f\x91\x8d What exactly does it do? Would it make sense to integrate it back?'
+1061865136158236673,2018-11-12 06:15:51,b'@acdlite Obligatory: https://t.co/45d3tyHiO8'
+1057743917079134209,2018-10-31 21:19:36,"b""@rtsao @jordwalke astexplorer should support all the things. I'd be happy to work with someone to make reason happen."""
+1057743615709986816,2018-10-31 21:18:24,"b""@rtsao @jordwalke If there is a JS implementation of something that converts reason code to AST, then it's super ea\xe2\x80\xa6 https://t.co/41r3MKoYjq"""
+1057366418595831808,2018-10-30 20:19:33,b'@swyx @monasticpanic Though I think the web version needs to be cleaned up first and made more modular and then pro\xe2\x80\xa6 https://t.co/3nW0TrsbUt'
+1057366081180844032,2018-10-30 20:18:13,b'@giuseppegurgone @monasticpanic Being able to authenticate via GitHub to save to user gists is somewhere on the roa\xe2\x80\xa6 https://t.co/6mz2BFb6ds'
+1057365656838987776,2018-10-30 20:16:32,"b'@swyx @monasticpanic If someone wants to help with his though, I\xe2\x80\x99d be more than happy to look into this.'"
+1057365277506064384,2018-10-30 20:15:01,"b'@swyx @monasticpanic Yeah, I have thought about exactly these things before, and I think it would be nice to have.\xe2\x80\xa6 https://t.co/cNRyuAl9qw'"
+1053396078106537984,2018-10-19 21:22:50,"b""@BrendanEich My favorite example when teaching people type conversion and comparisons: [' '] == false . Or in gener\xe2\x80\xa6 https://t.co/FaORvgQSWp"""
+1052974587594469376,2018-10-18 17:27:59,"b'@EdgarSanchez @JuxnCxrlosP Maybe `sort` should require a callback, but add `lexicographicalSort` and `numericalSort` for convenience \xf0\x9f\x98\x89'"
+1052974199684255744,2018-10-18 17:26:27,"b'@EdgarSanchez @JuxnCxrlosP It\'s probably the ""safe"" thing to do in heterogeneous list. Of course JS could check whe\xe2\x80\xa6 https://t.co/AgwDMs1Spu'"
+1048962153355522048,2018-10-07 15:44:00,"b'@AssertPub_dev I can\xe2\x80\x99t take any credit for that, you got the wrong Felix Kling \xf0\x9f\x98\x89'"
+1046587015217610753,2018-10-01 02:26:03,"b'RT @codepo8: Tim Berners-Lee unveils Solid, an open source project to decentralize the web and give users control of their data, and Inrupt\xe2\x80\xa6'"
+1045157858461941761,2018-09-27 03:47:06,b'@swyx @kentcdodds No worries \xf0\x9f\x98\x84'
+1045152435172306944,2018-09-27 03:25:33,b'@swyx @kentcdodds The respective changes are now on https://t.co/kybir6J68t as well!'
+1044999498236276736,2018-09-26 17:17:50,b'@wincent Is a blog post coming? \xf0\x9f\x98\x89'
+1044620470841040897,2018-09-25 16:11:43,b'@wincent @1Password is the one service/software that I find really delightful to use.'
+1044319949802504192,2018-09-24 20:17:33,b'RT @EFF: Cloudflare announces that HTTPS is getting an experimental privacy upgrade to stop ISPs from knowing exactly which sites you visit\xe2\x80\xa6'
+1040612431448354816,2018-09-14 14:45:11,"b'@sseraphini It does use v7, but I don\xe2\x80\x99t think the typescript plugin is enabled. There currently isn\xe2\x80\x99t a way to conf\xe2\x80\xa6 https://t.co/KJjK6UyHdx'"
+1040465306508918784,2018-09-14 05:00:34,"b""https://t.co/2JHMDE6eZ1 has a fix for babel-plugin-macros. Please use that until I deployed it to stable. I'll be back in about a week."""
+1039938888179937280,2018-09-12 18:08:46,b'@lukejones I can upgrade my work phone every 2 years. I still have an iPhone 6s. It works and does everything I nee\xe2\x80\xa6 https://t.co/Syg6zgQiHR'
+1039927809991270400,2018-09-12 17:24:45,b'@wincent And even more things coming: https://t.co/z4lXwPaYXM'
+1039924651898462208,2018-09-12 17:12:12,"b""Not sure how I feel about this. W3C all the way \xf0\x9f\x98\x89. I'd hope this is not a problem anymore because no one uses `wind\xe2\x80\xa6 https://t.co/289VcxCzhz"""
+1039901761119563776,2018-09-12 15:41:14,"b'@satya164 Can\xe2\x80\x99t recall which module we are importing, but probably not that one \xf0\x9f\x98\x84 would be awesome if the fix would\xe2\x80\xa6 https://t.co/ELrhWUCqzK'"
+1039900288872660992,2018-09-12 15:35:23,b'@satya164 Yeah I know about prettier \xf0\x9f\x98\x95 don\xe2\x80\x99t know what\xe2\x80\x99s wrong I don\xe2\x80\x99t seem to be able to bundle it with webpack su\xe2\x80\xa6 https://t.co/vw1VoxdLAB'
+1039572101542244352,2018-09-11 17:51:17,"b'@cowchimp For sure, that\xe2\x80\x99s next in my list. Sorry for the slow turn around and thank you for keeping working on it!'"
+1039565838334849024,2018-09-11 17:26:24,b'@kuvos @babeljs I also plan to take care of persisting tree view options \xf0\x9f\x98\x89'
+1039546832118931456,2018-09-11 16:10:53,b'Small update about https://t.co/OkRShFTPAD : Tree view now scrolls horizontally so nested nodes are easier to inspe\xe2\x80\xa6 https://t.co/pH5JkYvrld'
+1037512290612858881,2018-09-06 01:26:20,"b'@rauschma While I agree in general, there are ways to get things working that put you into a dead end, so no improv\xe2\x80\xa6 https://t.co/U6GddFgUED'"
+1037469763058905089,2018-09-05 22:37:21,b'@janicduplessis That makes me happy! Thank you \xf0\x9f\x98\x80'
+1032749003257987072,2018-08-23 21:58:44,"b'@zerkms \xf0\x9f\x98\xae You are correct, thanks for flagging!'"
+1025688323317264385,2018-08-04 10:22:07,b'@kuvos Should work again!'
+1025687951592837122,2018-08-04 10:20:38,b'@jasonlaster11 @tbranyen Wrote a quick fix!'
+1025516114971901952,2018-08-03 22:57:49,"b""@jasonlaster11 @tbranyen \xf0\x9f\x91\x8d I'll be back from vacation next week."""
+1025063649298317314,2018-08-02 16:59:53,b'@kuvos :( Which browser? Seems to work in Firefox.'
+1017901522120728577,2018-07-13 22:40:09,"b""@swyx @iansu The primary use case is codemods, yes, but it could be used for general traversal as well. But I don't\xe2\x80\xa6 https://t.co/adxVXuyg5b"""
+1017894054091083776,2018-07-13 22:10:28,"b""@iansu @swyx Have you looked at jscodeshift? That's exactly what it is supposed to be. However, creating reusable h\xe2\x80\xa6 https://t.co/SGaYjLdrxl"""
+1017821569517682689,2018-07-13 17:22:27,b'@slicknet Useful for checking whether a site supports 2FA: https://t.co/Kw5cBmcjaA .'
+1017522085093040128,2018-07-12 21:32:24,"b'@BenLesh Depends on the browser they want to support. Sure, this becomes less and less relevant every day, but stil\xe2\x80\xa6 https://t.co/W1tYxLG7Rk'"
+1016536296288743424,2018-07-10 04:15:14,"b""@swyx I haven't worked on it in over a year, so there is that \xf0\x9f\x98\x89"""
+1016535518085931008,2018-07-10 04:12:08,b'@swyx Ah I see. In a side project I also started using Babel to instrument existing code to collect runtime informa\xe2\x80\xa6 https://t.co/xiEE3bNIBl'
+1016523558560776193,2018-07-10 03:24:37,"b""@swyx If you don't like the visitor pattern, check out  https://t.co/TG622Jax3x ... it's not well maintained atm bu\xe2\x80\xa6 https://t.co/FBzOOaxIcR"""
+1016239674686255104,2018-07-09 08:36:33,"b""@swyx This was @ForbesLindesay's doing \xf0\x9f\x98\x80 https://t.co/dF0zWHrCQz"""
+1014972002522750976,2018-07-05 20:39:17,b'@AdamRackis Even more interesting considering that `for (var x in null) {}` does not error. I guess the fundamental\xe2\x80\xa6 https://t.co/c0vJKedFYQ'
+1014650582127206400,2018-07-04 23:22:04,b'@phillip @sebmck `Array.prototype.some` does the same though.'
+1014585683048947712,2018-07-04 19:04:11,"b""@pkursawe @hoishinxii @sebmck No, `every` stops if the callback returns `false`. It's the same as `some`, just the other way round."""
+1014576700942794752,2018-07-04 18:28:30,b'@cesiztel @rauschma Yes: https://t.co/iEH7H6E7Kt'
+1014573102099906560,2018-07-04 18:14:12,"b'@cesiztel @rauschma JavaScript implements the IEEE 754 standard for numbers, which requires this behavior (so, not\xe2\x80\xa6 https://t.co/mklge8sHAQ'"
+1014207321042399232,2018-07-03 18:00:43,b'@SkillsMapIO @sarahmei @jaffathecake @sarah_edo @sophiebits @kentcdodds @dan_abramov @kyleshevlin @martinfowler ...\xe2\x80\xa6 https://t.co/F8IbkiC8rP'
+1014207217770196992,2018-07-03 18:00:18,b'@SkillsMapIO @sarahmei @jaffathecake @sarah_edo @sophiebits @kentcdodds @dan_abramov @kyleshevlin @martinfowler If\xe2\x80\xa6 https://t.co/4CU3xqRZTP'
+1013904216711024640,2018-07-02 21:56:17,b'@rauschma JavaScript is a great language if you avoid the bad parts \xf0\x9f\x98\x84 I think it is a pretty simple language compar\xe2\x80\xa6 https://t.co/wgj4mYwMyV'
+1012089095932309514,2018-06-27 21:43:38,"b'@rauschma Please don\'t call it rest/spread ""operator"" :( It\'s not an operator.'"
+1012088441482424325,2018-06-27 21:41:02,b'RT @rauschma: ES2018 was just approved! This is a list of its features: https://t.co/B3aqgzknZI\nhttps://t.co/zkTfTm5zcx'
+1011570607497105408,2018-06-26 11:23:21,"b""@acemarke @swyx I'm not super happy about the reducer. I hope it can be restructured to isolate parts of the state\xe2\x80\xa6 https://t.co/9buwWj0pIC"""
+1011569593025028096,2018-06-26 11:19:19,"b'@swyx lol ... all the pubsub stuff is only used to communicate with Codemirror, which seemed simpler than threading\xe2\x80\xa6 https://t.co/9TiDB2Mu2m'"
+1010296356064260096,2018-06-22 22:59:56,"b""@swyx @kentcdodds @FrontendMasters I should add that lots of people have contributed to it and it wouldn't be what it is without them!"""
+1010288384374263808,2018-06-22 22:28:15,"b""@swyx @kentcdodds @FrontendMasters &gt; i &lt;3 whoever made https://t.co/KxkyIJbbh9 \n\nI'm happy you find it useful :)"""
+1009142413888090112,2018-06-19 18:34:35,b'@axecopfire Do you know which article your co-worker was referring to? Or were they just talking about that project\xe2\x80\xa6 https://t.co/3rkp31HEcI'
+1009141929412460544,2018-06-19 18:32:39,"b'@axecopfire Woah, so much praise and positive words. I did not expect that :D Thank you :)'"
+1006631821583343616,2018-06-12 20:18:23,"b""@betaorbust @_michaelpaulson Thank you, this makes me very happy :) I'm glad you find it useful!"""
+1004441232574066688,2018-06-06 19:13:46,"b""@amasad @PhilCorbettLive They tried something like that and it didn't work out: https://t.co/YnEcHsguES"""
+1004440055870513152,2018-06-06 19:09:05,"b""@njukidreborn I might publish parts of the page as reusable npm modules at some point, but I don't know how vscode\xe2\x80\xa6 https://t.co/LTlIvRJwWq"""
+930808081230864385,2017-11-15 14:41:54,b'RT @fixateoncode: Big ups for @fkling42 from @amasad and the tools he builds which improves devs workflows on @fixateoncode: https://t.co/H\xe2\x80\xa6'
+925839194261405696,2017-11-01 21:37:19,b'@sebastienlorber @left_pad @cpojer The estree plugin should solve a lot of issues. Babel/babylon 5 was estree compa\xe2\x80\xa6 https://t.co/HPH34Ci3Wb'
+925809402459840512,2017-11-01 19:38:56,"b""@towca Sorry :( It wasn't compatible with newer Firefox versions anymore (and I don't have time to make it compatible)."""
+925808200082845696,2017-11-01 19:34:10,b'@sebastienlorber @cpojer @left_pad It has changed yes. jscodeshift itself should be compatible because it uses reca\xe2\x80\xa6 https://t.co/fXlrPoQsFX'
+925807893399552000,2017-11-01 19:32:57,"b'@sebastienlorber @cpojer You can select babylon (v6) as parser though, by passing ""--parser=babylon"".'"
+916320637399871488,2017-10-06 15:13:59,b'@jlongster Ask 10 people for mech keyboards and you get 10 suggestions... however I\xe2\x80\x99m very happy with my realforce\xe2\x80\xa6 https://t.co/ZLam1UIGUX'
+908523888325271552,2017-09-15 02:52:29,b'@rauschma I just started watching it. Love it!'
+900029789041434624,2017-08-22 16:19:58,b'@wincent Related: Save Your Sanity. Downgrade Your Life.\nhttps://t.co/VlVImwb5ko'
+899711490495619072,2017-08-21 19:15:09,b'This is how we watched the partial #SolarEclipse2017 . We could even see sunspots! https://t.co/ktGTg29FiR'
+897684105927720961,2017-08-16 04:59:03,"b'@wincent Also, if I recall correctly, I got this for less than 50 Euro on Amazon back then (must be 2011-ish).'"
+897683605585113089,2017-08-16 04:57:04,b'@jordwalke @wincent It does have snake!'
+897564827857567744,2017-08-15 21:05:05,"b'@wincent I used to use this as a ""travel phone"". Unfortunately the battery seems broken now, but I really liked it. https://t.co/I3O23Jh9ux'"
+888554301932453888,2017-07-22 00:20:28,b'I just released react-docgen v2.17.0 and v3.0.0-beta6. https://t.co/KlAlBHkBoL'
+888505144488280065,2017-07-21 21:05:08,b'First time I noticed this. Thanks @github ! https://t.co/6MlLeobbqI'
+885570331989102593,2017-07-13 18:43:14,b'@left_pad @heisenbugger @kentcdodds @RReverser @dan_abramov Originally I thought it would be cool to represent the\xe2\x80\xa6 https://t.co/gUtjTdqmmx'
+885565015952048129,2017-07-13 18:22:07,b'@left_pad @heisenbugger @kentcdodds @RReverser @dan_abramov Nice! I always wanted something like that in astexplorer.'
+885035554349477891,2017-07-12 07:18:13,"b""@ahecimo ... improvements but nothing planned. Unfortunately I don't have much time working on features."""
+885035184441241601,2017-07-12 07:16:45,"b""@ahecimo I'm happy you like it Amanda! There is no roadmap, there are no specific plans besides keeping it running.\xe2\x80\xa6 https://t.co/vEZaL1yaoo"""
+883357465961615360,2017-07-07 16:10:06,"b""@wmdmark @dan_abramov My main takeaway from gtd: get things out of your head, determine next actionable step. It's\xe2\x80\xa6 https://t.co/EotFUqOb65"""
+882785509000466432,2017-07-06 02:17:21,"b""@airburst @StackOverflow I don't know what to say in my defense. It's a bit of an addiction\xf0\x9f\x98\x8b"""
+882349246212521984,2017-07-04 21:23:48,b'RT @_gsathya: ES6 Modules enabled by default for Chrome 61 https://t.co/oKtJFlvvBN'
+882348080741220352,2017-07-04 21:19:10,"b'RT @amasad: .@replit is back hiring again, here is my job post on HN https://t.co/crpW0dJsO4 https://t.co/f1Ef5jYIM3'"
+882347898188439552,2017-07-04 21:18:26,"b""JavaScript can feel pretty raw, but I think that's exactly what help me understand Python better. Wonder if it works the other way round too"""
+882347468624609280,2017-07-04 21:16:44,"b'Recent realization: After working intensively with JavaScript over the last years, I finally understand how certain concepts in Python work.'"
+882346066825199617,2017-07-04 21:11:10,"b'@pasupuletics Most of the functions in src/utils/ have a description. Other than that, looking at existing handlers\xe2\x80\xa6 https://t.co/y1tUMWrFwf'"
+880493397529591809,2017-06-29 18:29:19,"b'@RReverser And I\'m only talking about the ""..."" part. ""...foo"" should of course be rest/spread element, rest parame\xe2\x80\xa6 https://t.co/ztmcOmjbbf'"
+880492678093316097,2017-06-29 18:26:27,b'@RReverser I also do other things :P'
+880492259828940800,2017-06-29 18:24:48,"b'@RReverser But it\'s not an ""operator"". That\'s my point.'"
+880485305303785472,2017-06-29 17:57:10,"b'@RReverser Semantically the term ""ellipsis"" (omission) makes sense for rest* but maybe not for spread? \xc2\xaf\\_(\xe3\x83\x84)_/\xc2\xaf'"
+880484882807308288,2017-06-29 17:55:29,"b'@RReverser Ah true. I thought ""ellipsis"" is referring to a special form but might have been confused by how fonts r\xe2\x80\xa6 https://t.co/L0WO9SDdcW'"
+880484006462013440,2017-06-29 17:52:00,"b'@RReverser Just like other punctuators it has different meanings in different context, so a neutral name would be useful IMO.'"
+880483261234823168,2017-06-29 17:49:02,"b'@RReverser ... but I\'m specifically talking about the `...` part. It\'s a punctuator like "","" or "";"" but it doesn\'t have a proper name.'"
+880483071019044864,2017-06-29 17:48:17,"b'@RReverser I don\'t like spread *operator*, because it is not an operator. And it doesn\'t always spread, it also ""co\xe2\x80\xa6 https://t.co/4xZx4TbruG'"
+880482224671342593,2017-06-29 17:44:55,"b'Maybe people will then stop to calling it ""spread operator"".'"
+880482008421474305,2017-06-29 17:44:04,"b'I suggest that we call the `...` in `foo(...bar)`, `(...foo) =&gt; {}`, `[...foo]`, etc ""trot"", short for ""tripple dot"". #ecmascript'"
+880174281958670336,2017-06-28 21:21:16,b'RT @rauschma: ES2017:\n\xe2\x80\x93 Ratified June 27: https://t.co/r17X9of3Cx\n\xe2\x80\x93 Spec: https://t.co/dof69QMTrR\n\xe2\x80\x93 New features: https://t.co/ZMHZ6PCYRn'
+880125796769083392,2017-06-28 18:08:36,b'@kentcdodds Guess what I do on Stack Overflow every other day...'
+879867294087696385,2017-06-28 01:01:24,b'@RReverser @nationaltrust I really like the visitor centers in US national parks (and of course the parks themselve\xe2\x80\xa6 https://t.co/DXOsVNK1Vw'
+879485429304631296,2017-06-26 23:44:01,b'RT @dan_abramov: React docs now have a page on accessibility! Big thanks to @kryptos_rsa and @jessebeach for making it happen. https://t.co\xe2\x80\xa6'
+879392162030338048,2017-06-26 17:33:24,b'. @gabro27 brought Scala to https://t.co/kybir6J68t ! Check out his article at https://t.co/Yyaoapa9Bc #astexplorer'
+877196930035589120,2017-06-20 16:10:20,"b'RT @MozDevNet: In case you missed it, MDN is getting a new look and a new name this week (for beta users): https://t.co/DnoPx5Ii6j'"
+875867806473961473,2017-06-17 00:08:52,b'RT @gyandeeps: Which version of #ESLint do you use on https://t.co/8j1MikV1qv ?\nPlanning to remove v1 and v2... \n@RReverser @fkling42 #Java\xe2\x80\xa6'
+869642902632251392,2017-05-30 19:53:19,"b'@JeremyMorrell Yes. The spec proposal at least calls the sections ""Spread Properties"" and ""Rest Properties"". https://t.co/xO2IPYVMTd'"
+869641361242206208,2017-05-30 19:47:12,"b'@JeremyMorrell Nitpick (because terminology is important): ""..."" is not an operator and this is not an application\xe2\x80\xa6 https://t.co/drIgiLTsBm'"
+867891630526812160,2017-05-25 23:54:24,"b""@wincent @left_pad Thanks for all the kind words (I guess) \xf0\x9f\x98\x89 I wouldn't mind attending a TC39 meeting \xf0\x9f\x99\x82 Thanks for the shoutout @left_pad !"""
+866447623539970049,2017-05-22 00:16:25,"b""@nickytonline @kentcdodds Thank you Nick, I'm happy to hear that and that you find it helpful :)"""
+865664916832698368,2017-05-19 20:26:14,"b'Markdown and Lua are now in https://t.co/l4wnvFDpgE, thanks to @wooorm and @RReverser! It now supports 29 parsers and 6 transformers.'"
+865663931842310145,2017-05-19 20:22:19,b'RT @wooorm: Yay! remark is now on AST Explorer! https://t.co/S6iL7Km4pM https://t.co/4Xs7IPrzlK'
+863573334771904512,2017-05-14 01:55:02,b'@jasonlaster11 @kentcdodds @geteslint Anything AST should be in astexplorer \xf0\x9f\x98\x89Feel free to open an issue to discuss how we can integrate it!'
+862077672167358464,2017-05-09 22:51:48,b'@wincent They are not wrong. Your beard is great!'
+859791063015333889,2017-05-03 15:25:38,b'Just released react-docgen v2.15.0 and v3.0.0-beta4 which includes create-react-class support by wcjordan: https://t.co/yZbpCHejjv #reactjs'
+857233510720864256,2017-04-26 14:02:50,"b'RT @DmitrySoshnikov: You can now play with #RegExp transformation APIs, and write actual transforms for quick tests in #AST Explorer: https\xe2\x80\xa6'"
+856587069547716608,2017-04-24 19:14:06,"b'@jordwalke In any case, give an external service access to my email account?? No thank you.'"
+852370320174440448,2017-04-13 03:58:15,b'I published react-docgen v2.14.0 and v3.0.0-beta3 which include support for the new prop-types package (and more). https://t.co/ae34gj4weO'
+850427694080643073,2017-04-07 19:18:57,b'@RReverser This is actually part of HTML (not sure what came first though): https://t.co/1gDlu1M4e5'
+850392816144400385,2017-04-07 17:00:21,b'@JavaScriptDaily @myshov This is misleading IMO. Most of them are dupes. Of course you can get creative but that do\xe2\x80\xa6 https://t.co/LNNGCMSQ1d'
+849998415484211200,2017-04-06 14:53:09,b'RT @DmitrySoshnikov: #RegExp-tree is now available on #AST Explorer (thanks @fkling42) https://t.co/RNN837PSOH'
+847211597885980674,2017-03-29 22:19:20,"b'@kentcdodds @bradleymeck @nzgb @_zouhir @mjavascript whenever you have a recursive generator, e.g recursive tree traversal.'"
+845082216740745216,2017-03-24 01:17:55,b'RT @littledan: Arbitrary-precision integers in JavaScript just got to Stage 2 at #tc39 . Come take a look and file bugs at https://t.co/g0f\xe2\x80\xa6'
+844259244719300608,2017-03-21 18:47:44,b'RT @bterlson: TC39 voted unanimously to refer ECMA262 2017 and ECMA402 2017 to the ECMA General Assembly for final approval. Next stop: off\xe2\x80\xa6'
+843203248504807424,2017-03-18 20:51:35,"b""RT @__avik: One of the best talks I've seen. @jaredforsyth making a case for type systems for JS (with @flowtype as an example): https://t.\xe2\x80\xa6"""
+842852555722047488,2017-03-17 21:38:03,b'We pushed a pre-release of react-docgen that adds support for new(ish) flow type annotations (long standing issue): https://t.co/bEanJJoIv3.'
+842425953938632704,2017-03-16 17:22:53,b'Glimmer is also available in astexplorer btw (thanks to @TobiasBieniek)\xf0\x9f\x99\x82 https://t.co/RD5CgDir8o https://t.co/ck37ZATAWr'
+839563000986005504,2017-03-08 19:46:32,b'RT @kentcdodds: ASTs for Beginners!\n\xf0\x9f\x93\xba https://t.co/vY6rv9uzA4\n\nTopics covered:\n\xf0\x9f\x8c\xb2 ASTs (concept)\n\xf0\x9f\x90\xa0 @babeljs plugin\n\xe2\xac\xa1 @geteslint plugin\n\xf0\x9f\x94\x80 Cod\xe2\x80\xa6'
+834820228102057985,2017-02-23 17:40:27,"b""RT @EFF: In the movement to encrypt the web, we're halfway there. https://t.co/g0PWsI1Ndu"""
+834819726219976704,2017-02-23 17:38:27,"b'https://t.co/kybir6J68t finally supports @geteslint v3, big thanks to @gyandeeps (https://t.co/30WnS8YZnj)! Select Transform -&gt; ESLint v3'"
+834817916121997312,2017-02-23 17:31:16,b'https://t.co/7M0ALJ4xDY'
+834817858064437249,2017-02-23 17:31:02,"b'RT @TschinderDaniel: Babylon 6.16 \xf0\x9f\x8e\x89. ESTree compatibility mode, new flow syntaxes and lots of fixes. Thanks to all the contributors. https:\xe2\x80\xa6'"
+833800879614464000,2017-02-20 22:09:55,b'RT @AriyaHidayat: Without looking up: which ECMA-262 standard specifies object rest/spread?'
+831639881851957248,2017-02-14 23:02:53,"b'@kentcdodds Depending on the context, I generate random responses in 1Password for such questions.'"
+827967453099552768,2017-02-04 19:49:58,b'RT @EFF: California: protecting the data of immigrants and religious minorities protects us all. Support S.B. 54 and 31. https://t.co/3RWxi\xe2\x80\xa6'
+826127128861159424,2017-01-30 17:57:10,b'https://t.co/kybir6J68t v2.1 is now off Parse! Also new parser/transform from @TobiasBieniek and @rdvornov. https://t.co/a2qMT9lH5Y'
+826125726671785984,2017-01-30 17:51:36,b'RT @TobiasBieniek: \xf0\x9f\x8c\xb2 The awesome AST Explorer is able to show the Handlebars/Glimmer wireformat now. \n\nThanks again @fkling42!\n \nhttps://t.\xe2\x80\xa6'
+825047629901893632,2017-01-27 18:27:38,"b""@rtsao Aw, thank you \xf0\x9f\x98\x8a It wouldn't be what it is today without the help of all these people: https://t.co/AOcALkoChD \xf0\x9f\x98\x89"""
+825035670716506112,2017-01-27 17:40:06,b'@giuseppegurgone Not yet. I will set something up at some point ;) Thank you!'
+825027135865696257,2017-01-27 17:06:12,b'Thanks to everyone who contributed and provided feedback! Please let me know if you encounter any issues.'
+825026866079686657,2017-01-27 17:05:07,b'I deployed https://t.co/kybir6J68t v2.0 last night. We now store data in gists! See https://t.co/K91scrnn07 for details and more changes.'
+824338926370295808,2017-01-25 19:31:30,b'RT @bterlson: Shared Array Buffers made it to Stage 4 just in time for ES2017! ES can now share memory efficiently between agents (e.g. web\xe2\x80\xa6'
+821765583414771712,2017-01-18 17:05:57,b'RT @rauschma: Rest/spread for properties is coming to Chrome! Background: https://t.co/lHWP7Vf2Jr\nhttps://t.co/bAWyoOxYtc'
+821537964563927040,2017-01-18 02:01:28,b'What is happening to astexplorer over the next two weeks: https://t.co/YkHroA3Sda'
+821426113540829184,2017-01-17 18:37:01,b'RT @iamdustan: I finally wrote about how my team uses jscodeshift+@flowtype to codegen Redux API action creators. https://t.co/HxNfrYOzYY'
+819566000517459968,2017-01-12 15:25:35,"b""@TobiasBieniek ... to work. Eventually you'll be able to authenticate and store snippets in your GitHub account (as gists)."""
+819565680324292609,2017-01-12 15:24:19,"b""@TobiasBieniek Indefinitely. I'm very close to https://t.co/qe5C7P6FJt however, so there will be changes. Existing links will continue ..."""
+819438087562403840,2017-01-12 06:57:19,b'RT @TobiasBieniek: \xe2\x9c\xa8 AST explorer might soon have support for Handlebars and Glimmer! Thanks for @fkling42 for an awesome tool!!\n\nhttps://t\xe2\x80\xa6'
+819438052795817984,2017-01-12 06:57:10,b'@TobiasBieniek Merged and pushed! Thank you!'
+817936179861434369,2017-01-08 03:29:16,"b'@AdamRackis @BrendanEich If I want to start the return value on the next line I put the value inside `(...)`, i.e. `return (\\n value \\n);` .'"
+817445481752170496,2017-01-06 18:59:24,b'This is a nice overview over HTTP caching. https://t.co/NzQhc9FXmH'
+817382105025900544,2017-01-06 14:47:34,b'Proxys are magical. https://t.co/vI714taTuh https://t.co/NO7qZwBf4k'
+815373813869211649,2017-01-01 01:47:20,b'@simevidas or `export default Foo;`'
+814661773299097600,2016-12-30 02:37:57,"b"". @skratchdot added @codeschool's sqlite-parser (https://t.co/v0O0wszL6n) to https://t.co/l4wnvFDpgE !"""
+811736303221886976,2016-12-22 00:53:10,b'New react-docgen version (v2.13). Fixes an annoying bug w/ some stateless comp. https://t.co/5jqOtP8Gqn @reactjs Thanks to all contributors!'
+809868489104048128,2016-12-16 21:11:09,b'@Vermeille_ @kangax I also hope that it helps learning about ASTs and makes the whole idea of AST transformations more approachable.'
+809867521675304960,2016-12-16 21:07:18,"b'@Vermeille_ @kangax Prototyping jscodeshift codemods, Babel and eslint plugins, or if you use/work on a tool using one of these parsers.'"
+809832485718609920,2016-12-16 18:48:05,"b'@kangax Aww, thank you! :)'"
+809794828942725120,2016-12-16 16:18:27,"b'https://t.co/kybir6J68t is now on gitter (https://t.co/zjo6EbKNfG), if you have questions/problems or want to discuss development.'"
+805977190093320194,2016-12-06 03:28:31,"b'RT @joewalnes: Firebug discontinued.\nFirebug, I salute you.\nYou revolutionized web development and started the DevTools revolution\n\nhttps:/\xe2\x80\xa6'"
+804327160982839296,2016-12-01 14:11:53,b'RT @BrendanEich: I presented to Ecma TC39 today:\n\nhttps://t.co/8LDnAEa44W\n\nInt64 &amp; Uint64 are now Stage 1 proposals for an ECMA-262 future\xe2\x80\xa6'
+801595913336602624,2016-11-24 01:18:53,"b""RT @OReillyMedia: We're doing our first ever @humble bundle! Pay what you want for 16 Unix+Linux ebooks and support @codeforamerica https:/\xe2\x80\xa6"""
+800874726742638592,2016-11-22 01:33:09,"b'There is no such thing as a ""spread operator"". `...` is *part* of [ ], fn call, destruc, etc. It\'s not its own thing https://t.co/VTYbC2YdmU'"
+796768654218166273,2016-11-10 17:37:05,"b""RT @leeb: Heartbreaking to read @ShaunKing's tweets over the last day. He's documenting hate crimes. Stay safe folks."""
+796453168926191616,2016-11-09 20:43:27,b'@loganfsmyth @left_pad @thejameskyle Fair point. We can certainly make it an option in astexplorer.'
+796442803374944256,2016-11-09 20:02:16,"b'@thejameskyle @left_pad If nothing else, it makes the generated code more readable? Does it matter for plugins how the code is printed?'"
+796351601283739648,2016-11-09 13:59:51,b'RT @left_pad: Whoo! With https://t.co/dsdd0ulFoz Babel transforms retain original source formatting by default in astexplorer! Thanks @fkli\xe2\x80\xa6'
+794961284202524672,2016-11-05 17:55:14,b'@drewml @kentcdodds @cpojer @ryyppy @left_pad ... that converts source -&gt; source. I.e. you could use jscodeshift CLI with babel transform.'
+794961066014818304,2016-11-05 17:54:22,"b""@drewml @kentcdodds @cpojer @ryyppy @left_pad Also, you don't  have to use the jscodeshift API in transform file, you can use anything ..."""
+794960319600685056,2016-11-05 17:51:24,"b""@drewml @kentcdodds @cpojer @ryyppy @left_pad   Yep, that's the whole point, just a different API/way to go about it."""
+793944454176460800,2016-11-02 22:34:43,b'RT @jwhitfieldseed: @kentcdodds yeah! I used that tip to help someone out with a fun JS gotcha recently https://t.co/IzOvWrBNk1'
+793944226534805504,2016-11-02 22:33:49,"b""RT @kentcdodds: Tip: If you see syntax you're unfamiliar with, https://t.co/l1cmMCFIHS can teach you what these things are called so you ca\xe2\x80\xa6"""
+792945351384784896,2016-10-31 04:24:38,"b'@welladamm @getify It will very likely be part of next years release, so ES2017. But you could also just say ""the async/await proposal"".'"
+792945137651298304,2016-10-31 04:23:47,"b""@getify I'm fixing this on Stack Overflow every other day..."""
+791041631935791104,2016-10-25 22:19:56,"b""@gaelduplessix @dan_abramov @robotlolita Thus `(obj.method)` doesn't resolve to a function value, but to a Reference (result of  obj.method)"""
+791039727893753856,2016-10-25 22:12:22,"b""@gaelduplessix @dan_abramov @robotlolita Parenthesis themselves don't perform any computation, so they don't have to resolve to a value."""
+791039468341858304,2016-10-25 22:11:20,"b'@gaelduplessix @dan_abramov @robotlolita The parens don\'t ""resolve"" the content to a value. But `|| 0` has to, to compute the result.'"
+791027188741001216,2016-10-25 21:22:33,"b'@dan_abramov @robotlolita @gaelduplessix ... may be applied to parenthesized expressions."" https://t.co/SpjttfMKJA'"
+791027042422697984,2016-10-25 21:21:58,"b'@dan_abramov @robotlolita @gaelduplessix From the spec: ""The principal motivation for this is so that operators such as delete and typeof...'"
+789178842241863680,2016-10-20 18:57:52,"b'react-docgen v2.12.0 is released, with better support for default props in stateless components. https://t.co/1MDCSGDKHk'"
+788645155599376388,2016-10-19 07:37:12,b'@benny_pearson long time ago \xf0\x9f\x98\x84'
+786460564285366272,2016-10-13 06:56:24,b'RT @mzabriskie: Wrote my first babel plugin today and these resources are \xf0\x9f\x92\xaf:\n\nhttps://t.co/Gu4hCqrg3M\nhttps://t.co/R30aNP9CFs\nhttps://t.co/\xe2\x80\xa6'
+783728674428358656,2016-10-05 18:00:51,"b'react-docgen v2.11.0 relased! It can now handle HOC exports, thanks to @rtsao. https://t.co/fU0qHPpUur'"
+783642739128823808,2016-10-05 12:19:23,"b""RT @BrendanEich: From my @finjsio talk. It's time. #javascript #int64 https://t.co/zScj0ne5aC"""
+783050036120809472,2016-10-03 21:04:11,"b""@iamdustan @leeb @mjackson I'm using @ynab"""
+779311491690405888,2016-09-23 13:28:33,b'RT @amasad: Come work with us! https://t.co/eJ1pmkSXPU'
+779188652886720513,2016-09-23 05:20:26,"b'@bterlson Thank you. So the unwrapping is unnecessary in that case. I have more questions, but will post to the mailing list. Thanks again!'"
+779161641602519040,2016-09-23 03:33:06,"b'@bterlson ... a completion record even though it says ""return ?foo()"" ?'"
+779161447595073536,2016-09-23 03:32:19,b'@bterlson I understand that. But abstract ops return completion record per https://t.co/4OFeJkdSuT. So does ToPrimitive return ...'
+779146367939801088,2016-09-23 02:32:24,"b'Confused abt completion rec: In an operation like ""ToPrimitive"", does ""Return ?foo()."" mean ""Return NormalCompletion(?foo())."" ? @bterlson'"
+779128046829830145,2016-09-23 01:19:36,"b'@ryanflorence ""undefined"" is a value just like ""true"" is a value. That\'s all I\'m saying \xf0\x9f\x99\x82  @matzatorski'"
+779094122204389376,2016-09-22 23:04:48,b'@ryanflorence ...except that some built-in operations produce undefined (such as accessing a non-existing property) @matzatorski'
+779093913286180864,2016-09-22 23:03:58,"b""@ryanflorence Conceptually maybe (if you want to call it that). Per spec it's a value like any other...  @matzatorski"""
+778961516385140740,2016-09-22 14:17:52,"b'@matzatorski Parameters cannot be implicitly ""null"", but they can be implicitly ""undefined"": f a(x) { bar(x); }; f bar(y = 42) { }; a();'"
+778960687192219648,2016-09-22 14:14:34,b'@ryanflorence @matzatorski undefined is a value too.'
+778092517707354112,2016-09-20 04:44:47,b'@ZackArgyle One day hopefully :)'
+776263963445035009,2016-09-15 03:38:45,"b'RT @github: Code review, project management, and new profiles\xe2\x80\x94all available today: https://t.co/DnZ9dlOmIx'"
+771508355776995328,2016-09-02 00:41:40,b'RT @left_pad: @fkling42 cool ideas for astexplorer and the parsers https://t.co/zkt93Fx3ne'
+771508331747815424,2016-09-02 00:41:34,"b'@left_pad Sweet, thank you!'"
+771109921605623808,2016-08-31 22:18:26,"b""@_marktani @fbOpenSource @reactjs Wrong link, sorry! It's https://t.co/rrzs29pfLc . Site has been updated."""
+771103562801614848,2016-08-31 21:53:10,"b'@simonwalton @fbOpenSource @reactjs Thanks, I fixed it.'"
+771099469794246656,2016-08-31 21:36:54,"b""My pet project I worked on and off over the last year. I'm using it for https://t.co/8zuHbQ9amw . &lt;3 @reactjs https://t.co/tKpr2bTusI"""
+771083810515464192,2016-08-31 20:34:41,"b""RT @amasad: Going to start hiring engineers soon. If you're passionate about computer science education and about making programming learna\xe2\x80\xa6"""
+771070001235320832,2016-08-31 19:39:48,b'@iamdustan My other link disappeared: https://t.co/4ygZtnK8Lr'
+771069788198019072,2016-08-31 19:38:57,"b'@iamdustan No :-/ https://t.co/nOVFs90rsz, https://t.co/4ygZto1JCZ'"
+771066049760329729,2016-08-31 19:24:06,"b""@iamdustan depends on what exactly you're looking for. You can do ast interpol.: j.template. statement`if(${cond-node}) { ${body-node} }`"""
+771052893273075712,2016-08-31 18:31:49,"b'@iamdustan You are not the only one :P https://t.co/ydyiosxay1 , https://t.co/FCpKNWd91n'"
+771052534697824256,2016-08-31 18:30:24,b'@kentcdodds @iamdustan Happy to help too ;)'
+768890386639052800,2016-08-25 19:18:48,"b""RT @evilpies: Next @FirefoxNightly build is going to have proper let/const behavior (esp. w/ loops). Thanks to @_shu's mega patch. https://\xe2\x80\xa6"""
+768433973118644224,2016-08-24 13:05:10,"b'@samueljohn_de @JoshTGreenwood @github @BrianKrent it\'s ""just"" HTML5: https://t.co/1gDlu1M4e5 . Not specific to GitHub.'"
+767585208551944192,2016-08-22 04:52:29,b'This looks fun.\nhttps://t.co/6AHoqUuPhX'
+765393663882989568,2016-08-16 03:44:04,b'Keep an eye on this list to be up-to-date which features make it into the next #ecmascript version: https://t.co/OBziVgUG8u'
+763906469494345728,2016-08-12 01:14:29,b'Thinking of using gists as data storage for https://t.co/kybir6J68t. Let me know what you think! https://t.co/qe5C7P6FJt'
+763874337443020800,2016-08-11 23:06:48,"b'Thoughts about the future of react-docgen. If you are interested in its development, let us know what you think! https://t.co/Pk7fM4CO1A'"
+756971811024281602,2016-07-23 21:58:38,"b'Just heard this song and thought we need to be reminded of it again in these times. We need love, not hate or divide https://t.co/aN4Lw4S9Hn'"
+755287709703368704,2016-07-19 06:26:37,"b'@pizzaops easy if there is a JS implementation of a parser for them. If not, just need a web service that accepts code and sends back AST.'"
+755281455333335040,2016-07-19 06:01:46,"b'@pizzaops jscodeshift, astexplorer or both? Either can be made to work with o. languages with a bit of effort. Any language in particular?'"
+755053279046930432,2016-07-18 14:55:04,b'Updated jscodeshift on https://t.co/kybir70Hx3. Adds support for custom parsers and more. https://t.co/VFjsz2bnVW https://t.co/R2AWDL9JEO'
+753980372346482688,2016-07-15 15:51:43,"b""@lbljeffmo I did that when flow was released: https://t.co/pe7RsohjkN. Haven't updated it since then though."""
+750258355533385728,2016-07-05 09:21:45,b'RT @drewml: Wrote a blog post to help others get their feet wet with #jscodeshift. https://t.co/GUvfmeqwVE Ty @cpojer &amp; @fkling42 for the g\xe2\x80\xa6'
+748943757714665472,2016-07-01 18:18:01,b'@left_pad What kind of file did you try to drop? Dropping a JS file works for me.'
+748389500787826688,2016-06-30 05:35:36,"b""@slicknet @geteslint congrats! It's an amazing tool, I wouldn't know how to write JS without it :)"""
+748181033313402881,2016-06-29 15:47:13,"b""@iamdustan ... doesn't work in astexplorer though. Maybe I find time to add that."""
+748180932297842689,2016-06-29 15:46:49,b'@iamdustan You can use `api.stats(stringValue)` to count the occurrences and `--dry` run jscodeshift. See https://t.co/3B37A1o6SW ...'
+746799837367001088,2016-06-25 20:18:50,b'@salzhrani @leeb afaik React accepts (native) iterables.'
+745529969447600132,2016-06-22 08:12:50,b'RT @MacRumors: NASA Launches Official Apple TV App Featuring Real-Time View of Earth https://t.co/KwHeJT1IZD by @waxeditorial https://t.co/\xe2\x80\xa6'
+745446214913556480,2016-06-22 02:40:02,b'. @drewml added a recipes folder to jscodeshift: https://t.co/B0jw9bFaDK . Looking forward to more :)'
+745352399791894530,2016-06-21 20:27:14,"b""@AdamRackis then don't use an arrow function. Not different from other use cases where 'this' is needed imo @ryanflorence @thejameskyle"""
+745036507061182464,2016-06-20 23:32:00,b'@iamdustan Gave up and tested locally. Released v0.3.22 ... \xc2\xaf\\_(\xe3\x83\x84)_/\xc2\xaf'
+745033792637722625,2016-06-20 23:21:12,b'And now you can even install the new version (or rather v0.3.22). Sorry of the inconvenience! https://t.co/IIJYEPtUYk'
+745015222230913024,2016-06-20 22:07:25,"b""@benjamn @Radotzki ... but if TS support is easy to achieve in the short term, that's great."""
+745015089493770240,2016-06-20 22:06:53,b'@benjamn @Radotzki Still think it could be interesting to make printer and scope res pluggable to handle other languages (grand vision)...'
+745014458959831040,2016-06-20 22:04:23,b'@iamdustan Just waiting for travis now: https://t.co/4RoCSxsLTZ'
+745014030570389504,2016-06-20 22:02:41,"b'@Radotzki ... AST node definitions for the language, and can plug custom printer + scope resolution into recast. cc @benjamn'"
+745013878434586624,2016-06-20 22:02:04,b'@Radotzki Not actively. I don\xe2\x80\x99t assume the TS AST is compatible with ESTree. But we could support arbitrary languages if we have recast ...'
+745006712789204993,2016-06-20 21:33:36,"b'@iamdustan ""but should not be used when publishing packages to the public registry."" I should learn to read...'"
+745006545654538240,2016-06-20 21:32:56,b'@iamdustan Or maybe I am misunderstanding that feature.'
+745006244105097216,2016-06-20 21:31:44,"b'@iamdustan Well, it should work: https://t.co/uzdgEwxuor . Maybe the files are not packaged :-/'"
+745005350483427328,2016-06-20 21:28:11,"b'@iamdustan Sorry for the inconvenience, trying to find a solution for this...'"
+745005161009938432,2016-06-20 21:27:26,"b'@iamdustan It should not. Seems like it\'s not possible to publish to npm with ""file:"" dependencies? Though I don\'t understand why...'"
+744999678299639809,2016-06-20 21:05:39,"b""RT @MarkFunk: So much awesome.  I've wanted this ever since I used Visual Studio Online for the first time: https://t.co/MQp5zk4u70"""
+744993767048962048,2016-06-20 20:42:10,b'I just released a new version of jscodeshift (v0.3.21). Choose your own parser: https://t.co/iJdLFX080J'
+743625671293841408,2016-06-17 02:05:50,b'RT @DmitrySoshnikov: #ES2016 (aka #ES7) spec is out. https://t.co/Q1rBAhA7Y8 #JavaScript'
+741681130877779968,2016-06-11 17:18:56,"b'@AdamRackis Yep, when they included the possibility to show private repos in the stats: https://t.co/YFGwhbVRk2'"
+741477182615093248,2016-06-11 03:48:30,"b""@loganfsmyth @left_pad Thanks for confirming that! The issue is that there is no stack trace in the output, so it's hard to find the origin."""
+741425694563917824,2016-06-11 00:23:55,"b""@left_pad it's not just you! I have the same problem with Node v6. Works with v5. No idea what the issue is..."""
+741306197802815492,2016-06-10 16:29:05,"b'@keyanzhang Aww, thank you :)'"
+741069539249524736,2016-06-10 00:48:41,b'@engelsjeroen this looks awesome!'
+741069444584067072,2016-06-10 00:48:18,b'RT @engelsjeroen: @cpojer @fkling42 I created a tool to create CLIs for codemods. https://t.co/gxxPLzueNv. Powers lodash-codemods and soon-\xe2\x80\xa6'
+740636916966559746,2016-06-08 20:09:36,b'RT @github: HTTPS for all github.io sites https://t.co/zRzX1h1Zr1'
+739866297916219392,2016-06-06 17:07:26,b'@YDKJS https://t.co/YmBQ0sjs4x'
+739565631473737729,2016-06-05 21:12:41,b'@left_pad Should be fixed now!'
+739552206605541377,2016-06-05 20:19:20,b'@left_pad Seems to be an issue with loading saved snippets with transforms... will investigate (sorry).'
+739547106617102336,2016-06-05 19:59:04,"b'I finally switched astexplorer to Redux (https://t.co/mphEj9h6U4)! Let me know if something is broken, it was a big change :)'"
+736433412131553282,2016-05-28 05:46:22,"b'@Chrisui @dan_abramov @oleg008 Updated! Maybe it was a problem with using Node v6 instead of v5, not sure. Have to investigate more...'"
+736228742008176640,2016-05-27 16:13:05,b'.call/.apply vs .bind https://t.co/snytLLjuH7'
+736228454564134914,2016-05-27 16:11:56,"b""@Chrisui @dan_abramov @oleg008 I'm getting build errors without any useful stack trace :-/ Sorry that this takes so long."""
+736228035871920128,2016-05-27 16:10:16,"b""@Chrisui @dan_abramov @oleg008 Prob this change: https://t.co/vClJjejPBX, fixed here https://t.co/QwS8BYTTMe, but wasn't able to rebuild yet"""
+730624067112312832,2016-05-12 05:02:06,"b'@AdamRackis @kentcdodds not a lot of responses, but still: https://t.co/qiSiGSJvs0 . I\'m fighting misuse of the term ""ES7"" on Stack Overflow'"
+730294746128601089,2016-05-11 07:13:30,b'RT @github: Unlimited private repositories. Unlimited possibilities: https://t.co/nxtv667Qk6'
+730077982736326656,2016-05-10 16:52:09,b'@iamdustan @zpao and autogenerate codemods.... ;)'
+729705189846867969,2016-05-09 16:10:49,"b'@fkling42 The purpose is to determine in which context to use this term (if at all). Also, please share to get more input :)'"
+729700943164399616,2016-05-09 15:53:56,"b'What do you think ""ECMAScript 7"" (ES7) stands for?'"
+726948609535541248,2016-05-02 01:37:09,b'@cpojer @wincent @jordwalke screen 1 for coding + screen 2 for docs / site refresh. Better for me than switching apps on a single screen.'
+725478995991629824,2016-04-28 00:17:26,b'RT @AirbnbEng: New post! \xe2\x80\x9cTurbocharged JavaScript refactoring with codemods\xe2\x80\x9d by @lencioni https://t.co/b3MuvVi7zo'
+725150703380008960,2016-04-27 02:32:54,b'RT @cpojer: Casually transform 30k lines of code in less than 1 hour at FB with this trick https://t.co/SgU4xrEk6i Live example https://t.c\xe2\x80\xa6'
+724592526284476416,2016-04-25 13:34:55,b'New jscodeshift release (v0.3.20) over the weekend: https://t.co/ebuJ9TLlpO . Ignore files from CLI + better support for extensions/plugins.'
+723960215612194817,2016-04-23 19:42:20,b'Verifying myself: I am fkling on Keybase.io. rZAwy62QQE1GWCVuBAgbMtS33ko9Ck3mfIf0 / https://t.co/pTKgLZ3mOC'
+723545757551218689,2016-04-22 16:15:26,"b'. @eslint v2 support in https://t.co/l4wnvFDpgE, thanks to @Daniel15, and other minor improvements: https://t.co/9vpHexE7yJ'"
+723412931782692865,2016-04-22 07:27:37,"b""RT @EFF: Let's Encrypt has now issued 2 million certificates! https://t.co/VKREkxlHfc"""
+723327169850531841,2016-04-22 01:46:50,b'RT @cpojer: A codemod to convert React PropTypes to Flow annotations.\n\nhttps://t.co/5fXiTrBLxm\n\nThis is so cool!'
+718230913289732096,2016-04-08 00:16:08,"b'. @ava__js provides codemods for their breaking changes, with the help of jscodeshift. https://t.co/sjdsEyKxS3'"
+718225558753120257,2016-04-07 23:54:51,b'@davidtheclark @cpojer @sindresorhus But better now than never :) cc @benjamn whose work we are building upon.'
+718224925409062913,2016-04-07 23:52:20,"b""@davidtheclark @cpojer @sindresorhus  It's funny to me because jscodeshift didn't really introduce sth new. recast already exists since 2012"""
+718161817848012801,2016-04-07 19:41:34,b'@sindresorhus @cpojer Sweet! I was hoping libraries and tools will pick this up as good practice when making breaking changes :)'
+717904399343886336,2016-04-07 02:38:41,b'RT @en_JS: Interested in learning more about how Relay works? @wincent and @steveluscher are giving a tech talk: https://t.co/IDSQEob2RB'
+717903914910101504,2016-04-07 02:36:45,"b""@Chrisui I'm glad it can help you! :)"""
+716879674920439808,2016-04-04 06:46:48,"b""@wincent I'm giving Lightroom a try, don't want to pay monthly fees though. Lightroom 6 is still available as one time buy."""
+716700784486842368,2016-04-03 18:55:57,b'@left_pad @amasad @dan_abramov Pushed to a branch: https://t.co/rYLTRuxQW6 . Will merge in the next days. No tests :-/'
+716471140009402370,2016-04-03 03:43:25,"b""@amasad @left_pad @dan_abramov I'm almost done! Can push to a branch if you want to :P code could be cleaner. Also not that large imo."""
+715417827134418945,2016-03-31 05:57:56,b'@thejameskyle @EmberConf Kind of related and hopefully helpful too: https://t.co/Nzhf26UVtW .'
+715325738241536000,2016-03-30 23:52:00,b'Looks like Object.values and Object.entries will come in ES2017: https://t.co/baM5F65y36'
+715257102801838081,2016-03-30 19:19:16,"b'Because I did it wrong, here is it again: ESLint v1 support in astexplorer!\nhttps://t.co/bmW6z4XVSv'"
+715256586789228544,2016-03-30 19:17:13,"b""@MarkFunk  Next time I guess... clearly I don't know how to twitter :-/"""
+715254568913756161,2016-03-30 19:09:12,"b""@geteslint We'll also work on adding support for v2."""
+715254351342665728,2016-03-30 19:08:20,b'@geteslint It is done: https://t.co/bmW6z4XVSv'
+715254117745070080,2016-03-30 19:07:25,b'@Daniel15 added support for ESLint (v1) to https://t.co/kybir6J68t: https://t.co/HhvbD2mT6C . @geteslint https://t.co/AxIbZrxQ17'
+714888612400115712,2016-03-29 18:55:01,"b""RT @geteslint: It looks like you'll soon be able to create ESLint rules directly in https://t.co/SOaYojkjMm! https://t.co/HRIsWqFddG"""
+711232222913626112,2016-03-19 16:45:50,b'@RReverser cool! One more reason to make astexplorer embeddable. Hoping to make some progress today.'
+710936176727695360,2016-03-18 21:09:27,b'@Nogs Absolutely! (you just need to comply with the license...)'
+710459979510226945,2016-03-17 13:37:13,b'RT @RReverser: Now this is a real quality improvement. Great job! https://t.co/16l0MbGamp https://t.co/29B2y5CLjd'
+709406865302511617,2016-03-14 15:52:31,b'RT @cpojer: The NFL is using codemods to modernize their codebase! https://t.co/h5buC6LPFd @robbiekaze sooo cool!'
+708752748599050240,2016-03-12 20:33:17,b'RT @mozhacks: You can now use ES6 object destructuring default values in @FirefoxNightly \xe2\x80\x94 handy! \xf0\x9f\x99\x82 https://t.co/5GKd3cOqVk\nhttps://t.co/Wc\xe2\x80\xa6'
+702956954369437697,2016-02-25 20:42:52,"b""@bterlson @BrendanEich Thanks! Context: I'm trying to find an appropriate tag name for questions about such features on Stack Overflow."""
+702905807583596544,2016-02-25 17:19:38,"b'Thinking abt how to refer to future ES features: Is everything that is not stage 4 considered ""ECMAScript harmony""? @BrendanEich @bterlson'"
+702336216302092288,2016-02-24 03:36:17,b'RT @nitya: #ReactConf -- nice talk from @jaredforsyth -- nice visualization of recommendation for anyone starting React project https://t.c\xe2\x80\xa6'
+702187447002607616,2016-02-23 17:45:08,b'@RReverser @robinberjon'
+702187095738097664,2016-02-23 17:43:44,b'Moar parsers! @RReverser added support for the WebIDL parser webidl2 (https://t.co/4TNZc7Vjwo) to https://t.co/l4wnvFDpgE .'
+701866727303311360,2016-02-22 20:30:42,b'RT @reactjs: .@hellendag just open sourced Draft.js live on stage! https://t.co/kBhg5Ba1lI'
+700800961531371521,2016-02-19 21:55:44,"b'@xjamundx @seattlejs ""They are like too cool for visitor pattern"" made my day ;)'"
+700795929276710912,2016-02-19 21:35:44,b'RT @xjamundx: My intro to syntax trees in JS talk from @seattlejs is live. Check it out! https://t.co/PJ2BzNHydK'
+699999649742983169,2016-02-17 16:51:36,b'RT @addyosmani: V8 JavaScript speed-ups \xf0\x9f\x94\xa5\n\nObject.keys() now up to 2x faster\nES6 rest parameters up to 8-10x faster\nObject.assign() ~ as fa\xe2\x80\xa6'
+699655429924589572,2016-02-16 18:03:48,"b'Added rudimentary code completion for jscodeshift to https://t.co/l4wnvFDpgE, with Tern.  https://t.co/KjIN7H8miw https://t.co/q2qSBqWtat'"
+698257960846258176,2016-02-12 21:30:45,b'RT @kangax: Github finally responds to a letter https://t.co/ir74z6N6VS'
+698257517952929792,2016-02-12 21:28:59,b'@kangax related: string value vs string literal and how escape sequences work'
+696385377255317504,2016-02-07 17:29:46,b'RT @React_Rocks: AST_Explorer by @fkling42: Tool to explore AST generated by various JS parsers.  https://t.co/5oHpPQosXM #reactjs https://\xe2\x80\xa6'
+694556750528163840,2016-02-02 16:23:28,b'@iamdustan Did you try it? How is it?'
+693202554549735424,2016-01-29 22:42:22,b'react-docgen v2.7: @TschinderDaniel added support for @flowtype type definitions! See the release notes: https://t.co/URvLparJkl  @reactjs'
+693153024588455936,2016-01-29 19:25:33,"b'@rauschma Similar with ""fat arrow function"". We need to update the MDN pages, I think they are part of the issue.'"
+692505916038594560,2016-01-28 00:34:11,b'@kangax Maybe not :-/ https://t.co/o3ydy8Rbzb'
+692492180372463617,2016-01-27 23:39:36,"b'RT @domenic: Our biggest jsdom release yet!! https://t.co/noxF5W5yjI Thanks to @sebmasterkde, jsdom now has its own Web IDL bindings O_O!'"
+692490391833202688,2016-01-27 23:32:29,b'RT @bterlson: ES2016 will likely not contain async functions. Do not despair! Implementations are still coming regardless.'
+692459626500067329,2016-01-27 21:30:14,b'RT @bterlson: On March 1st I will be snapshotting the ECMA262 draft to start its journey toward becoming the official ECMAScript 2016 stand\xe2\x80\xa6'
+692357881761386496,2016-01-27 14:45:57,b'RT @mathias: Every major browser engine now has its own \xe2\x80\x9cplatform status\xe2\x80\x9d site. Here\xe2\x80\x99s an overview: https://t.co/t5JHdAeEqN'
+691680505847152640,2016-01-25 17:54:18,b'RT @awbjs: .@briankardell Slides for Smalltalk&lt;=&gt;ES6 talk https://t.co/e2Eub6VX7Z'
+690423322425835520,2016-01-22 06:38:42,"b'RT @lbljeffmo: The @flowtype parser, compiled to JS, running in the browser on astexplorer. Check out that parse-error recovery! https://t.\xe2\x80\xa6'"
+689551556258099204,2016-01-19 20:54:36,b'RT @DmitrySoshnikov: \xe2\x80\x9cOO Relationships\xe2\x80\x9d https://t.co/Yc3V2u29EI'
+689508286953951232,2016-01-19 18:02:40,"b'@SaraSoueidan Programming languages give you a set of tools. Knowing when to use which tool is important, but there is no general good/bad.'"
+689491663748599808,2016-01-19 16:56:37,"b'@kentcdodds @nzgb Regarding API docs, also see https://t.co/RQwZTrUPPp . Maybe we can do the same for babel.'"
+689491241097007105,2016-01-19 16:54:56,"b""@kentcdodds @nzgb The link doesn't work for me, seems like the hash is missing from the redirect :-/"""
+689490756583567360,2016-01-19 16:53:01,"b""RT @nzgb: \xf0\x9f\x8c\xb2 Want to learn how to AST?\n\xf0\x9f\x8c\xb3 Here's a cool visualization tool!\n\xf0\x9f\x8d\x83 https://t.co/kq2H4IPqhe https://t.co/68FNH4lEmf"""
+689232471360147456,2016-01-18 23:46:41,b'RT @iamdustan: React Custom Renderers. https://t.co/hfAR6XBmol'
+688492334678409216,2016-01-16 22:45:38,b'@RReverser I remember that. I liked it :)'
+687672828892725248,2016-01-14 16:29:13,b'@_vramana Saw that and really appreciate it (we need this)! Just thinking about more automated (and richer) solution in the long run :)'
+687659177934778368,2016-01-14 15:34:58,"b'@_vramana ""documentation is in a poor state"" yeah. I\'ll try to work on documentation generation and code organization. Help is welcome :)'"
+687657880661680128,2016-01-14 15:29:49,b'RT @_vramana: Codemods: Path to painless upgrades in ember https://t.co/6czMqFunhB'
+687036412038934529,2016-01-12 22:20:19,b'RT @reactjs: jscodeshift just reached 500 stars! Congratulations @fkling42 and @cpojer https://t.co/kZzt1oNiai'
+686577565318823936,2016-01-11 15:57:02,b'RT @Vjeux: Did my first ever real interview! I hope that you find it interesting :) https://t.co/VIwJM20pht'
+686335015056097280,2016-01-10 23:53:13,"b'@rauschma cc @yungsters, @en_JS'"
+685842851117142016,2016-01-09 15:17:32,b'@rauschma Global classes do not become properties of the global object (same like let and const).'
+685554293030522881,2016-01-08 20:10:55,b'RT @domenic: I wrote up the missing spec that should allow you to load and use JavaScript modules in your browser: https://t.co/QIIUGHDgH5'
+685553955682693120,2016-01-08 20:09:34,b'RT @satya164: Wrote my first jscodehsift codemod to change class methods to class properties and remove the extra `.bind(this)` in 25 lines\xe2\x80\xa6'
+683218291733692416,2016-01-02 09:28:28,b'RT @survivejs: Codemod - Refactoring Code Programmatically - Interview with @_vramana https://t.co/gjZr8G91tQ\n\n#reactjs\nCC @cpojer @fkling42'
+680296804689248258,2015-12-25 07:59:32,"b""@xjamundx @JavaScriptAir ... before v6, Babel had different priorities, preserving original source (like recast does) wasn't one of them."""
+680296034623438848,2015-12-25 07:56:28,b'@xjamundx @JavaScriptAir jscodeshift was created before Babel and simply provides a different API for navigating the AST.'
+676451643395674112,2015-12-14 17:20:14,b'New parser added to https://t.co/l4wnvFDpgE: @GraphQL . Thanks to @VilleImmonen! https://t.co/S8iYDOxn4y'
+676087787045556225,2015-12-13 17:14:24,b'RT @VilleImmonen: Playing with @GraphQL parser in ASTExplorer. https://t.co/AJz8lxgvO3'
+675782416330551296,2015-12-12 21:00:58,b'@RReverser @babeljs @PostCSS Also loading times should be improved!'
+675755794604941312,2015-12-12 19:15:11,b'@RReverser @notbrent fixed ...'
+675737440884166656,2015-12-12 18:02:15,b'RT @RReverser: ASTExplorer with source map support for transformations (e.g. @babeljs &amp; @postcss) is out! https://t.co/F6eBUiAFOi https://t\xe2\x80\xa6'
+675711433967996928,2015-12-12 16:18:54,b'RT @HTML5Weekly: Test CSS Flexbox Rules Live by @taylersumms: https://t.co/iZt8eb2eBD https://t.co/7uynXXto3N'
+675161770969997313,2015-12-11 03:54:44,"b'@cpojer @joshblackfr I think talking plays a big part in inspiring people. Without you, no one would know ;)'"
+674114138944081920,2015-12-08 06:31:49,b'@joshblackfr All thanks to @RReverser! :)'
+674100535587414016,2015-12-08 05:37:46,"b""And now it's public: https://t.co/iFTaDR8X8I . Also new: Selected parser is now saved with code snippet! https://t.co/RmFQfNwI4t"""
+673994672780406784,2015-12-07 22:37:06,"b'@RReverser @iamdustan As long as something can produce an AST, we should support it IMO. May need an ""Other"" category :P'"
+671803901486624768,2015-12-01 21:31:46,b'RT @jsfiddle: \xf0\x9f\x8e\x89 Update is live!\n\nRead about all the changes: https://t.co/3AozbVrgoq https://t.co/65qVZUhcq2'
+670403063694258176,2015-11-28 00:45:20,b'@RReverser yes! The idea was to eventually expand to other languages. @iamdustan created a fork for reworkcss some time ago. @andreysitnik'
+668912175403036673,2015-11-23 22:01:05,b'@RReverser I actually happens on any text cursor activity.... @DmitrySoshnikov'
+668911904346116096,2015-11-23 22:00:00,"b'@DmitrySoshnikov Deselect ""Autofocus"" at the top of the Tree view. I should make that fixed. @RReverser'"
+668839249609814017,2015-11-23 17:11:18,"b'@RReverser Yeah, I was thinking about that too. We can iterate on that :) @Vjeux'"
+668835960583405569,2015-11-23 16:58:14,b'Traceur and uglify-js support added to https://t.co/qZX7R86UK9 by @RReverser. Autofocus feature for faster inspect. https://t.co/nwS8VZQekf'
+668687062791553024,2015-11-23 07:06:34,"b""@phuunet Maybe that's your problem as well? https://t.co/RAB6YHhfqn"""
+668442544921968640,2015-11-22 14:54:56,"b""@phuunet Can't repro :-/ 9.bundle.js exists, is downloaded, and jscodeshift works as well... maybe a caching issue?"""
+668257227455631360,2015-11-22 02:38:33,b'@RReverser Keep them coming :)'
+668141834808397825,2015-11-21 19:00:01,"b'I added babylon v6, #babeljs v6 and other small improvements to https://t.co/qZX7R86UK9. See https://t.co/z8Cg2aocbC https://t.co/h4tui5yiUE'"
+666377642644389888,2015-11-16 22:09:45,b'@kangax Congrats and welcome! Looking forward to meeting you :)'
+665675600930148352,2015-11-14 23:40:05,b'@sebmck This may help: https://t.co/xEnzOYzIzW @wincent'
+665675510526160896,2015-11-14 23:39:44,"b""@wincent @sebmck Unfortunately, because it uses SVG, it can't draw that many nodes. Have an experimental WebGL renderer locally though."""
+664858403714437120,2015-11-12 17:32:50,"b'https://t.co/qZX7R86UK9 now supports #typescript, thanks to @nmalaguti !'"
+664531533542232064,2015-11-11 19:53:58,b'RT @awbjs: Stage O ECMAScript proposal:  Encapsulated Private State. By myself and @wycats \nhttps://t.co/HOIDYPIppa'
+661991323864469504,2015-11-04 19:40:05,"b'@cpojer @OliverJAsh @phuunet  This is impossible to get right without constraints (e.g. object not leaving scope, property name very unique)'"
+660141635754299392,2015-10-30 17:10:05,b'react-docgen now supports stateless/functional #reactjs components: https://t.co/0zhW8fUcpT. Credits go to @iamdustan !'
+651827087708282880,2015-10-07 18:31:02,b'RT @SpiderMonkeyJS: Next @FirefoxNightly will include some large changes to make let/const in the global scope #ES2015 (#ES6) compliant. ht\xe2\x80\xa6'
+651814610354307072,2015-10-07 17:41:27,b'@reactjs v0.14 released: http://t.co/VS692c0NR1'
+651478113549840384,2015-10-06 19:24:20,b'@iamdustan Awesome!! Thank you so much :)'
+651476091702411264,2015-10-06 19:16:18,b'@iamdustan Definitely! Any way of creating React components should be supported. Maybe it should be part of the existing resolver though...'
+649322239490433024,2015-09-30 20:37:40,b'RT @DmitrySoshnikov: #lol Oh wow you can conditionally define props in ES6 :P\n\nvar foo = { if(bar) { baz: 42; } };\n\nby @fkling42'
+648621700230348800,2015-09-28 22:13:58,"b""RT @ppk: There's a DNS issue with http://t.co/DYS1fbBstp; my ISP is aware of the problem and is working on a solution."""
+646843804410994688,2015-09-24 00:29:15,"b'@iamdustan I thought we would be able to simplify by adding a ""fromAST"" to react-docgen, but there may be problems with comment attachments.'"
+646687436718780416,2015-09-23 14:07:54,"b'RT @rauschma: ES2016 (was: ES7) Draft 1 (by @bterlson)\n[Only change: spec moved to GitHub, now written in HTML dialect (vs Word)]\nhttps://t\xe2\x80\xa6'"
+641381300788563969,2015-09-08 22:43:13,"b'RT @rauschma: ES6 in Node 4: block scoping, classes, Typed Arrays, generators, Promises, symbols, template literals, collections (Map,Set,\xe2\x80\xa6\xe2\x80\xa6'"
+641381286083325954,2015-09-08 22:43:09,b'RT @rauschma: Node v4.0.0 (Stable)\nhttps://t.co/QnpPo5pvEA\n\nICYMI: \xe2\x80\x9cfirst fully converged io.js/node.js release\xe2\x80\x9d\nhttps://t.co/JlW925FOzo'
+640966472324526081,2015-09-07 19:14:50,b'http://t.co/KxkyIJsMFJ now supports Shift and babel-eslint parser. Thanks @_henryzhu!'
+640965823260196864,2015-09-07 19:12:15,b'RT @PetoLisy: @fkling42 amazing job on http://t.co/taQsO9OMJI. I just wrote my first #babeljs plugin. Solves css imports for mocha tests &amp; \xe2\x80\xa6'
+639906377054470144,2015-09-04 21:02:23,b'@dan_abramov @peterwmwong @cpojer Should be fixed now. Sorry!'
+639890846477848576,2015-09-04 20:00:41,"b""@dan_abramov @peterwmwong @cpojer that function shouldn't be even called if the argument is null. But anyways... will fix"""
+639874775335104513,2015-09-04 18:56:49,b'@peterwmwong @cpojer @dan_abramov Are you trying to load a particular snippet or just the site itself?'
+639849359882850304,2015-09-04 17:15:49,"b""Finally got around implementing @cpojer 's PR: Choose between babel plugin dev and jscodeshift: http://t.co/qZX7R86UK9  (cc @dan_abramov)"""
+638791944886423553,2015-09-01 19:14:02,b'@iamdustan Maybe @benjamn has a better solution.'
+638790162743472128,2015-09-01 19:06:57,"b'@iamdustan  I guess it should set ""computed"" based on ""key"" type, but won\'t work for ""Identifier"". Might have to fix https://t.co/6srqby2kiS'"
+638774294269530113,2015-09-01 18:03:54,"b""@zpao @dan_abramov It's planned: https://t.co/kdMIJa3UTp"""
+635878384199860224,2015-08-24 18:16:35,"b""@rseymour That's the idea :)"""
+635856068103548928,2015-08-24 16:47:54,"b'Weekend update: More parsers (espree, acorn, recast), persistent parser settings, new domain: http://t.co/qZX7R7PjSB http://t.co/iSAgBJR7Cg'"
+631609064166846464,2015-08-12 23:31:50,b'@cpojer @bentlegen @arsinh Fixed in jscodeshift v0.3.5! https://t.co/tH2FwT43n7'
+631457792503644161,2015-08-12 13:30:44,b'@AdamRackis @sebmck @amasad FB is transpiling JS for a while already. Just switching to a better compiler :)'
+629397252474146816,2015-08-06 21:02:53,"b""@bentlegen @cpojer @arsinh well, the fact that it filters directly passed files is definitely an oversight.  We'll fix it and update readme."""
+629389861137485824,2015-08-06 20:33:31,"b""@cpojer @bentlegen @arsinh i thought that's what it is supposed to do :-P it should definitely handle files you directly pass"""
+627253394407735296,2015-07-31 23:03:57,b'RT @geteslint: ESLint v1.0.0 released: http://t.co/EOn6Gdy15e'
+626871422418354176,2015-07-30 21:46:08,b'RT @cpojer: I blogged about Effective JavaScript Codemods on https://t.co/FBbhSsJY3Z'
+626871391825100801,2015-07-30 21:46:01,b'RT @cpojer: We also published a new version of AST Explorer with a live transform feature so you can build your codemods quickly: http://t.\xe2\x80\xa6'
+626648572889595904,2015-07-30 07:00:37,b'@substack What about partition-bundle?'
+624721668460675072,2015-07-24 23:23:47,b'Just released react-docgen v2 (https://t.co/neFkce5JkF): Added support for @reactjs components defined as ES6 classes.'
+623163072237047810,2015-07-20 16:10:28,b'Looks like I can use arrow functions in the console very soon. Have been waiting for this forever... https://t.co/nyazXjvnAR'
+621839768888975361,2015-07-17 00:32:08,b'http://t.co/31yd28VAbf now lets you choose to use @babeljs as parser (thanks to @cpojer). Hopefully helps plugin development!'
+617759839146524673,2015-07-05 18:19:57,b'RT @leeb: I just published \xe2\x80\x9cWhy Invest in Tools?\xe2\x80\x9d - my thoughts on why Facebook produces interesting open source projects. https://t.co/nid\xe2\x80\xa6'
+616620571007262720,2015-07-02 14:52:55,b'RT @wincent: The cat is out of the bag: #relayjs will be open sourced this August. #reacteurope'
+613229988012101632,2015-06-23 06:19:57,b'RT @simevidas: New in Chrome Canary: Network throttling is now available directly in the Network panel (via @teodragovic) http://t.co/lVxVj\xe2\x80\xa6'
+611242737942274048,2015-06-17 18:43:19,"b""RT @JavaScriptDaily: ECMAScript 2015 Standard Approved: http://t.co/iqWs0Wb9fr (a.k.a. ES6 - download the spec's PDF here.)"""
+609521075311869952,2015-06-13 00:42:03,"b""RT @reactjs: We're deprecating JSTransform and react-tools, along with some related tools. Read more on the blog: http://t.co/SNCcUtKWK4"""
+609421227921268737,2015-06-12 18:05:17,"b""Maybe I've just never been in this situation..."""
+609413784197705728,2015-06-12 17:35:43,b'TIL Chrome assigns an HTMLCollection (not single element) to global var if multiple elements have same ID.Since when?\nhttp://t.co/Rcdygml2N7'
+608683806317379584,2015-06-10 17:15:02,"b'Mmh, http://t.co/MB4R2KnlVs not reachable, http://t.co/KdWyDYw9ki is down?'"
+606268646449496064,2015-06-04 01:18:03,"b'RT @NetflixUIE: Evolution of JavaScript with @BrendanEich @AriyaHidayat @jhusain @wycats, moderated by @csaintamant http://t.co/yibE35tk27 \xe2\x80\xa6'"
+598634479415091200,2015-05-13 23:42:36,b'RT @JavaScriptDaily: The io.js Technical Committee has voted to merge into Node Foundation and io.js will eventually merge back into Node: \xe2\x80\xa6'
+596334323046952960,2015-05-07 15:22:36,b'RT @newsycombinator: Tmux 2.0 released http://t.co/CvD1mpCq5g'
+595120293389017088,2015-05-04 06:58:29,"b'RT @markdalgleish: My first ever Medium post: ""Block, Element, Modifying Your JavaScript Components"" http://t.co/ShB0VibckG'"
+591768836770111489,2015-04-25 01:00:59,b'Did you know that you can use iterables as children in #reactjs? https://t.co/bHhWICbHM5. I used Immutable.js incorrectly the whole time!'
+591744690598346752,2015-04-24 23:25:02,b'@dan_abramov It also makes it easier for static analysis tool to identify React components more reliably.'
+591663091097673728,2015-04-24 18:00:48,"b'Interactive #d3js visual demo of network centrality http://t.co/uqc0gTo8Vb via @Mark_A_Thornton, also using #jsnetworkx!'"
+591139261937750016,2015-04-23 07:19:17,b'v0.3.1 of #jsnetworkx now implements algorithms to compute weighted shortest paths. http://t.co/LdjYUN93ns'
+589156742384091136,2015-04-17 20:01:28,"b'I wonder if people expected ""var [a, b] = arrayLikeObj;"" to work (it doesn\'t, unless arrayLikeObj implements Iterable iface). #ECMA2015 #es6'"
+588472456609812481,2015-04-15 22:42:21,b'RT @SpaceX: High resolution and color corrected Falcon 9 first stage landing video https://t.co/8rt4PfbgQU'
+587822823814471682,2015-04-14 03:40:57,"b""RT @amasad: Language features we're better off without http://t.co/Eoz8YbpRO6"""
+587317280742084609,2015-04-12 18:12:06,b'@jdalton Basically a formalization of what Chrome and FF (later) (and others?) are currently doing.'
+586947153819525120,2015-04-11 17:41:21,b'I finally managed to release v0.3 of JSNetworkX (http://t.co/LdjYUN93ns). Now also on npm: https://t.co/0D9uX43Esn'
+585797607919714305,2015-04-08 13:33:27,b'RT @iamdustan: New post+project day. Exploring CSS ASTs http://t.co/6uBJaDMrI7\nhttp://t.co/sA667xyeJx\n\nForked from @fkling42\xe2\x80\x99s great http:/\xe2\x80\xa6'
+584083200571355136,2015-04-03 20:01:01,b'RT @awbjs: ECMAScript 6 Release Candidate 4 now available at http://t.co/bzTVBlBpNT \n\nThis will become the Ecma General Assembly approval d\xe2\x80\xa6'
+583704443809619968,2015-04-02 18:55:58,b'RT @JavaScriptDaily: Introducing the npm Semantic Version Calculator: http://t.co/5qcVduCPN9 http://t.co/sjd0M0Hfl6'
+581827423378894849,2015-03-28 14:37:22,"b'RT @ericf: Crazy that React Native is over 7500 stars. I think many devs still aren\xe2\x80\x99t doing native, and see it as a way in. https://t.co/Lw\xe2\x80\xa6'"
+581256791255732224,2015-03-27 00:49:52,b'RT @arnihermann: Spent an hour with React Native and I\xe2\x80\x99m blown away by how good the developer experience is \xe2\x80\x94 and my expectations were high\xe2\x80\xa6'
+581171324682268672,2015-03-26 19:10:16,b'RT @jordwalke: Live: Watch Adam/@jingc/@tomocchino talk about the progression of mobile development leading to ReactNative at F8 https://t.\xe2\x80\xa6'
+580792246179512320,2015-03-25 18:03:56,b'RT @newsycombinator: \xe2\x80\x9cWe have decided not to integrate the Dart VM into Chrome\xe2\x80\x9d http://t.co/tMWTeqtfYl'
+580721112582991872,2015-03-25 13:21:17,"b'RT @marijnjh: Okay, Acorn 1.0 is out. Make sure you adjust your direct require paths (/dist added) when upgrading. https://t.co/1qqguRToUE'"
+580576996981379073,2015-03-25 03:48:37,b'RT @wincent: jscodeshift is now open source: https://t.co/KteNi0yPXW Congrats @fkling42'
+580530601712857089,2015-03-25 00:44:15,"b'RT @jacobrossi: UglifyJS is so popular we built new fast paths &amp; improved inlining for code minified with it, resulting in 50% exec speedup\xe2\x80\xa6'"
+578912682599821312,2015-03-20 13:35:13,b'RT @newsycombinator: HTML6 proposal for single-page apps without JavaScript https://t.co/CptOWgHIss'
+577980691624886272,2015-03-17 23:51:49,b'RT @github: http://t.co/VDZYKUBW2I will enter maintenance mode briefly this Saturday at 12PM UTC while we upgrade our databases https://t.c\xe2\x80\xa6'
+577834604704346113,2015-03-17 14:11:20,"b""@Rovolutionary @geiser_e @Vjeux There is an example for generating markdown (https://t.co/1pwblkendV). Maybe we'll include a default layout."""
+577595163607961600,2015-03-16 22:19:52,"b""RT @Vjeux: Sweet tool by @fkling42 to generate documentation from React propTypes. (it's going to power react native website!) https://t.co\xe2\x80\xa6"""
+573712687248470017,2015-03-06 05:12:18,"b'RT @geteslint: Our next release (tentatively Saturday) will natively support all of ES6, including classes and modules.'"
+571473280697151488,2015-02-28 00:53:42,"b""#es6: Global let (and const) bindings don't create properties on the global object: https://t.co/Ue0H9iwmNj"""
+571044346306416640,2015-02-26 20:29:16,b'RT @littlecalculist: The Path to Parallel JavaScript: https://t.co/IjW9KSsUF5'
+570292227232141312,2015-02-24 18:40:37,"b'RT @npmjs: npm weekly: new features in the cli, billion downloads day, and welcome jquery developers! http://t.co/VoezwxsUQK http://t.co/YL\xe2\x80\xa6'"
+569947372693819392,2015-02-23 19:50:17,"b'RT @iangeek: Oh hey, you snuck THAT one in, Chrome! Bezier editing of easing in Dev tools? Very nice :) http://t.co/e6a8XkP1Ju'"
+568884111101857792,2015-02-20 21:25:16,b'RT @rwaldron: Stabilizing ECMAScript 2015 (ES6): Teaming up with TC39 and Google on Test262 http://t.co/8q3nevBies by @JugglinMike #javascr\xe2\x80\xa6'
+568137841693360128,2015-02-18 19:59:51,"b'RT @floydophone: oh shit, http://t.co/BqQRSpu2iy moving to npm'"
+566270968058744832,2015-02-13 16:21:34,"b'Another great post by @rauschma about ""let"", ""const"" and TDZ: ""Variables and scoping in ECMAScript 6"" http://t.co/6GgKHKgy5Y'"
+566245661398425601,2015-02-13 14:41:00,"b'RT @awbjs: Target for the 1st ES6 release candidate draft is Friday, Feb 20. Please try to get bug reports in by Wed Feb 18 via http://t.co\xe2\x80\xa6'"
+566245606234935297,2015-02-13 14:40:47,b'RT @littlecalculist: What was the SpiderMonkey AST format really belongs to the tooling community. A collaboration to move it forward: http\xe2\x80\xa6'
+564895463850393601,2015-02-09 21:15:48,"b""RT @kangax: If you haven't seen yet, @hakunin and I launched http://t.co/VooMBNfRxy \xe2\x80\x94 an informal place to discuss/understand/explain ES sp\xe2\x80\xa6"""
+563958695369793536,2015-02-07 07:13:25,"b'RT @rauschma: Esprima 2.0 Released\n[Parser for JS, now hosted by jQuery Foundation, with better ES6 support]\nhttp://t.co/gIYOQ0qT4q'"
+563453972120219649,2015-02-05 21:47:50,b'RT @stripe: Stripe and Facebook are going to sponsor @gnupg development with $50k/year each.'
+562367425400672256,2015-02-02 21:50:17,"b'@_pieterv @Vjeux @floydophone I will help with the doc generation. +1 to examples. Could be a static ""examples"" property...'"
+560993621256982529,2015-01-30 02:51:16,"b""RT @AndrewRota: I love how we've gotten to the point in JS where presenters just write demos with ES6 syntax and it's no big deal.  #reactj\xe2\x80\xa6"""
+560959884477231107,2015-01-30 00:37:13,"b'http://t.co/31yd29uMaR in ""Unlocking the structure of your React applications with the AST""  https://t.co/7SHgNCD3ge #reactjsconf Good talk!'"
+560958833724366848,2015-01-30 00:33:02,"b""RT @reactjs: We're also starting to upload all the #reactjsconf Day One sessions: https://t.co/rGTJaAmuTz ..."""
+560955983275360256,2015-01-30 00:21:43,b'RT @leeb: #codeacademy will teach you Angular using a learning tool they built with React. So good. #reactjsconf'
+560866433433759744,2015-01-29 18:25:52,"b'RT @reactjs: The goal of React Native: ""Less than one second between code change and updated app"" #reactjsconf http://t.co/cE0QYzre7X'"
+560852741346435073,2015-01-29 17:31:28,"b""@rexxars Definitely! Maybe it's the easiest to meet at the entrance to building 18? I'll be there when the break starts."""
+560842699972943872,2015-01-29 16:51:34,b'RT @wincent: I put together a gist with some answers to questions about #relayjs I got at #reactjsconf yesterday: https://t.co/5Ks7MwWpfS'
+560836218531770369,2015-01-29 16:25:48,b'@rexxars Hey Espen! I work on auto-generating documentation for React components @ FB. Lets have a talk today :) Just msg me.'
+560608763925626880,2015-01-29 01:21:59,"b""RT @reactjs: The video from this morning's #reactjsconf keynote is up! Introducing React Native: https://t.co/8W5CB4xv5K"""
+560607119628861440,2015-01-29 01:15:27,b'For #reactjs: http://t.co/x26lCwkDBl'
+560606377853616129,2015-01-29 01:12:30,b'i18N in #javascript: https://t.co/2w44zgtHUp. Probably a lesser-known feature.'
+560541208666464256,2015-01-28 20:53:33,"b'RT @evilhackerdude: Look at all this #reactjsconf goodness. Reminds me of all the times @BrendanEich said ""Always bet on JS"" (or something \xe2\x80\xa6'"
+560539345501700098,2015-01-28 20:46:08,"b""It's inciting to see so many people being excited about the stuff we do at FB (react-native, relay) #reactjsconf"""
+560537606589399040,2015-01-28 20:39:14,b'RT @brianleroux: ReactJS Relay: next thing after Flux. Declaration of the data query lives with the control that renders it. Nice stuff FB.'
+560535218764120066,2015-01-28 20:29:45,b'RT @fisherwebdev: Relay: the next evolution of Flux.  A React application framework by Facebook with data fetching needs declared in compon\xe2\x80\xa6'
+560512684278681600,2015-01-28 19:00:12,"b""RT @andy_matuschak: I say with confidence as a former UIKit author: React's model for the UI layer is vastly better than UIKit's. React Nat\xe2\x80\xa6"""
+560506037925863425,2015-01-28 18:33:47,"b'RT @floydophone: Just announced: react native. Use react and JS to build native apps (native views, not DOM) and interpret gestures. #react\xe2\x80\xa6'"
+560222731229483010,2015-01-27 23:48:02,b'RT @rauschma: Nice \xe2\x80\x93 ES6 modules are starting to get implemented in V8: https://t.co/QCSeFJq25z\nDoes anyone know what the status of the loa\xe2\x80\xa6'
+555770788675325952,2015-01-15 16:57:36,"b'RT @AriyaHidayat: Ah, #WebKit starts to implement the support for #ES6 class syntax: https://t.co/shj0OSQv7Y #JavaScript'"
+544699932238946304,2014-12-16 03:45:58,b'RT @newsycombinator: BPG Image Comparison http://t.co/vBiPaM6uLQ'
+544566683118362624,2014-12-15 18:56:29,b'Nice overview about how ES6 modules work: http://t.co/qGOlhxkm5x'
+534772331433189376,2014-11-18 18:17:14,"b""RT @fbOpenSource: Today we're absolutely thrilled to launch the 1st version of Flow (@flowtype), a static type checker \nfor JavaScript http\xe2\x80\xa6"""
+521727924194779138,2014-10-13 18:23:25,b'http://t.co/e12kdJDf6u now allows you to save and share code snippets / ASTs. #javascript @esprima'
+511991022793281537,2014-09-16 21:32:26,b'An ES6 + JSX syntax tree explorer: https://t.co/mP3wwkeDvo #esprima #es6 #javascript #reactjs'
+490556212954411008,2014-07-19 17:58:09,b'RT @JavaScriptDaily: Web Components Aren\xe2\x80\x99t Ready for Production... Yet: http://t.co/6DyNl4LnzJ'
+489655721915469824,2014-07-17 06:19:56,b'Bootstrapping  @reactjs + JSX with browserify and @gulpjs \nhttps://t.co/J5rb9DG3MP'
+489474582479663104,2014-07-16 18:20:09,b'#json #javascript http://t.co/w5O1euXoEt'
+486898714129489922,2014-07-09 15:44:34,b'RT @TheNextWeb: Upgrade your brain: Resources for coding beginners http://t.co/ltGh8P9Byb http://t.co/KQlj75taae'
+484199369290166272,2014-07-02 04:58:20,"b'RT @ericf: Google, I mean Ecma, stamped Dart as an official industry standard http://t.co/wB3sc87VNO'"
+484039460083208193,2014-07-01 18:22:54,"b""RT @jeresig: A joyous day: at @khanacademy we're dropping IE 8 support today! It's only 1.2% of our traffic. So exciting!"""
+484002910888816640,2014-07-01 15:57:40,b'Nice #markdown editor. Has a live preview with custom CSS stylesheets (useful for bloggers using @github): http://t.co/uEdLqS4tiI'
+483998774214144000,2014-07-01 15:41:14,b'RT @cultofmac: 1Password with Touch ID integration in iOS 8 is truly amazing http://t.co/EGzUQAA80B http://t.co/fJpmrE9cdW'
+483836490435133441,2014-07-01 04:56:23,b'RT @jeresig: You should write code every day: http://t.co/M0MmaZn15O'

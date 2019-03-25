@@ -1,0 +1,468 @@
+twitter_id,date,tweet
+1107686694734561290,2019-03-18 16:54:22,"b""@davidfowl Yeah, I guess that's something I need to improve! I'm at the Summit if you want to discuss it further"""
+1107682346726096899,2019-03-18 16:37:05,"b""@davidfowl That's right. I realize it's inefficient, but right now nodes have no knowledge of which client is connected to which node."""
+1107656652486926336,2019-03-18 14:54:59,"b""@davidfowl Hey @davidfowl , could you elaborate? I'm not sure I understand what you mean..."""
+1107526388834144256,2019-03-18 06:17:22,b'Just blogged: Scaling out https://t.co/UNtIOe49qu Core SignalR using Azure Service Bus\nhttps://t.co/nlAywAV0Z2'
+1104338075897991169,2019-03-09 11:08:09,"b""RT @adamralph: After four months of alpha, beta, and RC testing, I'm overjoyed to announce that MinVer 1.0.0 is now available! Minimalistic\xe2\x80\xa6"""
+1101468953119997954,2019-03-01 13:07:17,"b""RT @Damien_Doumer: \xf0\x9f\xa4\x94\xf0\x9f\xa4\x94\xf0\x9f\xa4\x94 It's funny how some people see software devs as magicians, one will wake up with an idea he thinks is revolutionary\xe2\x80\xa6"""
+1094929921917489153,2019-02-11 12:03:30,b'RT @fakeiteasyfx: Get FakeItEasy 5.1.0!\n\nNew: Support for named fakes\nFixed: Concurrent calls and (implicit or explicit) configuration chan\xe2\x80\xa6'
+1093896915438239744,2019-02-08 15:38:42,"b""@darrel_miller @http_master Doesn't work either..."""
+1093883353189806085,2019-02-08 14:44:49,"b""@darrel_miller @http_master Because I can't, the parameter isn't optional. https://t.co/D6EkDAryXo"""
+1093879384157704194,2019-02-08 14:29:03,"b""@darrel_miller @http_master In fact I'd like to specify a minimum but no maximum, so I use Int64.MaxValue. But it c\xe2\x80\xa6 https://t.co/l1d9dvuH3H"""
+1093837598110502912,2019-02-08 11:43:00,b'@http_master Done!'
+1093800899615563776,2019-02-08 09:17:10,"b'@http_master @darrel_miller Oops... ""Input string was not in a correct format.""'"
+1085903042699059200,2019-01-17 14:13:55,"b'RT @infinitesquare: Infinite Square pr\xc3\xa9sente #hokifish, la solution SaaS pour g\xc3\xa9rer vos fichiers sur votre souscription #Azure ! Rejoignez-\xe2\x80\xa6'"
+1085505524035145728,2019-01-16 11:54:19,b'RT @BrockLAllen: The State of the Implicit Flow in OAuth2 https://t.co/8VQra7RJ5T #oauth2 #oidc #aspnetcore'
+1084780645245698049,2019-01-14 11:53:54,b'RT @fakeiteasyfx: Get FakeItEasy 5.0.1!\n\nFixed: Raising internal events silently fails\n\nThanks to github user mriehm for reporting the bug\xe2\x80\xa6'
+1084412221948596224,2019-01-13 11:29:55,b'RT @stevedesmond_ca: Just ran the numbers: @fakeiteasyfx 5.0 is up to 14x faster than 4.x! Updated benchmark results for #dotnet mocking li\xe2\x80\xa6'
+1083351958193352707,2019-01-10 13:16:49,b'Just blogged: Google+ shutdown: fixing Google authentication in #AspNetCore https://t.co/GaV2AFiN6G'
+1082261052098777088,2019-01-07 13:01:56,"b""RT @fakeiteasyfx: Get FakeItEasy 5.0.0!\n- big performance improvements\n- warn at configuration that delegates can't call a base\n- can no lo\xe2\x80\xa6"""
+1077201157062356993,2018-12-24 13:55:43,b'Just blogged: \nMultitenant #azuread issuer validation in #aspnetcore\nhttps://t.co/k6klOlP0aV'
+1075036494656622592,2018-12-18 14:34:08,b'RT @fakeiteasyfx: Get FakeItEasy 5.0.0-beta.1!\n- exceptions thrown from Invokes propagate correctly (thanks to @urWaldfee for reporting)\n-\xe2\x80\xa6'
+1073265084544245761,2018-12-13 17:15:11,"b'RT @fakeiteasyfx: Get FakeItEasy 4.9.2, a bug fix release that fixes an issue with exceptions thrown from Invokes callback\nhttps://t.co/XPx\xe2\x80\xa6'"
+1072106734360109056,2018-12-10 12:32:18,"b""RT @fakeiteasyfx: Get FakeItEasy 5.0.0-alpha.1!\n- big performance improvements\n- warn at configuration that delegates can't call a base\n- c\xe2\x80\xa6"""
+1071340789517697026,2018-12-08 09:48:43,b'RT @01k: static vs dynamic  #illustration https://t.co/nDgR8RGdPq'
+1069514027246776320,2018-12-03 08:49:49,"b'@Paris_Turf Il y a erreur, je ne suis pas le Thomas Levesque que vous croyez ;)'"
+1065958066062016512,2018-11-23 13:19:42,b'Just blogged: \nMaking a WPF app using a SDK-style project with MSBuildSdkExtras #dotnet #wpf #MSBuildSdkExtras\nhttps://t.co/GbuANIjHl4'
+1058287669044826112,2018-11-02 09:20:16,b'@jeromegiacomini Un de plus ;)'
+1055052274962259968,2018-10-24 11:03:58,"b'RT @WestDiscGolf: @thomaslevesque Hi, Just read your blog post on Async Initialisation (https://t.co/EeEPNpqzqN). Really interesting read.\xe2\x80\xa6'"
+1055052244280844288,2018-10-24 11:03:51,"b'@WestDiscGolf Thanks, glad you liked it!'"
+1052841885230714882,2018-10-18 08:40:40,"b'RT @pauldotknopf: A cool lib to help with weak events in .NET. More often than not, I think people only need weak events.\n\nI wish it was op\xe2\x80\xa6'"
+1048141477833072640,2018-10-05 09:22:56,"b'RT @codinghorror: us old people had our emoji, too, back in the day! https://t.co/nFHNKI4LOT https://t.co/oeAEYxjvs4'"
+1048139859469225985,2018-10-05 09:16:30,b'RT @shanselman: Lovely thread about how code has the power to change everything. And you don\xe2\x80\x99t need to be an expert coder. https://t.co/GpL\xe2\x80\xa6'
+1045642690715668480,2018-09-28 11:53:39,b'RT @fakeiteasyfx: Get FakeItEasy 4.9.1!\nFixed: Call assertions sometimes fail for concurrent calls\n\nThanks to Toni Riegler for reporting th\xe2\x80\xa6'
+1045273696385028096,2018-09-27 11:27:24,b'RT @fakeiteasyfx: Get FakeItEasy 4.9.0!\n- NEW .NET Standard 2.0 assembly\n- small optimization when creating string and value type Dummies\xe2\x80\xa6'
+1045228413060075520,2018-09-27 08:27:27,"b'RT @infinitesquare: [blog] On vous explique comment g\xc3\xa9rer des requ\xc3\xaates multipart en #ASPNETCore, de fa\xc3\xa7on \xc3\xa0 pouvoir recevoir dans une m\xc3\xaame\xe2\x80\xa6'"
+1045228317140537344,2018-09-27 08:27:04,b'https://t.co/7fn3XEwMHr'
+1044705172268732417,2018-09-25 21:48:17,"b'Just blogged: \nAsynchronous initialization in #AspNetCore, revisited https://t.co/WwU0x8hRqe'"
+1043999093339693056,2018-09-23 23:02:35,b'@Yaurthek WTF?! Mais comment tu tombes sur des trucs comme \xc3\xa7a ? ^^'
+1041952147590586368,2018-09-18 07:28:45,"b'RT @Scott_Wiener: Today Trump\xe2\x80\x99s FCC Chairman, Ajit Pai, attacked our #NetNeutrality bill, #SB822. He\xe2\x80\x99s upset that after he repealed net neu\xe2\x80\xa6'"
+1041601080889626624,2018-09-17 08:13:44,b'RT @zekjur: Linus Torvalds finally admits \xe2\x80\x9cMy flippant attacks in emails have been both unprofessional and uncalled for.\xe2\x80\x9d in https://t.co/w\xe2\x80\xa6'
+1038874835055792128,2018-09-09 19:40:36,b'RT @jeromegiacomini: Discover TinyRestClient my new .Net lib that facilitates communication with apps and REST API\nhttps://t.co/iBZY41DZj2'
+1037724536106635264,2018-09-06 15:29:44,"b'@nbarbettini Thanks! Well, it would be nice to have a built-in JWT decoder (like https://t.co/rbq2JaohBs). And mayb\xe2\x80\xa6 https://t.co/eINoSKfzOB'"
+1037588792696360960,2018-09-06 06:30:20,b'RT @jonhilt: https://t.co/VE6n7VDrS0'
+1037012449516572672,2018-09-04 16:20:09,b'RT @fakeiteasyfx: Get FakeItEasy 4.8.1!\n- Fixed inability to step into source of .NET 4.5 version of the library\n\nThanks to @adamralph for\xe2\x80\xa6'
+1037008548193087488,2018-09-04 16:04:39,"b'@nbarbettini FYI, oidcdebugger is down (I love it, btw!)'"
+1036920917253926912,2018-09-04 10:16:26,b'Just blogged: \nHandling multipart requests with JSON and file uploads in #aspnetcore\nhttps://t.co/na7iqccAcc'
+1036525215805857792,2018-09-03 08:04:03,b'RT @terrajobst: Q: What should all C# developers know?\n\nHere is my favorite answer: https://t.co/rP1OMl3Dak'
+1035269860257918976,2018-08-30 20:55:43,b'RT @dotnetkicks: Creating Simple Tasks in .NET with Bullseye by @codeopinion https://t.co/WYD1FKnVgj #dotnet via @DotNetKicks'
+1035123455216238594,2018-08-30 11:13:58,"b'RT @rdavis_au: Spotted in the @LINQPad beta - controls (textbox, button, combobox and more) that render to the main results pane! \xf0\x9f\x91\x80 This is\xe2\x80\xa6'"
+1032722101566943232,2018-08-23 20:11:50,b'RT @adamralph: Bullseye 1.1.0 out now! Thanks to @Hippopottoman and @thomaslevesque for their valuable input! https://t.co/hGeqJqenT8'
+1027146833989120000,2018-08-08 10:57:43,b'RT @fakeiteasyfx: Get FakeItEasy 4.8.0!\n- Failure to create Dummy throws correct exception and now includes reasons for failure.\n- Use of i\xe2\x80\xa6'
+1021723739455741953,2018-07-24 11:48:16,b'RT @dylanbeattie: Introducing Rockstar - a proposal for a Turing-complete programming language in which you can write programs that are als\xe2\x80\xa6'
+1020673749983596544,2018-07-21 14:15:59,b'RT @xkcdComic: Software Development https://t.co/fLBEC7zgQU https://t.co/zXIeQVhhaN https://t.co/bAWXP2n6V7'
+1020334392852598786,2018-07-20 15:47:30,b'Just blogged: Asynchronous initialization in https://t.co/UNtIOelKP4 Core with custom middleware #AspNetCore\nhttps://t.co/6TzfQToEFQ'
+1015183480970412033,2018-07-06 10:39:37,b'RT @fakeiteasyfx: Get FakeItEasy 4.7.1!\nAttempts to assign values to read-only in parameters were allowed for faked delegates (and for all\xe2\x80\xa6'
+1014106670086139905,2018-07-03 11:20:45,b'RT @fakeiteasyfx: Get FakeItEasy 4.7.0!\nNew:\n  Allow faking of non-generic types with methods that have in parameters\n  Provide better feed\xe2\x80\xa6'
+1012655959783755776,2018-06-29 11:16:09,b'RT @Yaurthek: https://t.co/eNiE5dnZLF looks very interesting for .Net devs! https://t.co/henHysrZ6A'
+1010995486696923137,2018-06-24 21:18:02,"b'@adamralph @fakeiteasyfx @Hippopottoman @patrik_hagne Sad to see you go @adamralph, I enjoyed working with you! Tha\xe2\x80\xa6 https://t.co/i10t3rmCAq'"
+1010295101283762176,2018-06-22 22:54:57,b'@JustinOnA_Tuin @Yaurthek @_dhaya_ Haha pas mal :)'
+1008413265100189697,2018-06-17 18:17:12,b'@SAV_Numericable #94463986#'
+1008407845535182850,2018-06-17 17:55:40,"b""@SAV_Numericable Oui enfin le service client, \xc3\xa0 part me confirmer qu'il y a effectivement une panne, il sert pas \xc3\xa0 grand chose..."""
+1008405461341753345,2018-06-17 17:46:11,"b'@SAV_Numericable plus aucun service depuis 48h, je commence \xc3\xa0 trouver le temps long... Le moniteur r\xc3\xa9seau indique u\xe2\x80\xa6 https://t.co/HDvAMa39ao'"
+1003917932915822597,2018-06-05 08:34:21,b'RT @praeclarum: Introducing https://t.co/S8x80WZiYU - I built a new nuget package browser that lets you explore APIs and really get to know\xe2\x80\xa6'
+996851444962742272,2018-05-16 20:34:39,"b'RT @trek: Since our industry seems hell bent on giving people ""Senior"" titles who are in the first decade of their career, I\'d like to prop\xe2\x80\xa6'"
+995986895195668481,2018-05-14 11:19:15,b'RT @fakeiteasyfx: Get FakeItEasy 4.6.0!\nFixed:\n  Exceptions caught while resolving constructor arguments break Fake/Dummy creation (symptom\xe2\x80\xa6'
+992325578211676161,2018-05-04 08:50:29,b'RT @DanWahlin: How Microsoft Made Me Love .NET Core And C# Again by Kaushal Subedi  https://t.co/rrTooU4MAQ'
+986620746804924416,2018-04-18 15:01:31,b'RT @infinitesquare: [Blog] H\xc3\xa9berger une application ASP NET Core 2 sur un Raspberry Pi\n@thomaslevesque #AspNetCore #RaspberryPi https://t.c\xe2\x80\xa6'
+986380395590684672,2018-04-17 23:06:27,b'@igitur Thanks!'
+986348497057275905,2018-04-17 20:59:41,b'Just blogged: Hosting an https://t.co/UNtIOelKP4 Core 2 application on a Raspberry Pi\nhttps://t.co/ZvqYSXfXpR #aspnetcore #RaspberryPi'
+986304361860161542,2018-04-17 18:04:19,"b""RT @davkean: Not only can you edit the project file while it's open in the new project system (https://t.co/9sQtNeGWsp), you can also use i\xe2\x80\xa6"""
+983093793862881280,2018-04-08 21:26:40,b'RT @MrJamesFisher: The dots do matter: how to scam a Gmail user https://t.co/Ff7KDCBGJp'
+981078861583732737,2018-04-03 08:00:02,b'ICYMI https://t.co/LnxBqY3Oh1'
+981078759783763968,2018-04-03 07:59:38,b'RT @jeromegiacomini: Quoi neuf chez Xamarin ? https://t.co/uhZ96oDbKN via @J\xc3\xa9r\xc3\xb4me Giacomini'
+979700914608132096,2018-03-30 12:44:34,b'Just blogged: Writing a GitHub Webhook as an Azure Function\nhttps://t.co/MhXXmwdC8P'
+978590533537984512,2018-03-27 11:12:19,"b'RT @jamesmjharrison: France, who are designing and supplying our new Blue British Passports have released the final draft... https://t.co/Y\xe2\x80\xa6'"
+978534614800175104,2018-03-27 07:30:07,b'Just blogged: Understanding the https://t.co/UNtIOelKP4 Core middleware pipeline\nhttps://t.co/FrpfmUQmZO'
+974795983891714048,2018-03-16 23:54:08,"b""RT @praeclarum: I'm excited to announce that Xamarin.Forms can now run completely locally in a Web Assembly using Ooui.Wasm. Turn your app\xe2\x80\xa6"""
+974234290346188800,2018-03-15 10:42:09,"b""@Yaurthek lol, oui c'est \xc3\xa7a ^^\nEn fait je savais pas qu'il avait \xc3\xa9crit \xc3\xa7a, et \xc3\xa7a semble int\xc3\xa9ressant..."""
+973647913502076930,2018-03-13 19:52:06,"b""@Yaurthek lol !\nPour moi hg/git c'est pareil, git est juste plus flexible. Et vu que tout le monde l'utilise, le choix est vite fait..."""
+973642564086718464,2018-03-13 19:30:51,"b'@Yaurthek haha,,  tu en doutais encore ?'"
+971098804375212032,2018-03-06 19:02:51,b'Just blogged: Cleanup Git history to remove unwanted files\nhttps://t.co/0bu3cVxkza'
+970418684991885314,2018-03-04 22:00:18,b'RT @terrajobst: What an amazing short movie on faster than light travel. https://t.co/psRXRsj53r'
+968820232860176385,2018-02-28 12:08:37,b'RT @fakeiteasyfx: Get FakeItEasy.Analyzer 4.5.1!\nFixed:\n  RepeatedAssertionAnalyzer throws NullReferenceException when encountering an expr\xe2\x80\xa6'
+968518040232054784,2018-02-27 16:07:49,"b""@khellang Wow, didn't know that! Any alternative?"""
+968456981009829888,2018-02-27 12:05:11,b'@DOMZE Thanks!'
+967821952239927296,2018-02-25 18:01:49,b'Just blogged: Better timeout handling with HttpClient https://t.co/pxdI0gSBvn'
+966309599702913025,2018-02-21 13:52:16,"b'RT @tlakomy: Using webpack for my ""hello world"" app https://t.co/MmnXTl0ebw'"
+965620977848766465,2018-02-19 16:15:56,b'@DougWare @nuget Validation just completed. It took 4 hours...'
+965620236560068610,2018-02-19 16:12:59,b'RT @fakeiteasyfx: Get FakeItEasy 4.5.0!\n\n- New analyzer and code fix to migrate to the new assertion API\n- Fixed a regression when configur\xe2\x80\xa6'
+965610671734915072,2018-02-19 15:34:58,"b'@DougWare @nuget Thanks, good luck to you !'"
+965609900750630912,2018-02-19 15:31:55,"b""Scratch that, it's still there. I was looking at the page without being signed in. https://t.co/nCYJkbpv11"""
+965608992910331904,2018-02-19 15:28:18,"b""@DougWare @nuget No! But the version was apparently removed... I'll try to upload it again"""
+965579805583396865,2018-02-19 13:32:19,b'Hey @nuget this package is still waiting for validation. 3 other packages pushed at the same time were validated in\xe2\x80\xa6 https://t.co/vluJlxhhQF'
+964144264065290240,2018-02-15 14:28:00,b'@jchannon @adamralph @Hippopottoman Vote here if you want to fix this ! https://t.co/NUA71tJt2u'
+964143173760094208,2018-02-15 14:23:40,"b'@jchannon @adamralph @Hippopottoman Linq expressions are stuck with C# 3, so no optional args... \xe2\x98\xb9\xef\xb8\x8f'"
+964142830976462850,2018-02-15 14:22:18,"b""@jchannon @adamralph @Hippopottoman The problem still exists. But it's a limitation of the language, not of FIE \xf0\x9f\x98\x89"""
+964141011697008640,2018-02-15 14:15:04,b'@adamralph @jchannon @Hippopottoman @jchannon could you be more specific?'
+960867651370315776,2018-02-06 13:27:54,b'RT @fakeiteasyfx: Get FakeItEasy 4.4.0!\n\n- new API to specify call count in assertions\n- new Raise.FreeForm&lt;TEventHandler&gt;.With for raising\xe2\x80\xa6'
+954143566628098050,2018-01-19 00:08:48,b'RT @DevartSoftware: Structure Comparison in Text Compare Tool \nThis method recognizes source files code written in popular programming lang\xe2\x80\xa6'
+952835621462204416,2018-01-15 09:31:29,"b""@jeromegiacomini Ah oui j'ai vu \xc3\xa7a l'autre jour, \xc3\xa7a a l'air sympa ! \xc3\x87a donne des id\xc3\xa9es en tout cas"""
+943885842141057024,2017-12-21 16:48:15,b'RT @linqpad: Effortlessly chart your data in latest LINQPad beta. https://t.co/7wh2iXgnOz https://t.co/GOmExqaBL8'
+943883857924952065,2017-12-21 16:40:22,"b""@BenjaminBougot Sorry, not really interested... Looks like you did a nice job, though, I'll give it a try ;)"""
+942873403404488705,2017-12-18 21:45:11,b'C# - All About Span: Exploring a New .NET Mainstay\nhttps://t.co/NMcuU79vxF'
+938799670083670016,2017-12-07 15:57:38,"b""RT @linqpad: Explore #csharp 7.2's new features in the latest LINQPad beta. Without any big downloads or installs! https://t.co/7wh2iXgnOz\xe2\x80\xa6"""
+938379099487330304,2017-12-06 12:06:26,"b'RT @fakeiteasyfx: Get FakeItEasy 4.3.0!\nNew: WithVoidReturnType method\nFixed: (internal) problems building analyzer packages, with thanks t\xe2\x80\xa6'"
+935540554317946880,2017-11-28 16:07:04,"b""RT @linqpad: It's now 10 years since LINQPad 1.0 was released. Huge thanks to all supporters -\nyou've enabled LINQPad to grow to the produc\xe2\x80\xa6"""
+929858990632300544,2017-11-12 23:50:33,"b'Just blogged: \nTransform T4 templates as part of the build, and pass variables from the project.\nhttps://t.co/HeDhlX3gs8'"
+928181843190599681,2017-11-08 08:46:10,b'RT @fakeiteasyfx: Get FakeItEasy 4.2.0!\nFixed: Interface method does not have an implementation exception (raised and fixed by @MSkarum)\nNe\xe2\x80\xa6'
+927621074426220545,2017-11-06 19:37:53,"b""RT @iamdevloper: 1969:\n-what're you doing with that 2KB of RAM?\n-sending people to the moon\n\n2017:\n-what're you doing with that 1.5GB of RA\xe2\x80\xa6"""
+923522619076431872,2017-10-26 12:12:05,"b""@TheCodeJunkie @adamralph Hi! Sure, but I can't DM you since you don't follow me... You should be able to DM me, though"""
+922230135964815363,2017-10-22 22:36:13,b'RT @lennyfirth22: I accidentally said \xe2\x80\x98pastryarchy\xe2\x80\x99 instead of \xe2\x80\x98patriarchy\xe2\x80\x99 and now I have a vision for a better world.'
+920795569265750016,2017-10-18 23:35:45,b'RT @fakeiteasyfx: Get FakeItEasy 4.1.1!\n- fixed 2 issues related to nested argument constraints\nhttps://t.co/H05juD4DUy'
+917792702573502464,2017-10-10 16:43:26,b'RT @fakeiteasyfx: Get FakeItEasy.Analyzer 4.1.0!\n- new diagnostic for constraint type mismatch\n- FakeItEasy0002 is now an error\n- more\nhttp\xe2\x80\xa6'
+917792657749037056,2017-10-10 16:43:16,b'RT @fakeiteasyfx: Get FakeItEasy 4.1.0!\n- params array overload for IsSameSequenceAs\n- Better argument formatting\n- more\nhttps://t.co/f9b1O\xe2\x80\xa6'
+917313511398703104,2017-10-09 08:59:18,"b'@igitur Occasionally, but not often'"
+917301999523160067,2017-10-09 08:13:33,"b""@igitur I never bothered with signing for any of my own libraries. I just don't see the point."""
+915508127608516608,2017-10-04 09:25:21,"b""@igitur Uh... actually, you can't inherit it. I have no idea how to raise an event with it, then.."""
+915507571435425792,2017-10-04 09:23:08,"b""@igitur I haven't looked closely into it, but WEM looks much harder to use (e.g. you have to inherit the class to raise the event)"""
+913819669580140544,2017-09-29 17:36:01,b'RT @meziantou: Mocking an #HttpClient using an HttpClientHandler in #dotnet https://t.co/9pTjF6hc2o'
+912071101328617479,2017-09-24 21:47:50,b'RT @linqpad: New LINQPad beta includes full C# 7.1 support. Play with the latest toys! https://t.co/XMxh8TaA2G https://t.co/KK8GWYGBkN'
+910115262376153088,2017-09-19 12:16:02,b'RT @RickStrahl: Blogged: Conditional TargetFrameworks for Multi-Targeted .NET SDK Projects on Cross-Platform Builds https://t.co/6i7aiu4sqg\xe2\x80\xa6'
+909853821396021248,2017-09-18 18:57:09,b'Just blogged: Common MSBuild properties and items with https://t.co/7hVV7KNUxh.props #msbuild #dotnet\nhttps://t.co/UkQ2st8aZb'
+907234197278019584,2017-09-11 13:27:42,b'@Yaurthek Eh oui !'
+901800297542057984,2017-08-27 13:35:20,b'@sonergonul I use this WP plugin: https://t.co/vTPTlOLAVs\nLive Writer has a plugin for it: https://t.co/5X5vQhqiGN'
+901449527131074560,2017-08-26 14:21:30,"b'@sonergonul Additional CSS https://t.co/FgDv6H8TqS\nNot perfect, but mostly OK...'"
+901205603225350145,2017-08-25 22:12:14,b'Just blogged: Testing and debugging library code from #LINQPad https://t.co/LoLPOJ4HYK @linqpad'
+899907520793374720,2017-08-22 08:14:07,b'RT @sethjuarez: A preview of C# 8 with the awesome @MadsTorgersen!!! Check it out: https://t.co/pgoaghVc8J - would love your thoughts!'
+897733984226095104,2017-08-16 08:17:15,"b'RT @BarackObama: ""No one is born hating another person because of the color of his skin or his background or his religion..."" https://t.co/\xe2\x80\xa6'"
+890583363186294788,2017-07-27 14:43:14,b'RT @fakeiteasyfx: Get FakeItEasy.Analyzer 4.0.0!\n- Now split into C# and https://t.co/ZFycMwIfqs nupkgs\n- nullable argument diagnostic\nhttp\xe2\x80\xa6'
+890583321075490816,2017-07-27 14:43:04,b'RT @fakeiteasyfx: Get FakeItEasy 4.0.0!\n- Raise custom events without typeparams\n- Many other changes! Some breaking.\nhttps://t.co/85CwX5NC\xe2\x80\xa6'
+890167309163253760,2017-07-26 11:09:59,"b""J'en connais un qui va \xc3\xaatre content ;) @Yaurthek\nhttps://t.co/ADBY7R9WBY"""
+888710849048739840,2017-07-22 10:42:32,"b""RT @fakeiteasyfx: We've passed 1M downloads! Thank you for an amazing seven years of contribution and community. Much more to come! https:/\xe2\x80\xa6"""
+884022879637180416,2017-07-09 12:14:13,b'RT @fakeiteasyfx: Get FakeItEasy.Analyzer 4.0.0-beta001!\n- C# and https://t.co/ZFycMwIfqs nupkgs\n- nullable argument diagnostic\nhttps://t.c\xe2\x80\xa6'
+884022856404709376,2017-07-09 12:14:07,b'RT @fakeiteasyfx: Get FakeItEasy 4.0.0-beta001!\n- Raise custom events without typeparams\n- Many other changes! Some breaking.\nhttps://t.co/\xe2\x80\xa6'
+877604342987014144,2017-06-21 19:09:15,b'RT @franklyrosalind: lmao sorry friendaloo but if you want me to write you a couple thousand lines of code you get to profit from forever i\xe2\x80\xa6'
+877594544392421376,2017-06-21 18:30:18,"b'RT @jaredpar: ref readonly in C# is an often underrated feature. Opens up readonly struct, span&lt;T&gt;, ref extension methods. Lots to build of\xe2\x80\xa6'"
+876744380073357312,2017-06-19 10:12:03,b'RT @fakeiteasyfx: Get FakeItEasy 3.4.2!\n- Setting ref argument values no longer masks incoming argument values used to verify calls\nhttps:/\xe2\x80\xa6'
+876218468814737408,2017-06-17 23:22:16,b'@davidebbo This is @TheDailyWTF material!'
+876217776939163648,2017-06-17 23:19:32,b'RT @terrajobst: This is bloody good :-) https://t.co/kLKe63XsMS'
+875320577191497728,2017-06-15 11:54:22,"b'RT @fakeiteasyfx: Get FakeItEasy 3.4.1!\nNuget package now references correct version of Castle.Core (4.1.0).\nThanks, @holytshirt!\nhttps://t\xe2\x80\xa6'"
+874557454155120640,2017-06-13 09:22:00,b'RT @fakeiteasyfx: Get FakeItEasy.Analyzer 3.4.0!\nBetter diagnostics when configuring non-virtual (or non-overrideable in VB) members.\n\nhttp\xe2\x80\xa6'
+874557405195120640,2017-06-13 09:21:48,b'RT @fakeiteasyfx: Get FakeItEasy 3.4.0!\n- improved error messages and diagnostics\n- .NET 4.5 event arguments need not extend EventArgs\nhttp\xe2\x80\xa6'
+873566359694737409,2017-06-10 15:43:44,"b""RT @Im5tu: Think i'm starting to prefer FakeItEasy over Moq. Seems a lot more natural on first use!"""
+872893975224569857,2017-06-08 19:11:55,b'@onovotny @terrajobst @citizenmatt @redoz @resharper recognizes the multiple target frameworks and runs the tests for each'
+872600939949154304,2017-06-07 23:47:30,b'@CodeMonkey76 @shanselman Lots of good links here: https://t.co/trzlGTDtKu'
+872098976761339904,2017-06-06 14:32:53,b'RT @InfoQ: An Early Look at C# 7.1: Part 1 https://t.co/aRpJbiZsat by @Grauenwolf'
+870733920031125505,2017-06-02 20:08:38,b'RT @attn: BREAKING: Arnold Schwarzenegger has a blunt message for Donald Trump. #ParisAgreement https://t.co/YI8fcxEeox'
+870644935191646208,2017-06-02 14:15:03,b'RT @davkean: New @Roslyn code fix that helps you implement the delegation pattern: https://t.co/vyE5XA8zqL'
+870640988561317888,2017-06-02 13:59:22,"b'RT @EmmanuelMacron: Come here with us to work together on concrete solutions for our climate, our environment. https://t.co/JXiqgMP8Xy'"
+870559271985057792,2017-06-02 08:34:39,"b'@namdzg lol, good one!'"
+869319819430174722,2017-05-29 22:29:30,b'RT @ThePracticalDev: The Demise of Reuse\n{ author: @rmorschel }\nhttps://t.co/LszfNP2FWA'
+869176604504858624,2017-05-29 13:00:25,b'RT @Rainmaker1973: A domino can knock over another domino about 1.5x larger than itself. An awesome mechanical chain reaction https://t.co/\xe2\x80\xa6'
+869159439403765760,2017-05-29 11:52:13,"b'RT @Yaurthek: https://t.co/jBVsfszOcJ  ""This is the exact opposite of the meaning that is suggested by the member name."" lol'"
+864247827727343622,2017-05-15 22:35:13,b'https://t.co/9uE0r8E8Wm'
+860503426148569088,2017-05-05 14:36:18,"b""RT @pomeranian99: Memory leaks on missiles don't matter, so long as the missile explodes before too much leaks. A 1995 memo: https://t.co/R\xe2\x80\xa6"""
+860110009132343296,2017-05-04 12:33:00,b'Interesting article by @ayende: Tripping on the TPL https://t.co/RzBHc2u9le'
+860077258995888128,2017-05-04 10:22:52,b'RT @fakeiteasyfx: Get FakeItEasy 3.3.0!\n- new That.IsNotNull constraint\n- various error message improvement\n- CLR type name formatting\nhttp\xe2\x80\xa6'
+859557309718122497,2017-05-02 23:56:47,b'RT @cakebuildnet: New Blog Post: Intellisense and new Cake team member https://t.co/hcSYlnSUaZ'
+857699131502059520,2017-04-27 20:53:02,b'RT @JamesNK: Newtonsoft.Json with the new MSBuild project system. Only removed 5000 lines of code. No big deal https://t.co/zWLqMSldXy'
+856519879582724097,2017-04-24 14:47:07,"b'@PerlinMandleBro @dylanbeattie @matthewwarren @VisualStudio True for most editors, but VSCode uses Alt-Shift-Ctrl arrows by default \xf0\x9f\x98\x92'"
+856145665667325952,2017-04-23 14:00:07,b'RT @JustinOnA_Tuin: #aleajactaest #Presidentielles2017 #JeVote'
+855905090485530624,2017-04-22 22:04:10,b'RT @verge: Watch this all-electric \xe2\x80\x98flying car\xe2\x80\x99 take its first test flight https://t.co/hOFVVDBe0Y'
+854430256274563072,2017-04-18 20:23:42,b'This is my favorite feature in Windows 10 Creators Update ;) https://t.co/u1EuNIIhGI'
+852660457236201472,2017-04-13 23:11:09,"b""@Nick_Craver I missed that feature today (can't use C# 7 yet on work project, we need to migrate to VS2017)"""
+852261844182073345,2017-04-12 20:47:12,"b'RT @CodeWisdom: ""The value of a prototype is in the education it gives you, not in the code itself."" - Alan Cooper'"
+852258300192321541,2017-04-12 20:33:07,"b'@Yaurthek et en lan\xc3\xa7ant sshd avec ""&amp;"" \xc3\xa7a marche pas ?'"
+849565977817870336,2017-04-05 10:14:47,b'RT @fakeiteasyfx: Get FakeItEasy 3.2.0!\n- clear recorded calls\n- strongly-typed WhenArgumentsMatch overloads\n- better error messages\nhttps:\xe2\x80\xa6'
+849297423147167745,2017-04-04 16:27:39,"b""RT @DesiJed: Issac Asimov nails what a million 'Trump voter' think pieces can't in just a few sentences. https://t.co/WQQVsWgsIo"""
+848515873652568065,2017-04-02 12:42:03,"b""RT @goldengateblond: when you're at the bar and the dude next to you is way too into the music https://t.co/rok1gi95fD"""
+848510586270994432,2017-04-02 12:21:02,"b""RT @shanselman: Apparently April 1st is the only day of the year people evaluate the news they're reading and sharing on the internet with\xe2\x80\xa6"""
+848188597924765696,2017-04-01 15:01:34,b'RT @Captain_Heck: https://t.co/vY8xsGKSyP'
+847781005993926656,2017-03-31 12:01:57,b'RT @StackOverflow: Keeping your information safe is our top concern. Today we launch the next evolution of security at Stack Overflow. http\xe2\x80\xa6'
+847060318622826496,2017-03-29 12:18:12,b'RT @TessFerrandez: Best lyrics ever :) https://t.co/O6k51W34Ck'
+846852506793758720,2017-03-28 22:32:26,b'Just blogged: Linq performance improvements in .NET Core #dotnetcore https://t.co/5RSG4Rt64d'
+846807115968720897,2017-03-28 19:32:04,b'@Boilerplate1893 @deray Soylent Green?'
+846098799336587265,2017-03-26 20:37:28,"b'RT @Jedd_Ahyoung: ""What is technical debt?"" Technical debt is hard to explain, but a picture is worth a thousand words. #programming #softw\xe2\x80\xa6'"
+846090718762483712,2017-03-26 20:05:21,b'@khellang especially true for compulsive highlighters'
+846083292084555779,2017-03-26 19:35:50,"b'RT @lexiberylross: Lyft line driver just called the other passenger ""Null?"" as they got in the car because their name showed up as null in\xe2\x80\xa6'"
+845025265940119553,2017-03-23 21:31:37,b'RT @laurentkempe: Nothing like a morning deleting code of a feature I never liked and that no one was using! \xf0\x9f\x98\x8a'
+845023300753543168,2017-03-23 21:23:49,b'@JetBrainsRider does it still support project.json as well?'
+844271353972899840,2017-03-21 19:35:51,b'@Hippopottoman does this look familiar? https://t.co/74OgW8OtjW'
+843912065408520192,2017-03-20 19:48:10,"b'Really, Twitter? Haitian Creole? @ThePracticalDev https://t.co/ndkxHtynAq'"
+843603851903193089,2017-03-19 23:23:26,"b""RT @scott_kerr: Letter Carl Sagan wrote to Chuck Berry for his 60th birthday, letting him know 'Johnny B. Goode' is in deep space on NASA's\xe2\x80\xa6"""
+842707235956576258,2017-03-17 12:00:36,"b'@ddoomen both, I think'"
+842468370683420673,2017-03-16 20:11:26,"b'RT @GeorgeTakei: Justin Trudeau took Ivanka to ""Come From Away""--a play about town welcoming foreigners--hours after Muslim ban struck. Tro\xe2\x80\xa6'"
+842161109234790400,2017-03-15 23:50:29,"b'@terrajobst ""Make .NET great again"" and ""One .NET to rule them all"" don\'t sound so bad \xf0\x9f\x98\x80'"
+841759910740262913,2017-03-14 21:16:16,b'RT @ThePracticalDev: Any insight is very much appreciated. @KellyannePolls? @BarackObama? https://t.co/d8tqoywWIh'
+841757614765703168,2017-03-14 21:07:09,b'RT @infonom1: Les parents :\n\n\xe2\x97\xbb\xef\xb8\x8f Grondent\n\xe2\x97\xbb\xef\xb8\x8f Contr\xc3\xb4lent tout\n\xe2\x98\x91\xef\xb8\x8f Major Tom'
+840158895939117057,2017-03-10 11:14:24,b'RT @fakeiteasyfx: Get FakeItEasy 3.1.0.\nImproved rendering of fake objects\nEvent args need not extend EventArgs on .NET Standard\nMore!\nhttp\xe2\x80\xa6'
+839466326628384771,2017-03-08 13:22:23,b'@khellang @VisualStudio @resharper well you can always implement a @roslyn code-fix ;)'
+839415830194622465,2017-03-08 10:01:44,"b'@khellang @VisualStudio saw this too right after install. But subsequent launches showed the ""normal"" splash screen'"
+839415622350041088,2017-03-08 10:00:54,"b""@MossyBlog it's not what @RickStrahl is talking about. See https://t.co/LXcNuwvQb6"""
+839415083188957184,2017-03-08 09:58:46,"b""@RickStrahl so true. Make the feature mostly useless. Install TortoiseGit &amp; Dropbox, and you're over the limit."""
+839414616916705280,2017-03-08 09:56:54,b'RT @cakebuildnet: Version 0.18.0 of Cake has been released!\rhttps://t.co/bHaKNaGCVt\r#csharp #dotnet https://t.co/AnFZcz3ZuJ'
+839133933707083776,2017-03-07 15:21:34,b'@VisualStudio 2017 installed! https://t.co/25ABOnbrm4'
+839104273992597504,2017-03-07 13:23:43,"b'Thanks @Google, but I was just searching for code analysis warning CA1305... https://t.co/7iXw3pJZyy'"
+838851290880933890,2017-03-06 20:38:27,"b'@adamralph @fakeiteasyfx @xbehavenet but we use gitlink, not SourceLink... idk what the actual diff is, but it uses a different option in VS'"
+838413011572428801,2017-03-05 15:36:53,"b""RT @StephenKing: Trump should know OBAMA NEVER LEFT THE WHITE HOUSE! He's in the closet! HE HAS SCISSORS!"""
+838411838673018881,2017-03-05 15:32:13,"b'RT @bradwilson: Dear @Twitter @Support,\n\nThis looks like it qualifies for your Abusive Behavior rule violation account lock.\n\nhttps://t.co/\xe2\x80\xa6'"
+838406730820255745,2017-03-05 15:11:56,"b'@AgrawalAshishS @terrajobst I tried @TortoiseGit, but it uses different terms for git concepts, which is confusing'"
+837847460869439490,2017-03-04 02:09:35,"b""@terrajobst ah, didn't know commit -v, thanks for the tip!"""
+837846558808899585,2017-03-04 02:06:00,"b'@terrajobst I tried at least 10 GUI tools for git, but I always come back to the command line. I just love it!'"
+837749537435443201,2017-03-03 19:40:29,b'RT @codeopinion: Late to the party.  Started using FakeItEasy for the first time on my new #dotnetcore app.  I dig it.'
+837744883309883392,2017-03-03 19:21:59,"b""@jasonmalinowski @JetBlue technically, the moment where you're exactly 21 is infinitely short... so it doesn't matter ;)"""
+837015876666810373,2017-03-01 19:05:10,b'@Hippopottoman @fakeiteasy good luck with that... Java lacks the features to port the FIE API.'
+836967520414404609,2017-03-01 15:53:01,"b""RT @adamralph: so this happened a few days ago, and we almost didn't notice! /cc @fakeiteasyfx https://t.co/cxip0Y6GIH"""
+836559865040551936,2017-02-28 12:53:09,"b'RT @binardfr: FakeItEasy 3.0 de jolies nouveaut\xc3\xa9s, notamment le support de .Net Core ! https://t.co/m6wEUxYUnN #dotnet @fakeiteasyfx'"
+835871064592900097,2017-02-26 15:16:06,"b'RT @ASE: #OrangeBeatles: ""This song is called fake news."" \xf0\x9f\x91\x8f\xf0\x9f\x8f\xbc\xf0\x9f\x91\x8c\xf0\x9f\x8f\xbe\xf0\x9f\x98\x82 https://t.co/pnn9610y3G'"
+835521468477890560,2017-02-25 16:06:55,b'RT @i3arnon: This is the most interesting C# proposal yet: Type shapes and extension everything. https://t.co/es3jJhiUQW'
+835098304044285952,2017-02-24 12:05:25,"b'@imran_ku07 @khellang I switched to a new theme, it should be better now'"
+834922103954628610,2017-02-24 00:25:16,b'RT @scottgal: Belgian beers obviously. Duh! https://t.co/YSQGZhJOO4 https://t.co/xLmpt5MH7S'
+834746140495077376,2017-02-23 12:46:03,b'Just blogged: Easy text parsing in C# with #Sprache https://t.co/i8ZiwhqKXf'
+834360638965112834,2017-02-22 11:14:12,"b""Just blogged: What's new in @fakeiteasyfx 3.0.0? https://t.co/sqOJjYeqGP"""
+834360080996900865,2017-02-22 11:11:59,b'RT @fakeiteasyfx: FakeItEasy.Analyzer 3.0.0 is out!\nNow provides guidance when using FakeItEasy in https://t.co/ZFycMwIfqs.\nhttps://t.co/XG\xe2\x80\xa6'
+834360009047863296,2017-02-22 11:11:42,"b'RT @fakeiteasyfx: FakeItEasy 3.0.0 is out!\n.NET Standard/Core support\n""Then"" syntax to configure successive calls\nAnd much more!\nhttps://t.\xe2\x80\xa6'"
+833434521794134017,2017-02-19 21:54:09,"b'@RickStrahl weird... My workaround should also work for saving to file, I think.'"
+833418999832653825,2017-02-19 20:52:28,"b'@RickStrahl could it be related to https://t.co/aJdWuEhRWN? I thought it was fixed in 4.0, though...'"
+833418428530692104,2017-02-19 20:50:12,"b'RT @fakeiteasyfx: Non-user visible contributions are appreciated too. Thanks for making our tests better, @softwarematt!\nhttps://t.co/iBi2W\xe2\x80\xa6'"
+832961244390944768,2017-02-18 14:33:30,"b""RT @TIME: TIME\xe2\x80\x99s new cover: Inside Donald Trump's White House chaos https://t.co/hctIFEcOSG https://t.co/1hSQNrY6JQ"""
+830532790689079297,2017-02-11 21:43:42,b'RT @scott_kerr: An old motherboard looks like ancient Greek ruins. https://t.co/7LroFntj7M'
+830133116564041728,2017-02-10 19:15:32,b'RT @CodeWisdom: \xe2\x80\x9cThe question of whether computers can think is like the question of whether submarines can swim.\xe2\x80\x9d - Edsger W. Dijkstra'
+830039733438971905,2017-02-10 13:04:28,"b""RT @Kasparov63: The point of modern propaganda isn't only to misinform or push an agenda. It is to exhaust your critical thinking, to annih\xe2\x80\xa6"""
+830009847244587008,2017-02-10 11:05:43,b'RT @fakeiteasyfx: FakeItEasy.Analyzer 3.0.0-rc001 is out.  Now provides guidance when using FakeItEasy in https://t.co/ZFycMwIfqs.\nhttps://\xe2\x80\xa6'
+830009794996137985,2017-02-10 11:05:30,b'RT @fakeiteasyfx: FakeItEasy 3.0.0-rc001 is out.  ThrowsAsync returns a failed task. Ignored/That now work with ByRef-Arguments in VB.\nhttp\xe2\x80\xa6'
+829779349683453952,2017-02-09 19:49:48,b'RT @VisualStudio: WootWOOT!!! Happy 20th Birthday Visual Studio! Celebrate 20 years of great releases @ the #VS2017 Launch Event: https://t\xe2\x80\xa6'
+829470022896668673,2017-02-08 23:20:38,"b""RT @kent_boogaart: I can't be the only person looking forward to the next @xunit release. https://t.co/67OIrPKJEz"""
+828270575336423425,2017-02-05 15:54:28,b'RT @ndepend: NDepend v2017.1.0 is out!\nCheck out all the new features here: \nhttps://t.co/Dcx42nmw1J https://t.co/qx1fJ5BH5I'
+825081114658217990,2017-01-27 20:40:41,"b'RT @paulkrugman: So he lashes out -- and each time destroys even more of the respect he craves, leading to further lashing out. All this in\xe2\x80\xa6'"
+824327398657294343,2017-01-25 18:45:41,"b""RT @AstroKatie: If someone's political stance requires preventing scientists from informing you about your own planet, that's not politics,\xe2\x80\xa6"""
+824289686336180228,2017-01-25 16:15:50,b'RT @outstarwalker: Damn spoilers. https://t.co/cLIMEQUK0r'
+824012610563665920,2017-01-24 21:54:50,"b""@terrajobst @jaredpar @kcwalina ditto Path.GetFileName, which returns the last part of the path, whether it's a file or directory"""
+823955297454747648,2017-01-24 18:07:05,"b'Castle.Core 4.0.0 final is out, with .NET Core support ! https://t.co/LtT0cu5PM1 @castleproject'"
+823650065315229700,2017-01-23 21:54:12,"b'RT @SethAbramson: Retweet if you want networks to stop booking Kellyanne Conway, the first U.S. presidential counselor to openly advocate l\xe2\x80\xa6'"
+823649366514761733,2017-01-23 21:51:26,"b""RT @rascouet: Re Spicer's lies, this is from someone who worked in a past administration. Important read. https://t.co/XrjLJHRAGL"""
+823476459016781824,2017-01-23 10:24:21,b'RT @jeremydmiller: Anybody want a gently used StructureMap? https://t.co/WCL7PuR4vn via @wordpressdotcom'
+823295441936781312,2017-01-22 22:25:04,"b'RT @MeetThePress: ""Alternative facts are not facts. They are falsehoods,"" Chuck Todd tells Pres. Trump\'s counselor Kellyanne Conway this mo\xe2\x80\xa6'"
+822826186300620801,2017-01-21 15:20:24,"b""RT @Nick_Craver: Remember:\n\xe2\x80\x9cThe good thing about science is that it's true whether or not you believe in it.\xe2\x80\x9d\n- Neil deGrasse Tyson"""
+822815265880678400,2017-01-21 14:37:01,b'RT @migueldeicaza: Little known capability of ObjectiveSharpie: creating C# bindings for C libraries: https://t.co/bGdjSGw8ZN'
+822659220260659202,2017-01-21 04:16:57,"b'RT @github: Review code and make changes to pull requests, all within Visual Studio. https://t.co/TUM3Dldr7B'"
+821841993181646849,2017-01-18 22:09:34,"b'@RickStrahl @aptshadow Thanks for the tip, I was wondering what to read next ;)'"
+821795215681998848,2017-01-18 19:03:42,"b""@imran_ku07 @khellang Sorry about that... I have trouble finding a mobile WP theme that doesn't make code blocks look ugly"""
+821665665773957120,2017-01-18 10:28:55,"b'RT @fakeiteasyfx: FakeItEasy 2.3.3 is out,  fixing some bugs in WithNonVoidReturnType.\nhttps://t.co/PnBq0GSUVp'"
+821476210018500608,2017-01-17 21:56:05,"b'@khellang yeah, that was one of my concerns ;)'"
+821471374799728640,2017-01-17 21:36:52,b'Just blogged: C# methods in git diff hunk headers  #csharp #git\n https://t.co/MepeGQ2q1k'
+820701624431734784,2017-01-15 18:38:09,b'RT @Yaurthek: An interesting post about Unicode code points and their meaning... https://t.co/RhJlVqetSb'
+818965973940207617,2017-01-10 23:41:18,b'RT @mshelton: when you roll your own crypto https://t.co/JcCUmlSGf7'
+818964591719972864,2017-01-10 23:35:48,b'RT @PreetamJinka: https://t.co/F74pbfRQl4'
+818960161746391042,2017-01-10 23:18:12,b'RT @TheSmarmyBum: Guy celebrating repeal of Obamacare finds out he\xe2\x80\x99s on Obamacare. Amazing. https://t.co/Buq4agSFJD'
+818587556455424004,2017-01-09 22:37:36,b'RT @v_sadov: New post: Why C# tuples are defined as mutable value types.\nhttps://t.co/vnEYfFBEES'
+818070909844123650,2017-01-08 12:24:38,b'RT @HamillHimself: The Trumpster quote #1\n#ANewJeersToast https://t.co/qZQEGU18r6'
+816372419380334592,2017-01-03 19:55:26,b'RT @thebeebs: Had a quick try of FakeItEasy to make fakes in my c# tests. It certainly was easy.'
+815195336180465665,2016-12-31 13:58:08,b'RT @TheCodeJunkie: Just learned that &lt;inheritdoc /&gt; in a thing in C# .. who knew \xc2\xaf\\_(\xe3\x83\x84)_/\xc2\xaf'
+814237005085294592,2016-12-28 22:30:04,b'@RickStrahl thanks!'
+810280369509531648,2016-12-18 00:27:49,b'So true\nhttps://t.co/aQUdUh102l'
+810116623482974209,2016-12-17 13:37:08,"b'RT @adamralph: my slides for ""What is .NET Standard?"" from #flashcon https://t.co/HoKkVsshP0'"
+809079758789242880,2016-12-14 16:57:01,"b'RT @fakeiteasyfx: FakeItEasy 2.3.2 is out, restoring support for Ignored/That argument constraints  on ByRef-Arguments in VisualBasic\nhttps\xe2\x80\xa6'"
+808081214116659200,2016-12-11 22:49:09,"b""RT @CodeWisdom: Just one slide of many wonderful insights shared in @b0rk's RustConf keynote: https://t.co/F6O9nHfUAy \xf0\x9f\x91\x8d https://t.co/LBddWG\xe2\x80\xa6"""
+807386795851808768,2016-12-10 00:49:47,"b'RT @spolsky: If you\xe2\x80\x99re a developer working for software company, does that company own what you do in your spare time? https://t.co/Y5TLzsX\xe2\x80\xa6'"
+806837930249613312,2016-12-08 12:28:47,"b""@philwinkle I know, I'm weird :P"""
+806780560529977347,2016-12-08 08:40:49,"b""@dotnetforall you're welcome, glad you enjoyed it!"""
+806660223800852483,2016-12-08 00:42:39,b'Just blogged: Fun with the HttpClient pipeline https://t.co/q8JCVc5CCP'
+806223032914182145,2016-12-06 19:45:24,b'@terrajobst already have it in many of my projects'
+806121983297601536,2016-12-06 13:03:52,b'Verifying myself: I am thomaslevesque on Keybase.io. PxODre0GjdwMtpLtxzrhFRm2S3K9GQ6lp6Dq / https://t.co/52MiagNV09'
+805939136590970880,2016-12-06 00:57:18,b'RT @roslyn: Watch @MadsTorgersen spout written words about why you should use C# at @GOTOcph! https://t.co/OFjNMhQPzP #csharp'
+805854015053582336,2016-12-05 19:19:03,"b'RT @fakeiteasyfx: FakeItEasy 3.0.0-beta002 is out, with automatic cancellation support. https://t.co/H6wwhUrjjX'"
+805466417462177792,2016-12-04 17:38:53,"b'RT @jonatack: How to become a wizard programmer, in 5 lines. https://t.co/WZ6mYFpVmq'"
+804848997781409792,2016-12-03 00:45:29,b'@Hippopottoman @fakeiteasyfx @appveyor see https://t.co/CfjWdAZGsk'
+804848683095298048,2016-12-03 00:44:14,b'@Hippopottoman @fakeiteasyfx I was asking @appveyor ;)'
+804846351611817985,2016-12-03 00:34:58,b'@appveyor @Hippopottoman @fakeiteasyfx did you add something new to the PATH env variable?'
+804678237142085632,2016-12-02 13:26:56,b'RT @aSteveCleary: Blogged: eliding async and await https://t.co/pqZ0N2KgU5'
+803914083087032320,2016-11-30 10:50:28,"b'RT @fakeiteasyfx: FakeItEasy 3.0.0-beta001 is out!\nMore consistent return values, fixed Castle.Core dependency, and docs fix by @ar7z1\nhttp\xe2\x80\xa6'"
+801524739466526722,2016-11-23 20:36:04,b'Les nouveaut\xc3\xa9s de C# 7 #csharp https://t.co/XXLVToOvjx'
+801401301250797568,2016-11-23 12:25:34,"b""RT @OodriveOfficiel: J-1 avant le d\xc3\xa9but du #Hackathon 2016 d'Oodrive. 21 \xc3\xa9quipes s'affronteront pendant 2 jours sur le th\xc3\xa8me: Les Aliens en\xe2\x80\xa6"""
+800780310984200196,2016-11-21 19:17:58,b'RT @terrajobst: Here is a four minute video that shows the major feature of .NET Standard 2.0: making code reuse as easy as pie. https://t.\xe2\x80\xa6'
+799692513191849985,2016-11-18 19:15:27,"b""@Hippopottoman @adamralph I've been using FiraCode for a while, and I love it. And I know exactly what goes into my source ;)"""
+798303541765017600,2016-11-14 23:16:10,"b'RT @AstroKatie: ""Don\'t worry,"" said the cosmologist, ""it will all be 0K in the end.""'"
+796302237471379457,2016-11-09 10:43:42,b'RT @SajTheOne: Looks like he was right after all. #trumpwins https://t.co/y4DG12SdBD'
+796284328259055617,2016-11-09 09:32:32,b'RT @chappatte: Mr President - \xc2\xa9 Chappatte dans The New York Times https://t.co/ZzDWhVa7IH'
+795361100384600064,2016-11-06 20:23:58,b'RT @KathleenDollard: Neither skateboarding or heels normally impress me. But this!!! Wow!! https://t.co/12FjkFBN06'
+795360742576914432,2016-11-06 20:22:32,"b'RT @ThePracticalDev: One small hack for me, one giant mess for future maintainers\n\n    \xf0\x9f\x9a\x80 \xf0\x9f\x8c\x96'"
+794712300687081472,2016-11-05 01:25:52,b'@Jedd_Ahyoung @drunkvs You can vote here https://t.co/On7OMTJq7n'
+794529756477816832,2016-11-04 13:20:30,"b'https://t.co/8DmCKdNxpR @github, please fix the ""find file"" feature! Who would expect results like these?'"
+792355318256824320,2016-10-29 13:20:03,b'RT @xoofx: Just blogged: a proposal for efficient discriminated unions or structured enums in C# https://t.co/NjQYZTbwbG'
+792108703772209152,2016-10-28 21:00:06,"b""@onovotny what for? we'll have tuples soon ;)"""
+790620228556300288,2016-10-24 18:25:26,b'RT @Stuartq: First rule of REST club. Disagree on the first rule of REST club.'
+790619583807885312,2016-10-24 18:22:52,"b""@adamralph @Windows I use a French keyboard and occasionally switch to US layout, and I haven't noticed this issue"""
+790580090983907328,2016-10-24 15:45:56,"b""@ivan_zlatanov You're welcome, glad you like it!"""
+790528592618909701,2016-10-24 12:21:18,b'RT @mitsufu: Dr\xc3\xb4le de bug ?! https://t.co/QmgHsjuMn6'
+790298933507612672,2016-10-23 21:08:43,b'@bleroy happens to me all the time with StackOverflow ;)'
+789235878874980352,2016-10-20 22:44:31,"b'RT @ckolderup: Github is down, which gave me the opportunity to share this incredible moment with all of you https://t.co/5GHlDMIi3y'"
+788884651565867008,2016-10-19 23:28:52,"b'RT @dotnet: .NET Core Tooling in Visual Studio ""15"" https://t.co/UXSaYbKwFq https://t.co/5P2aXZnb9S'"
+787440584499822596,2016-10-15 23:50:39,"b'RT @RichardWestenra: Personally, I prefer to increase the spacing for each successive indent according to the Fibbonaci sequence: https://t\xe2\x80\xa6'"
+786642351343239168,2016-10-13 18:58:46,"b'RT @KathleenDollard: Some geeky amusement: https://t.co/kdoZoqdVcq\n(fwiw, my score might have been zero)'"
+786632601922637824,2016-10-13 18:20:01,b'RT @_ms123: A great reminder about Unicode and character sets https://t.co/mD5INyLDd6'
+785983660243595266,2016-10-11 23:21:22,b'RT @martinfowler: Why I think it is important to vote to defeat Mr Trump in the US Presidential Election\nhttps://t.co/3iBa1fGVW2'
+783037544099381248,2016-10-03 20:14:33,"b""RT @Hippopottoman: While we're suggesting @github features, how about rebase merging with no fast-forwarding? https://t.co/y0ZhLBNHWB"""
+782946857253240832,2016-10-03 14:14:11,"b'RT @adamralph: Feature idea for @github : github.yml - repo settings in source, overriding those in UI'"
+782317080645345281,2016-10-01 20:31:41,"b'OH: ""I think I fixed the Internet! In case you\'re curious, the Internet can be fixed by closing Fiddler."" So true!'"
+781980426806161410,2016-09-30 22:13:56,"b'RT @fakeiteasyfx: #FakeItEasy 2.3.1 released, fixing a bug introduced in 2.3.0 https://t.co/5likekJrNL'"
+780833048791228417,2016-09-27 18:14:40,"b'RT @fakeiteasyfx: Preliminary support for #dotnetcore in #FakeItEasy is featured in ""The week in .NET""\nhttps://t.co/FNWEqZSkkv'"
+780369701423681536,2016-09-26 11:33:30,"b'RT @fakeiteasyfx: FakeItEasy 2.3.0 is out!\nbug fixes,\nimproved performance, and\nthe analyzer now warns when configuring a non-virtual member'"
+779023505434218501,2016-09-22 18:24:11,"b""RT @MattAndersonBBC: Things native English speakers know, but don't know we know: https://t.co/Ex0Ui9oBSL"""
+771375492939341825,2016-09-01 15:53:43,"b""RT @fakeiteasyfx: Woot! FakeItEasy just passed 500,000 downloads! All those users can't be wrong :-p https://t.co/fXKbRHjR3W"""
+770986664164519936,2016-08-31 14:08:39,b'@Outlook it only seems to work from a non-web email client (phone or desktop)'
+770986494639108096,2016-08-31 14:07:59,"b'@Outlook I tried on 2 different machines, from different networks and with 3 different browsers. Clearing cookies and cache has no effect.'"
+770930341745942528,2016-08-31 10:24:51,"b'Hey @outlook, why can\'t I send any email? ""Sorry, https://t.co/AygabPjiQa wasn\'t able to complete this request.""'"
+769326277765595136,2016-08-27 00:10:52,b'RT @CommitStrip: A very comprehensive and precise spec https://t.co/JlLt4f0GV8 https://t.co/SspicGahyA'
+768842790427963393,2016-08-25 16:09:40,b'RT @MadsTorgersen: Try C# 7.0 now! Read all about it here and tell us what you think!\n\nhttps://t.co/30PYbOoxOx'
+768461990792540160,2016-08-24 14:56:30,b'@agogiglio you can drop a comment on my blog'
+768461229161459712,2016-08-24 14:53:29,"b'@github if I remove the SHA1 from the URL, it shows the comment'"
+768461097988788225,2016-08-24 14:52:57,"b'Hey @github, could you do something about this? The comment exists, but the link in the email notification is broken https://t.co/CTFpLAxCvT'"
+767859546274537473,2016-08-22 23:02:36,b'Just blogged: Tuple deconstruction in C# 7 https://t.co/r3DeOKDdZB #csharp'
+766307179544604672,2016-08-18 16:14:03,b'RT @shanselman: Announcing PowerShell on Linux - PowerShell is Open Source! https://t.co/neORT3O9S0'
+757513405876015104,2016-07-25 09:50:44,"b'@dotnetkicks I\'m unable to submit a story on https://t.co/IhV7K6wjDt... tried in 2 browsers on 2 different machines (""permission denied"")'"
+757354865404284929,2016-07-24 23:20:45,b'Just blogged: Tuples in C# 7 https://t.co/UrUpBQYFfr #csharp'
+756843563607031808,2016-07-23 13:29:01,b'Great news! https://t.co/d3CgDB8o9d'
+754092778011758593,2016-07-15 23:18:23,b'@jbevain I thought it was the command to overthrow a government'
+753601990572314624,2016-07-14 14:48:10,"b'RT @fakeiteasyfx: #FakeItEasy 2.2.0 is out! Better exception message when configuring non-fake, fixed a concurrency issue and a typo\nhttps:\xe2\x80\xa6'"
+753581763641896960,2016-07-14 13:27:47,"b'#FakeItEasy 2.2.0 is out! Better exception message when configuring non-fake, fixed a concurrency issue and a typo\nhttps://t.co/mEalDn0spb'"
+753326619872399361,2016-07-13 20:33:56,"b""@Hippopottoman @hmemcpy @ddoomen when a feature isn't supported, we just tell @adamralph and he fixes it ;)"""
+753326424669425664,2016-07-13 20:33:10,"b'@Hippopottoman @hmemcpy @ddoomen @adamralph We use StyleCop.MSBuild in FakeItEasy, and it supports at least *some* C# 6 features'"
+748240574365442048,2016-06-29 19:43:49,b'RT @shanselman: BREAKING: Asking a computer to delete stuff will delete stuff'
+745357658803277825,2016-06-21 20:48:08,b'Just blogged: Pitfall: using var and async together https://t.co/CgaW2HyG7z #csharp'
+744971707828551681,2016-06-20 19:14:30,b'RT @shanselman: Windows folk: Did you know you can pipe cmd prompt commands into the clipboard? https://t.co/fSE7ZHBBbB'
+744931178638082048,2016-06-20 16:33:27,"b'@matthewwarren looks like your benchmark covers many more cases, though ;)'"
+744868169660121090,2016-06-20 12:23:05,b'RT @fakeiteasyfx: #FakeItEasy 2.1.0 is out!\nAnalyzer fixes\n#GitLink source stepping\nnon-generic fakes\nset return value for any type\n\nhttps:\xe2\x80\xa6'
+742690445260656640,2016-06-14 12:09:35,"b'RT @adamralph: . @NancyFx has upgraded to @fakeiteasyfx 2.0! Have you? If not, what are you waiting for? :-) https://t.co/MG2GT0vth1'"
+738403540838821888,2016-06-02 16:14:57,"b'@IvreVirgule Ivre, BFM TV fait du journalisme https://t.co/cV8QiL8Q1o https://t.co/DmjBGfG8T1'"
+738356381888155652,2016-06-02 13:07:34,b'RT @ploeh: C# WTF of the day:\n\ndynamic x = null;\ndynamic y = null;\nvar eq = x - 42 == y; // true'
+736567086626017280,2016-05-28 14:37:32,b'@i3arnon @lwischik thanks!'
+735771756632248322,2016-05-26 09:57:11,"b'@Hippopottoman @adamralph no problem, I understood what you meant ;)'"
+735483590083940353,2016-05-25 14:52:07,b'@adamralph @Hippopottoman for me too!'
+735468889069522944,2016-05-25 13:53:42,b'RT @fakeiteasyfx: The day has come. FakeItEasy 2.0.0 is out now! Check out the improvements and fixes and the new Roslyn analyzer:\nhttps://\xe2\x80\xa6'
+733998848830509056,2016-05-21 12:32:17,b'RT @adamralph: Fans of @fakeiteasyfx - prepare your package managers! FIE 2.0 is coming your way on Wednesday! Try the RC now - https://t.c\xe2\x80\xa6'
+733584304123478020,2016-05-20 09:05:02,"b'@adamralph @VisualStudio the new VS15 Preview ""lightweight installer""?'"
+733020258575994880,2016-05-18 19:43:43,b'RT @ben_a_adams: @terrajobst @davkean @sblom @nguerrera https://t.co/0mql4al3Is'
+732663868107960320,2016-05-17 20:07:33,"b'RoslynPad is far from complete, but it looks like a very promising alternative to @linqpad https://t.co/X3pp62CdR6'"
+728011820468932608,2016-05-05 00:01:58,b'RT @adamralph: the latest @fakeiteasyfx 2.0 release candidate eagerly awaits your feedback. Make your voice heard b4 we release! https://t.\xe2\x80\xa6'
+726467764098064384,2016-04-30 17:46:26,"b'@adamralph I would make them separate packages, but add another package that includes both the library and analyzer.'"
+726466470193074176,2016-04-30 17:41:18,b'RT @adamralph: A Roslyn analyzer for a specific library. Should it be bundled with the main nupkg or be a separate nupkg?'
+723283714395017217,2016-04-21 22:54:10,"b'RT @adamralph: ""update for the update"" - there must be a better way. How about major.minor.patch? https://t.co/rBqp5dOQc4'"
+722548158107164672,2016-04-19 22:11:19,b'Just blogged: Publishing a package from @appveyor to @NuGet https://t.co/bwxUmVmxfl'
+722522157285318657,2016-04-19 20:28:00,b'Just discovered how to push a package from @appveyor to @NuGet. Pretty cool feature!'
+721443484452982784,2016-04-16 21:01:45,"b'Just blogged: Test driving C# 7 features in Visual Studio ""15"" Preview https://t.co/pfOoXBr7bV #csharp'"
+721015913563164672,2016-04-15 16:42:44,"b""@Hippopottoman I couldn't resist the challenge ;)"""
+718066995833516033,2016-04-07 13:24:47,"b'RT @laurentkempe: New post ""Moving to Cake (C# Make)"" - https://t.co/SThmPQBJav cc @cakebuildnet'"
+716609009000792065,2016-04-03 12:51:16,b'RT @github: Squash your Pull Requests on merge https://t.co/dj1eGecO9h'
+716608828717056000,2016-04-03 12:50:33,b'@adamralph @MVPAward Congrats!'
+715654001711308800,2016-03-31 21:36:24,"b""RT @shanselman: Xamarin will now be free in Visual Studio, we're open sourcing the runtime and they're joining the .NET Foundation! #Build2\xe2\x80\xa6"""
+707546819161669632,2016-03-09 12:41:21,"b'RT @fakeiteasyfx: #FakeItEasy 2.0.0-rc1 is out. More threadsafety, no more scopes, and a new way to do ordered assertions.\nGet it: https://\xe2\x80\xa6'"
+706893116461162497,2016-03-07 17:23:47,"b""@chfe910 could you please post your question on GitHub? It'll be easier to discuss"""
+705916469423509505,2016-03-05 00:42:56,"b""RT @ThePracticalDev: The last programming book you'll ever need https://t.co/cnObD8GYGZ"""
+705199180323680257,2016-03-03 01:12:41,"b'RT @fekberg: Seriously, LINQPad is such an amazing tool! https://t.co/IP70w7tp7N'"
+705196694389047296,2016-03-03 01:02:48,b'RT @xjoeduffyx: Please join me in petitioning @MadsTorgersen to permit emoji characters in C# identifiers. The world needs \xf0\x9f\x92\xa9Exception!'
+704770179838963715,2016-03-01 20:47:59,b'RT @msdev_fr: O\xc3\xb9 trouver un d\xc3\xa9veloppeur \xc3\xa0 4h du matin? :) #devlife #PassionDev #devhumor https://t.co/GafVnF9UI1'
+704756301168033792,2016-03-01 19:52:50,b'John Oliver about Donald Trump in @LastWeekTonight https://t.co/7ID4CujcxC. Hilarious!'
+702633164510990338,2016-02-24 23:16:15,"b'RT @migueldeicaza: Xamarin will be joining Microsoft!  We are bringing our love of C#, F#, TestCloud to millions more!   https://t.co/WFNrv\xe2\x80\xa6'"
+701808848080920576,2016-02-22 16:40:43,"b'@Hippopottoman yes, I ordered the Paperwhite. Even paid extra to get it with no ads (thanks for that great idea, Amazon...)'"
+701576041635119104,2016-02-22 01:15:37,"b'RIP Kindle, you served me well :( https://t.co/atQOFaUSGX'"
+701036977286750208,2016-02-20 13:33:34,b'RT @jaredpar: ref returns and ref locals just merged into the C# 7.0 tree! https://t.co/7fLqbClCgw @v_sadov'
+700631085391056896,2016-02-19 10:40:42,b'If presidential candidates were programming languages... https://t.co/XGfHnHkv74'
+700401564150853632,2016-02-18 19:28:40,b'RT @WesternDevs: Interesting in starting out in open source? We talk with @adamralph on putting yourself out there https://t.co/dHPy3M64P0'
+700244677698719744,2016-02-18 09:05:15,"b'RT @Hippopottoman: ""I love me some two-line long methods. I very rarely manage to fit a bug into only two lines.""\n- @ericlippert, in https:\xe2\x80\xa6'"
+699389502570237952,2016-02-16 00:27:06,"b""At last I'm going to be able to debug in VS2015 without wanting to break my keyboard https://t.co/M1cj7fhsa2"""
+696843280458317824,2016-02-08 23:49:19,b'RT @onovotny: Just blogged: Project.json all the things https://t.co/DkIxtZzIcs'
+696486365752647680,2016-02-08 00:11:04,"b'RT @xjoeduffyx: My next Midori essay is up, The Error Model, about our multi-year journey building a robust system. Enjoy! https://t.co/DSk\xe2\x80\xa6'"
+696482954143469568,2016-02-07 23:57:30,"b""Hey @dotnetkicks, can't submit a story... https://t.co/Wal5ZodkZV"""
+696127394634145792,2016-02-07 00:24:38,"b'XamlAnimatedGif 1.1.0 released, now with Silverlight 5 support (thanks to Github contributor tpola!) https://t.co/lVcBnDa8DQ'"
+696098412287098881,2016-02-06 22:29:29,"b'@NickeManarin never thought about it, but why not? The XamlAnimatedGif code base should help'"
+695429604991827968,2016-02-05 02:11:52,b'@jbevain easy since VS2012: version = year - 1... :)'
+693898671960801280,2016-01-31 20:48:30,b'@Hippopottoman you can also git fetch + git rebase origin/master'
+693221183249059845,2016-01-29 23:56:24,"b'RT @shanselman: 10 year old: ""So is Donald Trump more like Doctor Octopus or Doctor Doom?""\n8yo: ""But this presumes he\'s smart and a doctor?""'"
+693174699870806016,2016-01-29 20:51:41,"b'@github, Github Desktop, could you please stop resetting my credential.helper setting? EVERY TIME I run GH Desktop, I have to set it back...'"
+692506565853716481,2016-01-28 00:36:46,"b'RT @iainthomson: What computer users see in security warning boxes #enigma2016  Very, very true. https://t.co/8V4SlGwKAV'"
+692503861341347840,2016-01-28 00:26:01,b'RT @github: Say hello to our new Markdown toolbar: https://t.co/V8SxUau3wm https://t.co/y9w1Ywx5m2'
+692503710996512768,2016-01-28 00:25:25,"b""@github awesome! But there's not keyboard shortcut for code (Ctrl-K like on StackOverflow), and link should be Ctrl-L"""
+692096011041382400,2016-01-26 21:25:22,"b'RT @fakeiteasyfx: #FakeItEasy 2.0.0-beta011 is  out!\nImproved: fake configuration, dummies\nSpecial thanks to @hmemcpy\nGet it: https://t.co/\xe2\x80\xa6'"
+690708354558197760,2016-01-23 01:31:19,"b'RT @LesBricodeurs: ""D\xc3\xa9passement de pile"" Et oui, google utilise translate sur ses pages... https://t.co/clwcWGUSAq #StackOverflow https://t\xe2\x80\xa6'"
+690698161745203200,2016-01-23 00:50:48,"b'@devlead @stevedesmond_ca @terrajobst @wordpressdotcom subtrees are better, but far from perfect... takes forever to ""git subtree push""'"
+690265556927279106,2016-01-21 20:11:47,"b'RT @bensummers: Er, thank you for the suggestion GitHub? https://t.co/TRzqzYHWXf'"
+689944743820795907,2016-01-20 22:57:00,b'RT @terrajobst: Here is a handy translation guide for the occasional LinkedIn job offer. HTH :-) https://t.co/4HYOINkX5x'
+689602964433018880,2016-01-20 00:18:53,b'Much better name IMO https://t.co/e27pFpl5kS'
+689014593939750912,2016-01-18 09:20:55,"b""@SAV_Numericable voil\xc3\xa0 le r\xc3\xa9sultat d'un test fait ce matin : https://t.co/nm4Gqlz9Gz"""
+689013645485969408,2016-01-18 09:17:08,"b""@SAV_Numericable mon num\xc3\xa9ro d'abonn\xc3\xa9 est le #94463986#"""
+689008536513302528,2016-01-18 08:56:50,"b'@SAV_Numericable d\xc3\xa9bit en download normal (94Mbps), mais d\xc3\xa9bit en  upload extr\xc3\xaamement r\xc3\xa9duit (0.6Mbps)'"
+688521285098434560,2016-01-17 00:40:41,b'Just blogged: Automatically inject fakes in test fixture with @fakeiteasyfx https://t.co/GgBVCnqLcZ #FakeItEasy #csharp'
+687419900311265280,2016-01-13 23:44:10,"b""RT @martinfowler: 'My main beef with single page apps, or SPAs for short, is that they\xe2\x80\x99re not \xe2\x80\x9con the web\xe2\x80\x9d' - @stilkov \nhttps://t.co/dFsR5k\xe2\x80\xa6"""
+687379469879885828,2016-01-13 21:03:31,b'RT @JetBrainsRider: Please welcome our cross platform C# IDE just announced at #ndclondon #jetbrainsRider https://t.co/u7lOQF4wDa'
+687017184892186625,2016-01-12 21:03:55,"b'RT @jbevain: \xc2\xabI disagree with your coding style, but I will use it to death when contributing to your project\xc2\xbb, Voltaire.'"
+686701075668320258,2016-01-12 00:07:49,b'Meanwhile on Mars #10 \xe2\x80\x93 Life on Mars? https://t.co/KekBSt60w8 RIP #DavidBowie'
+686171760253890560,2016-01-10 13:04:30,"b'@adamralph ah, I understand your sudden burst of activity on the project now ;)'"
+685831464353685504,2016-01-09 14:32:17,b'RT @Calvinn_Hobbes: #StarWars #MashUp \xf0\x9f\x91\x8c https://t.co/ePIRe98FgY'
+685530497410281473,2016-01-08 18:36:21,"b'RT @jonskeet: By popular demand, blogged: To base() or not to base(), that is the question - https://t.co/cpToVOwXYL'"
+684722269977968640,2016-01-06 13:04:45,"b""RT @fakeiteasyfx: We're very excited to add a new owner to the @fakeiteasyfx ranks.\nLet's have a warm welcome for @thomaslevesque."""
+682559234265972737,2015-12-31 13:49:37,b'Just blogged: Using multiple cancellation sources with CreateLinkedTokenSource. #csharp\nhttps://t.co/kQKPal0yN9'
+678012735003717632,2015-12-19 00:43:27,"b""@jonskeet good choice! I feel lost without it. It's so easy to use that I don't even use a git GUI at all"""
+675632537683828736,2015-12-12 11:05:24,"b""RT @shanselman: If you're a @onedrive user, go here now to preserve your 15gigs of free storage. https://t.co/50wcxEmk9q"""
+674287095326900224,2015-12-08 17:59:05,"b'Essential .NET - Designing C# 7, by @MarkMichaelis https://t.co/pSDjAeg8P6 #csharp'"
+670026164820406277,2015-11-26 23:47:40,b'so true https://t.co/6l6ebYehnw'
+668951239904882688,2015-11-24 00:36:18,b'RT @marcgravell: Blogged: the road to DNX - part 1: https://t.co/0sINzUaipk'
+666433592499793920,2015-11-17 01:52:04,b'RT @thebeebs: Just used this animated gif lib in Windows 10 IOT o a raspberry PI. Works a treat: https://t.co/ByDNE1mDAT cc @thomaslevesque'
+666433563945009152,2015-11-17 01:51:58,b'@thebeebs I had never even tried it on a Raspberry Pi! Glad to know that it works ;)'
+664514289580040192,2015-11-11 18:45:27,b'Just blogged: Explicitly switch to the UI thread in an async method #csharp https://t.co/IzREuZKzSc'
+663818701246963712,2015-11-09 20:41:26,b'RT @MVPAward: Save the Date: Microsoft Connect () will be live streaming on November 18th and 19th from New York! https://t.co/HxSE0Swdk8 #\xe2\x80\xa6'
+663422126192488448,2015-11-08 18:25:35,b'RT @odenaxos: Dot.Blog | LINQPad 5 est sorti ! https://t.co/NwZNdDHzzb #csharp #linq #linqpad'
+663087037319405568,2015-11-07 20:14:03,"b'RT @terrajobst: Meet EmDrive, a propellant-less propulsion for space travel. Fascinating! https://t.co/krZtUA6p8r'"
+662420548232880128,2015-11-06 00:05:40,"b""@jonskeet I don't know if there's a ready made file explorer control, but you can create one in minutes with WPF + MVVM"""
+659044682249433088,2015-10-27 16:31:11,"b""@rhundhausen thanks for reminding me about it BTW. I've been wanting to replace it with an HTML5 version for some time, now it's done."""
+659018074167889920,2015-10-27 14:45:27,"b""@rhundhausen it's the WP Cumulus plugin https://t.co/0zCyDYdWmU. But it seems it's no longer available on https://t.co/hk1vSslm4q..."""
+652816482737487873,2015-10-10 12:02:32,b'RT @terrajobst: Want to stage individual lines but sick of git add -p? Give git istage a try! https://t.co/I7wwqcpc0Q'
+652816430442901504,2015-10-10 12:02:20,"b""@terrajobst looks great, I'll give it a try!"""
+646831094147510272,2015-09-23 23:38:45,b'Cross-app communication in Windows 10 http://t.co/wq8PGaxXYK #Windows10'
+646078091706634241,2015-09-21 21:46:35,b'So true! http://t.co/OXMvXYaevw'
+641655313817579520,2015-09-09 16:52:02,"b'@SMBCComics, the new site design is completely broken in Firefox (works fine in Chrome, Edge and IE 11)'"
+640150447035125760,2015-09-05 13:12:14,b'Just blogged: [WPF] Prevent the user from pasting an image in a RichTextBox\nhttp://t.co/2QzgTKpmVK'
+639172013756694528,2015-09-02 20:24:17,"b'@intellijidea @jetbrains great idea, please include this in @resharper as well !'"
+639170840010035200,2015-09-02 20:19:38,b'RT @tenderlove: When programmers get home from vacation are they touring complete?'
+637600286161399808,2015-08-29 12:18:48,b'Awesome! #linqpad 5 gets #Roslyn syntax tree visualizer!'
+632879989952770048,2015-08-16 11:42:02,"b'Weak events in C#, take two http://t.co/FExHbGAb69 #csharp'"
+627852384929189888,2015-08-02 14:44:08,"b""Just started using @cakebuildnet to build my .NET projects, and it's awesome! http://t.co/FCu3Gq5Xv4"""
+626803767887962112,2015-07-30 17:17:18,b'Can you solve this small C# puzzle (#2) ? http://t.co/B3PHwTLoBp #csharp'
+618348231555158016,2015-07-07 09:18:01,b'Visual Studio 2015 is coming 7/20/2015! #VisualStudio\nhttp://t.co/MErpQKCTwA http://t.co/jqVuYgobxp'
+615237016729591808,2015-06-28 19:15:09,b'How to retrieve dates as UTC in SQLite http://t.co/sQyMJVVyT3 #csharp #sqlite'
+613335747035271169,2015-06-23 13:20:11,b'@jcdickinson good point!'
+613312896513245184,2015-06-23 11:49:23,"b'@i3arnon @matthewwarren great answer! it covers everything I said in my post, and more'"
+612711736014172160,2015-06-21 20:00:36,b'Exception filters in C# 6: their biggest advantage is not what you think http://t.co/Os7lg69kAm #csharp'
+610411689549369345,2015-06-15 11:41:02,"b'@Hippopottoman yes, I had changed the URL and forgot to tweet the new one... thanks!'"
+610411544560697344,2015-06-15 11:40:27,b'Create an auto-mocking container with #Unity and #FakeItEasy\nhttp://t.co/QW5Oy3W70z \xe2\x80\xa6 #csharp'
+606261432322293760,2015-06-04 00:49:23,b'Async and cancellation support for wait handles http://t.co/dFWxuzzY3B'
+593501965482528768,2015-04-29 19:47:49,b'RT @SSomasegar: Visual Studio 2015 RC is available for download now. https://t.co/11PC31iYEZ.'
+588057300562276352,2015-04-14 19:12:40,b'Mise \xc3\xa0 jour : Les nouveaut\xc3\xa9s de C# 6 #csharp http://t.co/lQ4iVqdYuo'
+582666832122941440,2015-03-30 22:12:52,"b'@ericlippert , interesting question for you on StackOverflow http://t.co/bHrUSq4a7u'"
+576202598144995328,2015-03-13 02:06:19,b'Leveraging ReSharper annotations #resharper #visualstudio #csharp http://t.co/NJjffDgiUZ'
+576129933354930176,2015-03-12 21:17:34,"b""Goodbye, Google Code! You won't be regretted. http://t.co/Cyw8Qq65hI #GoogleCode #GitHub"""
+575085778981748736,2015-03-10 00:08:28,"b""Can you solve this small C# puzzle? http://t.co/QXrTO3008a (to be fair, it's not that hard...) #csharp #puzzle"""
+571406518404423680,2015-02-27 20:28:24,"b'@mileyja basically, it lets you examine an exception without actually catching it; it happens before the stack is unwound'"
+571406279563993088,2015-02-27 20:27:27,"b""@mileyja i'm afraid it's a bit long for a tweet ;). Maybe I'll write a post about this; there's a lot of things to blog about these days ;)"""
+570535424541786112,2015-02-25 10:46:59,"b""@ovh_support_fr je ne pr\xc3\xa9f\xc3\xa8re pas donner mon NIC sur Twitter... j'ai ouvert un ticket d'incident."""
+570335834903150592,2015-02-24 21:33:54,"b""@ovh_support_fr pb sur l'h\xc3\xa9bergement Windows mutualis\xc3\xa9 ? mon site ne r\xc3\xa9pond plus, et je ne peux plus me connecter en FTP ni via Remote IIS"""
+570210707922423808,2015-02-24 13:16:41,b'Customizing string interpolation in C# 6 http://t.co/uTxTVzFmBF #csharp #roslyn #visualstudio 2015 ctp 6'
+569936576890826753,2015-02-23 19:07:23,b'#VS2015 CTP 6 is out! http://t.co/JmhGjjfbw4'
+564876321864830976,2015-02-09 19:59:44,"b'@github  https://t.co/1hUHKApeXq git 2.3 is out, but Github for Windows still packages msysgit 1.9.4... why is that?'"
+562013060681179139,2015-02-01 22:22:10,b'Async unit tests with NUnit: async void vs. async Task\nhttp://t.co/GH0pT3fEpk'
+557896228730834945,2015-01-21 13:43:20,"b""@James_Willock, cool! keep in mind it's still an alpha, though ;)"""
+556567398527275011,2015-01-17 21:43:02,b'RT @DotNet: This is a good problem to have. https://t.co/pHkUHSBI65 http://t.co/fzB5OIQzbu'
+556488603829043201,2015-01-17 16:29:56,"b'WpfAnimatedGif is dead, long live XamlAnimatedGif! http://t.co/Xap3Iyz9Fj #XAML #GIF'"
+548828854316326913,2014-12-27 13:12:50,"b""@michaellperry, you're welcome! I'm glad you found it helpful"""
+541659149567012865,2014-12-07 18:22:59,b'Optimize ToArray and ToList by providing the number of elements #linq #csharp http://t.co/VY0RZregnz'
+536357943827259393,2014-11-23 03:17:53,b'Easily convert file sizes to human-readable form with HumanBytes http://t.co/77ilGxyREG #csharp'
+534156935843827712,2014-11-17 01:31:52,b'StringTemplate: another approach to string interpolation http://t.co/wmdo6HrXXV #CSharp'
+532914292296019968,2014-11-13 15:14:03,b'My blog (http://t.co/7qZqcN5DuT) is back online :)'
+532573245397295104,2014-11-12 16:38:51,"b""My blog (http://t.co/1xewzPI7oh) is currently down; I'm working with the hosting provider to put it back online."""
+532568401701793792,2014-11-12 16:19:36,b'WPF is not dead! http://t.co/PSB6SnNJT3'
+529743487080861697,2014-11-04 21:14:24,b'Passing parameters by reference to an asynchronous method #CSharp http://t.co/Svy1tgIYBE'
+528937914269712385,2014-11-02 15:53:20,b'Easy unit testing of null argument validation http://t.co/eJAW2HBQ9x'
+528937217042165760,2014-11-02 15:50:34,"b'Visual Studio Online + Git integration with Team Explorer : make sure your remote is named ""origin"" http://t.co/duuZlRAL0x'"
+501371789512290305,2014-08-18 14:15:24,"b""@Outlook 3 months, and still nothing... what's going on?"""
+461602047788589057,2014-04-30 20:24:39,"b'Vote for the new accessibility modifier keyword in C# 6. My vote went to ""restricted"". #csharp https://t.co/qOjgLw494Z'"
+456710285370617856,2014-04-17 08:26:31,b'Les nouveaut\xc3\xa9s de C# 6 : http://t.co/lQ4iVqw7Iw'
+431183422698950656,2014-02-05 21:51:53,b'[WPF] Declare global hotkeys in XAML with NHotkey\nhttp://t.co/bTlGuEJDMp'
+422896478873329664,2014-01-14 01:02:32,b'Tackling timeout issues when uploading large files with HttpWebRequest\nhttp://t.co/fcVsPluae7'
+406908372139532288,2013-11-30 22:11:30,"b'Uploading data with HttpClient using a ""push"" model\nhttp://t.co/lkByklEvMx'"
+403953035476336640,2013-11-22 18:28:03,b'http://t.co/rA9DXTyuB0'
+400781067612745728,2013-11-14 00:23:47,b'Running a custom tool automatically when a file is modified\nhttp://t.co/lm71h4CIJ8'
+399358692836904960,2013-11-10 02:11:46,b'Strongly typed helper for toast notifications\nhttp://t.co/QYqbzj9i1f'
+397463088909144065,2013-11-04 20:39:19,b'Showing result suggestions in a WinRT SearchBox: bug regarding the image. \nhttp://t.co/jPhPiko3tZ'
+212975556935942144,2012-06-13 18:31:44,b'Using C# 5 caller info attributes when targeting earlier versions of the .NET framework http://t.co/wEya2YEa'
+211873553845469185,2012-06-10 17:32:46,b'Little known new features in Visual Studio 2012 http://t.co/9eeO1KGZ'

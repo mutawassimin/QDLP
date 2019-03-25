@@ -1,0 +1,674 @@
+twitter_id,date,tweet
+1109281191167852544,2019-03-23 02:30:20,"b""@hahnrobert @PeterVenables @elbieinwaterloo Don't let Chris sidetrack you!"""
+1109139043575455744,2019-03-22 17:05:29,"b""Today on FAIC: We're back to our regularly scheduled randomness, after a lot of unintentional randomness yesterday!\xe2\x80\xa6 https://t.co/0jZZpmyLj4"""
+1108874055619239936,2019-03-21 23:32:31,"b'@andyswaff @tckscz @joonu75 Funnily enough, due to a minor mis-wording several of the editions of the C# spec techn\xe2\x80\xa6 https://t.co/KyoZyksiIK'"
+1108872232195940353,2019-03-21 23:25:16,"b""@oferns @shahedC @shanselman Oh that's easy; everyone's FAVOURITE post is about marrying your FAVOURITE BOYFRIEND: https://t.co/jlhqVvfbNX"""
+1108869356954382336,2019-03-21 23:13:51,"b'Thanks to @shanselman, @danielfe and their colleagues, my MSDN blog is back up. Thanks all for your prompt attentio\xe2\x80\xa6 https://t.co/SSn0R61ksA'"
+1108869031367331840,2019-03-21 23:12:33,"b""And it's back!"""
+1108868244100644864,2019-03-21 23:09:25,"b""@hahnrobert The fakebux will never exist, but that was never the scam. They're harvesting the social network links\xe2\x80\xa6 https://t.co/aK1zBIhPet"""
+1108867848741359616,2019-03-21 23:07:51,b'@hahnrobert These sorts of efforts are pretty weak but it is definitely worth calling them out. The ones that are r\xe2\x80\xa6 https://t.co/9s1i9JInaj'
+1108858002444967937,2019-03-21 22:28:44,"b'@hahnrobert You got it in one. Also, any of those ""What was your favourite X when you were a kid? Take our quiz!"" l\xe2\x80\xa6 https://t.co/42F6KFcUzy'"
+1108824973924167681,2019-03-21 20:17:29,b'@bruce_lippert @joonu75 It will get sorted. But what part of my posts about stochastic programming with the discret\xe2\x80\xa6 https://t.co/M4BAWUMGvi'
+1108790308580397056,2019-03-21 17:59:44,b'@billwagner @shanselman @akoeplinger @h0x0d Thanks Bill!'
+1108790043185803264,2019-03-21 17:58:41,"b'@tckscz @joonu75 Also, obviously object does not inherit from object. :)'"
+1108789936935731200,2019-03-21 17:58:15,b'@tckscz @joonu75 Unmanaged pointer types do not participate in the normal type hierarchy. Also I discussed whether\xe2\x80\xa6 https://t.co/NAB4dzXZ1L'
+1108788551288668161,2019-03-21 17:52:45,"b'@shanselman @akoeplinger @h0x0d Thanks Scott, appreciated!'"
+1108778547064102912,2019-03-21 17:13:00,"b'@BrandonH_MSFT I was unaware that I had to do any such thing, and at least one of the most valuable blogs was writt\xe2\x80\xa6 https://t.co/BaoKXMhyeR'"
+1108776180163854336,2019-03-21 17:03:36,"b'@h0x0d Oh, that is tragic. Those blogs were vital to understanding the early design of .NET.'"
+1108732137019068416,2019-03-21 14:08:35,b'Apparently my MSDN blog has been taken down; I do not know why. Unfortunately there are thousands of links to it th\xe2\x80\xa6 https://t.co/T4S8nxOvV4'
+1108421571016708096,2019-03-20 17:34:30,"b""@hmemcpy I'm currently in the middle of an enormous series about the probability monad on https://t.co/hXEdnp4nx4.\xe2\x80\xa6 https://t.co/sFt9odUBSP"""
+1108419878371778560,2019-03-20 17:27:47,b'@hmemcpy Thanks for the shout-out. My current series on the probability monad got me thinking about that old series\xe2\x80\xa6 https://t.co/OJ0kHUg3kU'
+1107778672327417856,2019-03-18 22:59:51,"b""@VivekRagunathan @matthewwarren I haven't looked at that code in a while! I built the table-driven solution because\xe2\x80\xa6 https://t.co/tV1i2Y7UuQ"""
+1107690527984484356,2019-03-18 17:09:36,b'Today on FAIC: We can optimize SelectMany on probability distributions in much the same way that we previously opti\xe2\x80\xa6 https://t.co/U4YPVDEJiz'
+1106239193401819136,2019-03-14 17:02:31,"b""Today on FAIC: As we implied last time, the probability distribution type is in fact a monad. We'll make a few more\xe2\x80\xa6 https://t.co/ujP6LGFRR5"""
+1105537324652232704,2019-03-12 18:33:32,b'@panopticoncntrl Bribery is nothing more than rent-seeking; access to the powerful is a necessary condition of succ\xe2\x80\xa6 https://t.co/omLP8AR2HN'
+1105535379619246080,2019-03-12 18:25:49,"b""@panopticoncntrl They're not doing it because of the high quality of the CS program. They're doing it because their\xe2\x80\xa6 https://t.co/2HHufjST8k"""
+1105139846115319813,2019-03-11 16:14:06,"b""Today on FAIC: We'll see how to combine a likelihood function with a prior probability, and as I'm sure you've anti\xe2\x80\xa6 https://t.co/LhEaLJ3bKC"""
+1104429957671878656,2019-03-09 17:13:15,"b""@PauloMorgado @gblock Thanks for the heads-up! Yes, I have archived my MSDN posts. I'll move them to\xe2\x80\xa6 https://t.co/fBi4gpDeoW"""
+1103721113060749312,2019-03-07 18:16:34,"b""Today on FAIC: we use the fact that we're dealing in pure functions to optimize Where and Select on discrete distri\xe2\x80\xa6 https://t.co/BOLx87JpVi"""
+1103364140775530496,2019-03-06 18:38:05,b'@jonskeet @terrajobst @mhmd_azeez @billwagner @MarkMichaelis Absolutely. One of the best bits of advice I got from\xe2\x80\xa6 https://t.co/dpUwMSoVFX'
+1103363540730048513,2019-03-06 18:35:42,b'@terrajobst @mhmd_azeez @billwagner @MarkMichaelis @jonskeet I think those skills can be improved like you would im\xe2\x80\xa6 https://t.co/Cuc3KW4ygH'
+1103362961576321024,2019-03-06 18:33:24,"b'@terrajobst @mhmd_azeez @billwagner @MarkMichaelis @jonskeet Indeed, I was taught at msft very early in my career t\xe2\x80\xa6 https://t.co/7eDHLpP76D'"
+1103108891577991168,2019-03-06 01:43:49,"b'@billwagner @terrajobst @apardoe @pati_gallardo @MarkMichaelis @jonskeet I thoroughly agree. In addition, ""C# in a\xe2\x80\xa6 https://t.co/m4TVzOKas1'"
+1103108065874726912,2019-03-06 01:40:32,"b'@billwagner @terrajobst @apardoe @pati_gallardo @MarkMichaelis Thank you for the kind words Bill; to be fair, my co\xe2\x80\xa6 https://t.co/vmmA1z15uI'"
+1102950228804591618,2019-03-05 15:13:21,"b'@morpheo @AmbientLion @The_McJones That is certainly true. However, I suspect that if you polled compiler devs work\xe2\x80\xa6 https://t.co/D0EZzUP760'"
+1102693220763332608,2019-03-04 22:12:05,"b'@codinghorror @rory_blyth I don\'t know Rory personally but I still point people to ""Excel as a Database"" quite freq\xe2\x80\xa6 https://t.co/3fAYGJeuIl'"
+1102664567253958656,2019-03-04 20:18:14,"b'@AmbientLion @The_McJones @headinthebox once characterized that to me as ""syntactic sodium"" vs  ""syntactic sugar"";\xe2\x80\xa6 https://t.co/ROTyvBWp3F'"
+1102656977916723200,2019-03-04 19:48:04,b'@AmbientLion @The_McJones Another axis which interests me is finding the right balance between generality and speci\xe2\x80\xa6 https://t.co/qY4KReQACS'
+1102656224649048065,2019-03-04 19:45:04,b'@AmbientLion @The_McJones You are right to identify concision as a likely impediment to clarity; we certainly do no\xe2\x80\xa6 https://t.co/GNko5UfJ2E'
+1102654172409679872,2019-03-04 19:36:55,b'@AmbientLion @The_McJones And I frequently solicit feedback from novice developers who find certain language featur\xe2\x80\xa6 https://t.co/reacHECCXB'
+1102653809321422848,2019-03-04 19:35:29,"b""@AmbientLion @The_McJones I never have done a formal consultation like you describe. I've certainly done plenty of\xe2\x80\xa6 https://t.co/4ZsJfumYSn"""
+1102649608839159813,2019-03-04 19:18:47,b'@joeflateau @The_McJones Brilliant!'
+1102637408967782400,2019-03-04 18:30:18,"b""Friends attending the 2019 #mvpsummit: I won't be attending this year, but if you'd like to get together and catch\xe2\x80\xa6 https://t.co/JxPmcJYcAJ"""
+1102635850137911296,2019-03-04 18:24:07,b'@The_McJones I have the opposite problem; when writing raw HTML I very frequently write &amp;lt; when I mean &amp;gt; and v\xe2\x80\xa6 https://t.co/1I9csjCwbY'
+1102632958307889152,2019-03-04 18:12:37,"b""Today on FAIC: we'll add conditions to the outputs of distributions, and put some restrictions on the sorts of pred\xe2\x80\xa6 https://t.co/gPNlx67fK8"""
+1101329065968001025,2019-03-01 03:51:25,b'@jtauber I have had that conversation many times and it never gets old. :)'
+1101175380306735104,2019-02-28 17:40:44,"b""Today on FAIC: we're implementing the alias method for small-integer-weighted probability distributions. https://t.co/ncOsAzWUxD"""
+1101173332961968128,2019-02-28 17:32:36,"b""@karalynnwes Sorry you're having a hard time, but I am an expert in the design of programming languages, not practi\xe2\x80\xa6 https://t.co/IqwVVbwrZv"""
+1100464030324412416,2019-02-26 18:34:05,b'Today on FAIC: Implementing unfair dice rolling using rejection sampling. https://t.co/tdhh7D8PXL'
+1099040433907294208,2019-02-22 20:17:13,b'@haacked And do the kids also have an interest in combinatory logic? Learning about combinators at a relatively ear\xe2\x80\xa6 https://t.co/CFAW2At945'
+1099038830408065024,2019-02-22 20:10:50,b'@haacked I have some thoughts but it would depend on the application. Are the kids interested in critical analysis\xe2\x80\xa6 https://t.co/G8MZjgFGk5'
+1098627585049653248,2019-02-21 16:56:42,b'Today on FAIC: Continuing my series on improving infrastructure for randomness in C# by implementing a non-uniform\xe2\x80\xa6 https://t.co/m1zNkrsvjL'
+1098425471258116097,2019-02-21 03:33:34,b'@AdamRackis @dan_abramov @acemarke @ryanflorence @RReverser @swyx I agree that choice of type variable name should\xe2\x80\xa6 https://t.co/Mja8GIUOYJ'
+1098422186245640192,2019-02-21 03:20:31,b'@AdamRackis @dan_abramov @acemarke @ryanflorence @RReverser @swyx I have a blog article in the queue about this des\xe2\x80\xa6 https://t.co/T05N8HOvkp'
+1097991342444052480,2019-02-19 22:48:30,"b'@klev_paixao @jon_cham Short answer: my bad; sorry! Long answer, see Jon and my answers to this SO question: https://t.co/KEX8z6II5n'"
+1097896748041723904,2019-02-19 16:32:37,"b""Today on FAIC: we'll try to build a correct, efficient and fluent API for sampling from an arbitrary list, and end\xe2\x80\xa6 https://t.co/G3oYPrnC7h"""
+1096502296525950977,2019-02-15 20:11:34,"b""By popular request, I'm putting the code for my ongoing series about probabilistic programming on GitHub at\xe2\x80\xa6 https://t.co/sMrMvo9nin"""
+1096100892481269761,2019-02-14 17:36:31,"b""Today on FAIC: let's implement two more simple discrete distributions: singleton and Bernoulli. https://t.co/MST2IsPkZu"""
+1096059351192629250,2019-02-14 14:51:27,"b'@ThatVBGuy And is it ""the ++ comes after, so it is the value after the increment"" or ""the i comes before, so it is\xe2\x80\xa6 https://t.co/sZDWhsX7vu'"
+1095409996987228160,2019-02-12 19:51:09,b'Today on FAIC: @ThatVBGuy has started a new blog about pragmatic programming language design and other fabulous adv\xe2\x80\xa6 https://t.co/SKji6FvmbK'
+1095002331731521536,2019-02-11 16:51:14,"b'Today on FAIC: We continue our series on better randomness with a straightforward implementation of the ""fair die""\xe2\x80\xa6 https://t.co/rvnDg7JAeA'"
+1094985874184364033,2019-02-11 15:45:50,b'@peetm You have a very good memory. Back then I was using WATCOM VI as my editor with bright green text on black ba\xe2\x80\xa6 https://t.co/Tuui0PUiMg'
+1094977272983969792,2019-02-11 15:11:40,"b'@peetm My goodness, that was a long time ago!'"
+1093569859315630080,2019-02-07 17:59:06,"b'Today on FAIC: What are we really doing when we ask for ""the next random number""?  Sampling from a standard uniform\xe2\x80\xa6 https://t.co/imw8QSoWEa'"
+1093225378955419649,2019-02-06 19:10:16,"b""@jaredpar It's complicated. Is the distinction you're drawing here between *implementation* and *convertibillity (w\xe2\x80\xa6 https://t.co/yDisah5Fdj"""
+1092537527989198848,2019-02-04 21:36:59,"b""@DavidAns I don't have a strong background in PRNG theory or practice, so I see no reason why I'm more likely to be\xe2\x80\xa6 https://t.co/hZycJtcBoX"""
+1092528244232839168,2019-02-04 21:00:06,"b""@otac0n That's excellent! However most of my series is going to be about higher level abstractions, not about the A\xe2\x80\xa6 https://t.co/zE0WJ6X9Je"""
+1092477291479719936,2019-02-04 17:37:38,"b""@Strappa71 That's a good point -- or, is it a high point?"""
+1092465932130111488,2019-02-04 16:52:29,"b'Today on FAIC: fixing the trivial problems with generating random numbers, as a precursor to powerful improvements\xe2\x80\xa6 https://t.co/aHsjR1KZId'"
+1092461032117657600,2019-02-04 16:33:01,"b""@peetm You'll have to give me more context!"""
+1091163265051222017,2019-02-01 02:36:09,b'@dcwuser @jonskeet We are completely on the same page there! But we can also do much better. Too much code that dea\xe2\x80\xa6 https://t.co/oOdQuzC3Ow'
+1091101766672764928,2019-01-31 22:31:47,b'@shog9 @JasonPunyon I delete abusive comments without notice (and get very few as a result; the trolls left long ag\xe2\x80\xa6 https://t.co/DwLI41m7cO'
+1091101137879556096,2019-01-31 22:29:17,"b'@dcwuser @jonskeet Are you similarly nervous about the impacts of checking array bounds, immutable strings, garbage\xe2\x80\xa6 https://t.co/HULff0XGgZ'"
+1091051247971389440,2019-01-31 19:11:02,"b""Today on FAIC: I'm starting a new, probably very long series on how we might improve programming using random numbe\xe2\x80\xa6 https://t.co/DrTNK7x6MU"""
+1089949424032202752,2019-01-28 18:12:47,"b""@evntdrvn That's weird; aside from setting the default colour to purple, I'm using the default Wordpress font setti\xe2\x80\xa6 https://t.co/2oNX3YGaoK"""
+1089943957503496200,2019-01-28 17:51:04,"b'Today on FAIC: I finish up my series on Hughes lists with the story of how Microsoft ""NO HIRE""d me 23 years ago. https://t.co/J8G5DAtg5b'"
+1088507860567261184,2019-01-24 18:44:32,"b""Today on FAIC: Let's implement a Hughes list in C#; that's the persistent, immutable, efficiently catenable data st\xe2\x80\xa6 https://t.co/W8WD6fKYRF"""
+1087797794952294400,2019-01-22 19:42:59,b'@andygocke The unchecked int arithmetic by default decision was I believe motivated by the unfortunate fact that wh\xe2\x80\xa6 https://t.co/W2oZCxPPYI'
+1087777839846350849,2019-01-22 18:23:41,"b""Today on FAIC I'm starting a short series on a fascinating approach to implementing immutable persistent linked lis\xe2\x80\xa6 https://t.co/41I7UpT949"""
+1087224358207025153,2019-01-21 05:44:21,"b'The skies cleared in Seattle just in time! 0.5 seconds at iso 800, f5.6, 300mm lens. https://t.co/IU5zJw3Ngr'"
+1086336752158007296,2019-01-18 18:57:19,b'Today on FAIC: What are the semantics of an array or user-defined indexing operation in C# if there is an exception\xe2\x80\xa6 https://t.co/Jseo6CQFe4'
+1086070268756258822,2019-01-18 01:18:24,"b'@washingtonpost Why did Mousebat, Follicle, Looseliver, Goosecreature, Vendetta, Ampersand, Wapcaplet and Prang get left off the sign?'"
+1085601819189948416,2019-01-16 18:16:57,"b'Today on FAIC: I finish up my short series on ""dual numbers"" by showing how they can be used to compute the gradien\xe2\x80\xa6 https://t.co/l7P99977PD'"
+1085018551373619200,2019-01-15 03:39:15,b'@jaredpar I asked Peter H if he had any memory of this decision; he did not. But he pointed out that if there is no\xe2\x80\xa6 https://t.co/W2jvNrsCZJ'
+1085014304326205440,2019-01-15 03:22:23,b'@jaredpar I wondered that as well; IIRC it was to deal with situations where there were overloads like M(const int*\xe2\x80\xa6 https://t.co/6U3TLEns3g'
+1084839963013730304,2019-01-14 15:49:37,b'Today on FAIC: do dual numbers really compute the derivative of a polynomial? What about other analytic functions?   https://t.co/3iNET3XUT9'
+1084131216771567616,2019-01-12 16:53:18,"b'@vreshetnikov @controlflow To clarify, you want f such that f(x) = 0 for x &lt;= 0, f(x) = 1 for f(x) &gt;= 1, and f and\xe2\x80\xa6 https://t.co/nqegvYRVxY'"
+1083401071584673792,2019-01-10 16:31:58,"b'Today on FAIC: We implement ""dual numbers"" in C# in just a few lines of code, and discover that they have a surpris\xe2\x80\xa6 https://t.co/DfMRY3iVv2'"
+1082334355073056768,2019-01-07 17:53:13,"b'Today on FAIC: an introduction to the ""dual number"" system, a curious extension of the reals similar to complex num\xe2\x80\xa6 https://t.co/q6MrHmY8B1'"
+1080983420598009857,2019-01-04 00:25:05,"b""@andygocke I've been very interested to see what's happening in the probabilistic programming research languages. C\xe2\x80\xa6 https://t.co/7p3xpigZf4"""
+1080531528004726784,2019-01-02 18:29:26,b'Happy New Year all; FAIC kicks off 2019 with a frequent question: how do I make a public nested class which exposes\xe2\x80\xa6 https://t.co/ESIcqxiAu9'
+1075158713965543424,2018-12-18 22:39:47,"b'@mikepope Can you say what the problem is with ""first-class citizen""? This blog post comes at the problem from a di\xe2\x80\xa6 https://t.co/qKpeAo4O9u'"
+1075056157192970241,2018-12-18 15:52:16,"b""@weeble No shame implied or intended! We're all collaborating to learn here. Thanks for following up and more clearly explaining your point!"""
+1074741917462589440,2018-12-17 19:03:35,"b'Today on FAIC we finish up 2018 by showing how to implement continuation passing style with trampolines in Python,\xe2\x80\xa6 https://t.co/BHeXSNY2Vs'"
+1069651178517016576,2018-12-03 17:54:48,"b'Today on FAIC: I return to an old favourite topic: dealing with recursive calls in a limited-stack world, but surpr\xe2\x80\xa6 https://t.co/AIVSzgj3zm'"
+1068225474420080640,2018-11-29 19:29:34,"b""@andygocke If we'd had generics from the beginning, all these problems would go away. You want a 2-d array of nulla\xe2\x80\xa6 https://t.co/YGnukbbk3q"""
+1068223624849420288,2018-11-29 19:22:13,"b'@andygocke The reason for the ""outermost"" rule becomes more clear when you consider what happens if one of them is\xe2\x80\xa6 https://t.co/B4B6OM2Prn'"
+1068203277920006144,2018-11-29 18:01:22,"b""@jonskeet @trans_code @blowdart What a great idea! I'll happily donate to see that."""
+1067580104501415938,2018-11-28 00:45:06,b'Thanks for having me on your podcast! https://t.co/9oaBLFHDXP'
+1065039349023092736,2018-11-21 00:29:02,"b'@shanselman ""I know it\'s bad for me. I did it anyways. I enjoyed it. Now I feel guilty. I\'m gonna do it again."" is\xe2\x80\xa6 https://t.co/1G2w7vPepz'"
+1064569841833537537,2018-11-19 17:23:23,"b""Today on FAIC: The solution to last week's puzzle, and some moral lessons derived from it. https://t.co/7Spnr16QK0"""
+1063577729956630528,2018-11-16 23:41:05,"b'@FirstTechFed I spoke to a branch manager today who answered my questions (1) no, and (2) no. I appreciate the clea\xe2\x80\xa6 https://t.co/LdWFhfDVpC'"
+1063575534880284672,2018-11-16 23:32:22,"b""I've posted an update on my continuing adventures with @FirstTechFed; apparently the problem is more widespread tha\xe2\x80\xa6 https://t.co/zGiBwL07YT"""
+1063495054013063168,2018-11-16 18:12:34,"b""@FirstTechFed I will do so. Some questions I'd like answered are: (1) is losing a hundred points on your credit sco\xe2\x80\xa6 https://t.co/lEFuWiy0z9"""
+1063340413891706880,2018-11-16 07:58:05,b'@FirstTechFed @sergesountsov The first thing you could do is fix my ruined credit; I do not feel like a 100+ point\xe2\x80\xa6 https://t.co/In8CCn2dCj'
+1063293592532267008,2018-11-16 04:52:02,"b'@sergesountsov @FirstTechFed You are absolutely right that this customer service is horrid, but what I find really\xe2\x80\xa6 https://t.co/4eVuOJHvPM'"
+1063292957682356229,2018-11-16 04:49:30,"b'@sergesountsov @FirstTechFed 25 years! And I asked that very question of their mortgage service rep, who declined t\xe2\x80\xa6 https://t.co/wenJC1i9MW'"
+1063249671412281344,2018-11-16 01:57:30,"b'I will be closing my @FirstTechFed accounts tomorrow, which I have had for 24 years. The reason why is described he\xe2\x80\xa6 https://t.co/pzRpzpTX44'"
+1062797625961799680,2018-11-14 20:01:14,b'@cjburrows To be clear: Chris figured this one out *nine years before I posted the puzzle*.'
+1062762081366138880,2018-11-14 17:40:00,b'Today on FAIC: a little puzzle about the interaction between dynamic typing and definite assignment in C#. https://t.co/1mJRKDD7mR'
+1060623871617822720,2018-11-08 20:03:31,b'@jake_says We are looking into the possibility but do not yet have a schedule.'
+1060230584604053504,2018-11-07 18:00:44,"b'My team has a post on the Facebook engineering blog today, describing our research on making developer tools that e\xe2\x80\xa6 https://t.co/uoMgwH0tCM'"
+1060230111188856837,2018-11-07 17:58:51,b'Today on FAIC: Finishing up my series on anti-unification. https://t.co/Sl7IBHkzkF'
+1059871245733310465,2018-11-06 18:12:51,"b'Today on FAIC: Implementing the first-order anti-unification algorithm for real in C#, and checking out some C# 7 f\xe2\x80\xa6 https://t.co/GjPRnHE53j'"
+1059499386487562240,2018-11-05 17:35:12,"b""Today on FAIC: The boring boilerplate code for the tree class that we'll use to build our anti-unification algorith\xe2\x80\xa6 https://t.co/Bfy3O1bw3Z"""
+1058409607792488448,2018-11-02 17:24:49,"b""Today on FAIC: Let's work a simple example to illustrate the anti-unification algorithm in action. https://t.co/S35tIT2ilT"""
+1058051444677369856,2018-11-01 17:41:36,b'Today on FAIC: An informal description of the first-order anti-unification algorithm. https://t.co/xc8HBeEFGR'
+1056963578299858944,2018-10-29 17:38:49,b'Today on FAIC: An introduction to the anti-unification problem: https://t.co/uWCXIleMiS'
+1055884794104442885,2018-10-26 18:12:06,"b'Today on FAIC: If ""unification"" is just solving equations for unknowns, what does it mean to ""unify"" arbitrary expr\xe2\x80\xa6 https://t.co/JeSf4SiQZj'"
+1055086202116747266,2018-10-24 13:18:47,"b'Today on FAIC: In my previous series I discussed type unification without defining ""unification"". Let\'s fix that! https://t.co/fajoFIAfSf'"
+1054525502428344320,2018-10-23 00:10:46,b'@hahnrobert Just one!'
+1054496093294055425,2018-10-22 22:13:54,b'@Chrisdunelm Not repro; is purple text on my machine! Perhaps the style sheets are messed up again.'
+1054441825874862082,2018-10-22 18:38:16,"b'After taking a year off, by popular demand I have started blogging again. Coming up: type unification and *anti* un\xe2\x80\xa6 https://t.co/ITRLgVnRW8'"
+1053416007014838272,2018-10-19 22:42:02,"b""@mikepope You're thinking about it backwards. If you get on first then the plebes are *forced to walk past you*. :-)"""
+1047534737747636226,2018-10-03 17:11:58,"b""Amazingly enough, after ten years of editing these guys' books, this is the first time we've all been in a room tog\xe2\x80\xa6 https://t.co/KdFbu9JDyW"""
+1045053772043415552,2018-09-26 20:53:30,b'A nice retrospective on Roslyn by @MadsTorgersen! https://t.co/Uj0SSt71Ex'
+1040796140554280960,2018-09-15 02:55:11,"b'@Pilchie When something similar happened to me I just called the office directly and they said it was a slow day, j\xe2\x80\xa6 https://t.co/RXiNKE0x6R'"
+1040075344659677184,2018-09-13 03:11:00,b'@DevHawk @gvanrossum Great to see you and spend a few days back on campus!'
+1034972085183868928,2018-08-30 01:12:28,"b""@hahnrobert Vexing! I have made the same mistake. Now I draw a scribble on the waste side when drawing the line so I'm clear which is which."""
+1032792172108509185,2018-08-24 00:50:16,b'@jaredpar @Pilchie @koush @migueldeicaza I heard that in pre-beta .NET 1 in partial trust you could get File.Exists\xe2\x80\xa6 https://t.co/kstEmlahsT'
+1030246236555636737,2018-08-17 00:13:38,"b""@devuxer @hankgreen I'm paraphrasing; the candidate's actual answer was considerably more eloquent, but had the sam\xe2\x80\xa6 https://t.co/tge7tpU1xn"""
+1030135509782130688,2018-08-16 16:53:39,"b'@hankgreen A candidate once answered ""why do you want this job?"" with ""I don\'t; the team I want to be on is not hir\xe2\x80\xa6 https://t.co/26dVrkLD4v'"
+1029467123116982272,2018-08-14 20:37:43,b'@Bruce_Power I was close enough to BNPD to see and hear the huge clouds released when the emergency system dumped t\xe2\x80\xa6 https://t.co/AiQU3eDoMh'
+1023197994852614144,2018-07-28 13:26:26,b'@jonskeet @francisacer1 @subTee Thank you! I enjoyed writing it and am pleased that Jon gave me the opportunity! :-)'
+1002694153103216641,2018-06-01 23:31:29,b'@dosnostalgic One of my fondest memories of my final internship was walking with Tim across campus to the Windows 9\xe2\x80\xa6 https://t.co/6aoJLRwgTr'
+1002283395865444352,2018-05-31 20:19:17,"b""I never thought I'd be on @ch9  again but when you run into @Carmine007 and he's got a camera in his bag, things ca\xe2\x80\xa6 https://t.co/rlQyuXJ37s"""
+1000748491168071681,2018-05-27 14:40:07,"b""@jTUBEGEEKe @migueldeicaza @SethAbramson @coacheez65 Does your theory apply to flipping coins? Here, I'll flip two\xe2\x80\xa6 https://t.co/ImsmjpEbuc"""
+1000548995515625472,2018-05-27 01:27:24,"b'@SethAbramson @coacheez65 Quick reminder: probabilities of mutually exclusive events must add to 100%, no more, no less.'"
+994656452210933761,2018-05-10 19:12:32,b'@billwagner When I was asked to review IDynamicMetaObjectProvider.GetMetaObject() I noted it had two great characte\xe2\x80\xa6 https://t.co/UimR7DZpbj'
+986753076299153410,2018-04-18 23:47:21,"b'@mcclure111 If you want my bottom ten list do a search for ""sharp regrets"". :)'"
+986752328643391489,2018-04-18 23:44:22,b'@mcclure111 I got that! Casting a critical eye on how decisions aged is very welcome. (Also I was not on the design\xe2\x80\xa6 https://t.co/t96rbys7xX'
+986750802621444096,2018-04-18 23:38:18,b'@mcclure111 Absolutely many of these now-seemingly-odd decisions are a consequence of the lack of generics in CLR 1\xe2\x80\xa6 https://t.co/K0BrJeb0Dw'
+986747294157426688,2018-04-18 23:24:22,"b""@mcclure111 I thoroughly agree that those are all vexing but I'm not following how they come from Java. Java has a\xe2\x80\xa6 https://t.co/CQezXegEfs"""
+986746602852237313,2018-04-18 23:21:37,"b""@P_BrianMackey I learned it by reading the spec. It's ECMA335, or buy Jim Miller's excellent book version if you want the annotations."""
+986305709905080320,2018-04-17 18:09:40,"b""@mcclure111 I would love to hear some examples; most of my list of stuff I wish wasn't in C# was, as Andy mentioned, inherited from C."""
+976537605729697792,2018-03-21 19:14:43,b'@billwagner I kept a cheat sheet of them so that I could rapidly evaluate the consequences of any proposed change t\xe2\x80\xa6 https://t.co/MmSuUFBTl2'
+976164207254056960,2018-03-20 18:30:57,"b'@KathleenDollard Fun fact: George Harrison composed Here Comes the Sun on a ukulele, and so it is quite easy to pla\xe2\x80\xa6 https://t.co/kct48EWXzA'"
+975785975325409286,2018-03-19 17:28:00,"b""RT @IntelliTect: Book cover reveal! @IntelliTect's CEO @MarkMichaelis has finished the newest edition of Essential C# 7.0. For more info, g\xe2\x80\xa6"""
+973773678662971392,2018-03-14 04:11:51,"b'@terrajobst As someone who once worked on ""Microsoft Visual Studio .NET Tools For Microsoft Office System"" I\'d note\xe2\x80\xa6 https://t.co/1LG4wniz0o'"
+971906654735286273,2018-03-09 00:32:58,"b'@enigmativity Thanks, I took a look. Interesting question!'"
+971248553724186626,2018-03-07 04:57:54,b'@loeffelmann @KathleenDollard I was in that session today and the sharp-eyed may have noticed that I was wearing a\xe2\x80\xa6 https://t.co/EkhKIEwnG1'
+970502212857155584,2018-03-05 03:32:13,b'@andygocke @clipperhouse (I note that Steve *does* have a PhD in parser theory. :) )'
+970481996869730305,2018-03-05 02:11:53,"b""@andygocke @clipperhouse I investigated using a parser gen language that Steve Lucco wrote. I don't recall the perf\xe2\x80\xa6 https://t.co/5M26Bzwoc6"""
+967638119766941696,2018-02-25 05:51:20,b'@vreshetnikov @terrajobst Any big grocery store. Ask at the meat department usually.'
+967101075437248512,2018-02-23 18:17:18,"b'@vreshetnikov Yes. We usually use ""A implies B"" to mean ""either A is false or B is true"". It is a statement *in* th\xe2\x80\xa6 https://t.co/mwUKGQhvfI'"
+967090603480633344,2018-02-23 17:35:42,"b'@cs_kaplan @khyperia It goes back to at least the 1960s, and possibly much older: https://t.co/FC4xSbwkO0'"
+967069134474248192,2018-02-23 16:10:23,b'@khyperia Both are terrible analogies on their own. (Fibers as lightweight threads and ropes as optimized strings d\xe2\x80\xa6 https://t.co/Nd5we99a0t'
+966541546114883584,2018-02-22 05:13:56,"b'@andygocke @jaredpar @chrisparnin Also, we tried increasing the number of warnings on effectively private fields th\xe2\x80\xa6 https://t.co/aqPorD9VDV'"
+966540973810491394,2018-02-22 05:11:40,b'@andygocke @jaredpar @chrisparnin The fact that constructors can call virtual methods to initialize private fields\xe2\x80\xa6 https://t.co/BnjqglBB1a'
+966540767454945280,2018-02-22 05:10:51,"b'RT @andygocke: @jaredpar @chrisparnin The most precise analysis would be finding all reads of private variables, then tracing back to every\xe2\x80\xa6'"
+966441325661888513,2018-02-21 22:35:42,b'RT @MarkMichaelis: Wahoo!!! Copy Edits of Essential C# 7.0 complete and reviewed thanks to the work of Carol Lallier.  That means the only\xe2\x80\xa6'
+966440909138157568,2018-02-21 22:34:02,b'@MarkMichaelis Excellent!'
+966200396401307649,2018-02-21 06:38:20,b'@terrajobst @jaredpar @andygocke @MadsTorgersen It is interesting! I studied applied mathematics and CS at Waterloo\xe2\x80\xa6 https://t.co/hVQQlsS0yk'
+966096707808215040,2018-02-20 23:46:19,"b'@mjwills @BryanWilhite @raboof A method ""NullOrAny"" would have a bizarre contract: true if the sequence is null or\xe2\x80\xa6 https://t.co/LlGV31mPvr'"
+966035848109043712,2018-02-20 19:44:28,b'@StuartMeeks @BryanWilhite @raboof Because null was never dereferenced. A null reference exception happens when you\xe2\x80\xa6 https://t.co/oSo7hdRAf5'
+966025980782379008,2018-02-20 19:05:16,"b""@BryanWilhite @raboof I'm saying that it is wrong to represent an empty sequence with a null reference. I don't kno\xe2\x80\xa6 https://t.co/WJofMYg8fG"""
+965993432299724800,2018-02-20 16:55:56,"b""@mikepope That's an old joke that predates me, but you might well have heard it from me first. :-)"""
+965990785664495616,2018-02-20 16:45:25,"b'@BryanWilhite @raboof Null is not an empty sequence, and code which treats null as an empty sequence is wrong. All\xe2\x80\xa6 https://t.co/U3iAEfp8zx'"
+964607736804556800,2018-02-16 21:09:40,"b""@mikepope A classic. I've got the t-shirt."""
+963857995036688384,2018-02-14 19:30:28,"b'@vreshetnikov It\'s plausible that a user expects ""result = IsValid(y) &amp;&amp; DoIt(y);"" only evaluates DoIt(y) if y is v\xe2\x80\xa6 https://t.co/JGZl58EpuQ'"
+963856117829836800,2018-02-14 19:23:00,b'@vreshetnikov I wrote a blog article about that a while back. https://t.co/KMPq75HFpL'
+962490038712901632,2018-02-11 00:54:42,b'@andygocke All changes to type inference or overload resolution that can add *or remove* an ambiguity are breaking\xe2\x80\xa6 https://t.co/hPKetloAuN'
+956062589867511808,2018-01-24 07:14:18,b'@MarkyMarg2 Whether something is a statement or not is a *syntactic* property; whether it is a removed conditional\xe2\x80\xa6 https://t.co/JPSm8tUyTh'
+956051332179419136,2018-01-24 06:29:34,b'@MarkyMarg2 You wrote the code. Now compile and run it!'
+951631104196292609,2018-01-12 01:45:10,"b""@mikepope @E_Briannica I see you've already commented on https://t.co/3SMxVklc70"""
+949010140794994688,2018-01-04 20:10:23,b'@mikepope See https://t.co/SX9uwBaGRj'
+938110575703310336,2017-12-05 18:19:25,"b""@S_Team_Approved @EricMansuy @hocber @uni_lu @AmchamLux @jlt5757 @DigiLetzebuerg I'm not that Eric Lippert, sorry!"""
+937763564596576256,2017-12-04 19:20:31,"b""@ThatVBGuy The integral types are Abelian groups if overflow detection is turned off, but that's not saying much."""
+931922774540423168,2017-11-18 16:31:18,b'@MarkPflug Thanks for the note. It would have been nice if the registrar had reminded me that it was expiring earli\xe2\x80\xa6 https://t.co/cjTLmDeFvs'
+931568885014306816,2017-11-17 17:05:04,"b""@khyperia Wasn't me. My guess would be Matt or Neal."""
+931261132500639744,2017-11-16 20:42:10,b'@khyperia Nice! Fun fact: that operator was in the pre-Roslyn C# compiler but only worked in the debugger expressio\xe2\x80\xa6 https://t.co/V0XZFuYdNt'
+929005975801020416,2017-11-10 15:20:59,b'@AllWorkNoPlay @vreshetnikov I do think about performance: adding an additional runtime condition on arithmetic slo\xe2\x80\xa6 https://t.co/cXYls1rf3D'
+928750411338563585,2017-11-09 22:25:28,"b""@vreshetnikov We considered that but opted against it as surprising. The right operand might throw. You wouldn't ex\xe2\x80\xa6 https://t.co/RSRZ2vA8bZ"""
+917800727560437760,2017-10-10 17:15:20,"b""@chrsteinert @matthewwarren You're very welcome! I wrote those comments with the intention that if the code was eve\xe2\x80\xa6 https://t.co/ock8lxX1Sc"""
+917475994486767616,2017-10-09 19:44:57,b'@FieryPhoenix7 @jaredpar You can just read the code; I left plenty of comments!\n\nhttps://t.co/vhXYzHa6fP'
+917468635228020736,2017-10-09 19:15:43,"b""@FieryPhoenix7 @jaredpar That's roughly how I spent time back in the day. Overload resolution is hard because the c\xe2\x80\xa6 https://t.co/0hc5cAVoI7"""
+906156972654772224,2017-09-08 14:07:12,"b""@jjjdddu An SSN is not a verifier in the first place; it's just an identifier. Using it as a verifier is an extreme\xe2\x80\xa6 https://t.co/2vH8zwUgHM"""
+888446490401689600,2017-07-21 17:12:04,b'@mammadli_adil Post it on StackOverflow and plenty of experts will be available to help!'
+888157557260288000,2017-07-20 22:03:57,"b""@TaliSoroker I'm sorry, I don't understand the distinction you're making here."""
+887048544036634624,2017-07-17 20:37:08,"b""It's not a feature that lots of devs want; that's why it took seven versions to get it in! It's for low-level imple\xe2\x80\xa6 https://t.co/HVM3aiZcZt"""
+880293584208936961,2017-06-29 05:15:20,"b'@MisterGaiasoul I didn\'t read the whole thing; it looks like ""active events"" is actor model and ""hyperlambda"" is in\xe2\x80\xa6 https://t.co/lm4YrlL52f'"
+871487265909821440,2017-06-04 22:02:10,b'@ashmind  https://t.co/yIIWvPo22O'
+865265222507941888,2017-05-18 17:57:59,"b""@Shaikh7Azam Start by picking a language that doesn't have an 800 page specification! Pick a project that will take weeks, not years."""
+862744828609560581,2017-05-11 19:02:50,"b'@Shaikh7Azam A compiler is a translator; you want to translate some language into C#, or C# into some other language?'"
+862398794314285057,2017-05-10 20:07:49,b'@Shaikh7Azam By writing a compiler! Compilers translate from one language to another; what are your desired languages?'
+862091436656795648,2017-05-09 23:46:30,"b""@phley That is certainly vexing, but I haven't been on the C# team for over 4 years; there's not much I can do. Con\xe2\x80\xa6 https://t.co/iX4KHL408C"""
+854813742122491904,2017-04-19 21:47:32,"b'@andygocke @hmemcpy @ben_a_adams @shanselman @jonskeet Task&lt;T&gt; is a comonad, yes.'"
+854811654537662464,2017-04-19 21:39:14,"b'@hmemcpy @andygocke @ben_a_adams @shanselman @jonskeet async Task&lt;R&gt; Bind&lt;A, R&gt;(Task&lt;A&gt; a, Func&lt;A, Task&lt;R&gt;&gt; f) { re\xe2\x80\xa6 https://t.co/vapjNEmlsZ'"
+854811322927665152,2017-04-19 21:37:55,"b'@hmemcpy @andygocke @ben_a_adams @shanselman @jonskeet async Task&lt;int&gt; Return(int x) { return x; } is the ""return""\xe2\x80\xa6 https://t.co/hMOZZ18ILV'"
+854791208119304192,2017-04-19 20:17:59,"b'@shanselman Take a Task&lt;int&gt; and produce a Task&lt;int&gt; that doubles the int. Now do the same for Func, Nullable and I\xe2\x80\xa6 https://t.co/qzngU8ZuwB'"
+854790328007630848,2017-04-19 20:14:30,"b""@shanselman It's just a design pattern consisting of a generic type that follows certain rules about how it interac\xe2\x80\xa6 https://t.co/O07ni0jzxs"""
+851582308809269249,2017-04-10 23:46:58,b'@Thinking_Peace While taxiing. And the pilot left the cockpit *during an emergency* to look out my over-wing window.'
+851546984699666433,2017-04-10 21:26:36,b'Fun fact: On my first United flight the pilot struck another plane. My opinion of United has only ever gotten worse from that bad start.'
+849718667319398403,2017-04-05 20:21:31,b'@pizzacrystal Can you name any type which implements an interface but does not implement ToString?'
+849298454383931395,2017-04-04 16:31:45,"b""@jonskeet I'm in London until Friday evening if you want to chat about it. :)"""
+848891524557524993,2017-04-03 13:34:45,b'@KathleenDollard @julielerman @MVPAward @steeleprice Aw shucks. (Though I look like I am vexed by something! I have no memory of what.)'
+845718569312673793,2017-03-25 19:26:34,"b""@codemonkeysam love to! Can't chat now, helping a friend move."""
+844924875642880000,2017-03-23 14:52:42,b'Today on FAIC: the fourth rule of the type inference algorithm. https://t.co/eWgAzHpdMW'
+843878770893238272,2017-03-20 17:35:52,b'Today on FAIC: Inferring the types of application and lambda expressions in EXP. https://t.co/wBDmKPS3vm'
+842378756488552452,2017-03-16 14:15:20,"b'Today on FAIC: The base case of the inference algorithm, some rants, and a bug I tried to write in C# 3. https://t.co/n6PPvjrwkP'"
+841350240640753664,2017-03-13 18:08:23,b'Today on FAIC: Some notes on type unification. https://t.co/P7sobCpdpA'
+840301876151123969,2017-03-10 20:42:33,"b""@vimalkumar_ck Those were works for hire for Coverity and I don't think I kept copies, unfortunately. I don't know\xe2\x80\xa6 https://t.co/JW7xZzU5eQ"""
+839624220933922816,2017-03-08 23:49:48,"b'Today on FAIC: Been there, still got the T-shirt. Congratulations VS 2017 on 20 years! https://t.co/QWy5infjsz https://t.co/3UAqGTOdU4'"
+834826153365876736,2017-02-23 18:03:59,"b""Today on FAIC: finishing off a couple lemmas and propositions in section 5 of the paper we're studying.  https://t.co/JodUEo16Hv"""
+834130216817614848,2017-02-21 19:58:35,"b'Today on FAIC: A proof by declaration, and the fundamental nature of proof by induction.  https://t.co/uVFRkg7P9s'"
+832378875774578688,2017-02-16 23:59:23,b'@THEjoezack Go for it; no warranty expressed or implied! :)'
+832332098602098689,2017-02-16 20:53:30,b'Today on FAIC: Using the six-rule deductive system to deduce the type of a complex expression. https://t.co/tBbEVpafRW'
+832284607877836800,2017-02-16 17:44:48,b'@Nick_Craver @javiercampos I would certainly agree that micro-optimizations *justified by measurements* are goodness!'
+831936385225412613,2017-02-15 18:41:05,"b'@jaredpar Yes! Asking ""is this code thread safe?"" is like looking at individual bricks and asking ""is the house structurally sound?""'"
+831552147116285952,2017-02-14 17:14:16,"b""Today on FAIC: the solution to yesterday's chess mystery in memory of Raymond Smullyan: https://t.co/feudbhx4he"""
+831199938117709825,2017-02-13 17:54:42,b'Today on FAIC: Remembering Raymond Smullyan with my favourite of his puzzles.  https://t.co/5OIXqPxPE1'
+829744190795849730,2017-02-09 17:30:05,b'Today on FAIC: the remaining four rules of inference for Exp. https://t.co/FUtjarmuI6'
+828755946344046592,2017-02-07 00:03:09,b'Today on FAIC: How do academics concisely represent a sequence of logical deductions? https://t.co/CvI0NfxJ6R'
+827180260328235009,2017-02-02 15:41:56,b'Today on FAIC: Environments and semantic functions explained. \nhttps://t.co/eN0g91dbKt'
+826540463024857088,2017-01-31 21:19:37,b'@andygocke https://t.co/UcHbyLcwQY'
+826537078699614208,2017-01-31 21:06:10,b'@andygocke Devise an O(n) algorithm to find the best member of a set with intransitive betterness was my C# team interview question.'
+826536790005686272,2017-01-31 21:05:01,b'@andygocke Applicable candidates can have intransitivities in betterness. The bestness algorithm must take this into account.'
+826183521546833921,2017-01-30 21:41:15,b'Today on FAIC: A compact notation for typing judgments. https://t.co/RY1Mq83mmu'
+825823764403228672,2017-01-29 21:51:43,"b""@jk_rowling You're a woman whose career is based on writing about resisting totalitarians taking over their government. Get into politics."""
+825822088535478272,2017-01-29 21:45:03,"b'@vreshetnikov I implemented that in Roslyn, and yes, it is useless.'"
+824670296623894529,2017-01-26 17:28:15,b'Today on FAIC: Eric waves his hands about formal program semantics. https://t.co/8cWCo7dSG2'
+824013114693648385,2017-01-24 21:56:50,b'@WilburSullivan It does; thank you!'
+823977538678468609,2017-01-24 19:35:28,b'Today on FAIC: A brief political message. https://t.co/d35tCZLSvZ'
+822111730742349824,2017-01-19 16:01:25,"b'Today on FAIC: Finishing off substitution and the ""more general"" relation on type schemes. https://t.co/qzidnRKga6'"
+821400853500203008,2017-01-17 16:56:39,b'Today on FAIC: Substitution of free type variables is pretty straightforward. https://t.co/SX7pXH1wR6'
+819576522671591424,2017-01-12 16:07:24,"b'Today on FAIC: What\'s the difference between ""free"" and ""bound"" parameters? https://t.co/yZDcdRs3UX'"
+818508227876896768,2017-01-09 17:22:23,b'Today on FAIC: defining a tiny language of generic types.  https://t.co/R9uSzfpiz2'
+817046747927089152,2017-01-05 16:34:59,"b'Today on FAIC: defining the Exp language, which is lambda calculus plus let expressions.  https://t.co/b3iQJaRNJf'"
+811995380204249088,2016-12-22 18:02:39,b'Today on FAIC: finishing off the year with a fixed point combinator. Happy festive holiday season all!  https://t.co/CZYj9tDcme'
+810904883369021440,2016-12-19 17:49:24,b'Today on FAIC: An informal inference of map and a tease about fixed-point combinators. https://t.co/vxAy1iXbhG'
+809441735222755328,2016-12-15 16:55:23,b'Today on FAIC: What is the upside-down A all about? https://t.co/GYk81LTKTM'
+809115281712824320,2016-12-14 19:18:10,b'Today on FAIC: An interview with dot net curry. https://t.co/HDZqLNCFm8'
+808342395364356097,2016-12-12 16:06:59,b'Today on FAIC: a typical type inference problem: what is the type of the map function? https://t.co/rDZekfHOrJ'
+806931349575639041,2016-12-08 18:40:00,"b'Today on FAIC: What does the paper mean by ""decidable type system""? https://t.co/iPre0n3nDz'"
+806634712991043584,2016-12-07 23:01:16,b'Today on FAIC: Some (very brief) thoughts on the impactfulness of programming. https://t.co/9HJRM0ryvQ'
+806159644934565889,2016-12-06 15:33:31,b'Today on FAIC: @raelyard interviews me for his podcast. https://t.co/wBwxxSpPaB'
+805835162718113792,2016-12-05 18:04:09,"b""Today on FAIC: my exegesis of the first paragraph of the paper we're studying. https://t.co/pyIpnEIZqx"""
+804739387791523840,2016-12-02 17:29:56,"b'FAIC is back after a long absence, with the gift of type inference for the festive holiday season.  https://t.co/QqE5K7RtsY'"
+735613539616841728,2016-05-25 23:28:29,b'@DanTup Shorts overflowing is extremely common; ints overflowing is extremely rare.'
+733409822163406849,2016-05-19 21:31:42,"b""@panesofglass I am not; I'm working on Hack. Reason is an interesting functional language; I'm looking forward to learning more about it!"""
+733409360496332800,2016-05-19 21:29:52,"b""@rianjs I noticed that. They also never followed up with me to get the last part posted. I'll see if I can find my copies!"""
+733409188433432576,2016-05-19 21:29:11,b'Today on FAIC: Starting to decode the object property table. https://t.co/igoN7qT5A0'
+732219584355258369,2016-05-16 14:42:07,"b'Today on FAIC: Bit twiddling, both instructions and attributes. https://t.co/7YIQr4dRIe'"
+728602156610113537,2016-05-06 15:07:45,b'Today on FAIC: Implementing basic printing. https://t.co/pq5QQNgk4A'
+728326523434848256,2016-05-05 20:52:29,b'Today on FAIC: Manipulating the object tree. https://t.co/qvhdPetZGX'
+727149632350883841,2016-05-02 14:55:56,b'Today on FAIC: Implementing some unusual instructions. https://t.co/y3uAMgfNBI'
+726065804316266496,2016-04-29 15:09:12,b'Today on FAIC: how the Z-machine represents variable indirection. https://t.co/Ysg0kLkVAx'
+725334261209821184,2016-04-27 14:42:18,b'Today on FAIC: When (and how) does a binary operator take more than two operands? https://t.co/CqbtxljSY6'
+724620559561027586,2016-04-25 15:26:18,b'Today on FAIC: using higher-order programming to implement arithmetic.   https://t.co/qnodt0w5T1'
+723533879668170752,2016-04-22 15:28:14,b'Today on FAIC: implementing the return instruction. https://t.co/RyxEtAAqhx'
+722798694936875008,2016-04-20 14:46:52,b'Today on FAIC: executing the first two instructions in Mini-Zork. https://t.co/smMQeX9yJk'
+722079396664713217,2016-04-18 15:08:38,b'Today on FAIC: implementing reads and writes of variables for the call instruction. https://t.co/NA0Ix9W8Cj'
+720998366239272960,2016-04-15 15:33:00,b'Today on FAIC: What will our interpreter need to do when executing a call instruction? https://t.co/iOB9yaJ0eH'
+720263168878972929,2016-04-13 14:51:35,b'Today on FAIC: Finishing off the evaluation and call stacks. https://t.co/GoFiIgT93J'
+719542717961777154,2016-04-11 15:08:47,b'Today on FAIC: Building an evaluation stack. https://t.co/idpMxyyBle'
+718454086450810880,2016-04-08 15:02:57,b'Today on FAIC: implementing the local variable storage. https://t.co/z8ftZWSN8G'
+717740190601588736,2016-04-06 15:46:11,b'Today on FAIC: starting to build a stack frame for the interpreter. https://t.co/jY42h5jmzD'
+717001405110693888,2016-04-04 14:50:30,b'Today on FAIC: What is so weird about the Zork main routine?  https://t.co/KzaNU84NUE'
+715925981492449282,2016-04-01 15:37:09,"b'Today on FAIC: Starting to examine a Z-machine routine in detail, and improving display of calls. https://t.co/nNaD5ObPLr'"
+715244085674553345,2016-03-30 18:27:33,"b'@roslyn @mikeloguay Who can say why ""Roslyn"" caught on and ""Microsoft Visual Studio .NET Compiler Platform"" did not? :-)'"
+715192463611154433,2016-03-30 15:02:25,"b'Today on FAIC: the transitive closure of the next instruction relation is a routine. Also, a small bug in Zork. https://t.co/FEbUallrV7'"
+714477340630196224,2016-03-28 15:40:47,b'Today on FAIC: What instructions could possibly follow after a given instruction? https://t.co/UDyFA9o3BI'
+713732555158065152,2016-03-26 14:21:16,"b'@KirillOsenkov The relevant question is not ""is it small and cheap?"" The question is ""is it logically a value?""'"
+713381842859139072,2016-03-25 15:07:39,b'Today on FAIC: computing the transitive closure of a relation in OCaml. https://t.co/mGKCG1gfO9'
+712643961622401024,2016-03-23 14:15:35,b'Today on FAIC: Printing out a Z-machine instruction. \nhttps://t.co/QjCRah5Yuq'
+711931795030171649,2016-03-21 15:05:41,b'Today on FAIC: putting the last several episodes together to completely disassemble an instruction. https://t.co/r7TaBP8Jj9'
+710097460585037824,2016-03-16 13:36:42,b'Today on FAIC: Decoding the store portion of a z-machine instruction. https://t.co/S9oZFevScq'
+709398648807755776,2016-03-14 15:19:52,b'Today on FAIC: Decoding a variable operand in the Z-machine.  https://t.co/mTHnOuoM5o'
+708409478996099072,2016-03-11 21:49:16,"b""@leppie @Nick_Craver @marcgravell Ah. Hm. That's weird! I don't know what's up with that."""
+708394119962341376,2016-03-11 20:48:14,"b'@leppie @Nick_Craver @marcgravell Why make it illegal, if you only want to override the setter and not the getter?'"
+708327332503683072,2016-03-11 16:22:50,b'@tiantangsun @JeffRichter I cannot possibly list the number of situations in which a thing does not happen. Ask a more specific question!'
+707998905024163840,2016-03-10 18:37:47,"b""@ianhalliday @iwjh Thanks! I'm having a great time."""
+707582188628217858,2016-03-09 15:01:54,"b'Today on FAIC: Decoding the ""form"" of a Z-machine instruction. https://t.co/2PlGebHoIw'"
+707251603099615232,2016-03-08 17:08:16,b'Today on FAIC: Eric goes looking for trouble in the Troll Room and finds none. https://t.co/Ya5tQaGL35'
+706877113228394498,2016-03-07 16:20:11,b'Today on FAIC: An introduction to instructions in the Z-machine and partial function application in OCaml. https://t.co/9dmCCiCXs2'
+705911481590648832,2016-03-05 00:23:07,b'@williamberryiii Are you suggesting that the precedence rules should change depending on the type of the operand? That seems confusing.'
+705795817932615680,2016-03-04 16:43:30,b'@williamberryiii Would you like it if -Math.Sin(x) was parsed as (-Math).Sin(x)? I think not.'
+705795505486336000,2016-03-04 16:42:16,b'Today on FAIC: displaying the Z-machine object tree as a tree.  https://t.co/6DczVTN4qD'
+705795269418299392,2016-03-04 16:41:19,"b'@williamberryiii *extension methods* do not take precedence.  The member access operator ""."" is of higher precedence than unary minus.'"
+705056467175370756,2016-03-02 15:45:35,b'Today on FAIC: decoding the Z-machine object table. https://t.co/OATOnkNZ0h'
+704413727626362880,2016-02-29 21:11:34,"b""@codecore In Zork the Great Underground Empire is ruled by the Flathead dynasty. It's a bit of a silly joke."""
+704337736367415296,2016-02-29 16:09:36,b'Today on FAIC: starting in on the Z-machine object tree.  https://t.co/Un6gIokJoX'
+703263966273761280,2016-02-26 17:02:50,b'Today on FAIC: Decoding the Z-machine dictionary. https://t.co/i8rqLi4SVa'
+702537232381444096,2016-02-24 16:55:03,b'Today on FAIC: Finishing up zstring decoding. https://t.co/nqSXhXyPaW'
+701786268221353984,2016-02-22 15:10:59,b'Today on FAIC: complex pattern matching in OCaml.\nhttps://t.co/JIGFvFbFo7'
+701786110385500160,2016-02-22 15:10:21,"b'@KirillOsenkov I was told by @dcampbell that being on github was like being at a party with all your friends, so of course I am!'"
+700718550088986624,2016-02-19 16:28:15,b'Today on FAIC: making a type with multiple constructors in OCaml. https://t.co/rdIYahbhgO'
+699994636836732932,2016-02-17 16:31:41,"b'Today on FAIC: Using tail recursion to decode the zstring ""the "" from the Z-machine abbrv table.  https://t.co/cAOvVUvAVF'"
+699250077190127617,2016-02-15 15:13:04,b'Today on FAIC: Getting ready to decode the zstring format. https://t.co/bjP66xwCGh'
+698167138620567552,2016-02-12 15:29:51,b'Today on FAIC: Loading MiniZork into our memory manager. https://t.co/NODzFJkz3E'
+697563648185671680,2016-02-10 23:31:48,b'Today on FAIC: Building a slightly less trivial memory manager for the Z machine: https://t.co/72uaG7ayft'
+697113145089744896,2016-02-09 17:41:40,b'Today on FAIC: building a (trivial) memory manager for the Z-machine https://t.co/D10v8jxA4s'
+696876277639180288,2016-02-09 02:00:26,b'@wainson Fixed; thanks!'
+696729859846897669,2016-02-08 16:18:37,b'Today on FAIC: A new fabulous adventure! I hope you like it. On Facebook.  https://t.co/TB0bocuHlG'
+695643936287649794,2016-02-05 16:23:33,b'Today on FAIC: Using the type system to prevent really dumb transposition bugs. https://t.co/BS4IrDP3ij'
+695610659380137984,2016-02-05 14:11:19,b'@haacked It makes git easy for even Windows developers like me!'
+694899396903727104,2016-02-03 15:05:01,b'Today on FAIC: The journey begins with a single... byte. How do we manipulate bits in OCaml? \n https://t.co/mAmaog5pqq'
+694231797773660160,2016-02-01 18:52:13,b'@dcampbell I will check it out!'
+694187039227424768,2016-02-01 15:54:22,"b""@hmemcpy @dcampbell Dustin's offhand comment about Z-machines last time we had lunch reminded me I'd been meaning to do this. Thanks Dustin!"""
+694177668929970176,2016-02-01 15:17:08,b'Today on FAIC: I begin my longest and most fabulously adventurous blog series ever. https://t.co/DATmuZITXD'
+687649410214330370,2016-01-14 14:56:09,b'Today on FAIC: A few questions I got in my talk yesterday that we did not have time to answer. https://t.co/FkSUA5gIR4'
+687327142745513984,2016-01-13 17:35:35,b'My *beginner level* talk on functional programming style in C# starts in 25 minutes. https://t.co/6pwJzRvlnx'
+686939130681360385,2016-01-12 15:53:46,"b'Today on (non-computer-related) FAIC: Carl Sagan, David Bowie, and revisionist history. https://t.co/9xc1Dt1Ow9'"
+686566266992066560,2016-01-11 15:12:08,"b""I'm giving a talk on Wednesday on functional programming in C# for beginners. See https://t.co/9l2P1xJALr for details."""
+674989264388550656,2015-12-10 16:29:15,b'Today on FAIC: how to binary search *all* the rationals https://t.co/Fd5eqMQK5w'
+673885576970420226,2015-12-07 15:23:36,b'Today on FAIC: Part three of my series on analyzing doubles as fractions. https://t.co/ZTHEnBx06x'
+672438867916492800,2015-12-03 15:34:54,b'Today on FAIC: writing your own arbitrary-precision rational type is fun and easy! https://t.co/fDqvKSjq8S'
+671713688324206592,2015-12-01 15:33:17,"b'@KirillOsenkov Nice! I will use a different technique, but that is a really interesting one.'"
+671395389149487104,2015-11-30 18:28:29,"b'Today on FAIC: We can turn a fraction into a double easily, but how to go the other way? https://t.co/sPS3MQ8RiD'"
+667360577614774272,2015-11-19 15:15:35,b'Today on FAIC: Should I put a banana in my ear to keep the alligators from spuriously waking up?  https://t.co/VichKvzSXs'
+666352159831650304,2015-11-16 20:28:29,b'Today on FAIC: Why is there a loop in the standard producer-consumer queue implementation?\n https://t.co/vegv1WjhEN'
+662297659357532160,2015-11-05 15:57:21,b'Today on FAIC: What are the implications of implication?  https://t.co/Un01yA4Pks'
+661189142013849600,2015-11-02 14:32:30,"b'Today on FAIC: The &amp; operator works on bools, but why would you ever use it? https://t.co/dRwAF5wH38'"
+659058420721455104,2015-10-27 17:25:46,b'Today on FAIC: can operations on constants on the right side of an expression be optimized? https://t.co/kZbVczXBHY'
+658326104940244992,2015-10-25 16:55:49,b'@Schabse A conversion from List&lt;object&gt; to List&lt;dynamic&gt; is an identity conversion; does the cast you had in mind involve dynamic?'
+657234278032343040,2015-10-22 16:37:17,b'Today on FAIC: more thoughts on how to make conditionally typed variables work. https://t.co/hvQAiQdEkq'
+656536343401488384,2015-10-20 18:23:56,b'Today on FAIC: Essential C# 6.0 is available! https://t.co/TvSDQSwPyW'
+656137527573659648,2015-10-19 15:59:11,"b""@leppie @jonskeet @marcgravell That decision was long before my time. I'll ponder it and write a blog if anything strikes me. :-)"""
+656129307903856640,2015-10-19 15:26:31,"b'Today on FAIC: Can we infer the type of a variable from its presence in an ""is"" expression? (TLDR: nope) http://t.co/yUSmdmHutD'"
+654344416354701312,2015-10-14 17:14:00,b'Today on FAIC: why casting a generic type parameter is often a compile-time error. http://t.co/7xKtpLayXx'
+642395574327603200,2015-09-11 17:53:34,b'@JakubKonecki Value types are passed by value; you can deduce the drawbacks from that fact.'
+642355438311239681,2015-09-11 15:14:05,b'@MalwareMinigun I assure you the negative consequences if any will be independent of my opinion. :-)'
+642355295528681472,2015-09-11 15:13:31,"b'@JakubKonecki It was never a limitation. A guideline is good advice, not a restriction. Ignore it if you want.'"
+638377241760501760,2015-08-31 15:46:09,b'Today on FAIC: Nullable integer comparison operators are weird! http://t.co/KdOqZPnciz'
+634826625582956544,2015-08-21 20:37:16,"b'Today on fun-for-Friday-FAIC, some nature photography from my recent trip to Lake Huron. http://t.co/yPTeSrjSMD'"
+633701606807195651,2015-08-18 18:06:51,b'Today on FAIC: I am finally back from summer vacation with a list of ten features I could live without.  http://t.co/45A0lja2q1'
+626742334068125696,2015-07-30 13:13:11,"b'@tpluscode ""from i in c select blah into Single()"" was proposed but did not get past the proposal stage.'"
+626417088941309952,2015-07-29 15:40:46,"b""@tpluscode @CSharpStack A feature must be thought of, designed, spec'd, implemented, tested and shipped. Your feature got 1 out of those 6."""
+608627666523017217,2015-06-10 13:31:58,b'Today on FAIC: a short article on static analysis for beginners http://t.co/vZkWkycbr7'
+608013286131396608,2015-06-08 20:50:38,b'Today on FAIC: more thoughts on technical interviewing. http://t.co/u9LUqnYyYS'
+606490955873550336,2015-06-04 16:01:26,b'Today on FAIC: Another rerun on thoughts about technical interviews. Code is not magic! http://t.co/WbaEYQOtKJ'
+605851232670851072,2015-06-02 21:39:24,"b'@viviworld Thanks for asking. Short answer: yes, please do! The long answer is here: http://t.co/6psZHnAWIW'"
+605387773525131264,2015-06-01 14:57:47,b'Today on FAIC: rerunning my 2004 article on technical interviewing. http://t.co/TdB6QszNHK'
+604349996935208960,2015-05-29 18:14:02,"b""The thread for AMA questions is live; I'll start posting answers at 1PM Pacific. http://t.co/Y2uyb4AfAV"""
+603565615421345792,2015-05-27 14:17:11,"b""On Friday at 1PM PDT I'll be doing an AMA on the programmerchat section of reddit. Details here: http://t.co/EqCutA3CLj"""
+603231076790611968,2015-05-26 16:07:50,b'Today on FAIC: A thoroughly unnecessary analysis of a typo in the C# spec.  http://t.co/FeZTIZhcbv'
+601401260953055232,2015-05-21 14:56:48,b'Today on FAIC: Part two of my two-part series on myths of finalization: http://t.co/LfgCDJuhLY'
+601061865041432576,2015-05-20 16:28:10,"b""@ferpelliccioni Good idea. I'll blog about it on Monday."""
+600866857193590784,2015-05-20 03:33:16,"b""@jonskeet I'm sure I've introduced many! Email me the details and I'll tell you what I can remember about it."""
+600309249856643072,2015-05-18 14:37:33,b'Today on FAIC: Finalizers are regions of code where everything you think you know is wrong. http://t.co/94hkkTPO33'
+599236378732285953,2015-05-15 15:34:20,b'@LyleHart3 However Visual Studio formatted the code is what I did. See the Roslyn sources for examples.'
+599229608186118144,2015-05-15 15:07:26,b'@LyleHart3 The only sensible style: match whatever style is in use in the existing code I am modifying.'
+597815338298806272,2015-05-11 17:27:38,"b'Today on FAIC, the thrilling conclusion to my Wizards and Warriors series. http://t.co/q1Mx88nlvl'"
+596685692777828352,2015-05-08 14:38:49,b'Today on fun-for-Friday FAIC: musings on designing sawhorses.  http://t.co/mq7f49WupQ'
+596415873620967425,2015-05-07 20:46:39,b'@timdanner I note that this quote is not original to me; I stole it from Raymond: http://t.co/zH8iKEJDzz'
+596320456224870400,2015-05-07 14:27:30,b'Today on FAIC: My wizards and warriors get dynamic. http://t.co/NfhPjIUvTe'
+596319701212368896,2015-05-07 14:24:30,"b'@dtanzer @SamirTalwar Regarding ""mindless application"", exactly yes. Note that I begin part one with ""lets write classes without thinking"".'"
+595253763788550144,2015-05-04 15:48:51,"b'Today on FAIC: How wizards, and werewolves can use the Visitor Pattern for double dispatch. http://t.co/141Vv6d65s'"
+594710592826388482,2015-05-03 03:50:29,"b""@BrendanEich @AdamRackis I joined the compiler team after the =&gt; syntax was chosen but I did do the implementation; you're welcome!"""
+594587403219668992,2015-05-02 19:40:58,"b'@jasoncrawford Also there are only three problems in computer science: bad cache policy, and counting being off by one.'"
+593799603289333760,2015-04-30 15:30:32,"b'Today on FAIC: Part two of my series on representing ""a wizard can only use a staff"" in the C# type system. http://t.co/9mcNwDRL5T'"
+593537026697269248,2015-04-29 22:07:09,"b""Now another former of my PMs, Chris Dias, is on Channel 9 live. It's scripting languages family reunion day at #Build2015 today apparently!"""
+593524220287528962,2015-04-29 21:16:15,"b""My for-absolute-beginners-who've-never-programmed-before C# videos are half price on @OReillyMedia this week; see http://t.co/TeS9d063bD"""
+593515566767284226,2015-04-29 20:41:52,b'My old PM Peter Torr is on Channel 9 live now wearing an HD-DVD shirt; So many memories. I still have his loaner HD-DVD drive.'
+593506088881823745,2015-04-29 20:04:13,"b'My commenters have anticipated the contents of parts 2, 3 and 5 of this series just by reading part 1! http://t.co/fWiMu5Y3wx'"
+593401553001648128,2015-04-29 13:08:49,"b""@Rubberduck203 I have not, but that's a great idea for an article; thanks!"""
+592721615286304769,2015-04-27 16:06:59,"b'Today on FAIC: Starting a series on the OOP pattern ""a Wizard is a Player that has a Staff"" http://t.co/fWiMu6fEV7'"
+591275978820702208,2015-04-23 16:22:33,"b""Today on FAIC: Are there scenarios in which I really don't care if I violate the DRY principle? Yes, yes there are. http://t.co/jOuiGqAkOS"""
+590189983736012802,2015-04-20 16:27:11,"b'Today on FAIC: a short follow-up to my (much) earlier post about integer division ""gotchas"". http://t.co/qe27LQQr06'"
+589103553282576385,2015-04-17 16:30:06,b'Today on fun-for-Friday FAIC: my friend Niels teaches you to juggle. http://t.co/RTTAKxp6tw'
+588009787369136129,2015-04-14 16:03:52,b'Today on FAIC: My interview for the developer life series on the Fog Creek blog. http://t.co/zWK9iTAPjy'
+587650013976604672,2015-04-13 16:14:15,b'Today on FAIC: Part two of my article on unchecked arithmetic. http://t.co/gmZerdgIJv'
+586192607937605633,2015-04-09 15:43:03,b'Today on FAIC: Part one of a two-parter on unchecked arithmetic in C#. http://t.co/MGHbIXKtuK'
+585534597343088640,2015-04-07 20:08:21,"b""Today on FAIC: I am blogging again! I'm not dead! Just super busy. Plus: my new video series for beginners. http://t.co/VkQkhocIf4"""
+537639846849040384,2014-11-26 16:11:43,"b""@jeffgabriel I am a big fan of Hofstadter's writing; I particularly enjoy his use of the dialogue form and occasionally attempt it myself."""
+535482491214110720,2014-11-20 17:19:09,b'@Gadget_Ry eric@lippert.com'
+535303466134941696,2014-11-20 05:27:46,"b""@Gadget_Ry I'd be happy to!"""
+533311048703832064,2014-11-14 17:30:37,"b'Today on FAIC: Making some guesses about what the code looks like in a very, very old bug. http://t.co/Eo1lDtwtSn'"
+532232423577489408,2014-11-11 18:04:32,b'Today on FAIC: Interrupting our series on graph traversal with a question for you about traffic light UX elements: http://t.co/T3mTDZdL9T'
+531859640267866112,2014-11-10 17:23:14,b'@Pilchie Try maple syrup. SUPER YUM.'
+531852288193998848,2014-11-10 16:54:01,b'Today on FAIC: some thoughts on graphs where one node must follow another in the traversal.  http://t.co/QlurCKaMbY'
+530407731287838721,2014-11-06 17:13:52,b'Today on FAIC: my series on producing combinations and traversing graphs collide spectacularly http://t.co/y3FHGvjC3m'
+529308271245410304,2014-11-03 16:25:00,b'Today on FAIC: an algorithm for determining every path through a directed acyclic graph.  http://t.co/waMuTswK1c'
+527822862070337536,2014-10-30 14:02:31,b'Today on FAIC: Starting a new series on interesting ways to traverse acyclic graphs. http://t.co/pCtIF5LTzN'
+526749749454843904,2014-10-27 14:58:21,b'Today on FAIC: Finishing my series on recursive algorithms for producing combinations of sequence elements.  http://t.co/ytQi6ilDAh'
+525408312989609984,2014-10-23 22:07:58,"b'Actually, no, I got one more. The sun peeked out for just a couple minutes at maximum eclipse. http://t.co/Q0CZFyfoLB'"
+525392074267721728,2014-10-23 21:03:26,"b""... and it's cloudy again. Vexing! This is probably the only image of the eclipse I'll get today. http://t.co/nF8swIVgY6"""
+525386068330573824,2014-10-23 20:39:34,b'Today on FAIC: How to view the eclipse that is happening RIGHT NOW. http://t.co/ISwOpG0ADc'
+525329022277152771,2014-10-23 16:52:53,"b'Today on FAIC: another helper class for producing combinations, and a small bug fix to my previous algorithm.  http://t.co/1D6Lx6hwcW'"
+524266918682038272,2014-10-20 18:32:28,b'Today on FAIC: Producing all possible combinations of a sequence using recursion. http://t.co/R1MsKtNacu'
+522785269091946496,2014-10-16 16:24:55,"b'Today on FAIC: In part two of my series on enumerating combinations, the return of an immutable data structure. http://t.co/45f2vMvUoH'"
+522149501235396609,2014-10-14 22:18:36,"b""@marten_range No, because there's no great reason. It's another of the infinitely many features that never made it to the top of the list."""
+521686416678723584,2014-10-13 15:38:28,"b""Today on FAIC: I've talked about permutations of a sequence but never about combinations; let's fix that.  http://t.co/FBNbWicASC"""
+520713181694816256,2014-10-10 23:11:11,b'@Pilchie @jasonmalinowski Time to break out the squirrel of shame.'
+518063773324943361,2014-10-03 15:43:23,b'Today on FAIC: Finishing up my series on confusing error messages by fixing them.  http://t.co/2X2f3CVVPD'
+517359151014375424,2014-10-01 17:03:28,b'Today on ATBG: I answer a common question about generic type constraints by telling bad jokes. http://t.co/H0a0KB7wkD'
+516615003886325760,2014-09-29 15:46:29,b'Today on FAIC: The solution to the puzzle I posed last time: how can name lookup resolve to two different things? http://t.co/NIYyR9QZiN'
+515163114619555840,2014-09-25 15:37:12,"b'Today on FAIC: A confusing error message makes a confusing feature even more confusing, part one: http://t.co/d0pSduJPU0'"
+512974303923802113,2014-09-19 14:39:39,b'@rfuller @KathleenDollard The accessibility system was not designed to solve that problem.'
+512699590978465792,2014-09-18 20:28:02,"b'@KathleenDollard @rfuller Now only B can create D, and bonus, no one can make a subtype of B either.'"
+512699442089062400,2014-09-18 20:27:27,b'@KathleenDollard @rfuller class B { private B() {} private class D : B {} public static B CreateD() { return new D(); } }'
+512270628578406400,2014-09-17 16:03:30,b'Today on ATBG: can you spot the defect in my awesome custom implementation of random.Next ? http://t.co/EfyYCOK84M'
+511555527089086464,2014-09-15 16:41:56,"b'Today on FAIC: should I mark a non-private member of an internal type ""public"" or ""internal""?  http://t.co/80pDGOqNgd'"
+510949301623603200,2014-09-14 00:33:01,"b""@earlzdotnet It renders comments poorly, period. I've been meaning to find a better WordPress theme but have not had time to do so."""
+510476250713161728,2014-09-12 17:13:17,"b'@andygocke ""First"" implies there will be more, and oh yes, there will be! :)'"
+510457846803480576,2014-09-12 16:00:09,b'@PaddyMcDonald Thanks for the reminder though; I might yet finish that series!'
+510457707208638464,2014-09-12 15:59:35,"b'@PaddyMcDonald Before leaving, the editor told me her replacement would follow up with me soon to schedule the next part. They never did.'"
+510452338436616192,2014-09-12 15:38:15,b'Today on FAIC: No computer stuff; I continue my series on how to melt aluminum in your backyard. http://t.co/BpZqShYWaM'
+509930443773210624,2014-09-11 05:04:26,"b'@IDisposable The commenter did acknowledge their misstatement, which is not very troll-like. I was not offended; I was, however, amused.'"
+509157156260954113,2014-09-09 01:51:40,"b'@jonskeet just ended an anecdote with ""...and that was the only time I\'ve seen a squirrel and a unicorn fighting in a hot tub.""'"
+509019269343223808,2014-09-08 16:43:45,b'Today on FAIC: My strategy for commenting the Roslyn codebase. http://t.co/8PugGyZCAe'
+508025477236523008,2014-09-05 22:54:47,"b""@c64_gio Though I've got to say, it was slightly weird being on the other side of the podium at the summit."""
+508025314946318338,2014-09-05 22:54:08,"b""@c64_gio Hah, that's hilarious, I think I was harassing @MadsTorgersen . @Schabse is at left."""
+508020188756078592,2014-09-05 22:33:46,b'@ericlaw @BrandonLive  There was a plausible reason at the time; I forget what it is.'
+508019894735339520,2014-09-05 22:32:36,"b""@programatt Not originally mine. It's commonly attributed (wrongly) to both Yogi Berra and Einstein; I don't know who really said it first."""
+507203226438205440,2014-09-03 16:27:27,"b'@ThisIsJoshVarty Fixed, thanks. Weird WordPress glitch apparently.'"
+507197629697380352,2014-09-03 16:05:12,"b""I'm back! Today: how C++ is like a discredited biological hypothesis, plus video of my new-to-me 1976 Hobie 16. http://t.co/z9zUMVaafq"""
+501431719208423424,2014-08-18 18:13:32,b'@mperrenoud Yes; we support both customer-built checkers and customer-built models.'
+495254459942203392,2014-08-01 17:07:19,"b""Today on FAIC: the thrilling conclusion to yesterday's post about transparent identifiers in LINQ. http://t.co/LKiPpFvsRu"""
+494932980524412928,2014-07-31 19:49:52,"b""@panopticoncntrl I bet! You can refresh your memory if you want; I'll post the thrilling conclusion tomorrow."""
+494887714731593729,2014-07-31 16:50:00,"b'Today on FAIC: Why does LINQ query translation introduce an unnecessary ""transparent identifier"" mechanism?  http://t.co/ZWgk5e6IiB'"
+494106386762964995,2014-07-29 13:05:17,b'Today on FAIC I continue my seldom-updated series on how to build an aluminum foundry in your backyard:  http://t.co/QgqMDwrtXb'
+492323299024986112,2014-07-24 14:59:56,"b'@Wilka I hear that feedback a lot. I hope to blog about some efforts to mitigate that soon! Thanks for your comment, I appreciate it.'"
+491619109017489408,2014-07-22 16:21:44,b'Today on FAIC: Finishing up this series with some short Q&amp;A. http://t.co/GsQDVn6d8z'
+491257708704976897,2014-07-21 16:25:39,b'Today on FAIC: Continuing answering questions from last week. What happens if we search for defects in testing code? http://t.co/aWCDCIu86r'
+489816701454659584,2014-07-17 16:59:36,"b'Today on FAIC: NASA, false positives and copy-paste mistakes. http://t.co/4zfi96a2gV'"
+489121603067068416,2014-07-15 18:57:32,"b'Today on FAIC: Which would win in a fight, static analysis or code review? http://t.co/QOaNGjuTOK'"
+489067455000895490,2014-07-15 15:22:22,b'My talk on static analysis for C# defects starts in ten minutes. It will be recorded. Details here: http://t.co/QwqaGtoPTb'
+489067146962812929,2014-07-15 15:21:08,"b""@Morteza Good question; the talk will be recorded. I'll post details on my blog when the recording is available."""
+488717198299783168,2014-07-14 16:10:34,"b'I am doing a ""webinar"" talk Tuesday morning about static analysis for defect detection; please join me! Details here: http://t.co/QwqaGtoPTb'"
+483666476792950785,2014-06-30 17:40:48,"b'@dimitrov2k @buhtum Thanks for the kind words; I have written, co-written and edited a number of books FYI.'"
+482174725180125184,2014-06-26 14:53:07,"b""@uffeux @Coverity Yes! The integer division checker is a new feature in our summer 2014 release. I'll write a blog about it soon!"""
+479314962498990080,2014-06-18 17:29:26,b'Today on ATBG: why are seemingly-identical delegates not treated as identical?  http://t.co/LgVxgfPdqY'
+478634694645665793,2014-06-16 20:26:18,"b'@jaredpar Indeed, I linked to your article on that one, thanks. Now I need a way to distinguish true defects from false positives! :-)'"
+478590899648094208,2014-06-16 17:32:16,b'Today on FAIC: Do you have real-world examples of C# defects involving async/await? Please tell me about them!  http://t.co/PsjihVnO28'
+477486538511482880,2014-06-13 16:23:56,b'@orinthomas @jcmackin I have accidentally received your author copies; four boxes worth! I am getting it sorted out with Pearson.'
+477476375972950016,2014-06-13 15:43:33,b'Today on fun-for-Friday FAIC: Winged lions and gothic arches: http://t.co/n1tVYIHUf2'
+474212339139354624,2014-06-04 15:33:26,b'Today on ATBG: A follow-up post about the mutable value type enumerator of a generic list.  http://t.co/yneySanUvX'
+472659352403206144,2014-05-31 08:42:25,b'The main hall where I am giving my talk in Budapest. Beautiful architecture! http://t.co/MOPbIaTWc3'
+472066267621650433,2014-05-29 17:25:43,"b""@peter_feher I have been invited to give some talks at a large company's all hands meeting. I am super excited to be here!"""
+472064973511094272,2014-05-29 17:20:34,"b'@mrkwatkins it was a pleasure, thanks for having me!'"
+471751298996797441,2014-05-28 20:34:09,"b'Today on FAIC: A rerun of the funniest Hungarian Joke Ever, as I am working from Hungary this week, oddly enough. http://t.co/ogXxHoPQlh'"
+470076003122155520,2014-05-24 05:37:07,"b'@sasimeka I took a look at your question. No idea, sorry. I have not looked at the VSTO code since 2005!'"
+469129522101493760,2014-05-21 14:56:08,b'Today on ATBG: Why does calling MoveNext() in a lambda not advance my enumerator? http://t.co/JWam59cfCo'
+468428921998811136,2014-05-19 16:32:12,b'Today on FAIC: When should I write a property? http://t.co/GHSx4Aud0C'
+465888115228295168,2014-05-12 16:15:57,b'Today on FAIC I continue my series on tips for novice programmers: what are the *fundamental* rules of pointers? http://t.co/eRhHEzHGMQ'
+464069410332758017,2014-05-07 15:49:04,b'Today on ATBG: Why does my buggy code *not* crash? http://t.co/MKNI0WKb3M'
+461916157604155392,2014-05-01 17:12:48,"b'Today on FAIC: Part two of my article on ""lowering"" as it relates to two proposed C# 6 features. http://t.co/6G8YVUXHmy'"
+461613008104329216,2014-04-30 21:08:12,"b'@Pilchie Happy to see that ""proternal"" and ""intected"" made the list exactly six years after I suggested them. :-) http://t.co/05Kve8hYup'"
+461187594147995648,2014-04-29 16:57:45,b'@webdotcom You could refund the money I prepaid for your hosting service.'
+461180245609963521,2014-04-29 16:28:33,"b""I'm moving FAIC to a new hosting service; apologies for the mess as I get it sorted out. http://t.co/jsfyCynmyf should be redirected soon."""
+461179864460951552,2014-04-29 16:27:02,"b""@webdotcom My site was down for 36+ hours, 1.5 of which I spent on hold with ineffective tech support. I've moved to a different service."""
+461021822192844800,2014-04-29 05:59:02,"b'@hanskruse Indeed, thanks to @webdotcom complete failure of technical support my site has been down for more than 24 hours.'"
+460902338647953408,2014-04-28 22:04:15,b'@shlomoabraham Argh. It was up for five minutes there. Time to get a new hosting service I think.'
+460893070825750528,2014-04-28 21:27:25,"b'Today on (somewhat delayed!) FAIC: What do compiler developers mean by ""lowering""? Plus, how to put on socks. \nhttp://t.co/z7soKEhcrf'"
+460817400124821505,2014-04-28 16:26:44,"b""@webdotcom One notes that you claim 99.99% uptime which is 52 minutes per year. I've already spent longer than that on hold."""
+460816626380574721,2014-04-28 16:23:39,"b'FYI http://t.co/jsfyCynmyf - hosted by @webdotcom - has been down for 5 hrs. Tech support says it will be back up ""soon"" and within 24 hrs.'"
+460780055417724928,2014-04-28 13:58:20,"b'@wagnerdennis @kristofmattei looks like I will be on the phone with tech support this morning, thanks. :-)'"
+459716620395347968,2014-04-25 15:32:38,b'Today on Fun For Friday FAIC: a rerun regarding the road to Hana. http://t.co/3mX968VXtJ'
+459716372923027457,2014-04-25 15:31:39,"b""@vitor_canova Bring it to the attention of @coverity and they'll alert the blog maintainers. Thanks!"""
+459005846228201473,2014-04-23 16:28:16,b'Today on ATBG: Should an impossible comparison be a warning or an error? http://t.co/zWQECm80FB'
+457494221105008641,2014-04-19 12:21:36,b'@DSykik One way is to use continuation passing style. No stack usage means no stack overflow!'
+456100227934470144,2014-04-15 16:02:22,b'Today on FAIC: thoughts from @coverity CTO @_achou on static analysis of the heartbleed defect.  http://t.co/DXr2PzFbj0'
+455748334238457856,2014-04-14 16:44:04,b'Today on FAIC: A public service announcement: Standard Time and Daylight Time are by definition different.  http://t.co/qWBWRMSP8E'
+454665936511844352,2014-04-11 17:03:01,"b'@ojanacek I have not. I occasionally get email from other Lipperts in Germany and Denmark, but none yet from the Czech Republic. Thanks!'"
+454001720679333889,2014-04-09 21:03:39,"b""@osterman @ericlaw That was before my time; thanks for the info. I'll update the post!"""
+453992228281524224,2014-04-09 20:25:56,"b""@osterman @ericlaw Hey Larry: I was told that Doug chose UCS2 for VB because it met VB's needs; no doubt support in NT was also a factor."""
+453929804052459520,2014-04-09 16:17:53,b'Today on ATBG: Why does C# use UTF-16? Because of a decision made many years earlier.  http://t.co/YBOCtQlrUl'
+452120162548740096,2014-04-04 16:27:01,b'Today on FAIC: I am speaking at the Los Angeles .NET meetup on Monday. More details here: http://t.co/ZaQXwGg9B4'
+451794548721602560,2014-04-03 18:53:09,b'Today on FAIC: I am *gobsmacked*. Congratulations Roslyn team on this bold choice!  http://t.co/AVPqyzOWOA'
+451781809127182336,2014-04-03 18:02:31,b'@Faruzzy @jonskeet Very pleased! My colleague Richard and I were watching it live; we cloned the repo *immediately*. :-)'
+448847637215584256,2014-03-26 15:43:10,"b'Today on ATBG: an example of how eliding locks can cause a surprising result, even with volatile fields.  http://t.co/GQA1xelMjO'"
+447071880147513344,2014-03-21 18:06:57,"b""@AmiePrichard It just takes practice. Twenty or thirty minutes a day for a few years and you'll be great! :-)"""
+447020849757818881,2014-03-21 14:44:10,b'Today on FAIC: Continuing my series of advice for beginners: try solving a simpler problem first. http://t.co/PrW4BoCTYM'
+446552374593597440,2014-03-20 07:42:37,b'@plragde @mhyee Thanks for the kind words Prof. Ragde; good to hear from you. Indeed my C#-centric approach would be a poor fit for CS442.'
+445575207185424385,2014-03-17 14:59:42,b'My ATBG column is now available in Chinese. http://t.co/8sqSVkEUzO'
+443790832051560448,2014-03-12 16:49:14,"b'@fjholmstrom Unfortunately I suspect you are right. Worse, I no longer have the ability to change the MSDN site as I am no longer at MSFT.'"
+443787390327332864,2014-03-12 16:35:33,b'Today on ATBG: Is it advisable to elide a lock when reading a shared atomic field?  http://t.co/WX1qjyWcHy'
+441967817907130368,2014-03-07 16:05:13,b'Today on FAIC: My brief foreword to a new book by my former Roslyn coworker Brian @kodehoved Rasmussen.\nhttp://t.co/KuwogC0RWa'
+441604146320257025,2014-03-06 16:00:07,b'Today on FAIC: Summarizing the responses to my poll about unchecked exceptions.  http://t.co/PX3Pk2FOQP'
+441249167478755328,2014-03-05 16:29:34,"b""Today on FAIC: An absolute beginner's guide to debugging small programs: http://t.co/zOsWtAuOgj"""
+440514290999500800,2014-03-03 15:49:25,"b""Today on FAIC: I'm taking a reader poll. How do you deal with unchecked exceptions in C#? Please comment at http://t.co/819Kf0FSLI Thanks!"""
+439468989266157568,2014-02-28 18:35:46,b'Today on FAIC: more of my video interview about finding defects in C#. http://t.co/7DfXEQo7Q1'
+438810292349181952,2014-02-26 22:58:21,b'@khellang Also see http://t.co/Krmm7xFVbe'
+438809622376222720,2014-02-26 22:55:41,"b'@khellang See http://t.co/yxKyPUEHtY. There are technical problems which I might blog about at some point, or ask @headinthebox for details.'"
+436954900660899840,2014-02-21 20:05:41,b'Today on fun-for-Friday FAIC bonus round: Ogden Nash is alive and well at Reuters. http://t.co/mDjpvlkdeX'
+436905250058817536,2014-02-21 16:48:23,"b'Today on FAIC: A beginner-level article on the pitfalls of arithmetic in C (and Java, C, C++, and so on)  http://t.co/MDg010LSb5'"
+436512693827031040,2014-02-20 14:48:30,"b'@Geek_Actual Because you typically need a way to represent ""none of these switches are on"", and consistency is good.'"
+436280589566496768,2014-02-19 23:26:12,b'@Geek_Actual @shanselman Check out the Framework Design Guidelines. http://t.co/wd1anJCBb2'
+433702579214626816,2014-02-12 20:42:07,b'Today on ATBG: Eric lies outrageously about how thread locks are implemented behind the scenes.  http://t.co/PqZi4oCbHL'
+431953528425168896,2014-02-08 00:52:01,"b'Believe me @trevortosello, @headinthebox has *many* orders of magnitude better understanding of category theory than I do!'"
+430741969497640960,2014-02-04 16:37:42,"b'Today on FAIC: some brief thoughts on the past, present and future of C# in @Developer_Tech: http://t.co/6iRDRG5XAo'"
+429125735861612544,2014-01-31 05:35:22,b'Jeff @codinghorror Atwood just spontaneously hugged me. A pleasure to finally meet him in person!'
+428951460349345792,2014-01-30 18:02:52,"b""@Schabse The talks I did Tuesday and Wednesday will be; I'll post a link on the blog. Not sure about today's."""
+428951082635522048,2014-01-30 18:01:22,"b""@jonskeet This is just silly; we're probably going to pass each other on the freeway."""
+428929519265652736,2014-01-30 16:35:41,b'The schedule for our event today is at: http://t.co/EeYbla6ySZ'
+428296391249510401,2014-01-28 22:39:51,"b""Thanks @jslicer; I'm glad you enjoyed it."""
+428296218402226176,2014-01-28 22:39:10,"b""Today on FAIC: Some of the attendee questions that went unanswered from this morning's presentation."""
+426853250977918976,2014-01-24 23:05:20,"b""@jasondown Yes, I'll update my blog with the links once the recordings are posted."""
+426806372257124352,2014-01-24 19:59:03,"b""I'm giving three free talks next week, two on the internet, one in San Jose. Join me!  http://t.co/4KSC5YSX3U"""
+423873338297946112,2014-01-16 17:44:13,b'Today on FAIC: Another fragment from my recently recorded interview about static analysis of C#. http://t.co/rDrxfJycF2'
+423509609622409216,2014-01-15 17:38:54,"b'Today on ATBG: How many different ways can we express equality in C#, and what results do they give?  http://t.co/Sgxmiz0Io3'"
+420597773575024640,2014-01-07 16:48:18,"b""Today on FAIC: Today we're shipping Coverity analysis 7.0 with C# support. Plus a little video about FXCOP.   http://t.co/YAshmjE760"""
+420597506787921920,2014-01-07 16:47:14,b'@An_ScorpioN My advice is that you post your question to StackOverflow.'
+418802700294180865,2014-01-02 17:55:19,"b""Today on FAIC: What is duck typing?  Seriously, what is it? I can't figure it out.  http://t.co/jXVTc1zwrM"""
+418432698537897984,2014-01-01 17:25:04,b'@The_Grand_User Then ask yourself which is cheaper on your platform: memory or time?'
+415244135038066688,2013-12-23 22:14:51,"b'Today on FAIC: Closer is better than farther away, at least where overload resolution is concerned. http://t.co/K3Zi2VUUdp'"
+412642307058311168,2013-12-16 17:56:07,b'Today on FAIC: How much bias is introduced by the remainder technique for generating random integers? http://t.co/qvGVFl74Wq'
+411185060503490561,2013-12-12 17:25:32,"b'Today on FAIMiddleEarth: Why is Gollum such an effective opponent, my precious? http://t.co/7MpZvLtGZP'"
+408265155399516160,2013-12-04 16:02:52,b'Today on ATBG: Jon on memory management basics and Eric gets confused about method type inference.  http://t.co/PjD0V3PgjX'
+407556514879004672,2013-12-02 17:06:59,"b'Today on FAIC: mmm, turkey. http://t.co/jrkZ3tDNwm'"
+405374831765360640,2013-11-26 16:37:46,b'Today on FAIWoodworking: building the Thien baffle device. http://t.co/HpfuS63vjr'
+403973994207911936,2013-11-22 19:51:20,"b'Today on FAIC: My ""A*"" interview about @Coverity, Roslyn, @headinthebox, building boats, code errors and more:   http://t.co/Bz0xdW0K4R'"
+403588345189515264,2013-11-21 18:18:54,"b'@factormystic Ah, you\'re right, it should be ""Windows Phone 8"". I always get that wrong. I\'ll fix it.'"
+403583122567999488,2013-11-21 17:58:09,b'Today on FAIC: photos of the new @Coverity office in Seattle. http://t.co/MuhBiiq96p'
+403196826888577024,2013-11-20 16:23:09,b'Today on ATBG: how hard would it be to add non-nullable reference types to .NET? Pretty hard.  http://t.co/BeEG5iGiF8'
+402915820734386176,2013-11-19 21:46:32,b'Today on FAIC: How much do FXCOP warnings overlap with @coverity defects?  http://t.co/6MTxq69MFs'
+401102001649356800,2013-11-14 21:39:03,"b'@ewat You had me at ""young"".'"
+401017871397945344,2013-11-14 16:04:45,b'Today on FAIC: a practical use of the modular arithmetic multiplicative inverse.  http://t.co/TznBvhRGJz'
+400306452075515904,2013-11-12 16:57:50,b'Today on FAIC: A different kind of integer multiplication and division.  http://t.co/HO6qPu2BHN'
+398124821029998592,2013-11-06 16:28:48,"b'Today on ATBG: Eric on reachability in C#, Jon on code fragility in C++:  http://t.co/9UjtUYTWyp'"
+397407519699521536,2013-11-04 16:58:30,"b""Today on FAIC: using our new integer library to solve B\xc3\xa9zout's identity. http://t.co/rL4wnKzeUb"""
+395930926099599360,2013-10-31 15:11:03,b'Today on FAIC: we finish up our Integer class with division and remainder. http://t.co/uz0m9FQj7b'
+394844704790958080,2013-10-28 15:14:48,b'Today on FAIC: Adding comparison operators to our integer type. http://t.co/gtJB0qRl3F'
+393035445296066561,2013-10-23 15:25:27,b'Today on Ask The Bug Guys: two bugs due to null coalescing precedence errors. http://t.co/dPhaFTRkPT'
+392308739899793409,2013-10-21 15:17:46,b'Today on FAIC: Continuing our math series with basic integer operators. http://t.co/B6O1jQx8Bo'
+390875841728499712,2013-10-17 16:23:57,b'Today on FAIC: we start extending the naturals to the integers: http://t.co/2az8WdFQjX'
+389777562311720960,2013-10-14 15:39:47,b'Today on FAIC: Division and remainder operators on our Natural class. http://t.co/2suo5GlqDJ'
+388702765687390208,2013-10-11 16:28:55,"b""Today on FAIC: Today I'm celebrating my belated blogoversary! OMG ten years! http://t.co/C2z4qzdDse"""
+387993993952243712,2013-10-09 17:32:31,"b'@mabster I was not on the design team then; I note that this feature is traditionally called a ""let expression"" in functional languages.'"
+387964589800841216,2013-10-09 15:35:40,b'Today on ATBG: do explicit interface implementations violate encapsulation? http://t.co/TNjnYBCrLJ'
+387240812817285123,2013-10-07 15:39:39,b'Today on FAIC: Adding ten new entrypoints to our Natural class:  http://t.co/gaWFHvFPOm'
+386887610108358657,2013-10-06 16:16:08,"b""@hmemcpy The previous picture was ten years old and was no longer a great likeness. I'll update it again in ten years so be prepared."""
+385806365836324865,2013-10-03 16:39:40,b'Thanks @gordbird I appreciate it. We will of course consider candidates for the Calgary office as well.'
+385805759776174080,2013-10-03 16:37:15,b'Today on FAIC: Continuing this ever-longer series with a subtraction operator. http://t.co/wVxShN3AJI'
+385803657255464960,2013-10-03 16:28:54,b'We are looking to hire a tester in Seattle to write automated tests for our VS plugin.  http://t.co/ae0fMxOUKW'
+385444845621223424,2013-10-02 16:43:07,b'Today on FAIC: How to learn a new programming language: http://t.co/Ryr7deJCeD'
+384695557886726144,2013-09-30 15:05:42,b'Today on FAIC: Adding recursive multiplication and exponentiation to our Natural class. http://t.co/w7ejZcxQ93'
+382883659100860418,2013-09-25 15:05:52,"b'Today on FAIC: Ask The Bug Guys considers the differences between ++ amongst C, C++ and C#. http://t.co/wzmsi0sBYP'"
+382165697947631616,2013-09-23 15:32:57,b'Today on FAIC: adding addition to our home made large number class. http://t.co/pvQkiKNPJR'
+380719992041242625,2013-09-19 15:48:14,"b'Today on FAIC: if ""zero"", ""one"" and ""many"" are the only numbers, can I implement two of them? http://t.co/qigmkUc2QZ'"
+379655788572061696,2013-09-16 17:19:28,b'Today on FAIC I embark on a long series to implement integer arithmetic in C# from scratch: http://t.co/7X2YJ7l6w4'
+377822220875079681,2013-09-11 15:53:31,b'@gordbird The New Yorker has been in the satire business for fifty years longer than the Onion has been in existence.'
+377821158260756480,2013-09-11 15:49:18,"b'Today on ATBG: arrays vs pointers in C, and reflection vs default parameters in C#. http://t.co/3ONsa1MD7T'"
+377128202071588864,2013-09-09 17:55:44,b'Today on FAIC: A quick note about the design of verbatim identifiers: http://t.co/c6O9Ktl3S1'
+376034501979144193,2013-09-06 17:29:46,b'Today on FAIC Fun For Friday: we find out what Benedict Cummerbatch and Ludwig von Beethoven have in common   http://t.co/Se08adIaVh'
+373858870822580224,2013-08-31 17:24:35,b'@lazycoder @distantcam @xpaulbettsx Maybe try to get above DH2 here if you want to be taken seriously. http://t.co/MCBp4H8xZi'
+372759423581556736,2013-08-28 16:35:46,"b'Today on Ask the Bug Guys: a C# puzzler for me, and Tim talks about mitigating resource leaks in Java.\n https://t.co/w8ZQZ8AOWe'"
+370953151395819520,2013-08-23 16:58:17,"b""@russellabird That's what I had for dinner last night. A lot of food. How long are you in Seattle for?"""
+370577114648424448,2013-08-22 16:04:03,"b'@KristofMattei @stiiifff In VB: when code is unclear, guess what the programmer meant. In C#: when code is unclear, request clarification.'"
+369485222141640704,2013-08-19 15:45:16,b'Part four of my http://t.co/ZFyL7M3Ofo series on performance benchmarking can be found here: http://t.co/6L0n4kAdgB'
+362957842417848321,2013-08-01 15:27:47,"b""Today on FAIC: The first episode of @coverity Dev Testing's Ask the Bug Guys. http://t.co/V9nVsPYDTu"""
+361898941878505473,2013-07-29 17:20:06,"b'Today on FAIC: A contravariance conundrum. Why does inference sometimes pick the ""wrong"" type?  http://t.co/HUicsXSdb2'"
+360434993832525824,2013-07-25 16:22:53,b'Today on FAIC: What is the type of the null literal expression in C#?  http://t.co/0PFc2SOzk9'
+359378286134042624,2013-07-22 18:23:55,b'@Schabse You could use unsafe code to rewrite the type checker code in the CLR. Code is just bytes.'
+359375707580792832,2013-07-22 18:13:40,"b'@Schabse In ""unsafe"" code you can violate type safety; obviously it is called ""unsafe"" for a reason.'"
+359368947822370819,2013-07-22 17:46:48,"b'Today on FAIC: Why does ""foreach"" silently insert a so-called ""explicit"" conversion?  http://t.co/YsehSC4Sr0'"
+357896259350171648,2013-07-18 16:14:52,b'Today on FAIC: Why are double/decimal conversions explicit rather than implicit in C#? http://t.co/Q5T4DOQjW5'
+357526641636945920,2013-07-17 15:46:08,b'Today on FAIC: Announcing a new feature on the Coverity blog: Ask the Bug Guys. http://t.co/xRMdZXGGFB'
+356802181703282688,2013-07-15 15:47:23,b'Today on FAIC: Why are generic constraints on types not inherited by derived types? http://t.co/5pdjO8kMqk'
+354618273192620033,2013-07-09 15:09:19,b'Part three of my http://t.co/ZFyL7M3Ofo beginner series on performance benchmarking mistakes is here: http://t.co/k7yRPygjLQ'
+354291939534848001,2013-07-08 17:32:35,b'Today on FAIC: The psychology of C# analysis plus funny pictures of cats.  http://t.co/xUIDH6Yree'
+353175612992655361,2013-07-05 15:36:42,b'Today on FAIC: The answer to the string concatenation puzzle. http://t.co/T0WM2v5RXy'
+352452708399198208,2013-07-03 15:44:08,"b'EXCITING NEWS EVERYONE! Like @ericlippert, Neil Gaiman @neilhimself  likes soup! See http://t.co/0FTbPG4Uqg for details.'"
+351738816048021506,2013-07-01 16:27:23,b'Today on FAIC: An easy puzzler about string concatenation in C#. http://t.co/WTV8MsBgzM'
+349203746439434243,2013-06-24 16:33:55,b'Today on FAIC: Part two of my series on string concatenation. http://t.co/tNEKyti9Jn'
+348117131063357441,2013-06-21 16:36:06,b'Today on Fun-For-Friday-FAIC: Can you identify this weird rainbow? http://t.co/cGoTR8z0Gy'
+347489623536181248,2013-06-19 23:02:36,"b""@AquaBirdConsult No idea what's going on there, sorry. Try asking at: http://t.co/gvU5nHlNiR"""
+346642091339833345,2013-06-17 14:54:49,b'Today on FAIC: How does the C# compiler generate code for string concatenation?  http://t.co/stJmvNkIdJ'
+345200025963462657,2013-06-13 15:24:34,"b'Today on FAIC: What\'s the difference between ""sizeof"" and ""Marshal.SizeOf""?\n  http://t.co/LvsB5IeCSt'"
+344834902379859968,2013-06-12 15:13:42,b'@spolsky Forget that they called me five minutes ago:  http://t.co/v9PmLbpylj'
+344104535347838977,2013-06-10 14:51:29,b'Today on FAIC: When can the side effect of a destructor execute? Sooner than you might think!  http://t.co/49lpFzPYBh'
+341935003007062016,2013-06-04 15:10:32,b'Today on FAIC: A proof of an interesting integer division identity: http://t.co/dtnsYRbHCG'
+341813883524231168,2013-06-04 07:09:15,"b""@dsyme You're probably right Don; I appreciate your feedback. I shall cancel the series."""
+341635385593581568,2013-06-03 19:19:57,"b""@dsyme I note also that you're criticizing what is part one of a series without having read part two."""
+341634914493542400,2013-06-03 19:18:05,"b'@dsyme I try to avoid blogging about things I know little about. Unlike you I am very, very far from being an expert on F#.'"
+341605185052880896,2013-06-03 17:19:57,b'@SirEel I also did not mention Scheme. Uncanny!'
+340146242451537921,2013-05-30 16:42:38,"b'@jbevain Yes, but the better way to think of it is that ""int? x = null;"" means the same thing as ""int? x = new int?();""'"
+340132779427758080,2013-05-30 15:49:08,"b'Today on FAIC: Surely we can figure out what the meaning of ""is"" is. http://t.co/MZY5CIEA6v'"
+337959676803178496,2013-05-24 15:54:00,b'Today on fun-for-Friday-FAIC: Why are these adventures so fabulous anyway?\nhttp://t.co/ZoMb39LF8l'
+337588342550056961,2013-05-23 15:18:27,b'Today on FAIC: Solving the mystery of the inserted method. http://t.co/ohDGU78Luz'
+336944899242983425,2013-05-21 20:41:38,"b""@gordbird Thanks Gord, I appreciate it. It's been a fun series to write."""
+336929197203267584,2013-05-21 19:39:15,b'Part two of my http://t.co/mNOO6VrdPy beginner series on performance benchmarking mistakes is here: https://t.co/kBgpnhff3f'
+336514590970101760,2013-05-20 16:11:45,"b""@Romoku Next week on the twentieth of May, I proclaim Eliza Doolittle Day! It's a line from My Fair Lady. An obscure reference even for me."""
+336513609976922112,2013-05-20 16:07:51,"b""@ethenes It is not; it's an inside joke. That's a good idea for an article; I'll do a post on that."""
+336511091049897984,2013-05-20 15:57:50,"b'Today on FAIC: What is ""lexical scoping""? http://t.co/Z6SOx5OHH1'"
+335447121920679936,2013-05-17 17:30:00,"b""@panopticoncntrl Hey Paul, it has been fifteen years since I looked at that code, and it was Rok's feature, not mine. So, no idea. Sorry!"""
+335415200016658433,2013-05-17 15:23:10,b'Extra bonus fun for Friday: apparently there are C# coding cowboys over in the @Coverity marketing department: http://t.co/7a3HEbd1Mm'
+335413455903408128,2013-05-17 15:16:14,b'Today on fun-for-Friday-FAIC: This plug has no socket. http://t.co/L27SrKZRDm'
+335045864802353154,2013-05-16 14:55:33,"b""Today on FAIC: The solution to Monday's puzzle. http://t.co/9PdW8maPN0"""
+334335781558689792,2013-05-14 15:53:56,b'Today on FAIC: I start my http://t.co/ZFyL7M3Ofo series on benchmarking mistakes for beginners: http://t.co/cLjeE08Eo6'
+333957455719563264,2013-05-13 14:50:36,"b""Today on FAIC: A puzzle; can you find the value that doesn't round correctly? http://t.co/FkCHe8rx4Y"""
+332878773450055680,2013-05-10 15:24:18,b'Today on fun-for-Friday FAIC: A rerun of my 2004 post about dealing with cold callers.  http://t.co/TkCQgkA8vU'
+331423999835926529,2013-05-06 15:03:33,"b""Today on FAIC: the last episode in the permutation series, and the answer to last week's challenge: http://t.co/m0wx7qFVA5"""
+330064424113147905,2013-05-02 21:01:05,b'@jasonmalinowski I did not. Those are on permanent loan from the Eric Lippert Collection to the Roslyn team; rescue them if you want!'
+329980532077240320,2013-05-02 15:27:44,"b'Today on FAIC: If I give you the first five cards in a ""randomly"" permuted deck, can you predict the next five?   http://t.co/F0o7lMe10M'"
+329604240714657792,2013-05-01 14:32:29,b'Today on FAIC: I got my picture on the cover of a (online) magazine. http://t.co/GbrUav1xYi'
+328932708883517441,2013-04-29 18:04:03,"b'@paulovila That\'s a good question to ask on StackOverflow. Tag it ""Roslyn""; the Roslyn team regularly answers questions.'"
+328932156552388609,2013-04-29 18:01:52,"b'Today on FAIC: How to use ""factoradic notation"" to produce a random permutation. http://t.co/Yig2kTprl7'"
+327436156050485249,2013-04-25 14:57:17,b'Today on FAIC: How to get an individual permutation from the sequence without iterating the whole sequence. http://t.co/PiH2rwA7a7'
+327435785848643585,2013-04-25 14:55:49,"b""@abatishchev @demisbellot @migueldeicaza @dsyme Because the proposed feature's large costs are larger than its small benefits."""
+327114363217514497,2013-04-24 17:38:36,"b'@citizenmatt I do, though slowly. :-) The one you linked to is on the list of potential future blog articles.'"
+326360802607116288,2013-04-22 15:44:13,b'Today on FAIC: a Hamiltonian tour of the vertices of the n-dimensional permutohedtron is easier than it sounds. http://t.co/rs1ehaQxdN'
+325292798762962948,2013-04-19 17:00:21,b'@Schabse Thanks. Credit where it is due; I stole this metaphor from Raymond. http://t.co/W6EJ7gfllN'
+324898168070340608,2013-04-18 14:52:14,"b'Today on FAIC: more on producing permutations, and some awesome graphs that show my mad PowerPoint skills.\nhttp://t.co/QKU8RnuiEn'"
+323854284779311104,2013-04-15 17:44:13,"b""Today on FAIC: I'm starting a series on generating permutations in C#. Shorter and easier than monads, I promise!\nhttp://t.co/sZDvIg3NdY"""
+322845976459108352,2013-04-12 22:57:33,"b""Today on rerun-fun-for-Friday-FAIC: That's a big transistor. http://t.co/8euuAcq2L5"""
+321759895647055874,2013-04-09 23:01:51,b'@XOver9000 That sounds like a great question for StackOverflow.'
+321659540393312256,2013-04-09 16:23:05,b'Today on FAIC: Fabulous adventures in (simple) circuits; how to build a simple coilgun. http://t.co/tl5FX6yRCb'
+319829275966595072,2013-04-04 15:10:16,b'Today on FAIC: Just what does the /langversion switch do? http://t.co/sbCa2JU1qh'
+319552682757083137,2013-04-03 20:51:11,"b""Today on FAIC: one more post on monads and then we'll get back to something less theoretical I promise.\nhttp://t.co/oUcuZy0PTd"""
+319552481388539904,2013-04-03 20:50:23,"b""@thesonjake @Eigenvariable Thanks Sonja, that's kind of you to say!"""
+319147111335751680,2013-04-02 17:59:35,b'@StackExchange That is very silly.'
+319146473830903808,2013-04-02 17:57:03,b'Today on FAIC: I wrap up this (long!) series on monads with a look at how LINQ actually uses the bind operation.\nhttp://t.co/wMowERq8zB'
+317317391547760640,2013-03-28 16:48:56,b'Today on FAIC: My series continues with a look at additive monads - http://t.co/MczFKBH5kp - plus a quick shout-out to @circusnowusa !'
+316234200065908737,2013-03-25 17:04:43,"b'Today on FAIC: building Where, Select and Join out of SelectMany, aka ""bind"" on the sequence monad. http://t.co/6Ttl8avYZz'"
+314758027456679936,2013-03-21 15:18:56,"b'Today on FAIC: My long series continues, today with some simple examples of ""state"" monads. http://t.co/eBkKVKnkSX'"
+314042551713812480,2013-03-19 15:55:53,"b""Today on FAIC: I am Joel @spolsky 's special guest on this week's Stack Exchange podcast. Thanks Joel! http://t.co/P7cgTERAzt"""
+313680813323608065,2013-03-18 15:58:28,"b'Today on FAIC: What does ""binding"" mean in the monad pattern? http://t.co/PFtCJwCyjS'"
+312271193791152129,2013-03-14 18:37:08,"b""@bgrainger I am happy to look at FPs regardless of whether we've seen them already or not. Knowing how many there are helps prioritize."""
+312266079277817856,2013-03-14 18:16:49,"b'Today on FAIC: The final rule of the monad pattern is that ""binding"" has to make ""composition"" work properly. http://t.co/rGUPTYKoTr'"
+311140108072017921,2013-03-11 15:42:37,"b'Today on FAIC: Monads, part six: the simple wrapper has to actually behave like a simple wrapper. http://t.co/Vkg5yw8OJd'"
+311139258339565569,2013-03-11 15:39:14,"b'@sirlawrencebird What, define height as the length of the longest shortest path *through the body*? Inconvenient, but doable, so, sure!'"
+310055495169896448,2013-03-08 15:52:45,"b""@jonskeet I'm with you Jon; I'm not a big fan of that principle either."""
+310055150804926466,2013-03-08 15:51:23,b'Today on fun-for-Friday FAIC: how should we define the length of Whidbey Island? http://t.co/WVvAVnhQmJ'
+309740268058472450,2013-03-07 19:00:09,"b'@JamesLanng @Coverity The well-known code name was COOL: C-like Object Oriented Language. The original was ""SafeC"", which did not last long.'"
+309728595285250048,2013-03-07 18:13:46,"b""Today on FAIC: the monad series continues; we'll pin down the two main rules that characterize the pattern.   http://t.co/1xXp29ubHx"""
+308646454191337472,2013-03-04 18:33:43,"b'@spolsky Joel is absolutely correct; get Global Entry and skip the lines. Canadians are eligable too, through the NEXUS program.'"
+308646033930481664,2013-03-04 18:32:03,"b""Today on FAIC: we'll start dipping toes into the higher-order programming waters of the monad pattern: http://t.co/KzcN2gZviw"""
+307162954271424512,2013-02-28 16:18:49,"b'Today on FAIC: we\'ll start investigating the monad laws by asking ""how do you add one to a monadic integer?"" http://t.co/ImIN1Z3TDK'"
+306837169094414336,2013-02-27 18:44:16,"b'@Coverity Do you know what both the original code names were for C#? One is reasonably well known, the other is not.'"
+306071340341923840,2013-02-25 16:01:08,"b'Today on FAIC: What do Nullable&lt;T&gt;, Task&lt;T&gt;, Lazy&lt;T&gt;, Func&lt;T&gt; and IEnumerable&lt;T&gt; have in common? \nhttp://t.co/0plZh2Yoze'"
+304656764165562369,2013-02-21 18:20:07,"b'@AakashMehendale Perhaps you are thinking of this SO post, which is a condensed version of the coming series: http://t.co/skR7RFR6mm'"
+304632832851075072,2013-02-21 16:45:01,b'Today on FAIC I start a long series with: monads are actually just yet another design pattern for types.  http://t.co/7haO3oXvCI'
+304315973710774272,2013-02-20 19:45:56,"b'@JustinMorgan321 I no longer speak for the C# team, but it is unlikely; constraints are not part of the signature of a method.'"
+304036594216730624,2013-02-20 01:15:47,"b'@xyzzer @jmorrill @JamesMcNellis Thanks! C# was designed to be a ""pit of quality"" language; you have to work hard to write bad code. :-)'"
+303944691513180161,2013-02-19 19:10:36,b'Today on FAIC I finish up my short series on static ctors with an example of how *not* to use them. http://t.co/NDV9zlnI'
+302190093748281344,2013-02-14 22:58:27,b'@jonskeet The things I do not know fill volumes. :-)'
+302083545046855680,2013-02-14 15:55:04,b'Today on FAIC: If you have static field initializers but no static ctor then the rules of static ctors do not apply! http://t.co/zcl70MOe'
+301738475189841922,2013-02-13 17:03:53,b'Today on FAIC: How to get a free beer. Really!  http://t.co/8FyvDl0H'
+301004657755566083,2013-02-11 16:27:57,"b""@leppie Yeah, I've been keeping an eye on that question since it was posted. I've just posted an answer that I hope clarifies things."""
+300994634589548544,2013-02-11 15:48:07,b'Today on FAIC I continue my series looking at some of the corner cases of static constructors: http://t.co/ZdN7OM14'
+299920872301555713,2013-02-08 16:41:22,b'Today on Fun For Friday FAIC: what your nervous system and the realm of Gondor have in common. http://t.co/JGzJ2nZY'
+299589649125498881,2013-02-07 18:45:13,"b""@c64_gio @coverity We have two in the Seattle office so far and we're actively recruiting to find more."""
+298952460049973249,2013-02-06 00:33:15,"b'@dsnell @Coverity 42nd; the top floor of the ""thickest"" part of the tower. About halfway up the whole tower. We have a nice east view too.'"
+298920973552472064,2013-02-05 22:28:08,"b'The Seattle @Coverity office is (mostly) set up and ready for business, and goodness does it have a nice view! http://t.co/P1IAlQQb'"
+297013009363111936,2013-01-31 16:06:34,"b'Today on FAIC: You can build a hollow house with solid bricks and a deadlocking program with ""threadsafe"" methods. http://t.co/AZzPURm6'"
+296760311002845184,2013-01-30 23:22:26,"b""Today on FAIC, the solution to yesterday's (easy) puzzle. http://t.co/DwiCvuha"""
+296277167099244544,2013-01-29 15:22:35,"b""I'll be playing Spot the Defect at the HUB today with some @Coverity colleagues; if you're a UW student, stop on by! http://t.co/xT3OayCE"""
+295941207081775104,2013-01-28 17:07:36,b'Today on FAIC: It can be surprisingly difficult to get integer arithmetic correct. http://t.co/nEtyUQgC'
+294501773366927361,2013-01-24 17:47:49,b'@jaredpar @AakashMehendale Consider a logically immutable hash table which as an implementation detail mutates internal structures for perf.'
+294480094821486593,2013-01-24 16:21:40,"b""Today on FAIC: I'm gonna eat my vegtables that need eaten, and other elisions. http://t.co/IG3kpkJ9"""
+293457621090988032,2013-01-21 20:38:43,"b""Today on FAIC: I finish off my series on lifted arithmetic optimization and answer last week's puzzle. http://t.co/xzYuW4Fj"""
+292285561270587393,2013-01-18 15:01:22,"b""Today on fun-for-friday-FAIC: be kind to your fine feathered friends. That hummingbird may be somebody's father. http://t.co/tXR5HfFP"""
+292118205059710976,2013-01-18 03:56:23,b'@gordbird there is only one cafeteria that marks its cutlery with hash tags. Proof enough? http://t.co/aUnlITyH'
+292030744207949824,2013-01-17 22:08:49,b'@Eigenvariable @thesonjake Nice to meet you at lunch! C# 4 has variant conversions on generic interfaces and delegates.'
+291988614403985408,2013-01-17 19:21:25,b'Having lunch at twitter HQ today. Should be interesting!'
+291955268735082496,2013-01-17 17:08:54,"b'Today on FAIC, a puzzle about when it is legal to optimize a lifted binary expression: http://t.co/a8RiYrOl'"
+291948539657990144,2013-01-17 16:42:10,"b'@thesonjake @Eigenvariable Good question. Yes, C# has bounded parametric polymorphism but not exactly the same way that Java and Scala do.'"
+291219500194480129,2013-01-15 16:25:14,b'Today on FAIC: How premature optimization leads to worse optimization. http://t.co/lU2bbX7l'
+290830191813595136,2013-01-14 14:38:15,b'Today is my first day at @coverity; I am super-excited! http://t.co/Tmh0Wt8P'
+289759179881709569,2013-01-11 15:42:26,"b'Today on ""fun for Friday"" FAIC, I discard conventional authority, reject objectivity, and chew gum at the same time. http://t.co/wWbPuk7d'"
+289410097552162817,2013-01-10 16:35:18,b'Today on FAIC: the lifted conversion optimization I described last time also applies to lifted unary operators:  http://t.co/GEqgPBz8'
+288669562306699264,2013-01-08 15:32:41,"b'My author copies of Essential C# 5.0 by @markmichaelis and yours truly have arrived, and it looks great! More at  http://t.co/xcSj3mG7'"
+288308431218159616,2013-01-07 15:37:41,"b'Today on FAIC: a lifted conversion can be ""distributed"" into its target to be optimized if the target is also lifted. http://t.co/p1Q4nYjZ'"
+286869678243078144,2013-01-03 16:20:35,b'Happy New Year all! Today I continue my series on how the compiler optimizes lifted arithmetic: http://t.co/DFhvPRon'
+284419908463382529,2012-12-27 22:06:05,"b""@kbattocchi Yes, my metal casting project continues; I will write more about it soon. I can't cast metal in the rain, which slows me down."""
+284323855865085952,2012-12-27 15:44:24,"b'@Schabse: http://t.co/Zhefzp1p, my hosting service, is having intermittant outages. I do not know if there is a DDOS underway or not.'"
+284318120229875712,2012-12-27 15:21:36,b'Today I begin a long series describing how a C# compiler might choose to optimize lifted-to-nullable arithmetic: http://t.co/QP7Pof9N'
+281799174796754944,2012-12-20 16:32:13,"b'Today I contradict my previous post by answering: which is faster, Nullable&lt;T&gt;.Value or GetValueOrDefault()? http://t.co/TH6QpuBF'"
+280692711487578112,2012-12-17 15:15:32,"b'Why it is hard for me -- or anyone else -- to sensibly answer questions that begin ""which is faster"" : http://t.co/Ld64DZ3q'"
+279616431295959041,2012-12-14 15:58:46,"b'No rambling on about language design today; instead, here are some photos from my trip to Kauai last week: http://t.co/WvNws1fv'"
+278516821655699459,2012-12-11 15:09:19,b'How do you deal with unmanaged code that holds on to fixed pointers? http://t.co/qYKQm8ox'
+276010316071071744,2012-12-04 17:09:22,b'Ever wonder why the bracing rules of C# are inconsistent? http://t.co/6gflLkz4'
+274530963885813760,2012-11-30 15:10:56,b'Thank you all for the well-wishes that have been pouring in for the last 24 hours. I appreciate it very much. And now: off to Hawaii. :-)'

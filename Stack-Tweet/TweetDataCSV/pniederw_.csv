@@ -1,0 +1,1186 @@
+twitter_id,date,tweet
+644985229011234816,2015-09-18 21:23:56,b'@johnpauljai Glad you like it.'
+644178584513474561,2015-09-16 15:58:37,b'RT @ratpackweb: The day has come \xc2\xbb http://t.co/SUOoUD6NVd'
+638059098924318720,2015-08-30 18:41:58,"b""@darthvader42 I'm happy to help. What's the Twitter handle of your seat neighbor?"""
+635509083228008448,2015-08-23 17:49:07,"b'RT @asteingr: Article about the motivations and thoughts behind #golang. Good stuff, esp for newcomers to go: https://t.co/9TOcrRnOaZ'"
+633827849791741952,2015-08-19 02:28:29,b'@searls @chrisnelsonpe Spock the test framework blends well with Geb the browser automation library. Neither requires the other.'
+633806187440566272,2015-08-19 01:02:25,b'@alvaro_sanchez Keep fighting the indentation [afraid to say the word].'
+633805052222816256,2015-08-19 00:57:54,"b""To my surprise, I find it easier to deal with #parboiled2's macro foo than #fastparse's implicits foo. IntelliJ vehemently disagrees. #scala"""
+633133178782371841,2015-08-17 04:28:07,"b""@yv3s77 Of course there were other choices (Spock 0.1 didn't require subclassing). They just weren't as compelling."""
+624918994433257473,2015-07-25 12:27:53,"b""RT @vendorexcuses: The bug wasn't ours. It was in an open source project we use, but do not fund or contribute to in any way."""
+617412827750469632,2015-07-04 19:21:03,"b'RT @ieure: Ah, finally got my Emacs setup just how I like it. http://t.co/f0B10cZybh'"
+617019789739978752,2015-07-03 17:19:16,"b'@brianjohnsendk @colinharrington Spock docs never said that. Anyway, `void` is supported.'"
+616712639213776896,2015-07-02 20:58:45,"b""@cfieber I'm using DA, but #scalatest failure output is disappointing (all messages duplicated, no stack trace filtering, etc.)"""
+616682045293596672,2015-07-02 18:57:11,b'Missing #spock (and sane test failure output) in #scala land. #scalacheck makes up for some of it.'
+616680089376411648,2015-07-02 18:49:25,"b'@colinharrington `def`, because it reads better and is the idiomatic style.'"
+616405934559109120,2015-07-02 00:40:01,b'Best lineup ever for a programming language conference. Prague here I come! http://t.co/FwvMGNy9JZ'
+608609744698355712,2015-06-10 12:20:45,"b""RT @glaforge: Nice &amp; funny dialogue on @circleci's blog about #microservices, #docker, #kubernetes, #heroku\xe2\x80\xa6\nhttp://t.co/Ui63DLCEN0"""
+607017478997348352,2015-06-06 02:53:39,b'RT @adriancolyer: Is our focus on scalability at all costs leading us down the wrong path? http://t.co/RkIAjFpR26 http://t.co/qjnWRG8YqU'
+606352683579154432,2015-06-04 06:51:59,b'RT @stilkov: \xe2\x80\x9eVon Monolithen und Microservices\xe2\x80\x9c \xe2\x80\x93 Sch\xc3\xb6ner Erfahrungsbericht von @GuidoSteinacker zur Otto-Architektur: http://t.co/rQsGMO3l\xe2\x80\xa6'
+605741984955953152,2015-06-02 14:25:18,b'RT @eviltrout: Huge WTF in Java programming with URLs: (via @lukereeves) http://t.co/lW7XbKC9m0'
+604755326638923777,2015-05-30 21:04:40,"b""@jbaruch @mojavelinux I'm happy to run any *nix toolchain, but I want a doc web*site* with cross-doc toc, nav, search, version selector."""
+604746694694158336,2015-05-30 20:30:22,"b'@mojavelinux Does the Asciidoctor ecosystem have a turn-key doc website generator like Sphinx, or do I still have to build my own?'"
+604745561791709184,2015-05-30 20:25:52,"b'@srecon Have you published any content from #srecon15europe (papers, slides, videos, etc.)?'"
+604368857298526208,2015-05-29 19:28:58,"b""RT @jaykreps: It's rare that CS dissertations are well written, but @ongardie's is a great intro to Consensus, Raft, &amp; etc. https://t.co/ci\xe2\x80\xa6"""
+597838971784327168,2015-05-11 19:01:32,"b""RT @normanmaurer: Awesome post by @cra - 'Why we run an open source program - Twitter' :\nhttp://t.co/spOaPWDa6H #opensource"""
+597764925084282880,2015-05-11 14:07:18,b'RT @ewolff: Mittwoch spreche ich \xc3\xbcber @springboot und #Microservice http://t.co/KCm47fmPSB'
+595975789423816704,2015-05-06 15:37:55,b'Abysmal service from @UPCAustria who mess up our internet upgrade and leave us offline for 7 days and counting. How hard is it to fix DHCP??'
+594985251937615872,2015-05-03 22:01:53,"b'@glaforge SFO stores only sell http://t.co/5fYgrgFj4P SIMs, which is OK if you need &lt;1GB data. Otherwise I recommend http://t.co/qw16EZO380.'"
+593170179745513472,2015-04-28 21:49:26,"b'RT @glaforge: Vault, an interesting project to store, share, lease, revoke secrets, like passwords, certificates, API keys\nhttp://t.co/ibI3\xe2\x80\xa6'"
+593169114430054400,2015-04-28 21:45:12,"b'Every time I get a chance to use #scala, I fall in love again, until we get separated against our wills.'"
+588756689744199680,2015-04-16 17:31:48,b'Shoutout to @daschl and @xeraa for educating me on #netty and #aws today! #confess_2015'
+586276081012977665,2015-04-09 21:14:44,b'RT @ObjectComputing: We have announced some BIG news! @grailsframework and #Grails have a New Home at OCI!!\nhttp://t.co/hvKlhoC1wh'
+582866374793494528,2015-03-31 11:25:47,"b'RT @graemerocher: Grails 3.0 Released and the Road Ahead - Today is significant on a number of fronts. First, the Grails team... http://t.c\xe2\x80\xa6'"
+580284349070909440,2015-03-24 08:25:44,"b""@itdoug @hipchat I run into this all the time. maybe it's the odd 1 min limit, but printing s/ as regular msg is horrible and embarrassing."""
+579707583252062208,2015-03-22 18:13:52,"b""@piotrbetkier @marcinerdmann In Groovy &lt; 2.4, strings as method names don't work reliably (e.g. closure inside method). Not sure about 2.4+."""
+579676359905153024,2015-03-22 16:09:48,b'+5 (=11!) hour stopover at FRA due to customs officer who insisted on proof of purchase for 3.5y old macbook. 1st missed flight ever.'
+576592634162102273,2015-03-14 03:56:11,"b'""Java 8 Update 40 is now available - you have Java 8 Update 40. Would you like to download it now?"" Hmm\xe2\x80\xa6'"
+574710655028170753,2015-03-08 23:17:52,"b'RT @dhh: ""HP is trying to patent Continuous Delivery"", http://t.co/xpI8Z700Ef - HP is a general disgrace these days, but this is a new path\xe2\x80\xa6'"
+573941444890787841,2015-03-06 20:21:18,b'@codepipes #spockfw is now @spockframework :-)'
+573225299258806273,2015-03-04 20:55:36,b'@breskeby Slides?'
+572834132054687746,2015-03-03 19:01:14,"b""@ronotica Thanks! Hope you'll enjoy it."""
+572600841519173633,2015-03-03 03:34:13,"b'@danveloper @spockframework I would have applied, but I only have 7+ years experience.'"
+572415201502494720,2015-03-02 15:16:33,"b""@breskeby You weren't ever in doubt, were you?!"""
+572380465975468032,2015-03-02 12:58:32,b'@divideby0 next release'
+572378651980918784,2015-03-02 12:51:19,"b'RT @spockframework: Breaking News: We have our own Twitter account! Oh, and one more thing - Spock 1.0 is out. LLAP. http://t.co/Nmbeh9LBAO'"
+572295250976354304,2015-03-02 07:19:55,"b'@marc0der Spock used @droneio until recently, but from what I can tell, droneio the *service* is no longer actively developed.'"
+572200345658630144,2015-03-02 01:02:48,"b""@bmuschko #SnapCI's pipelines are a huge plus. Only one free agent, unaffordable (for OSS) paid plans and config via UI only are some cons."""
+572107004510126082,2015-03-01 18:51:53,"b'Spent a lot of time evaluating CI services for Spock (@BeShippable. @circleci, @snap_ci, @travisci). Overall, @travisci is the clear winner.'"
+572094021230862336,2015-03-01 18:00:18,b'RT @billwscott: The more talent density u have the less process you need. The more process u create the less talent you retain.\n\n-- Reed Ha\xe2\x80\xa6'
+572093628300054528,2015-03-01 17:58:44,b'@ms_koffee I do see console output now. Looks like this was a temporary issue.'
+572092193944551424,2015-03-01 17:53:02,"b'https://t.co/Q38Dns4WrR is *awesome*. Immediately solved my long-standing ""there is no cglib release that works with Java 8"" problem.'"
+571854342262812672,2015-03-01 02:07:54,b'@BeShippable Your service is down https://t.co/OXrzshffBF'
+571815812685795328,2015-02-28 23:34:48,b'@BeShippable No live feedback for running Java builds? Not even console output?'
+571791753210159105,2015-02-28 21:59:11,b'@odersky Geo-blocking sucks but there are better solutions than pirating (e.g. https://t.co/UCRWZtg0vJ)'
+571676575063805953,2015-02-28 14:21:31,"b""@rfletcherew The former is not a Spock interaction but a Groovy `as` expression. It's a known gotcha that could probably be caught."""
+570963003094511616,2015-02-26 15:06:02,b'RT @wfarr: 4:04 Sleep Not Found'
+567773045319041024,2015-02-17 19:50:17,b'RT @ManningBooks: The Search for #Spock is over! #Java testing with #Spock is now available on #MEAP http://t.co/2gc4WY2ljR http://t.co/CEA\xe2\x80\xa6'
+566604642201899008,2015-02-14 14:27:28,"b""@chess24com Isn't 10. Bd3 (instead of 0-0-0) Nf4! the (concrete) problem? #c24live"""
+564099872824258560,2015-02-07 16:34:24,b'@chess24com Would you have played g2-g3 voluntarily like Aronian? #c24live'
+562297245190877185,2015-02-02 17:11:24,b'@chess24 Perhaps Bacrot missed the refutation of 28.Rh8+ Kg7 29.Rdh1'
+560844887399346176,2015-01-29 17:00:15,"b""@bsideup @cedricchampeau I *think* I'd prefer A with &gt;&gt; replaced with something else (: or -&gt;)"""
+560842892655493120,2015-01-29 16:52:20,"b""@bsideup @cedricchampeau A collides with Spock's mocking syntax (&gt;&gt; in statement position)."""
+560447102887952384,2015-01-28 14:39:36,b'RT @db_deadbeat: im not even sure goats actually use physics http://t.co/qC8k2h0lQZ'
+557230317027987456,2015-01-19 17:37:15,"b""RT @burtbeckwith: Ever dream about working on the #grailsfw or #groovylang teams? Now's your chance if your company hires these guys before\xe2\x80\xa6"""
+557144068049088512,2015-01-19 11:54:31,"b'RT @graemerocher: The Future of Groovy &amp; Grails Sponsorship - Today, Pivotal announced that they will be ending sponsorship... http://t.co/\xe2\x80\xa6'"
+550639537761030145,2015-01-01 13:07:50,"b'Just discovered ""Curb Your Enthusiasm"". Haven\'t laughed this much since ""Fawlty Towers"".'"
+548008509812781056,2014-12-25 06:53:04,b'RT @MrAlanCooper: The secret to the Uber economy is wealth inequality http://t.co/s8pH4CXpVe'
+544525742928048128,2014-12-15 16:13:48,b'@pledbrook https://t.co/sWeohcdd0s'
+544301409827840000,2014-12-15 01:22:23,"b'@russel_winder ""Spock Framework"" does have Vulcan roots (""Enterprise Ready""), even though there are other explanations (""Spec+Mock"").'"
+543533676269944833,2014-12-12 22:31:41,b'@rfletcherew You are not alone. :-)'
+543531755148693504,2014-12-12 22:24:03,"b""@rfletcherew I'd say parameters.stream().collect(JobParametersBuilder::new, (builder, entry) -&gt; builder.addParameter(\xe2\x80\xa6), JPB::merge)"""
+543527687902744576,2014-12-12 22:07:53,b'@rfletcherew Example?'
+543526560394129410,2014-12-12 22:03:24,"b'@rfletcherew numbers.stream().reduce(0, (n1, n2) -&gt; n1 + n2)'"
+541742504656535552,2014-12-07 23:54:12,"b""RT @cbeams: Hot off the presses, a short explainer about what we're up to with @bitsquare_: https://t.co/1GRASDyPzx (also at https://t.co/C\xe2\x80\xa6"""
+532588836111810561,2014-11-12 17:40:48,b'RT @solid_angle: Trying to catch up with the news... open sourced .NET landed on a comet?'
+532120512454225920,2014-11-11 10:39:51,b'@logiske @herrahuh Key missing functionality for &gt;1800 is a way to study/rehearse content with your own chess program/database. #c24live'
+531048711431135232,2014-11-08 11:40:53,"b""Learnings from @oredev: 1. Quantum computers are likely for real. 2. My code isn't quantum ready. 3. That's an awesome bridge you have."""
+530652948200960000,2014-11-07 09:28:16,"b""@robertoguerra19 I'm not aware of any restrictions around stubbing a void method in Spock. (Obviously you can only perform a side effect.)"""
+529970071838666753,2014-11-05 12:14:46,"b'@javazone blew me away last year, and now @oredev does it again. Scandinavian conferences are the best!'"
+528517888081408000,2014-11-01 12:04:18,"b""@snicoll No, that's speaking\xe2\x80\xa6Apologies for the terseness of my tweet(s). Trying to make a point in style."""
+528517233937760257,2014-11-01 12:01:42,"b'@snicoll Yes, the ability to clearly explain/describe/express yourself in spoken language helps. :-)'"
+528512011416928258,2014-11-01 11:40:57,"b'IT skills that software developers lack most often: thinking, speaking, writing.'"
+527788200832827392,2014-10-30 11:44:47,b'RT @suigenerisjen: Wow - must read: Just how much information can be squeezed from one week of your #metadata? https://t.co/i3ZLGDe9Kb #sto\xe2\x80\xa6'
+526301438956150785,2014-10-26 09:16:55,"b""#c24live Can you please show today's video."""
+519269418061533184,2014-10-06 23:34:11,b'@jbrains can always get help on the mailing list: http://t.co/ABaJElz2Zn'
+518124792860663808,2014-10-03 19:45:51,b'@solidsoftblog Thanks for reminding me of all the new #spock features in 1.0. :-)'
+518124327859126273,2014-10-03 19:44:00,"b""@solidsoftblog @2tolik @glaforge It's official in that everything described is already in the #spock codebase. At most details might change."""
+518025614771879936,2014-10-03 13:11:45,b'@tompson wie meinst du das? als interview-partner?'
+517704837904203776,2014-10-02 15:57:06,b'RT @tOMPSON: Danny hat wieder mal eins draufgesetzt - atemberaubende Bilder! https://t.co/Adk3At1Dvn'
+517227646443593728,2014-10-01 08:20:55,b'Reminder: Heute 18:30 eJUG mit Mr. Mockito @szczepiq Szczepan Faber Im Spitz Hotel! Nicht verpassen und Freunde mitbringen.'
+515680501659865088,2014-09-27 01:53:07,"b'RT @szczepiq: Just released #mockito 1.10.0 :D I\xe2\x80\x99m so happy. Expect more releases, fast. Continuous deployment is in place. https://t.co/3r\xe2\x80\xa6'"
+514995683191824384,2014-09-25 04:31:53,"b'@hhariri My definition of #java-next is ""ready/great for use as jvm base language"". I like #kotlin, and hope it can become that language.'"
+514331636268154880,2014-09-23 08:33:12,"b'RT @aglover: Missed last month\'s ""Idiomatic Spock with @rfletcherEW"" here @netflix? Here\'s the video: http://t.co/u0eigrRNMU'"
+513473014156255232,2014-09-20 23:41:21,b'RT @evgeny_goldin: #Spotify engineering culture (part 2) - http://t.co/qQY9bHTrJv'
+513160803520765952,2014-09-20 03:00:44,b'state of java-next #java8: too little. #groovy/#clojure: different focus. #kotlin: not ready. #ceylon: its own universe. #scala: which fork?'
+513084438582800385,2014-09-19 21:57:17,b'Help vote for critical IntelliJ Groovy issues/feature requests: http://t.co/iCOM98bApz http://t.co/MIpl3f5XPN http://t.co/YffA2py58k'
+511249233714765825,2014-09-14 20:24:50,"b'@gametime_la was a complete failure. Purchases never went thru, email &amp; phone support useless. Missed last chance to watch SF Giants game.'"
+510906677042741248,2014-09-13 21:43:38,"b""RT @QCon: Haven't used #Gradle in practice? @hans_d &amp; @pniederw show you how in a full-day tutorial at #qconsf http://t.co/6L0krnDFnv"""
+510231366693179392,2014-09-12 01:00:12,b'Verifying myself: I am pniederw on Keybase.io. UU383izK0UJ8KE9v5Gqyd-7yPnh3XPGtxkBn / https://t.co/mtjlMYitYq'
+508973220687388673,2014-09-08 13:40:46,"b""Since this morning, my #chrome is completely unresponsive from the moment it starts. Apparently I'm not alone: https://t.co/sE8HAEHRLA"""
+506513876351873024,2014-09-01 18:48:13,b'RT @adriancolyer: Just read this great summary of #docker so far by @cpswan : http://t.co/hJXGzN5WmX'
+505926329896685570,2014-08-31 03:53:31,"b'Finally, #spock has a Windows CI build: https://t.co/C4aHjNy2pU Kudos to #appveyor'"
+504514360627040257,2014-08-27 06:22:51,b'@frankvilhelmsen Would be interesting to see some meaningful Spock vs. clojure.test comparisons (if there is such a thing).'
+504507271187931136,2014-08-27 05:54:41,"b""@jbaruch @sbglasius Totally love @rfletcherew's presentations, but prefer a logo that's not Star Trek. Looks good though."""
+503936317697167360,2014-08-25 16:05:55,"b""RT @aglover: If you're in the Bay Area on Tuesday 8/26, stop by @netflix for some Spock testing w/@rfletcherEW http://t.co/18zXtJjKA4"""
+503808713187020802,2014-08-25 07:38:52,"b'Next eJUG Linz event on Oct 1: @szczepiq (founder of Mockito) on ""Mockito Story"" and ""Continuous Delivery"" http://t.co/ps0e4A6wCd'"
+500110836019363840,2014-08-15 02:44:49,b'Still time to join us for the Spring/Groovy/Grails event of 2014! @springone2gx Register today! https://t.co/C4zHQeuoY4  #s2gx #nfjs'
+497064674568183808,2014-08-06 17:00:28,"b""@gmhikaru Aren't US chess players used to bringing their own board/clock/toilet?"""
+474211290219413504,2014-06-04 15:29:16,"b""#c24live Aren't you chess pros die-hard travellers? UA902=United Airlines Flight 902, SFO=San Francisco Airport."""
+474209016516579329,2014-06-04 15:20:14,b'#c24live Your show is a great relief from onboard entertainment on #UA902 to #SFO. Keep it up!'
+474192873542275072,2014-06-04 14:16:05,b'Anyone on #UA902 to #SFO able to spare one AAA battery? Please deliver to seat 55A for great rewards (cash or *two* AA batteries). Thanks!'
+474191022319095808,2014-06-04 14:08:44,"b""@hwstrbk @epragt Awesome guess, and of course you are right. Soon I'll be left without defenses against noisy B747, and AA still won't fit\xe2\x80\xa6"""
+474186383842496512,2014-06-04 13:50:18,b'@timvisher Only if I found somebody willing to trade his 3D printer\xe2\x80\xa6'
+474183009877233666,2014-06-04 13:36:54,"b""In case you were wondering, I'm offering *two* AA batteries in return. :-) #deal_of_the_day"""
+474181757869117440,2014-06-04 13:31:55,"b""Among 300 bored passengers on this flight, I need to find *one* willing to sell/trade an AAA battery. Surely there's a website for this!?"""
+473572902588395521,2014-06-02 21:12:33,b'@tompson Still stands after skimming through the whole language guide!'
+473571956441489408,2014-06-02 21:08:47,"b""Apple's new Swift language looks great, and it's surprisingly similar to Groovy!"""
+471310994485301248,2014-05-27 15:24:32,b'Anyone else seeing significant (~2s) JVM shutdown delays (only) when running under Java 8 (1.8.0_05)?'
+470629994822373376,2014-05-25 18:18:29,b'RT @DepressedDarth: First look at the set of Star Wars http://t.co/m9VuiXMxPH'
+470493248390443008,2014-05-25 09:15:06,"b'Seems to be a popular ""solution"" \xe2\x80\x9c@iljawascoding: Thanks to the rise of Android, we all might have to use C++ again. http://t.co/u5M6BOshQO\xe2\x80\x9d'"
+467567093005955072,2014-05-17 07:27:36,b'RT @freddy33: Are we the bad guys when we block China?\nhttp://t.co/2tKXHDSPof'
+466420370560806912,2014-05-14 03:30:56,"b'RT @lptr: If your modular apps development pains you, Pride might help you: http://t.co/UjJwFkUpdY #prezi #gradle'"
+466262958805614592,2014-05-13 17:05:26,"b'So sick of #twitter refusing to let me tweet because ""This request looks like it might be automated."" Folks, I\'m here, and I\'m human.'"
+466038991834591232,2014-05-13 02:15:28,"b""@iamsteveholmes @coderconsortium I'll soon go to SF, but not sure I can make it to Sacramento."""
+464826764804751361,2014-05-09 17:58:31,b'RT @commit_strip: The truth behind Open Source apps http://t.co/HAUPs7pJcu http://t.co/M51I5Doo1C'
+459089232125259776,2014-04-23 21:59:37,b'@cedricchampeau @kenkousen The Gradle Android plugin needs to pull some tricks. We are working on improving G. to make this unnecessary.'
+452380732305207296,2014-04-05 09:42:26,"b""If MS rebranded XP as Win9, my family support issues would be solved. Instead, I'm faced with the impossible task to teach them Win8."""
+452188758763638784,2014-04-04 20:59:36,"b'RT @glaforge: Groovy 2.3 beta, w/ traits, JDK 8 support, tailrec, NIO, AST xforms, better inference, markup templates http://t.co/DKh8Nm5Sa\xe2\x80\xa6'"
+452036338414788608,2014-04-04 10:53:56,b'Want to see early support for #groovy 2.3 traits in #IntellijIDEA ? Vote for http://t.co/dPDXDdNoXt'
+451747296884301824,2014-04-03 15:45:23,"b'@davidthecoder Always wanted to have it, too. Huge potential. @tim_yates Happy I resisted implementing ""Spock traits"". Pay day!'"
+451737521186410497,2014-04-03 15:06:32,b'Mixing basic #groovy 2.3 traits into #spock specs already works. New killer feature for code reuse across specs?'
+445323811391823873,2014-03-16 22:20:45,"b'RT @blondeinabinder: So very true, and a little sad!! #IExpectMoreOfApple #SadComics http://t.co/V19sKDBs9w'"
+441634566768701441,2014-03-06 18:01:00,"b'@ChessBase, when will you provide a public issue tracker and forum? Tired of old bugs and rediscovering every single problem and solution.'"
+436229083891257344,2014-02-19 20:01:33,"b""@simonhpedersen I wish #julia was mine, but she isn't. http://t.co/rgKBQU2wW4"""
+435571289378799616,2014-02-18 00:27:42,b'@ldaley Even runs on Windows. :-)'
+435570778126704640,2014-02-18 00:25:40,"b'Scripting nature, multiple dispatch, optional types, macros, coroutines, async i/o, distributed computing, efficiency - #julia has it all.'"
+435432765514076160,2014-02-17 15:17:15,"b""@wmacgyver @cedricchampeau @project_kotlin Spock is also Spec + Mock. And who doesn't want to be Enterprise ready?"""
+435113994337419264,2014-02-16 18:10:34,b'Too many people abuse #stackoverflow as a cheap outsourcing site. Prove that you did your homework. It will help to answer your question.'
+431039485011582976,2014-02-05 12:19:56,"b'#julia seems to have everything I ever wanted in a prog lang, just simpler &amp; better. Hooked. http://t.co/W6USrBHLhX'"
+428825909467316224,2014-01-30 09:43:58,"b'Just earned the ""maven"" badge on Stack Overflow. :-)'"
+427910642843275264,2014-01-27 21:07:02,"b'@arminwolf Einen Zug vor Schluss hatt e Bill Gates eine Gewinnstellung, dann lie\xc3\x9f er sich einz\xc3\xbcgig Matt setzen.'"
+424225080672288768,2014-01-17 17:01:55,b'RT @darthvader42: #ymmd RT @zeitungsjunge: Ich liebe Passwort Regeln! http://t.co/NKl42aHezQ'
+423669231851692032,2014-01-16 04:13:10,b'@martin_ehr My pleasure. Always nice to teach #gradle in #austria.'
+421043074446663684,2014-01-08 22:17:46,b'Stunning #gradle support in #intellij 13: https://t.co/adSnaKrzah'
+420547809973374976,2014-01-07 13:29:45,"b""Due to popular demand, I've added some guidelines for contributing to #spock: https://t.co/4XYyoZrLO8"""
+415134108881526784,2013-12-23 14:57:39,"b'@ldaley Actually, a much more common issue description is ""TRY SIMPLE FLY 2 MOON BUT NOT WORKING"".'"
+415132362692124672,2013-12-23 14:50:42,"b'The usual ""TRY FLY 2 MOON BUT NOT WORKING"" isn\'t good enough? RT ""@ldaley: All I want for christmas is better bug reports.""'"
+414333935569887233,2013-12-21 09:58:02,"b'@lightguardjp @dhh There is no simple answer, but anything related to US government/company is clearly out by now (process of elimination).'"
+414275402862186496,2013-12-21 06:05:27,b'@jarrieta @pmanrubia #spock is designed from ground up to be a great choice for testing pure Java code.'
+414274458502049792,2013-12-21 06:01:42,"b""Logical conclusion: Don't trust AES. RT @dhh NSA paid RSA $10M in secret for backdoors in popular encryption products http://t.co/fkKgjeAYsd"""
+413606085942333440,2013-12-19 09:45:49,b'RT @sehnaoui: A simple guide on how to -really- read a scientific paper. \nBrilliant. http://t.co/RWx5YTbYLS'
+413477883441856512,2013-12-19 01:16:24,b'Thanks #winrar for installing malware and all sorts of other crap. Thanks #adwcleaner for removing it.'
+411562345220308992,2013-12-13 18:24:44,b'First meaningful comparison of programming languages! RT @timvisher: This should not be forgotten: http://t.co/2P9fblRnPz'
+409081407177519104,2013-12-06 22:06:22,"b""@kellyrob99 @ldaley You'd have to be more specific. Best post to the Geb or Spock list."""
+406512896605421571,2013-11-29 20:00:01,b'Quite a few #spock pull requests coming in lately. Thanks guys! Perhaps I can merge some on the flight to #rwx13 ...'
+405871734332854272,2013-11-28 01:32:16,b'Enjoying my 19.999 reputation on #stackoverflow while it lasts. Only 99.999 would be better.'
+405397779037818880,2013-11-26 18:08:57,"b'@RobertFischer @colinharrington Plus, nobody cares that it will be broken sooner than the old one.'"
+405395292507627520,2013-11-26 17:59:04,"b'@ColinHarrington I agree. PayPal\'s ""move to JS"" article leaves a taste of short-sighted reasoning based on apples/oranges comparison.'"
+405391675385978881,2013-11-26 17:44:41,"b'Oh yeah, should have set a bookmark. So much better now. #lucid #maverick #natty #oneiric #precise #quantal #raring #saucy #trusty'"
+405390291861274624,2013-11-26 17:39:12,"b'Codenames for software releases is the worst invention, ever. I don\'t know how often I\'ve googled ""ubuntu release names"" lately.'"
+402676052369342464,2013-11-19 05:53:46,b'@danveloper Weird. Perhaps post to http://t.co/ABaJElz2Zn.'
+402673352936288256,2013-11-19 05:43:03,b'@craigburke1 @danveloper Usually this works just fine. Spock comes with a JUnit facade that allows it to borrow all the tool integration.'
+402415716588355584,2013-11-18 12:39:18,"b""@tlberglund Looking for new home for #spock issues. Got all data out of Google code but can't get it into GitHub. Issues API is too limited."""
+402379905008410624,2013-11-18 10:16:59,"b""@CedricChampeau I was willing to make compromises, but looks like I'd end up with one user being the author of all issues and comments."""
+402374530477600768,2013-11-18 09:55:38,"b""Surprised that #github doesn't offer any sensible way to migrate to their issue tracker."""
+401650887002955776,2013-11-16 10:00:08,"b'So #google has dropped support for Google code issue tracker data API, and nobody can migrate off anymore?'"
+401626804752228352,2013-11-16 08:24:26,b'Had so much fun at Java 8 #devoxx talk by @venkat_s that I simply *had* to buy his book. :-) http://t.co/4ZPlTBUsDS'
+401606337421148160,2013-11-16 07:03:06,b'@FabienRica @bkummel @javaroe @keesvandieren Glad you liked our #devoxx talk. Now get your hands dirty with #spock and #geb!'
+400701468032118784,2013-11-13 19:07:29,"b""@jasperbogers It all depends on whether you think that adding another layer is worth the cost. For some teams it is, for others it isn't."""
+400312601571495936,2013-11-12 17:22:16,"b""@quidryan I'm sure that's not the only thing that's great about Vietnam. Hope to go there one day."""
+400160320083460096,2013-11-12 07:17:09,"b""I'll happily pay anyone who solves my constant connectivity woes when traveling abroad a decent lump. No, I won't pay by the Kilobyte."""
+400157319394504704,2013-11-12 07:05:14,b'Just learned that flying business class causes relativistic effects. Proof: Same flight is double the miles.'
+395904034500247552,2013-10-31 13:24:12,"b""RT @b_erb: OH: \xc2\xbbLet's replace Alice &amp; Bob with Angela &amp; Barack for our security examples.\xc2\xab"""
+393808906918846464,2013-10-25 18:38:54,"b'@epragt :-) Imagine I\'d follow up with ""Spock isn\'t a testing DSL for JUnit but a self-contained testing framework"". Almost no myths left.'"
+393798579615444992,2013-10-25 17:57:52,"b""Myth buster: Spock didn't get power asserts from Groovy, it was the other way around. Plus Spock's asserts have many additional features."""
+393744007098277888,2013-10-25 14:21:01,b'Windows 8(.1) on a non-tablet is a complete (UI) disaster. Do I need to buy a tablet to remote-control this thing?'
+391281081439502336,2013-10-18 19:14:14,b'RT @cholick: Updated my @intellijidea plugin integrating the Spock framework (http://t.co/orsZr0N2qo) to add support for the 13 preview rel\xe2\x80\xa6'
+391280453245997056,2013-10-18 19:11:44,b'RT @rudifussi: Wow. Der coolste Kartentrick aller Zeiten. Unfassbar. Must watch! http://t.co/4k7rMVsoHj'
+391063467429724160,2013-10-18 04:49:30,"b'@gAmUssA To see Spock specs in action, check out Gradle, Tapestry, Spring Reactor, and perhaps Spock itself.'"
+385485520975175680,2013-10-02 19:24:44,"b""@tim_yates @rfletcherew `props.with` only works for single condition, doesn't provide good failure output, doesn't work for interactions."""
+384419393364844544,2013-09-29 20:48:20,"b'@wahl_fang habe inzwischen festgestellt, dass die hochrechung von 19:26 schon die wahlkarten enthaelt\xe2\x80\xa6 http://t.co/fPncyi3xMw'"
+384416760839286784,2013-09-29 20:37:52,"b'wie wahrscheinlich ist es, dass aus 12,2% mit 0,2% schwankungsbreite am ende 11,5% werden? #gruene'"
+384403032462876672,2013-09-29 19:43:19,b'RT @RolandGiersig: Frauen an die Macht!!  http://t.co/6LvJbuh2zQ'
+380964400368480256,2013-09-20 07:59:25,"b'https://t.co/DdkpMFsgGB looks great, but alas, I also need Windows support. Next stop: https://t.co/n8M8FAcPXi Any experiences?'"
+379847902275072000,2013-09-17 06:02:51,b'Update on my favorite Java 8 resources: http://t.co/P7goTRpcXx http://t.co/VUJ10QYwXY http://t.co/YAJGocX0zH http://t.co/CbZr6E00Od'
+379174927003578368,2013-09-15 09:28:41,"b""Had some fun at SFO when pat-down found traces of explosives on my clothes. Fortunately, 2nd pat-down didn't confirm (and I didn't explode)."""
+376502519788093440,2013-09-08 00:29:30,b'RT @janl: \xc3\x96sterreichische Polizisten folgen lieber Befehlen von US Beh\xc3\xb6rden als \xc3\x96sterreichischen Gesetzen: https://t.co/kW5PyGre2D'
+375519329741471744,2013-09-05 07:22:39,"b""Do you know any outstanding Java 8 related online resources? I'll start with @BrianGoetz: http://t.co/bhbBq7o1F2 http://t.co/8VdRknK6h2"""
+370504641320337408,2013-08-22 11:16:04,"b'MacBook WiFi problem prevented me from duck-duck-going ""MacBook WiFi problem"". At least it proves that Internet can\'t solve all problems.'"
+368996228295454720,2013-08-18 07:22:11,"b'Wish I hadn\'t found @kaffeecoder\'s ""The Neophyte\'s Guide to Scala"". Might ruin my whole (Sun)day. http://t.co/vS6U58BFnl'"
+368287140087861249,2013-08-16 08:24:31,"b""@RUAmentalist After using Java for the past 15 years, it's hard to imagine that I'll ever forget it. :-)"""
+368276591132278784,2013-08-16 07:42:36,"b""@corvindun Libs/frameworks/platforms won't be able to require Java 8 for many years. And that's where Java (lang) still makes most sense."""
+368260728597528576,2013-08-16 06:39:34,"b""(In case you are wondering why I'm still interested in Java: I like to study history.)"""
+368258358002065408,2013-08-16 06:30:09,"b""Surprised that Java's `break label` not only allows to break out of enclosing loop, but also out of enclosing block. http://t.co/qfSd6cxeSr"""
+367031920149803008,2013-08-12 21:16:43,"b""@breskeby It's all anti-weight\xe2\x84\xa2 food."""
+363308179444494336,2013-08-02 14:39:54,"b""@antoine_roux It's pending work for 1.0."""
+363300219678887936,2013-08-02 14:08:16,"b'@glaforge @platypusguy The old docs are still needed (sigh), but I agree that the new docs should be much better advertised.'"
+363297670699700224,2013-08-02 13:58:09,b'@platypusguy Have you seen http://t.co/POcTyv4Lo8? Full coverage of the topics covered. :-)'
+363021116681367553,2013-08-01 19:39:13,"b'@rfletcherEW You are right, should have switched on my brain.'"
+363018758173892608,2013-08-01 19:29:51,"b""@rfletcherEW Lucky #spock. I'm surprised that Java folks risk a breaking change for this."""
+363017569545883649,2013-08-01 19:25:07,"b""@rfletcherew Link doesn't work for me. May result in problems with specs that are unnecessarily joint-compiled (which is common)."""
+363008408867577856,2013-08-01 18:48:43,"b'Check out my new show ""We don\'t have nothing to hide!"", where I\'m live browsing people\'s inboxes for you. Next time: chat conversations.'"
+358325020092669952,2013-07-19 20:38:36,"b""Enjoying #kotlin. Best java.next I've seen to date. Hope the core libraries live up to the language (in terms of careful design)."""
+353543036086652928,2013-07-06 15:56:42,"b'@venkat_s Next time try a ""402"".'"
+348317654156730368,2013-06-22 05:52:54,"b""#javazone and #SpringOne2GX (two of my favorite confs) fully overlap this year. Too bad I can't be a part of both of them!"""
+348019142986719232,2013-06-21 10:06:44,b'@graemerocher Using a string literal as method name will bite you as soon as the method body contains a closure (not in Spock).'
+347708145168179201,2013-06-20 13:30:56,"b""What's the worst moment on a #lufthansa flight? When you realize it's operated by #united \xe2\x80\xa6"""
+342644754997182464,2013-06-06 14:10:50,"b'@CedricChampeau We should discourage it, as #stackoverflow itself does. E.g. question can be closed as ""Not a good fit for Q&amp;A format"".'"
+342642934501482496,2013-06-06 14:03:36,"b""@CedricChampeau Problem is, #stackoverflow is not a support place but a Q&amp;A place that's abused as a support place."""
+341906064746364928,2013-06-04 13:15:32,"b""@tOMPSON @graemerocher Thanks, I'm in the loop. And yes, direct #spock support in #grails 2.3 is huge!"""
+340639503574245377,2013-06-01 01:22:41,"b""Four years or 431 answers after joining #stackoverflow, I felt it was time to ask my first question. Hope it's not a dumb one. :-)"""
+339361484024995840,2013-05-28 12:44:17,b'Thanks #czjug @_dagi @vaclav_pech @musketyr @jetbrains for a great day in Prague. Hope I spurred your interest in Gradle and Spock!'
+338974948448161793,2013-05-27 11:08:20,b'Arrived in Prague for my Spock and Gradle talks at CZJUG and some sightseeing with @vaclav_pech. Will be fun! http://t.co/4hbkpqRl07'
+332876452791996416,2013-05-10 15:15:05,"b""@werdnagreb @ldaley IDEA 12 supports continuous (and improves incremental) compilation. Haven't tried it though."""
+325473624398118912,2013-04-20 04:58:53,b'@atseitlin @quidryan @jgritman Thanks for a great week. You guys rock! #netflix'
+322748294495350784,2013-04-12 16:29:24,b'Already curious what my first ever mobile boarding pass will teach me\xe2\x80\xa6'
+322747173852827650,2013-04-12 16:24:57,"b""My first web check-in ever was a full success. Refused to check me in, which made me realize I'm flying out Sun 6am instead of Sat 6am\xe2\x80\xa6"""
+322074151286366208,2013-04-10 19:50:36,b'Kabarett auf hoechstem Niveau. http://t.co/Ig3TQ0Mprh #zib2 #stronach #interview'
+321599601620709376,2013-04-09 12:24:54,b'@pledbrook Putting different groovy-all versions on the module compile class paths should do the trick.'
+321190825788841984,2013-04-08 09:20:34,b'@bobbywarner Spock 1.0 will be released later this year. In between we might do a quick 0.9 release.'
+318276735500185600,2013-03-31 08:21:01,"b'@NoamTenne All other services I tried had some issues (Git, Gradle, UI, etc). https://t.co/mHE0VZBety is fast, simple and reliable (so far).'"
+318085746928005121,2013-03-30 19:42:06,"b'Settled on https://t.co/mHE0VZBety for #spock CI builds. Fast, slick, runs #gradle (wrapper) fine. Looking forward to pull req verification.'"
+317328719758905344,2013-03-28 17:33:57,"b'Expected sth. big when I cross 10k at #stackoverflow. Like a ""thank you"" and a new Porsche. Instead I got rights to do more work for free.'"
+316960120313622529,2013-03-27 17:09:16,b'RT @Gradleware: Gradle 1.5 released \xc2\xbb http://t.co/SNtwTFP58N'
+316959856592572416,2013-03-27 17:08:13,b'RT @yoavlandman: So excited to finally open @bintray to everyone! Binaries for the People!'
+316935776900378624,2013-03-27 15:32:32,b'RT @con_fess: 1 week left until #CONFESS_2013 Are you excited? We sure are! #softwaredevelopment #bigdata #mobilecomputing #softwaresolu ...'
+316512192960798720,2013-03-26 11:29:21,"b""@rfletcherEW Parameter annotations aren't new. New in JDK8 are type ann., repeating ann., reified parameter names. http://t.co/omn03VT0Xk"""
+316491177220247552,2013-03-26 10:05:51,"b'RT @rfletcherEW: given:\ndevoxxUK.addDelegate(me)\n\nwhen:\nme.chooseTalk(""wed"", ""9:30"")\n\nthen:\n1 * spock.addAttendee(me)\n\n#DevoxxUK #Spock #TDD'"
+314729849984016387,2013-03-21 13:26:58,"b""@rfletcherEW There's an open feature request for it: http://t.co/bxMLR8EYe9"""
+312275435599831042,2013-03-14 18:54:00,"b""@mojavelinux @peterbell Lipsync pattern is good, but not a panacea. I just wasn't well prepared enough. I hope I'll learn from my mistakes."""
+312270134481924097,2013-03-14 18:32:56,"b""@PeterBell I was sweating so much that I didn't even make it to the 2nd demo, which was all local just in case something bad would happen\xe2\x80\xa6"""
+312268018405236736,2013-03-14 18:24:31,"b'Why didn\'t you tell me that a week earlier? :-) RT @PeterBell: Chrome allows you to run in ""record"" mode [\xe2\x80\xa6] http://t.co/ihG6Qk1eFd'"
+312161476293058560,2013-03-14 11:21:10,b'@rfletcherEW @pledbrook I found http://t.co/NyJq4gUzTY helpful.'
+311973150818701312,2013-03-13 22:52:49,"b""@jbaruch Soon they'll call you Mr. Conference, almost like @aalmiray. How do you guys pull that off? #wishiwasthere"""
+307444325489459203,2013-03-01 10:56:53,b'@aalmiray But why give Scala FUD a chance?'
+305644430487060480,2013-02-24 11:44:45,"b'@cbartling Spock is closer to RSpec than Cucumber. Of course, both Spock and RSpec have unique features (and diff. environment constraints).'"
+305185293856808960,2013-02-23 05:20:18,b'Mind-bending. (Can you spot the rabbit in #17?) \xe2\x80\x9c@GoogleMapsAPI: 38 maps you never knew you needed: http://t.co/R63udQEwM9\xe2\x80\x9d'
+304853537924448256,2013-02-22 07:22:02,"b'RT @zero2hero_at: #Gradle Workshop 25.2-27.2, Wien: http://t.co/6VYFRq6PDS mit @pniederw'"
+304853474775031808,2013-02-22 07:21:46,"b'RT @eJUG: #eJUG Event mit @pniederw, 25.2, Wien: http://t.co/y4cy2reGrI. #Gradle / #Spockframework'"
+304760502205181953,2013-02-22 01:12:20,"b""@nielsbech Actually it is (_.._) * _._(*_) &gt;&gt; _ Can be shortened to _ * _ or _ &gt;&gt; _ or simply be omitted. That's how useful it is."""
+304553373670203393,2013-02-21 11:29:17,"b'@jbaruch I rarely use EAP these days, but 12.0.4 is my fifth full download/install since 12.0.'"
+304550566066024448,2013-02-21 11:18:07,b'Wish #jetbrains brought back automatic incremental updates for #idea. Have been missing for too long.'
+303920539762819072,2013-02-19 17:34:37,b'Test your #android apps with #robospock: https://t.co/prQNiGim'
+302544273906204672,2013-02-15 22:25:50,b'RT @petebryanwalker: IntelliJ IDEA 12.1 Early Access Program now supports the #Gradle Wrapper.'
+302160855359967232,2013-02-14 21:02:16,"b'@CedricChampeau Nice! Reminds me of my first #spock talk ever @ #devoxx 2008. Packed room, huge screen, technical problems, left w/ 18 mins.'"
+301999076029894657,2013-02-14 10:19:25,"b'RT @blainebrothers: Sometimes when getting off a train with headphones on I wait til the person next to me moves then follow muttering "" ...'"
+301325226833227776,2013-02-12 13:41:47,b'RT @CedricChampeau: Leveraging the DelegatesTo annotation to create statically compiled builders in #groovy http://t.co/BauouiMd'
+301305040474365952,2013-02-12 12:21:34,"b""@russel_winder I'm happy to offer commercial support to anyone who thinks this needs fixing. :-)"""
+301265647680245762,2013-02-12 09:45:02,"b""@russel_winder There are some arguments for (optionally) running outside the #JUnit sandbox, but so far they aren't compelling enough."""
+301264600077307905,2013-02-12 09:40:52,b'@russel_winder The only missing piece is the IDEA/Eclipse/NetBeans/Gradle/Maven/Ant/TeamCity/Jenkins/Bamboo/etc. integration. :-)'
+301263083224043520,2013-02-12 09:34:50,"b'@russel_winder #JUnit4. No plans to integrate with #TestNG. If at all, #Spock will add its own ""native"" runner/tool integration.'"
+301246448220114944,2013-02-12 08:28:44,b'@glaforge @rfletcherew #spock *integrates* with #junit more than building on it. Would be easy to get rid of the dep. (not that I plan to).'
+300931585736331264,2013-02-11 11:37:35,"b""RT @darthvader42: Wurde jetzt auch Ratzinger's Promotion als Plagiat identifiziert oder warum tritt der zur\xc3\xbcck?"""
+299554737475444737,2013-02-07 16:26:29,"b""Not yet completely sold on #dart itself, but there's no doubt that we need saner browser development. 21st century, you know."""
+299149109468733440,2013-02-06 13:34:40,b'RT @darthvader42: potentielle Ex-Ministerin mit Dissertationshintergrund sucht ....'
+299147838607200257,2013-02-06 13:29:37,"b""@ronotica See Spock's own build and org.spockframework.report.HtmlReportGenerator. No build tool integration yet except early spock-gradle."""
+299109875823296513,2013-02-06 10:58:46,"b""@ronotica All the new reporting stuff is contained in the latest #spock snapshot. You'll have to figure out how to set it up, though."""
+298806858259513344,2013-02-05 14:54:41,"b'@CedricChampeau yummy yummy. btw, how about giving @glaforge named parameters to play with as well? #groovy #wishlist #revised'"
+298737278543622144,2013-02-05 10:18:12,"b'Finally, the first round of spock-report is done. Spec: https://t.co/6si3ztrR Report:\nhttp://t.co/pdUyOmnp More to come. #spock'"
+296334498579238914,2013-01-29 19:10:24,b'RT @tobrien: A video overview of the latest Gradle 1.4 release from @Gradleware https://t.co/Wy4iLCH9'
+294825189651382272,2013-01-25 15:12:57,"b'@glaforge @cedricchampeau My #groovy wish list for 2013: Static mixins, compiler w/o reflection, better joint c., new MOP. Next: 2014 :-)'"
+294820851596017664,2013-01-25 14:55:43,b'@CedricChampeau @glaforge @asteingr  Good job. Think I need to compile another #groovy wish list \xe2\x80\xa6 :-)'
+294815348023250944,2013-01-25 14:33:51,"b""@glaforge I'm humbled to be mentioned in the Javadoc despite not coding a single line of it. That was quite a surprise. :-)"""
+294814178978435072,2013-01-25 14:29:12,"b""In case you've missed it, Groovy 2.1 is out! Lots of goodness in there: http://t.co/N0F8tqrQ Blog series: http://t.co/tWUPnmZN"""
+292055742037495808,2013-01-17 23:48:09,b'@JimmyNova Glad to hear that you like #spock. Best place for questions is http://t.co/cbJAA1wz or http://t.co/AhPCFqEA'
+291538037123473408,2013-01-16 13:30:59,"b""RT @cbeams: Next stop: Spring Framework 4.0! See @springjuergen's full announcement at http://t.co/Z1EGFTxK"""
+289775095935815680,2013-01-11 16:45:41,"b'@huxi demoReport2/3/4 don\'t have all the features (e.g. labels). There used to be dR5 spelling out ""passed/failed/skipped"", but it\'s gone.'"
+289773309313290240,2013-01-11 16:38:35,"b""@rfletcherEW @glaforge I've been keeping this in mind. Color won't be the only indicator."""
+289770781901201409,2013-01-11 16:28:32,"b""@glaforge I tried coloring the titles, but couldn't make it look reasonable. Might be worth another try."""
+289768354976264193,2013-01-11 16:18:54,"b""@glaforge Initial state will be customizable, in one way or another. Currently it's optimized for dev cycle."""
+289767565260099584,2013-01-11 16:15:45,"b""@glaforge Thanks for the feedback. I've tried some variations on this (see demoReport2/3/4) but haven't found the right solution yet."""
+289748875789598720,2013-01-11 15:01:29,"b""@majson Those hooks you were asking for aren't necessary for the report in its current form."""
+289746937501073408,2013-01-11 14:53:47,"b""@majson Ah I see. Querying given/when/then information has always been supported. It's just a matter of leveraging it."""
+289744775077310464,2013-01-11 14:45:12,b'@majson no GWT involved (if you mean that)'
+289744594051158016,2013-01-11 14:44:29,"b'@ronotica Hopefully in a few weeks. ""Backend"" is still missing.'"
+289721359217594369,2013-01-11 13:12:09,b'@hwstrbk Not really. The idea is to have a report that can be understood by all stakeholders (if specs are structured accordingly).'
+289716056984018945,2013-01-11 12:51:05,"b""@hwstrbk it's an example for a spec that provides additional documentation (e.g. comments attached to given-when-then)"""
+289713046128062464,2013-01-11 12:39:07,b'Working on a 21st century HTML report for #spock: http://t.co/or7kKXMn (can take some time to load)'
+287253720071278593,2013-01-04 17:46:38,b'Just released #expecty 0.9 for #scala 2.10.0. Try power asserts for Scala NOW! https://t.co/FaDBkZhs'
+287249109021237248,2013-01-04 17:28:19,"b'RT @eJUG: ""Spock"" und ""Gradle"" - 26.02.2013 18:30-21:00: Am 2013-02-26 l\xc3\xa4dt die Enterprise Java User Group (http://communi... http://t.c ...'"
+283609297143873538,2012-12-25 16:25:00,"b'@evgeny_goldin Spock Javadoc is now available from http://t.co/PvUK2D8e, and Groovydoc from http://t.co/Gi1RIOak. /0.7 is forthcoming.'"
+282250208652435456,2012-12-21 22:24:28,b'RT @MartinAhrer: Zero2Hero Gradle Workshop mit @pniederw (Gradleware) f\xc3\xbcr Februar 2013 fixiert: Mit einem Gradle Worksho... http://t.co/ ...'
+282068217436991488,2012-12-21 10:21:18,"b'RT @mittie: Java devs christmas greetings with small memory allocation:\n\n""happy -Xmas""\n\n#fun'"
+274552180512530432,2012-11-30 16:35:15,"b'RT @hseeberger: #Scala is a first class citizen in #Gradle, now with fast incremental compilation: http://t.co/RkDdpiBp'"
+274092533007650816,2012-11-29 10:08:46,"b'@jbaruch It will take more effort than ""no-go"" and ""kinda wrong"" to convince me. Concrete suggestion on how to design it would help too.'"
+274089031707549696,2012-11-29 09:54:52,b'@jbaruch No news. Would you mind to explain your use case on the forum?'
+274084053324541952,2012-11-29 09:35:05,"b""@ronaldborman We don't currently publish Javadoc, but there is http://t.co/OWwSqVGq (still at 0.6 though)."""
+274083272961695744,2012-11-29 09:31:59,b'@jbaruch @mojavelinux Answers to all Spock questions are just one forum away (http://t.co/cbJAA1wz).'
+272607974504144896,2012-11-25 07:49:40,"b""RT @werdnagreb: I hope @drgrist is wrong on climate change. I really do, but the science is saying he's right http://t.co/VQK0Z1Zq"""
+271283828339920897,2012-11-21 16:07:59,"b'@willemsst @fredericpape Are you aware of Spock\'s ""cleanup:"" block?'"
+266546143977156611,2012-11-08 14:22:07,"b'RT @wichtelmania: You just love ""Secret Santa"" or ""Wichteln"" for Christmas? It\'s never been easier! Check out http://t.co/fSVX7IqI (or h ...'"
+261406131690283008,2012-10-25 09:57:33,"b'(My version of) Armstrongbug: All tests pass and performance is great, but logs indicate that something is wrong. https://t.co/s7LA9b1N'"
+261392993527930881,2012-10-25 09:05:20,b'RT @SDMumford: Design flaw. http://t.co/S0RewPFR'
+261031706734243840,2012-10-24 09:09:43,"b'Just released #expecty 0.6, power assertions for Scala 2.10.0-RC1 https://t.co/FaDBkZhs'"
+260480563029368832,2012-10-22 20:39:40,"b'@kenkousen Gradle just moved from ""Assess"" to ""Trial"". I can already smell the ""Adopt"". #thoughtworks #radar'"
+258849877520441345,2012-10-18 08:39:54,"b""@rfletcherEW It's a gentle reminder that you should use keyboard, not mouse. (I don't have this problem though.)"""
+258293782901043200,2012-10-16 19:50:11,b'RT @stilkov: Finally! How does homeopathy work: http://t.co/aGEmjjOH'
+258280407957647360,2012-10-16 18:57:02,"b""Add speaker slide templates. RT @stuarthalloway: It's 2012. Asking sb. to confirm their pwd is cargo-culting.  Disabling paste is insulting."""
+258241060055162881,2012-10-16 16:20:41,b'@CedricChampeau First time I hear about the experimental @DelegatesTo branch. Will check it out.'
+258237715030626304,2012-10-16 16:07:23,"b""@cedricchampeau Oh and by the way, I desperately need @DelegatesTo to make IDEs understand what's available inside @IgnoreIf { \xe2\x80\xa6 } :-)"""
+258236491665395714,2012-10-16 16:02:32,"b'@CedricChampeau In #spock nightly, @IgnoreIf gets much better: http://t.co/8T4pNNdq More to come. Also see its cousin @Requires.'"
+257378861724082176,2012-10-14 07:14:37,"b'Have fun, and may the frog be with you! RT @jbaruch @artifrog: Spock time! Groovy &amp; Grails Israel Meetup Group http://t.co/i3lSzdNM'"
+256967588733665282,2012-10-13 04:00:22,"b'@pledbrook @otahouri Thanks for reporting (please use forum or bug tracker). Do you require the Maven plugin features? If not, remove it.'"
+255564565578919936,2012-10-09 07:05:15,"b'Finally, #spock 0.7 is here. Details: https://t.co/K7M9jCQP Next up: 1.0!'"
+255534762737942528,2012-10-09 05:06:49,"b'Just when I had bought the missing ethernet cable for my hotel room, I noticed the missing ethernet port on my rMBP\xe2\x80\xa6 #latenightshoppingtour'"
+253516371776917505,2012-10-03 15:26:27,"b""Don't miss my #gradle and #spock talks at Silicon Valley Code Camp this Sat. Register now! http://t.co/X59vy45Q http://t.co/5oKlzaxr #svcc"""
+251827017098600449,2012-09-28 23:33:34,"b""@rfletcherEW Now that's a funny correction. Try: alias grails='nocorrect grails' #zsh"""
+251765434133643264,2012-09-28 19:28:51,b'@glen_a_smith @iamsteveholmes Glad to hear that you like the new #spock docs. More to come. http://t.co/iCYfM9FT'
+250277887901585408,2012-09-24 16:57:53,b'@marcoVermeulen No idea what you are talking about. Can you please move this to http://t.co/cbJAA1wz ? /cc @ldaley'
+250071037646077952,2012-09-24 03:15:56,"b""Complete documentation of #spock's mocking framework, including all features added in 0.7 http://t.co/dgcuRy8O"""
+249557377228087296,2012-09-22 17:14:49,"b'@evgeny_goldin Yes, the current plan is to upgrade to Groovy 2.x in Gradle 2.0. Unless we can jump straight to Groovy 3 by then. :-)'"
+249553947877068800,2012-09-22 17:01:12,"b""@evgeny_goldin Groovy 2 isn't binary backwards-compatible. Upgrading means risking all 3rd-party Gradle code to stop working."""
+248424734767861761,2012-09-19 14:14:06,b'3 Tage #groovy mit @mittie in Wien. Kommst du auch? http://t.co/M3n1sJ4j'
+248084919165788160,2012-09-18 15:43:48,b'@sten_aksel Please report any issue at http://t.co/koGve4RG'
+245858361659256832,2012-09-12 12:16:15,b'@kimbetti @chriswk @odinodin @rlovtangen @akafred @jakubholynet Thx for coming. Thx @mrundberget/@codemaker for the invite! #spock #workshop'
+245856041902952448,2012-09-12 12:07:02,b'RT @Gradleware: Gradle 1.2 is released \xc2\xbb http://t.co/WkwZqAr7'
+245451775195357184,2012-09-11 09:20:38,b'Not sure how to spend a rainy Tuesday afternoon in Oslo? Come to my FREE #spock workshop! http://t.co/kRIArAwS #kodemaker'
+243807606773256194,2012-09-06 20:27:17,"b'@mittie Seems completely bogus to me. Quote: ""\xe2\x80\xa6an average of four years of Java experience, and no previous Scala experience.""'"
+237896791750742016,2012-08-21 12:59:49,b'Going to Silicon Valley Code Camp and interested in #gradle or #spock? Then sign up for my sessions: http://t.co/VRacpXek'
+236720649215807489,2012-08-18 07:06:15,"b'@odinodin See presentations and example project at https://t.co/asZwBrpc, videos on http://t.co/Cj9tVGYL, http://t.co/OxnCBRXe, etc.'"
+235772251977441280,2012-08-15 16:17:39,"b'#gradle build template for #coursera\'s/Princeton\'s ""Algorithms, Part I"" course: https://t.co/ZbMZtyb4'"
+231779981066399744,2012-08-04 15:53:48,"b""You'll know that you've recently bought a new laptop when you can't find your own #github projects on your laptop's hard disk."""
+225889245427036162,2012-07-19 09:46:07,"b""RT @glaforge: Who's not voted for #gradle yet in the #javaone duke choice award? http://t.co/SAMN8eOl"""
+224941874824232960,2012-07-16 19:01:36,"b""@alextkachman I'd suggest to start a new topic at http://t.co/QcyCj2bZ"""
+224938295614906368,2012-07-16 18:47:23,"b""@alextkachman I'd be happy to contribute a #gradle plugin for #kotlin. Already had a look at the impl of the kotlinc Ant task."""
+223242563262484484,2012-07-12 02:29:09,"b""@stefankendall I exclusively use IntelliJ as my Java IDE. Always makes me feel I need next year's hardware. New rMBP is on its way. :-)"""
+223226029278375936,2012-07-12 01:23:27,b'Wanted: A Java IDE that copes well with switching forth and back between (and adding new!) projects and branches.'
+223158196230029312,2012-07-11 20:53:54,"b'@mittie The use of _ follows from the decision to use straight method syntax for mocking. With a classical mocking API, `any()` would work.'"
+223157448008146944,2012-07-11 20:50:56,"b""@mittie _ is rarely used as a variable or method name. In `1 * mock.any()`, it's unclear if you want to mock any method or the 'any' method."""
+223155658000830465,2012-07-11 20:43:49,"b""@mittie `it.it(it, it)` would be ambiguous. Same for `any`. We need something that's clearly distinct (in practice) from an identifier."""
+223151976643432448,2012-07-11 20:29:11,"b""@mittie Using _ char is common in langs that support pattern matching. Think it's a good fit for Spock, and can't think of a sensible alt."""
+222797519007125504,2012-07-10 21:00:42,"b""@timvisher Congrats! Couldn't resist the #clojure, could you. :-)"""
+222358860625747970,2012-07-09 15:57:38,"b'@hlship GroovySpy(global: true) mocks all instances of a type, static m., ctors, dynamic m., delegates to real object by default (-&gt;spy)'"
+222170991458131974,2012-07-09 03:31:06,"b""#spock's supercharged #groovy mocking support is shaping up. Example: https://t.co/KTlQqGbp"""
+220878690685431808,2012-07-05 13:55:58,b'RT @troii: Kollege Andre Steingress hat einen super Artikel \xc3\xbcber Groovy 2.0 f\xc3\xbcr das Java Magazin geschrieben - Empfehlung! http://t.co/W ...'
+219420004184104960,2012-07-01 13:19:40,"b""This weekend's hackathon: stubs/mocks/spies, dynamic/static/final/ctor methods, MockFor() global style #spock"""
+219298837628596224,2012-07-01 05:18:11,"b'RT @gilescolborne: From 13,000 miles an hour to zero. Controlled by a robot. On Mars. http://t.co/SZZs8T3y'"
+219021798753320960,2012-06-30 10:57:20,b'@rajonjava The best place for asking Gradle questions is http://t.co/QcyCj2bZ'
+218349929045823488,2012-06-28 14:27:34,"b'RT @glaforge: #groovy 2.0 released w/ static type checking &amp; compilation, modularity, invoke dynamic. http://t.co/4xP40eMQ &amp; on  ...'"
+217698507459534848,2012-06-26 19:19:03,"b'OH: ""Windows is checking for a solution to the problem\xe2\x80\xa6"" Never have it seen find one.'"
+217691663420755969,2012-06-26 18:51:51,b'RT @joakimrecht: On UI testing with #geb and #spock at #tradeshift: http://t.co/gyrSOqZA'
+216434916047589376,2012-06-23 07:37:59,"b'RT @helmutrubasch: ""Mike Dynamite"" is ready for your iPhones! My first physics game is now available in the @AppStore http://t.co/MSXoB3 ...'"
+215928931797311488,2012-06-21 22:07:23,b'Kudos to @aalmiray for embarking on an 8 hour train ride to Linz to talk about #griffon 1.0 at @eJUG! Hope to have you again.'
+214528270060888067,2012-06-18 01:21:39,"b'Sorry, that should have been ""Scala 2.10.0-M4"". In other words, the latest and greatest. :-)'"
+214527762579456001,2012-06-18 01:19:38,b'Just released Expecty 0.2 (power asserts for Scala). Based on Scala 2.0.0-M4 &amp; available from its GitHub Maven repo. https://t.co/FaDBkZhs'
+214498593384574977,2012-06-17 23:23:44,b'#spock documentation update: Interaction Based Testing (about half done) http://t.co/dgcuRy8O'
+214306832653631489,2012-06-17 10:41:45,b'@pledbrook Exactly my thoughts on a sunny Sunday afternoon.'
+214114511718842368,2012-06-16 21:57:32,b'#spock documentation update: Data Driven Testing http://t.co/dqCoR67f'
+213616483266338818,2012-06-15 12:58:33,b'@timvisher I suggest to take a timeout and write some dvorak clojure in emacs to ease the pain.'
+213615251915161600,2012-06-15 12:53:39,"b""@timvisher I hope it's a good memory :-)"""
+213234891394002944,2012-06-14 11:42:14,"b'For those of you who have missed the Gradle 1.0 release, go get it now! http://t.co/WgwlfGNp'"
+209569421700759553,2012-06-04 08:56:58,b'@wakaleo @aalmiray gradle test --continue'
+207801150693580800,2012-05-30 11:50:29,"b'@rfletcherEW I see. If you have control over the class path order, you should be able to work around. Using Gradle? :-)'"
+207798985304444928,2012-05-30 11:41:53,"b""@rfletcherEW Does it cause problems? For years, the -dep Jar wasn't published to Central at all."""
+207796182691483649,2012-05-30 11:30:45,"b""@rfletcherEW It requires Hamcrest, but I'd be surprised if it contained it."""
+206462909788856320,2012-05-26 19:12:48,b'#songcontest live mit Stermann und Grissemann - unbezahlbar! http://t.co/vNbkTxH5'
+205600507006431232,2012-05-24 10:05:55,"b'RT @Gradleware: Live Webinar: Getting Started with STS #Gradle Tooling on May 31 by Kris de Volder, creator of the STS Gradle plugin - h ...'"
+203121386040999936,2012-05-17 13:54:46,b'Jetzt wird auch noch der Flug Linz-Berlin gestrichen. Mein Sparvorschlag: Linzer Passagiere als Luftfracht versenden!'
+200594329935417346,2012-05-10 14:33:09,b'#expecty (https://t.co/FaDFSzqC) is now compatible with the official #scala distro (2.10.0-M3). Get yourself #scala power asserts!'
+195790630729949185,2012-04-27 08:24:58,b'@rfletcherEW Seems like Groovydoc does not support custom doclets http://t.co/HKDl95QP'
+195503097123049472,2012-04-26 13:22:25,b'Great theme & slide deck! RT @glaforge: My new #groovy #DSL presentation: control a robot on Mars! http://t.co/ky2k7RFy'
+195238256659546114,2012-04-25 19:50:02,"b""RT @timvisher: There's a hidden cost to developing using open-source, JVM based tools. The developers rarely work behind a firewall in a ..."""
+195145560641122304,2012-04-25 13:41:41,"b""@alextkachman Some people think that every JS statement should be terminated with a ';'. Some don't: http://t.co/xcUG5Cje"""
+194804148334632961,2012-04-24 15:05:02,"b""@KaiWaehner I don't know Play. Full stack frameworks typically require deep build integration, so I'd start out on the Play list."""
+194395068554158082,2012-04-23 11:59:30,"b""@rfletcherEW #gr8conf has a tradition of selecting some of the fanciest hotels I've ever stayed in (like http://t.co/aaddsnT2)."""
+194349714626453504,2012-04-23 08:59:17,b'@evgeny_goldin If only #youtrack had a (working) #googlecode import. I would have switched long ago.'
+194111251243212802,2012-04-22 17:11:43,"b""RT @hlship: I'm gradually converting some TestNG tests, written in Java, into #spock tests and its wonderful how much shorter and cleane ..."""
+193810937856274433,2012-04-21 21:18:23,b'@evgeny_goldin @asteingr Which Gradle version? Upgrading to http://t.co/v4Wx4bC5 may help.'
+193424476669624321,2012-04-20 19:42:43,"b""RT @gr8conf: We're happy to announce @jetbrains as #gr8conf Silver Sponsor. Visit http://t.co/ezIFI6tU for all your Groovy IDE needs. #g ..."""
+192537026099290112,2012-04-18 08:56:18,b'First Spock talk in HD :-) RT @martinjlogan: Orbitz IDEAS talk on the Spock testing framework by @pniederw http://t.co/eo3N5wpG'
+192139824331898881,2012-04-17 06:37:58,"b'@bhaaratcrckt For the last few years, Groovy support in NetBeans was completely outdated. Not sure if this has changed.'"
+191630501151383553,2012-04-15 20:54:06,b'RT @UberFacts: The United States is among the 25 countries with the lowest gas prices in the world.'
+191433942694494208,2012-04-15 07:53:03,b'RT @gr8conf: #GR8Conf EarlyBird registration ends today! Last chance save 33% Register here: http://t.co/gQFuvxzl #groovy #grails'
+187896043998937089,2012-04-05 13:34:42,b'@CedricChampeau See my latest post on http://t.co/cbJF7Bxt. Your best bet is 0.7-groovy-2.0-SNAPSHOT. Or build yourself.'
+187745657400991745,2012-04-05 03:37:07,"b'RT @drobiazko: Will present #spock framework at gearconf on June, 26th: http://t.co/z0hhQHsP'"
+186498167053889538,2012-04-01 17:00:02,"b""@pledbrook If this is about generating production-quality unified docs for any mixed Java/Groovy project, I'm all for it."""
+186428147439378433,2012-04-01 12:21:48,"b'SW devs have NO CLUE how to report SW problems. Hint: Version, code, error msg, stack trace can help. As does stating the problem.'"
+185479127657234432,2012-03-29 21:30:44,"b'@haroonzone No, I just made it up.'"
+185477778278326273,2012-03-29 21:25:23,"b'@haroonzone The roadmap for #spock is to enhance the docs, add some more cool features, and press the 1.0 button.'"
+184416999768719361,2012-03-26 23:10:13,b'@timvisher My pleasure! How about sneaking in a #gradle plugin written in #clojure?'
+184416723259244544,2012-03-26 23:09:07,"b'@etorreborre Sure, go ahead. How about starting a discussion on integration needs? #expecty'"
+184227979017207808,2012-03-26 10:39:07,b'Say hi to #expecty! Power asserts as known from #groovy and #spock for #scala: https://t.co/FaDFSzqC'
+183809119927533569,2012-03-25 06:54:43,"b""@gersei Didn't IDE(A) give it away? :-) Don't tell me I need to switch to #eclipse..."""
+183784424477962240,2012-03-25 05:16:36,"b""#scala IDE(A) experience is leaps behind what I'm used to from #groovy (editing, navigation, refactoring, code completion, etc.)"""
+181979185789677568,2012-03-20 05:43:13,"b""@gersei @retronym Not as ambitious (yet). Working title for my new #scala project is #scotty. :-) Let's see if I can get it off the ground."""
+181976770524876800,2012-03-20 05:33:37,"b'@gersei @retronym Thanks, already had a look. Do you know of any macro or compiler plugin code that does extensive expression rewriting?'"
+181960005333954560,2012-03-20 04:27:00,"b""Writing first real #scala code in a while. Maybe I shouldn't have started with a macro... http://t.co/DGMUwb50"""
+178654658502459392,2012-03-11 01:32:44,"b""First loss in the last chess game of the season. Losing in the last round is always tough because you don't get another chance."""
+178002522030608385,2012-03-09 06:21:23,"b""With our new #java and #groovy compiler integration, time for `gradle classes` drops by 52% (to 0:42) on #gradle's own build."""
+176686876319694848,2012-03-05 15:13:28,b'RT @ldaley: Geb 0.6.3 has been released. Its only feature is Spock 0.6 compatibility.'
+176681087085449216,2012-03-05 14:50:28,b'#spock 0.6 is out! Read all about it here: https://t.co/gVvITKcT DZone link: http://t.co/GCfx1JQP'
+176660437960634369,2012-03-05 13:28:25,b'RT @ldaley: Preview of Gradle 1.0-milestone-9 is now available: http://t.co/cf7DzS9c'
+176631850742202368,2012-03-05 11:34:49,"b""RT @eJUG: Don't forget: tonights event with Vaclav Pech: http://t.co/Na2Pgq9R"""
+175327444520280064,2012-03-01 21:11:34,"b""@aalmiray @mittie We decided to move away from Ivy/Wharf internally, but we'll keep support for Ivy repos. Not sure we are embeddable yet."""
+175324915073953793,2012-03-01 21:01:31,"b""@mittie @aalmiray Sounds like a cry for Gradle. :-) Even Gradle can't magically compensate for mistakes on the publisher's side, though."""
+174771062976946176,2012-02-29 08:20:43,"b'@graemerocher Not yet, #spock currently has the same restrictions as most Java mocking frameworks (e.g. #jmock or #mockito).'"
+174150687142326273,2012-02-27 15:15:34,"b""I've never called on US special forces before, but could you please take out the #github DDoS attackers? Thanks."""
+174095470891769857,2012-02-27 11:36:09,b'RT @theaviary: #griffon goes to Austria in May http://t.co/BhX859dj and June http://t.co/BRbvUFym'
+173145177135923200,2012-02-24 20:40:01,"b'@mfloryan @rfletcherEW As in, ""BecauseIAmGettingPaidPerLOC"" ?'"
+172354195003932672,2012-02-22 16:16:56,"b""@divideby0 Spent whole November in Chicago, haven't been back since (but surely will)."""
+172351784659070977,2012-02-22 16:07:22,b'@divideby0 Would be good to discuss this at http://t.co/cbJF7Bxt Groovy version check prevents obscure groovyc compiler errors etc.'
+172349685812563968,2012-02-22 15:59:01,"b'@divideby0 @graemerocher #spock 0.6 release is imminent, same for #grails plugin. Stay tuned.'"
+172345616662405120,2012-02-22 15:42:51,b'Missing an easy way to tell a stub to return a few items and then throw? New in #spock 0.6: Chained stubbing http://t.co/FjWV8uf9'
+172316645270888448,2012-02-22 13:47:44,b'We too! @vaclav_pech: Looking forward to my coming trip to Linz http://t.co/QYl77cDy #gpars #mps'
+172268117790167040,2012-02-22 10:34:54,"b""Judging from the license headers in my code, I've finally landed in 2012. Better late than never..."""
+171392025994866689,2012-02-20 00:33:37,b'@mittie @asteingr NotYetImplemented works fine with #spock. Well done. :-)'
+171203423755182081,2012-02-19 12:04:11,"b""Ever despaired because two values looked the same but weren't equal? New feature in #spock 0.6: Type hints http://t.co/3eU6RqKq"""
+170552612494655490,2012-02-17 16:58:06,"b""@aalmiray We'll try again this weekend."""
+170552301755437057,2012-02-17 16:56:52,"b""@rfletcherEW It's already in the 1.7 snapshot, not yet in 1.8/2.0."""
+170539503361064962,2012-02-17 16:06:00,"b'@antoine_roux Double pipe (||) in #spock data tables is just an alternative separator, e.g. to separate inputs from expected outputs.'"
+170373174452695040,2012-02-17 05:05:04,"b'New #spock 0.6 features: unroll a whole class at once, and method name as unroll pattern: https://t.co/SyXYudXI'"
+170001433431769088,2012-02-16 04:27:54,b'RT @Gradleware: New article about dependency resolution features in Gradle 1.0-milestone-8: http://t.co/wme6jSW1'
+169543750291427328,2012-02-14 22:09:14,"b""@alextkachman Time for #jetbrains to move their builds to #gradle - I'd be glad to help!"""
+169534667920384000,2012-02-14 21:33:09,"b'@asteingr Definitely, and hopefully also as a presenter. :-)'"
+169530896955875328,2012-02-14 21:18:10,b'Any #nosql experts out there interested in visiting lovely Austria in May? Submit your talk or workshop today: http://t.co/6ZAo3MP7'
+169249619979677696,2012-02-14 02:40:28,b'#dzone link: http://t.co/wrwZPlwk Make some noise!'
+169245444591992832,2012-02-14 02:23:53,"b""pssst...don't tell anyone that #gradle 1.0-milestone-8 is out... http://t.co/jGZJzohD"""
+169215312686891009,2012-02-14 00:24:09,b'@bdruth You might be running into  https://t.co/ZCyr7gTE. Solution is to configure source attachment for spock-core Jar.'
+167647941866168320,2012-02-09 16:35:58,b'Rock the house! :-) RT @drobiazko: My #spockframework talk starts in 90 minutes - http://t.co/4jYJ58uX'
+166162312871424002,2012-02-05 14:12:37,"b""@marcinerdmann We may support MOP-based mocking for Groovy classes in the future, but for now you'd have to use sth. like #gmock."""
+166161687198707712,2012-02-05 14:10:08,"b""@marcinerdmann Spock's mocking framework is based on dynamic proxies/cglib. Hence no static methods, constructors, or final classes."""
+166154765628227584,2012-02-05 13:42:37,b'Came across this excellent article on #spock: http://t.co/jNsHP0Dz'
+164394147879460864,2012-01-31 17:06:33,b'RT @cbeams: Spring Framework 3.2.x moves to @Gradle! http://t.co/UeXSD5hh http://t.co/j051LfKo http://t.co/p5zgTyPk http://t.co/SnsUQhb2'
+162806490338562048,2012-01-27 07:57:46,"b'@glaforge Not (yet?) all combinations of OS and JDK. Right now, combinations are hand-selected. #gradle #ci'"
+162790801154392064,2012-01-27 06:55:26,"b'#Gradle CI builds run on Java 5, 6, 7, OpenJDK, Sun/Oracle JDK, IBM JDK, Windows, Linux, esoteric OS. We are getting serious...'"
+159363799328112640,2012-01-17 19:57:45,"b'RT @eJUG: Es gibt noch freie Pl\xc3\xa4tze f\xc3\xbcr den Event am 1.2 mit @pniederw and @ldaley: http://t.co/Af50A2Gx. Wir verlosen wieder Abos, Soft ...'"
+158630258965364736,2012-01-15 19:22:55,"b""@glaforge Don't disturb the 0.6 release endgame :-)"""
+158627463017140224,2012-01-15 19:11:48,b'New #spock mocking feature: Match any argument list (including empty) with mock.foo(*_)'
+158594484563746816,2012-01-15 17:00:46,b'@glaforge Hello FrAA+nce from AA+ustria!'
+157823620910030850,2012-01-13 13:57:38,"b""RT @cbeams: Use the #Gradle wrapper, but hate relative pathing? This script finds 'gradlew' in parent dirs http://t.co/yeRwGizT"""
+157318548698578945,2012-01-12 04:30:39,"b""I've always wanted true named parameters for #groovy. Time to take action... https://t.co/w6GD59Wv"""
+156461040652140545,2012-01-09 19:43:13,b'Fresh #checkstyle/#codenarc/#findbugs/#pmd/#jdepend plugins for #gradle based on contribution by A.Oberstar. Apply plugin(s) and off you go!'
+150109084585164801,2011-12-23 07:02:49,"b""I've seen #spock clones before, but this one is *special* https://t.co/CX3zouxn"""
+149987642765881345,2011-12-22 23:00:15,"b'I thought #findbugs 2.0.0 is out, but can\'t even find it in its own Maven repository on Google code. Doesn\'t count as ""released"" for me.'"
+145651326200713216,2011-12-10 23:49:16,b'@russel_winder Which things does #testng have that #spock needs?'
+143365305366888448,2011-12-04 16:25:27,"b'Had planned to spend the weekend on #spock. Ended up spending it on #testng 6.2+ support in #gradle. Hey, at least it was about testing!'"
+141091257601626112,2011-11-28 09:49:11,b'@glaforge Release notes of recent #junit versions may be your best bet.'
+140828523085574144,2011-11-27 16:25:11,b'@edvorkin Spock is a general-purpose testing framework; easyb is a BDD tool. http://t.co/ClGuhX8M gives a first idea what Spock is about.'
+140794146184101888,2011-11-27 14:08:34,"b""@mittie What this intends to say is that we've eliminated all unnecessary checks for source and Javadoc Jars. IDE tasks still download them."""
+140789177003413504,2011-11-27 13:48:50,b'@mittie What announcement?'
+140763614863831041,2011-11-27 12:07:15,"b'@mittie Works fine for me. If you encounter a problem, please report it in our forum.'"
+139316916044042240,2011-11-23 12:18:35,b'RT @eJUG: Themenupgrade f\xc3\xbcr den #eJUG Event am 29.11. @robilad wird auch einen Sneak Preview zu #Java8 machen.  Retweet !'
+135206281274339328,2011-11-12 04:04:24,"b'@evgeny_goldin Groovy\'s ""catch (e)"" is short for ""catch (Exception e)"". Hence it doesn\'t catch (Assertion)Error\'s.'"
+134907841986306048,2011-11-11 08:18:30,b'RT @manuelvio: #grails interactive + Spock = fast and furious TDD'
+131596084186329088,2011-11-02 04:58:46,b'Easy to forget how much goodness is in #groovy 1.8. Check out the presentation from #s2gx: http://t.co/luLFsGd6'
+129164872654143488,2011-10-26 11:58:00,b'Gradle 1.0-milestone-5 released! Learn more here: http://t.co/vnXM8jyE'
+126865826262421504,2011-10-20 03:42:24,b'RT @drobiazko: After using #spock for a while you will find all the other testing frameworks clumsy'
+126562125974994944,2011-10-19 07:35:36,b'#gradle master is now powered by #groovy 1.8.'
+124271568665849857,2011-10-12 23:53:45,"b'@evgeny_goldin Optional parameters work best together with named parameters. I wish Groovy had true named parameters, like Scala and C#.'"
+124195546289283072,2011-10-12 18:51:40,b'How can Oracle turn Java into a state-of-the-art language? Simple: 1. License C# 2. Port it to the JVM 3. Call it Java 2.0'
+123359542636576768,2011-10-10 11:29:41,"b""@mittie w/o knowing anything about #dart, I'd expect it to statically check types if specified. Actually I'd expect that from any lang. :-)"""
+116695494859829248,2011-09-22 02:09:08,b'#spock is picking up steam in NYC! Two #spock talks next week. You can still sign up for the one on Tuesday: http://t.co/3I4YJshb'
+115215859886202880,2011-09-18 00:09:36,b'RT @marcoVermeulen: Released #gaelyk #spock 0.2 with initial support for url route specs. http://t.co/RKiRmCYr http://t.co/U9ij1p6l'
+114523791333408768,2011-09-16 02:19:34,"b'RT @PeterBell: @pniederw presenting on #spock, the #groovy testing framework. Tue 9/27 at 6.30 in NYC. Not to be missed.http://t.co/HUwMAaQQ'"
+111995178671284225,2011-09-09 02:51:46,b'Initial Gradle support in IntelliJ IDEA! http://t.co/cYjaAGh'
+107477594886242304,2011-08-27 15:40:30,"b""@wmacgyver I'm in Jersey City, right next to the Hudson river (other side is Manhattan)."""
+107302704287711232,2011-08-27 04:05:32,b'Prepared for #irene to the best of my abilities. Supermarket had run out of bottled water and flashlights.'
+105834206785048576,2011-08-23 02:50:15,"b'OK, now I have Netflix. But the problem is, they don\'t have ""Breaking Bad"".'"
+102181137815842816,2011-08-13 00:54:16,b'@bdruth Make sure you use Spock 0.6-groovy-1.8-SNAPSHOT for Groovy 1.8.'
+102180899352875008,2011-08-13 00:53:19,b'RT @toranb: Most productive day in months. In part because of the new groovy testing framework #spock'
+98498107519676416,2011-08-02 20:59:13,b'RT @marcoschreuder: Unser Knast f\xc3\xbcr unsere Leut! #fpoe'
+94093810052767745,2011-07-21 17:18:07,b'RT @glaforge: #groovy 1.8.1 & 1.9-beta-1 released! http://bit.ly/nKDdNZ'
+93504981428219905,2011-07-20 02:18:19,b'RT @wmacgyver: Jetbrains jump into the language building game with Kotlin http://t.co/AvaPUto'
+92739247257288705,2011-07-17 23:35:34,"b""@lightguardjp So far it has been a smooth ride. Syntax of reStructuredText feels a little weird, but I'll get used to it."""
+92500163393896448,2011-07-17 07:45:32,"b'@ldaley Ever been on a long flight, or another place without Internet access?'"
+92488448807677952,2011-07-17 06:58:59,"b'@aalmiray I skipped the hike :-)\n\n@wmacgyver no, sphinx the python documentation generator http://sphinx.pocoo.org/'"
+92485965129584641,2011-07-17 06:49:07,"b""Trying #sphinx and #readthedocs for revamping Spock's documentation http://spock-framework.readthedocs.org/en/latest/getting_started.html"""
+91002517021921280,2011-07-13 04:34:25,b'RT @HamletDRC: New screencast: Mock Objects with Spock -- http://t.co/cLf0hyB #groovy #spock'
+88451451776540672,2011-07-06 03:37:24,b'@ColinHarrington My recommendation is to use no indentation and to put an empty line before each label.'
+85493242778492928,2011-06-27 23:42:32,b'RT @matthewmccull: Thanks @GitHub for smiling on #Gradle. Groovy syntax highlighting is now enabled for .gradle files. http://t.co/Ad2Sisc'
+83355012062908416,2011-06-22 02:05:58,"b""@evgeny_goldin I'm sorry for you. :-) If the wrong Groovy version gets pulled in, doesn't a simple Maven exclude solve the problem?"""
+81192039772987392,2011-06-16 02:51:05,"b'RT @Gradleware: We are extremely excited that Luke Daley, Grails committer and founder of Geb, has joined Gradleware: http://bit.ly/jvbaMp'"
+80767806085406720,2011-06-14 22:45:20,"b""RT @Gradleware: In case you haven't voted, please vote #Gradle for Most Innovative Java Technology: http://bit.ly/j9Rnkf Only 1 week to go!"""
+77082464354447361,2011-06-04 18:41:06,"b'Excited to be back in NYC for a full month! If you are interested in me presenting on #gradle or #spock, let me know!'"
+76497055295602689,2011-06-03 03:54:53,b'Seems like more and more Spring(Source) projects offer Groovy DSLs these days http://is.gd/GI9fPM (see comments for another one)'
+76431907180642304,2011-06-02 23:36:01,b'RT @ldaley: A version of the Spock plugin for Grails 1.4 early adopters is now available \xe2\x80\x94 install version \xe2\x80\x9c0.6-groovy-1.8-SNAPSHOT\xe2\x80\x9d.'
+76427609344450560,2011-06-02 23:18:56,"b'RT @NFJSMag: June Issue: @kenkousen ""Spock: I Have Been, and Always Shall Be, Your Friendly Testing Framework"". #nfjs'"
+75746835402199040,2011-06-01 02:13:47,b'Mission: Test-Infect Philadelphia GGUG. Method: Spock. Status: Completed.'
+74091446336102400,2011-05-27 12:35:52,"b""I'm going to present Spock at Philadelphia JUG on Tuesday. Join us! http://meetu.ps/1tDYQ"""
+73582292332847105,2011-05-26 02:52:40,b'Meet #spock (and me)! RT @jgritman: I just scheduled a Meetup for Philadelphia Groovy and Grails User Group! http://meetu.ps/1tDYQ'
+73186166500884481,2011-05-25 00:38:36,"b""For the next 6 weeks I'll be visiting customers in Philadelphia and NYC. If you want me to speak on Gradle or Spock, let me know!"""
+72352629811986432,2011-05-22 17:26:25,"b""Next time you'll know :-) RT @kenkousen: Five min before Spock talk room was so full we had to move to bigger one #nfjs"""
+71324562264031232,2011-05-19 21:21:15,"b'Slides and source code for my #gr8conf presentation ""Smarter Testing With Spock"" are now up on #github: http://is.gd/PA8dF2'"
+71324365454721024,2011-05-19 21:20:28,b'#gr8conf was a blast! Many thanks to the organizers.'
+70503104298237953,2011-05-17 14:57:04,"b""@rfletcherEW I know @ldaley is working on #grails 1.4 support, but apparently it hasn't materialized as a branch/plugin yet."""
+68345594845999104,2011-05-11 16:03:54,b'RT @Gradleware: EXCITING! Gradle Eclipse plugin by the STS rockstars: http://bit.ly/jVGS9B  Very good stuff and it is just the beginning.'
+63254385030987776,2011-04-27 14:53:15,b'RT @glaforge: Final version of #groovy 1.8 released! Please read the release notes http://bit.ly/groovy-18 and enjoy!'
+62812043354456064,2011-04-26 09:35:32,"b""RT @vaclav_pech: I'm happy to see my article on GPars Java and Groovy actors up on #drdobbs http://bit.ly/i7XuTu"""
+59299063354490880,2011-04-16 16:56:13,"b""@HamletDRC I don't use any live templates, but have a simple file template for specs."""
+59199951384743936,2011-04-16 10:22:22,b'RT @HamletDRC: Getting started with Spock and Groovy screencast http://goo.gl/KsI0b (vote at http://goo.gl/61fz4) #groovy #spock'
+58478232059654144,2011-04-14 10:34:31,b'RT @gr8conf Today is the last chance to save \xe2\x82\xac300! Early Bird discount ENDS TODAY!Register now at http://gr8conf.eu #groovy #grails #griffon'
+55782852230529024,2011-04-07 00:04:03,b'@matthewmccull @hlship Confirmed. Some files in our #github repo contain CR/LFs and they got converted to LFs.'
+55771859941212160,2011-04-06 23:20:22,"b""Don't understand why #git shows whole file as having changed (all lines deleted/added) when I've just edited a few lines. Any hints?"""
+55612670149279745,2011-04-06 12:47:48,"b""@graemerocher I'm considering to support @Delegate for composing specs. @Mixin might not work for reflection and annotation-based test tools"""
+54090990826430464,2011-04-02 08:01:11,"b""It's hard to get excited about new features in your favorite IDE if half of the existing features don't work or send you on a coffee break."""
+53578258989592576,2011-03-31 22:03:47,"b""First explicit Spock support in IDEA, and I didn't even know about it! RT @HamletDRC: auto-formatting Spock tests http://goo.gl/UVyid"""
+51750076292415488,2011-03-26 20:59:14,b'@MartinAhrer Can you make it work? :-)'
+51727105335099393,2011-03-26 19:27:57,"b'@JVMNewsBot Please stop your meaningless retweets. #twitter is for humans, not for bots.'"
+51711893995405312,2011-03-26 18:27:30,"b""Read @hlship's thoughts on moving #tapestry from #maven to #gradle: http://is.gd/RK1m3u"""
+51708417580072961,2011-03-26 18:13:42,"b""@wmacgyver #groovy is great but can't replace #java for me, #scala can to some degree. My dream is to leave #java behind. Too low-level."""
+51698397199073280,2011-03-26 17:33:53,"b""@wmacgyver Are you asking what I'm missing in #java compared to #scala? I don't think this will fit into a tweet. :-)"""
+51695646532575232,2011-03-26 17:22:57,b'#scala talks by @hseeberger reminded me how much I prefer #scala over #java. Looking forward to the day I can use #scala at work again.'
+51688598398976002,2011-03-26 16:54:56,b'@johanneslink I see. Seems like the way to go for #groovy.'
+51665726364332032,2011-03-26 15:24:03,"b""@johanneslink Is your #groovy tail recursion optimization explicit like #clojure's recur, or automatic like in #scala?"""
+51440158679109632,2011-03-26 00:27:44,b'@wmacgyver Have you considered creating a @wmacerlang account? :)'
+50598688527101952,2011-03-23 16:44:02,b'@gersei How do you feel about two #ejug #scala events in a row then? :-)'
+50231470089961472,2011-03-22 16:24:50,b'RT @ejug: Nach dem #Scala Vortrag am 24.3 mit @hseeberger geht es am 28.3 weiter mit #Akka pr\xc3\xa4sentiert von @viktorklang. Busy #eJUG.'
+49876990047694848,2011-03-21 16:56:15,"b'Thanks for the hint, has been fixed. RT @jetztgradnet @Gradleware new #Gradle Jira does not allow anonymous browsing'"
+48390934152491008,2011-03-17 14:31:12,b'Brilliant! RT @absolut1978: Published some examples how to test #grails apps with #spock  http://code.google.com/p/grails-spock-examples/'
+46125187787259904,2011-03-11 08:27:56,"b'RT @sternegross: GContracts 1.2.0 Released! http://bit.ly/g4tgxE (blog), http://bit.ly/etra7I (dzone)'"
+46046275430395905,2011-03-11 03:14:22,"b""Didn't know that there are tons of OSS #stackexchange clones: http://is.gd/wnpHgK Much better suited for Q&A than mailing lists."""
+45951418603012096,2011-03-10 20:57:26,"b'@jeffscottbrown Only rarely, to avoid having to escape double quotes or $ within a string.'"
+45919138484465665,2011-03-10 18:49:10,"b""@HamletDRC It still is a String (that's why the rule name is misleading). Double quotes are more in line with Java and easier to edit wrt $."""
+45916774419546112,2011-03-10 18:39:46,"b""@HamletDRC Don't agree with UnnecessaryGString (and name is misleading). I consider it good style to use double-quote strings by default."""
+45071623656714240,2011-03-08 10:41:27,"b'@mittie Not sure how you define ""dynamic programming"", but for me closure-based DSLs are the no. 1 ""magic"" feature of #groovy.'"
+44527768129650688,2011-03-06 22:40:21,"b'RT @kenkousen: Had a great time at #nfjs Twin Cities. Great enthusiasm for Groovy, Spock, and Gradle. #groovy #spock #gradle'"
+43630611415576576,2011-03-04 11:15:23,"b""@alextkachman Are internal power assert calls direct method calls by now? In general, I'd expect p. asserts to be used for tests only."""
+43364185295429632,2011-03-03 17:36:42,"b""@JeffGortatowsky Here is one I can recommend, although video isn't perfect: http://skillsmatter.com/podcast/java-jee/spock-testing-framework"""
+43324001669496832,2011-03-03 14:57:01,b'Another contender for #spock author of the month: @edward_gibbs http://edgibbs.com/spock-intro-a-bdd-testing-framework-in-groovy/'
+43307432662929408,2011-03-03 13:51:11,b'Nur noch ein Platz f\xc3\xbcr den kommenden #eJUG Event am 24.3 mit @hseeberger - #Scala rocks the eJUG (via @eJUG)'
+42968672477790209,2011-03-02 15:25:04,"b""@marcoVermeulen We've received it, but apparently @ldaley hasn't had time to look at it yet."""
+42966057341820928,2011-03-02 15:14:40,b'@aalmiray #spock-grails spec scaffolding is a long-standing feature request. Will come soon.'
+42376015191875585,2011-03-01 00:10:03,"b""@bmuschko That's the new #gradle report, not a #spock report. Of course it works with #spock too."""
+42343295329898496,2011-02-28 22:00:02,b'testing a #python/#pylons application with #groovy/#spock/#geb.  #Polyglot-programmer (via @james_prickett)'
+42191329131896833,2011-02-28 11:56:11,b'Have you noticed the new #junit reports in #gradle 1.0-milestone-1? http://db.tt/TFKuy9p'
+41229055135186944,2011-02-25 20:12:27,b'@sternegross I know it but have only started to read it. The blog post filled in exactly the missing pieces for me. Big aha moment.'
+41181342435786752,2011-02-25 17:02:51,b'Fantastic blog post that answered all my conceptual #git merge/rebase questions at once: http://is.gd/NCBXxU'
+40838615961579520,2011-02-24 18:20:59,"b""RT @niklasl: But #spock is so far ahead of (raw) #junit and #testng it's not even funny. Its parameterized stuff is pure magic."""
+40790788023648256,2011-02-24 15:10:56,b'@glaforge Of course I play chess (though not right now)! Feel free to challenge me any time.'
+40784793490821120,2011-02-24 14:47:07,b'Chrome AdBlock extension put an end to super-annoying ads on http://orf.at and http://chessbase.com.'
+40776014460239872,2011-02-24 14:12:14,b'Thank you http://orf.at for keeping my processors warm and my fans spinning. 90% of CPU time spent on giant Flash ads. #orf #fail'
+40552185246785536,2011-02-23 23:22:49,"b'For any BDD / Spock / Geb users that want to work with playframework, there is now http://bit.ly/hmSeCl. (via @peterlundberg)'"
+39759151231926272,2011-02-21 18:51:35,b'Welcome! RT @rickardoberg: #Qi4j has moved from #Maven to #Gradle for the build system: http://qi4j.org/qi4j/436.html Very nice!'
+39749292898000896,2011-02-21 18:12:24,"b'RT @jeffscottbrown: Gradle is one of those technologies where once you appreciate the benefits, you never want to deal with the predecessor.'"
+39735620767191040,2011-02-21 17:18:04,b'RT @glaforge: Prochaine r\xc3\xa9union du #groovy #grails user group le 28 mars. Au menu: tests avec #Spock par @mathildelemee http://bit.ly/gFWiU0'
+39501544667746304,2011-02-21 01:47:56,b'RT @JurgenLust: Spock should become the default testing framework in Grails. They go together like peas and carrots.'
+38737318135332864,2011-02-18 23:11:11,"b'@shemnon Even if you are, I bet it will just work.'"
+38613505292640256,2011-02-18 14:59:11,"b""@vaclav_pech Have fun! Too bad I'm not there."""
+38589636766863360,2011-02-18 13:24:21,"b'Hat http://news.orf.at noch News, oder flattern da nur mehr riesige, nervige Ads herum? #orf #ausverkauf'"
+38301576204390400,2011-02-17 18:19:42,"b'Need to see this talk live! RT @HamletDRC: Slides from #springio ""Presentation Patterns"" talk http://goo.gl/2JhxN'"
+38248655211204609,2011-02-17 14:49:24,b'@marcoVermeulen Since when can #git pull from blog posts? :-) Consider my question a reminder for @rfletcherEW (and he knows it).'
+38245402637500416,2011-02-17 14:36:29,"b""Where's the pull request? RT @marcoVermeulen: Auto-generate Spock specs for Grails artifacts by @rfletcherEW &lt;- super handy #grails"""
+38244403822854144,2011-02-17 14:32:31,b'Playing around with #youtrack. Would love to use it for #spock (already using #teamcity). User limit is barrier for adoption by OSS projects'
+38225182027948032,2011-02-17 13:16:08,b'#youtube gem: barbra streisand vs. ursula stenzel http://bit.ly/gY1aE2 Who would have thought that #vienna can keep up with #nyc?'
+38024024386707456,2011-02-16 23:56:48,b'@kenkousen Thanks Ken. A few people already pointed out to me that options must come before the script name. This solved the problem.'
+37976001531088896,2011-02-16 20:45:58,"b'@glaforge Interesting. Seems to correspond with the ""Autodetect UTF-encoded files"" setting in #idea. :-)'"
+37971049886781441,2011-02-16 20:26:18,b'@glaforge Where in the Groovy codebase can I find the code? Interested in how the sniffing works.'
+37968361476325376,2011-02-16 20:15:37,"b'@shemnon And Settings-&gt;File Encodings for, well, file encodings.'"
+37967651791708160,2011-02-16 20:12:48,"b'@shemnon Settings-&gt;Code Style-&gt;General. Usually system-dependent is best, with version control system converting on checkin/checkout.'"
+37963916214538241,2011-02-16 19:57:57,b'@glaforge Your sniffing code made it into #idea? Must make you high. :-)'
+37961518775541760,2011-02-16 19:48:26,b'@shemnon 1. Encodings and line separators are independent things. 2. Not sure if IDEA can sniff encoding or just shows the current setting.'
+37918244165648384,2011-02-16 16:56:28,"b'@tim_yates Thanks, that did the trick.'"
+37913866104995840,2011-02-16 16:39:04,"b""How do I set a system property when using the 'groovy' command? This doesn't seem to work:\ngroovy MyScript -Dfoo=bar"""
+37912697399934976,2011-02-16 16:34:26,b'@PeterBell Congratulations! Must be awesome. :-)'
+37821459770384384,2011-02-16 10:31:53,b'#groovy 1.7.8 is out. Time to update.'
+37705596190851072,2011-02-16 02:51:29,"b'Testing a legacy Java application with #Groovy, #Spock, #Spring Test and #Unitils http://wp.me/pVvc8-4S (via @mgryszko)'"
+37276809837936640,2011-02-14 22:27:38,"b'@glaforge Argh, always forget to bump beta/rc version. Thanks for the hint. Wish there was one and only one SNAPSHOT version for 1.8.'"
+37272439578689536,2011-02-14 22:10:16,"b""@glaforge It's already at 1.7.6, and 1.7.7 should supposedly be skipped in favor of the up-coming 1.7.8."""
+37254080145391616,2011-02-14 20:57:19,b'Time to update the #spock build to take advantage of all the latest #gradle features.'
+35732025193267201,2011-02-10 16:09:13,b'@PeterBell Lucky you. Looking forward to the day where mine will arrive.'
+35584303794495488,2011-02-10 06:22:13,"b'@wmacgyver Yes, that would be heaven.'"
+35570907590172673,2011-02-10 05:28:59,"b""@wmacgyver Isn't the same however (order, multiple replacements)"""
+35567878866477056,2011-02-10 05:16:57,"b'No ""replace"" method on #groovy collections? Am I missing something?'"
+35367569510637568,2011-02-09 16:01:00,"b""After completing @matthewmccull's #github training, I'll merge the hell out of #git. Or maybe not. But at least I'll know that I could."""
+35355376178171904,2011-02-09 15:12:33,"b""After switching to Nimbus look and feel, I'm getting regular JVM crashes on my Mac. Time to head back."""
+35302033263169536,2011-02-09 11:40:35,"b""@glaforge I've heard that studying #scala's type system is a good medication."""
+35238374159687680,2011-02-09 07:27:37,"b'@HamletDRC Just be careful. Can differ in the type of collection returned. Needs to consider which ""similar"" collection collect() creates.'"
+35231808165511168,2011-02-09 07:01:32,"b'@HamletDRC If you are looking for a tough one, I often see inject() where collect() would suffice, perhaps together with flatten()'"
+35226335559290880,2011-02-09 06:39:47,"b'@HamletDRC How about ""def MyConstructor()"", ""static def foo()"", or ""def foo(def arg)"". #idea often generates such code.'"
+34631981069246464,2011-02-07 15:18:02,"b""Fortunately I don't have many secrets to share. Otherwise, incidentally sending private tweets as public could hurt. Have a talent for that."""
+34630833281175552,2011-02-07 15:13:28,"b""@PeterBell Hi Peter, did you receive my response email regarding Spock? Wasn't 100% sure it was going through (big attachment)."""
+34626520051884032,2011-02-07 14:56:20,"b""@nusairat Don't see any mock code there. Anything created with Specification.Mock() is a Spock mock; anything else is, well, sth. else."""
+34616631694983169,2011-02-07 14:17:02,b'@nusairat Are we talking about Spock mocks or Grails mocks? Grails part should work exactly like Grails JUnit support.'
+34611672966504448,2011-02-07 13:57:20,"b""@nusairat Not sure what you mean, but #spock mocks don't remember anything between tests. Happy to answer q. in forum http://bit.ly/dIc377"""
+34603469851594752,2011-02-07 13:24:44,"b""Signed up for https://github.com/training/online to take my #git-fu to the next level. @matthewmccull I'm coming!"""
+34572829517160448,2011-02-07 11:22:59,"b""#scala's new Dynamic trait looks promising: http://bit.ly/femf2x Invaluable for such things as builder DSLs (as #groovy fans know)."""
+34501984832724992,2011-02-07 06:41:28,"b'@nusairat What do you mean by ""persist from test to test""?. There might be something wrong with your tests.'"
+34293394700238848,2011-02-06 16:52:37,"b""@glaforge Agreed. On the other hand, it's easier to get a discussion going on #twitter than on the mailing list."""
+34292740460126208,2011-02-06 16:50:01,b'@alextkachman Sensible choice for g++.'
+34290989212377088,2011-02-06 16:43:03,"b""@glaforge Still don't get your point. I think you are misinterpreting my proposal."""
+34269644760023040,2011-02-06 15:18:14,b'Deleting lots of code in the #spock codebase today. Clear sign of progress.'
+34241029594943489,2011-02-06 13:24:32,"b""@glaforge Not sure why it can't. (Btw I'm talking about a backwards-incompatible change.)"""
+34215690525220864,2011-02-06 11:43:50,"b'@tim_yates Good catch. Would have to use -&gt; syntax in such cases then. Could also make ""$foo"" immutable GString, or fully dynamic like -&gt;.'"
+34197245150629888,2011-02-06 10:30:33,"b'Makes me think that ""${foo}"" should return a plain String. Current behavior is an odd compromise (not immutable, not truly re-evaluated).'"
+34194088160919552,2011-02-06 10:18:00,"b'@tim_yates Yes, lazy and re-evaluated each time. I had thought for years that GStrings always work like that. #shame_on_me'"
+34192560771571712,2011-02-06 10:11:56,"b'@aalmiray In the first case, foo is evaluated eagerly, in the second case lazily (and every time toString() is called). #groovy #gstring'"
+34188140033875968,2011-02-06 09:54:22,"b'Did you know that ""${foo}"" and ""${-&gt;foo}"" are very different? I didn\'t. #groovy'"
+34138013923545088,2011-02-06 06:35:11,b'Discovering new issues faster than I can report them.'
+34129017745448960,2011-02-06 05:59:26,b'Updated #homebrew from 7c81f2 to 7bb5e7.\nThe following formulae are new: #jenkins\nThe following formulae were removed: #hudson\n(via @gersei)'
+33891455932047360,2011-02-05 14:15:27,"b'#groovy 1.7.7 and 1.8-beta-4 released! #json support, #gpars in the distro: http://bit.ly/gtGVgQ (via @glaforge)'"
+33789877266939904,2011-02-05 07:31:49,b'@HamletDRC At least not in terms of compile-time error checking. If it works as well as advertised.'
+33787722057388032,2011-02-05 07:23:15,"b""@HamletDRC Looks very similar to #gcontracts. IDE is aware of the code, so it doesn't really matter that it's in a string anymore."""
+33580344460443648,2011-02-04 17:39:12,b'#eJUG is looking for a speaker/specialist to present on HTML5 (via @eJUG)'
+33205769620955136,2011-02-03 16:50:47,"b""@marcoVermeulen I think you'd still want all of #spock's features for implementing the steps. Also the extension mechanism etc."""
+33099535697838080,2011-02-03 09:48:38,"b""@marcoVermeulen There are ideas floating around to add some #bdd features to #spock. Can't promise anything though."""
+33035142339493888,2011-02-03 05:32:46,b'We appear to have cracked testing our web app on the Selenium iPhone driver using Geb & Spock BDD. Needs a blog post... (via @froots101)'
+32897983221600256,2011-02-02 20:27:45,b'How often do I have to unsubscribe from #oracle marketing emails? Should I send a registered letter?'
+32894229692813312,2011-02-02 20:12:50,b'Project-specific task auto-completion on the command line for #Gradle http://t.co/ABUgGYe (via @etiennestuder)'
+32883870319771648,2011-02-02 19:31:40,"b""@HamletDRC #svn isn't bad but we have better alternatives now. It can get frustrating, e.g. if you move beyond simple merging."""
+32871746159775744,2011-02-02 18:43:29,"b""@aalmiray Yes, EJB has improved a lot. But I'll always prefer Spring. Amazing people, amazing product."""
+32862742683586560,2011-02-02 18:07:43,"b""@mstine Except Maven hasn't improved the way EJB has."""
+32584510818230272,2011-02-01 23:42:07,b'And I want a clean way to extend the GDK so that I can get rid of my GroovyUtil classes. You too? Vote for http://bit.ly/eKhrU2'
+32572562001104896,2011-02-01 22:54:38,"b""@tim_yates That's another important one, but I want a collect method that turns a collection into a map. inject() based solution is ugly."""
+32572178448777217,2011-02-01 22:53:07,b'@wmacgyver Yes.'
+32569158356963329,2011-02-01 22:41:07,b'I want Collection.collectMap and .collectFlat in #groovy. Need it all the time.'
+31139429754081280,2011-01-28 23:59:53,b'Impressive #gradle work from @cbeams: https://github.com/SpringSource/spring-build-gradle/wiki #springsource'
+31073898506231808,2011-01-28 19:39:29,"b'@mittie Why is that? Are you saying that URLClassLoader ""freezes"" at some point, and addURL() will no longer have an effect?'"
+31056128343281664,2011-01-28 18:28:52,"b""@kellyrob99 I've had the same experience."""
+31050102126673921,2011-01-28 18:04:55,b'I have yet to see a single #groovy project with a correct #maven setup. #gmaven simply makes it way too hard.'
+30660013672374272,2011-01-27 16:14:51,"b""@shemnon That's exactly my question - is there a good reason why it can't work with any URLClassLoader?"""
+30648309056016384,2011-01-27 15:28:20,"b""Why does Groovy's @Grab only work in the presence of a GroovyClassLoader/RootLoader?"""
+30425749907312641,2011-01-27 00:43:58,b'An easier way to add Spock testing to an Eclipse/STS project http://bit.ly/hvGc1h #groovy #spock #gradle (via @kenkousen)'
+29640218269196288,2011-01-24 20:42:33,"b'@huxi Need to regenerate IDE project after every switch, restart IDE, some config lost in the process, then dreaded reindexing begins...'"
+29584253117276162,2011-01-24 17:00:10,"b'""git checkout"" and IDEs don\'t go together. Seems there is no way around forking the same repo multiple times.'"
+27828330472415232,2011-01-19 20:42:45,b'@HamletDRC That it uses GroovyTestCase :-)'
+27368939621187584,2011-01-18 14:17:18,"b'@vaclav_pech Unfortunately not mine: IDEA-62714, IDEA-64181'"
+25634800886874112,2011-01-13 19:26:27,"b'Just pushed my first commit to the #gradle repo! Took a while, but better late than never.'"
+25618348465192962,2011-01-13 18:21:04,b'@aalmiray ...and the IMAX 3D experience. :-)'
+22702501367123968,2011-01-05 17:14:32,b'@alexcuesta Are you using Eclipse 3.5 or 3.6?'
+18022630296657920,2010-12-23 19:18:24,"b""@jak78 Maybe the project experiments with (but doesn't really use) several different mocking libraries."""
+17750710632316929,2010-12-23 01:17:53,"b'actually it was just 10 hours, plus one hour time difference :-)'"
+17749158345580544,2010-12-23 01:11:43,"b'Finally back home, after an 11 hour trip from London to Linz... #grailsx'"
+17573099973124096,2010-12-22 13:32:08,"b""@jamescarr Without the class/method structure, we'd lose all the tool support and JUnit compatibility, and would have to reinvent the wheel."""
+17543524408893440,2010-12-22 11:34:36,b'@jamescarr #spock is not a BDD framework although it can be used as such. It is a general-purpose test/spec framework w/ lots of innovation.'
+17396638448353280,2010-12-22 01:50:56,"b""@wmacgyver And you didn't even bring your 64-core machine!"""
+17395765504643072,2010-12-22 01:47:28,"b""Google Code Search continues to be the best way to search #github. With GitHub's own search I never find what I'm looking for."""
+17381737302597632,2010-12-22 00:51:43,"b'@glaforge Looks good. While you are at it, could we have command syntax for annotation closures too?\n@Makes { ""a big difference"" }'"
+17189012288577536,2010-12-21 12:05:54,b'functional web tests with #geb (in german!) http://bit.ly/fhWoyA @jaxcenter #groovy #grails (via @sternegross)'
+16986327425748992,2010-12-20 22:40:30,"b""@carina Do you make a comeback on #twitter? :-) Good luck for your flight. There is hope I'll be home on Wednesday."""
+16794529952698368,2010-12-20 09:58:22,b'@tareq_abedrabbo Lufthansa/Austrian'
+16792977946976257,2010-12-20 09:52:12,"b'After trying for 22 hrs, I managed to talk to someone from the airline and was offered flight on Thursday. How ridiculous is that? #grailsx'"
+16620170105589760,2010-12-19 22:25:31,"b""Still stuck in London, not sure if I'll make it home tomorrow #grailsx"""
+16221419583053825,2010-12-18 20:01:02,"b'Spent hours waiting for a malfunctioning legacy system to resume operation. They say it goes by the name ""London Underground"". #fail'"
+15752686515261440,2010-12-17 12:58:27,"b'sky.com homepage is a #grails app, weekly iterations #grailsx'"
+15524558291345409,2010-12-16 21:51:57,"b""And some #spock ears! RT @pmbauer: *sings* All I want for Christmas is an 'I \xe2\x99\xa5 Spock' t-shirt.\nhttp://code.google.com/p/spock/  #groovy"""
+15216006913859586,2010-12-16 01:25:53,b'@wmacgyver and I thought I was the last one to arrive'
+15211745257721857,2010-12-16 01:08:57,"b""High-speed Internet in my hotel room is dead slow. Hope that doesn't say anything about the hot water in the shower..."""
+15181171474300928,2010-12-15 23:07:27,b'finally made it to London... #grailsx'
+14819864480849920,2010-12-14 23:11:45,b'RT @GradleOrg: The new DSL doc (work in progress) is out there for review: http://bit.ly/ePQzaL For an even better #Gradle experience ;).'
+14721846494629888,2010-12-14 16:42:16,b'json-lib 2.4 released https://sourceforge.net/projects/json-lib/ the site will be updated in the coming days (via @aalmiray)'
+14313890661797888,2010-12-13 13:41:12,b'In case you missed the news:\n1. Spock 0.5 released: http://bit.ly/exYN80\n2. Spock sources moved to GitHub: http://bit.ly/gP89W4'
+14090314243379200,2010-12-12 22:52:47,b'@aalmiray Bumping the #spock version number should be all there is to do.'
+14047900283703297,2010-12-12 20:04:15,"b""@matthewmccull Thanks, I'll take you up on your offer for my next #git question. :-)"""
+14044977789145088,2010-12-12 19:52:38,"b'@wmacgyver #spock source repository is moving to #github. Homepage, issue tracker etc. will stay at #googlecode for now.'"
+14040131203764226,2010-12-12 19:33:22,b'Tip of the day: Run #svn2git a second time and it will suddenly work. Here is the result: https://github.com/spockframework/spock'
+14030032741605376,2010-12-12 18:53:15,"b""@bmuschko According to http://help.github.com/svn-importing/, git-svn doesn't handle tags and branches."""
+14022125039910913,2010-12-12 18:21:49,"b""Git import of #spock svn repo fails both with #github importer and with #svn2git. After trying for a day, I'm close to giving up."""
+13630485192245248,2010-12-11 16:25:35,"b""@mittie Sorry, it's http://forum.spockfRamework.org"""
+13627042578833409,2010-12-11 16:11:54,"b""@mittie Do you have a failing test? Does it work on Grails command line? If not, let's move this to http://forum.spockfamework.org"""
+13621019629584384,2010-12-11 15:47:58,"b'@mittie To activate your favorite new #spock feature, put this into ~/.spock/SpockConfig.groovy:\nrunner { optimizeRunOrder true }'"
+13586472472944640,2010-12-11 13:30:42,"b'Oh, and by the way: #spock 0.5 is here! http://www.dzone.com/links/spock_05_released.html'"
+12903121650978817,2010-12-09 16:15:18,b'Thanks for all the congratulations on my #gradle career move. Almost feels like birthday! :-)'
+12580314958270464,2010-12-08 18:52:35,"b'@mittie @paulk_asert OK, just wanted to know who I need to bribe. :-) #regina #spock'"
+12569018661601282,2010-12-08 18:07:42,b'@HamletDRC Testing in general.'
+12567446787461120,2010-12-08 18:01:27,b'@HamletDRC 25 pages? Wow. Looking forward to read the MEAP. How many pages on testing? :-)'
+12503597325492225,2010-12-08 13:47:44,"b""Best news: Starting from January, I'll be working for Gradle Inc. to make #gradle an even better way to build!"""
+12503364076052480,2010-12-08 13:46:48,"b""Good news: I'll jump in and deliver the #gradle talk at #grailsx."""
+12503132386889728,2010-12-08 13:45:53,"b""Bad news: Hans Dockter won't make it to #grailsx next Thursday/Friday for his #gradle talk."""
+12259194770030592,2010-12-07 21:36:34,b'@nusairat Depends on which version of the Grails Spock plugin you use (0.4 or 0.5-SNAPSHOT).'
+12239943229251584,2010-12-07 20:20:04,b'RT @yanpujante: proudly announcing LinkedIn glu open source project http://lnkd.in/Ms67vf #devop #groovy #zookeeper #restlet #gradle #grails'
+12188436681203713,2010-12-07 16:55:24,"b'@nusairat This should already be fixed in 0.5-SNAPSHOT. If not, please raise an issue.'"
+11855110929915904,2010-12-06 18:50:53,b'RT @marcoVermeulen: Found very cool PRACTICAL Spock presentation by @rfletcherEW at Skills Matter. http://bit.ly/fDok9D #spock #groovy'
+11381336648450048,2010-12-05 11:28:16,"b'@HamletDRC If there are only a few variations, it can be more convenient to have one (sub)class per variation (simplifies reuse).'"
+10497785400918016,2010-12-03 00:57:21,"b""Spotted a #spock specification in the #springdata project. Even uses Spock's Spring integration. Proof by FishEye: http://bit.ly/gNwMxg"""
+10475532562989056,2010-12-02 23:28:56,b'Latest @groovymag has an article on Geb by @peterbell: http://bit.ly/h9Zjww (via @ldaley)'
+10099658839826432,2010-12-01 22:35:20,"b""Fantastic #gpars talk by @vaclav_pech at today's @eJUG event. If you got stuck in the snow, make sure to check out the slides/project!"""
+10001452659380224,2010-12-01 16:05:06,b'@pledbrook What exactly are you missing? Mocking dynamic methods? Partial mocks? Mocking constructors and static methods?'
+9183663090573312,2010-11-29 09:55:30,b'RT @jbrains: Installing #groovy and #spock to play around with. Thanks to #energizedwork for introducing me to them.'
+7747026846490624,2010-11-25 10:46:49,"b'RT @smaldini: starting a new #Grails contract, and the whole code is documented with hundreds of ... #Spock Specs - Crying tears of joy :D'"
+7217379620687872,2010-11-23 23:42:12,"b'RT @nofluff: Great prezos lined up for 2011 NFJS Tour; AMQP, CouchDB, Geb, Spock, Guava, Akaa to just name a few.. #nfjs'"
+7213338140348416,2010-11-23 23:26:08,"b'After #gmaven failed on us again, it was time to make full switch to #gradle. Solved our problems immediately. Even #teamcity is happy!'"
+5771703372222464,2010-11-19 23:57:35,"b'Public blog where only ""team members"" are allowed to comment. Interesting. Should have told me before I had spent 10 mins crafting an answer'"
+5569968938680320,2010-11-19 10:35:58,b'The example Geb project presented by @pniederw at SpringOne 2GX 2010 is now publicly available: http://bit.ly/c1qJvv (via @ldaley)'
+5401049355517952,2010-11-18 23:24:45,b'@sternegross Google (code) was about to sign the $$$ check when they heard that #spock will move to #github and retracted the offer. Damn!'
+5365305178071040,2010-11-18 21:02:43,"b'@HamletDRC @mittie please make it ""for (int i in 0..&lt;x)"", or other bad things might happen :-)'"
+5316553193033728,2010-11-18 17:48:59,b'maven2gradle needs more advertising! Was close to converting 65 POMs by hand...\nhttps://github.com/jbaruch/maven2gradle\n#gradle'
+4588917076525056,2010-11-16 17:37:37,"b""Just realized I'm wearing the #devoxx (javapolis) t-shirt from 2007 right now. I think this makes me a fan."""
+4587847264768000,2010-11-16 17:33:22,b'@glaforge Could you get me one? Missing #devoxx for the first time since 2004. Still have all the t-shirts!'
+2866580979453952,2010-11-11 23:33:40,b'@HamletDRC @kellyrob99 There is also a Groovy++ web console: http://gppconsole.appspot.com/'
+1599708573208576,2010-11-08 11:39:34,"b'RT @MathildeLemee: Java-Freelance : Spock-(3/X) \xe2\x80\x93 Spock, EasyMock, Mockito et les arguments http://bit.ly/dgTOaF #spock #easymock #mockito'"
+1564681617539072,2010-11-08 09:20:23,b'Free eJUG Special 01.12.2010: Groovy actors and concurrent dataflow with GPars (Vaclav Pech - JetBrains).  http://bit.ly/c1FERE (via @eJUG)'
+687372903649280,2010-11-05 23:14:17,"b""@paulk_asert Don't panic. 1-socket, -Xmx1m #oracle JDK w/o #derby will always stay free..."""
+29594249326,2010-11-03 18:16:05,b'Fascinating! And good for my French. RT @MathildeLemee: I have so many things to say that there will be more than 3 (articles on #spock)!'
+29593731793,2010-11-03 18:08:28,b'Same experience here... RT @rfletcherEW: New #spock snapshot disallows assignments in then/expect blocks.Found 6 genuine goofs in our tests!'
+29488199091,2010-11-02 17:03:50,"b'Wish my French was better, but Google Translate helps :) RT @MathildeLemee: Java-Freelance.fr =&gt; http://goo.gl/WvzVb #Spock #JUnit'"
+29470211647,2010-11-02 13:37:20,"b""@tomaslin So far the slides are only available on the #s2gx homepage, but I'll try to make them generally available."""
+29470135871,2010-11-02 13:36:27,"b'@joakimrecht Please bring this up on the #geb mailing list, or raise an issue.'"
+29227788098,2010-10-30 23:49:32,"b""@isidore_us Sorry but I don't understand your question. How about moving this discussion to http://forum.spockframework.org ?"""
+29214142739,2010-10-30 20:12:32,"b""@isidore_us In the end, a Spock spec is just Groovy code, and hence works perfectly for testing Java (if that's what you've been asking)."""
+29207210969,2010-10-30 18:26:47,"b'@isidore_us What do you mean by ""generate the underlying framework""? Spock is a complete testing framework, and runs everywhere JUnit does.'"
+28922804667,2010-10-27 20:42:37,b'want to learn about #spock #mockito #gradle? join us at @hackergarten this friday. see http://bit.ly/9pZWxL for details! (via @breskeby)'
+28472673406,2010-10-23 04:49:35,"b'Slides for my Geb talk are now up. Also uploaded the full demo project which can be run with Gradle, IDEA, or Eclipse. Check it out! #s2gx'"
+28367193900,2010-10-22 02:49:52,b'Thanks all for joining my #spock talk! Slides are now up. #s2gx'
+27997376690,2010-10-21 04:38:57,b'Big congratulations to @gradleorg for winning the #s2gx springy award! (via @glaforge)'
+27441118565,2010-10-15 13:34:15,"b""#groovy web console now runs 1.8-beta-3-SNAPSHOT http://bit.ly/8msMjf and there's a 1.7.5 version too http://bit.ly/cwEsY8 (via @glaforge)"""
+27296120989,2010-10-14 01:19:08,b'@ldaley Great way to spend your next wedding day!'
+27290048977,2010-10-14 00:09:41,"b'@rfletcherEW Looks good! You could also use #junit rule TemporaryFolder (natively supported), but with #spock extensions you can go further.'"
+27276820788,2010-10-13 21:13:00,"b""@paulk_asert Missing critical int. tests can be costly, but the reverse also holds. In testing-heavy teams I've mostly seen overuse."""
+27276312771,2010-10-13 21:05:24,"b'@paulk_asert To me, deciding what and how much to test on which level is THE most difficult challenge in testing.'"
+27270586707,2010-10-13 19:40:10,"b""@paulk_asert Doesn't @jbrains recommend at least two kinds of tests (unit and acceptance)?"""
+27120489683,2010-10-12 08:32:39,b'RT @steveebersole: Hibernate HEAD switched to Gradle for building! (via @GradleOrg)'
+27072428034,2010-10-11 22:00:35,b'RT @ldaley: Excited to see Geb get some coverage at springone2gx via my good friend @pniederw - http://bit.ly/9dpXPE'
+27072315915,2010-10-11 21:59:02,"b""@ldaley beat me at blogging about Spock's new Hamcrest matcher support: http://bit.ly/9R7PPF"""
+26723864240,2010-10-08 06:15:51,"b'@MathildeLemee @wakaleo Spock usually works great with (Groovy) Eclipse. If you have problems, post in our forum. http://bit.ly/cYPmD8'"
+26694344232,2010-10-07 23:14:22,b'@wakaleo What are you missing?'
+26685863648,2010-10-07 21:18:04,b'Back home after a fantastic #jaoo (#goto) conference. Hope to go there again next year!'
+26684785832,2010-10-07 21:02:18,b'#Groovy-#Eclipse 2.1.0.RC2 now available.  New feature: Script folders.  See the N&N: http://is.gd/fQbdi (via @werdnagreb)'
+26571187766,2010-10-06 17:35:19,b'@joakimrecht #scalacheck was also mentioned'
+26436278737,2010-10-05 07:23:06,b'@kellyrob99 All #spock extensions are actively developed. Please tell us if you find anything missing from spock-unitils/spock-spring.'
+26312308480,2010-10-03 23:41:09,"b'@ldaley Next time we are both online,I need your help with geb. Trying to test S. Web Console, but JS editor component is getting in my way.'"
+26299484377,2010-10-03 20:47:06,b'@eddkenny Too bad I fell asleep before I could read your message!'
+26276474025,2010-10-03 15:34:41,"b""Sorry, it's Aarhus of course. :-) #JAOO"""
+26276110504,2010-10-03 15:30:16,"b'Anyone interested in discussing #groovy, #spock, or anything else over dinner/beer in Copenhagen? #JAOO'"
+26273929107,2010-10-03 15:04:51,"b""@glaforge How about deploying a new version with every nightly build? That's my plan for Spock Web Console."""
+26272723257,2010-10-03 14:51:08,b'Having lunch with @stuarthalloway and @jimwebber was a fantastic start into #jaoo. Turns out Stuart has already heard about #spock!'
+26271823687,2010-10-03 14:40:36,"b""@paulk_asert No, I tried the link in Guillaume's tweet (i.e. Groovy Web Console)"""
+26268531574,2010-10-03 14:00:35,"b'@glaforge @paulk_asert Looks cool but doesn\'t compile. Maybe a ""command expression on RHS"" problem?'"
+26249193376,2010-10-03 08:08:18,"b""Enjoying Stuart Halloway's #clojure session at #jaoo"""
+26075688719,2010-10-01 12:42:30,"b'On my Mac, IDEA X EAP feels a lot snappier and even more stable than IDEA 9.0.3. Hope it stays that way!'"
+25837957747,2010-09-29 01:02:50,b'@mikaelsundberg Thanks for the hint! Seems my submission made it to Stockholm in time. :-)'
+25680045386,2010-09-27 12:06:10,b'@paulk_asert Would be interesting to hear your opinion on what the different strengths are.'
+25356605077,2010-09-24 00:21:42,"b""@neodevelop It's easy to run #junit and #spock tests together in #maven. Just ask on the mailing list and I'll help. http://bit.ly/cYPmD8"""
+25352855901,2010-09-23 23:33:00,"b""@neodevelop So you have both JUnit and Spock tests, use the Spock Maven plugin and wonder why the JUnit tests don't get run?"""
+25350095534,2010-09-23 22:57:05,"b'@neodevelop If you translate your #spock tweet to English, I can help. :-)'"
+25318359455,2010-09-23 15:44:20,b'RT @werdnagreb: Latest snapshot of #Groovy-#Eclipse now has generics-aware type inferencing. Get it from the update site http://is.gd/fp2mn'
+25075445653,2010-09-21 01:09:05,"b""That's FaNtAsTiC news! RT @glen_a_smith: I have to say, @pniederw , Spock is getting a ton of airplay over here at JavaOne! Great stuff!"""
+25071605415,2010-09-21 00:19:43,b'Congrats to @graemerocher and Groovy! RT @ddelponte: #groovy once again wins the JavaOne script bowl!!!'
+25071227717,2010-09-21 00:14:39,"b""@joakimrecht If you'd like to see some more #geb and #spock, let's meet at JAOO. I'll be the one wearing Spock ears."""
+25069993766,2010-09-20 23:58:17,"b'It always was, and it always will be. :-) RT @mittie: To me, #groovy is the natural successor of JavaFx Script.'"
+25044821751,2010-09-20 17:42:10,b'@alextkachman You mean at most one message per actor processed at any given moment?'
+24862443280,2010-09-18 16:35:05,b'@glaforge You look like a jet fighter pilot sitting in his cockpit. Hope you are doing well.'
+24791774074,2010-09-17 21:06:03,"b""@bluetrainsoft We've continually updated our Tapestry apps over the last two years and never had problems. #stopspreadingFUD"""
+24788589230,2010-09-17 20:13:49,b'Our latest Tapestry-based web app is almost exclusively written in Groovy. The two work surprisingly well together.'
+24401614211,2010-09-13 17:32:19,"b'Think I\'ve found a topic for my PhD thesis: ""Towards configuring and using Java logging frameworks""'"
+24329090478,2010-09-13 00:15:02,b'@ldaley Can you explain why?'
+24195191038,2010-09-11 13:46:56,"b""@mittie For 'a' (one) day?"""
+23987687668,2010-09-09 06:57:33,"b'@rfletcherEW If you really wanted, you could add a fake column with ""| _"" (both for header and rows). Could also add it as first column.'"
+23855724683,2010-09-07 21:54:48,b'@twicet The Spock plugin is now packaged differently to work around Grails/STS issues. See http://bit.ly/bgn1LA. Please give it a try!'
+22684064136,2010-09-01 06:09:17,"b""@thesleepyvegan Spock's philosophy is to keep the tests as simple as possible, even if that means more work for the framework."""
+22638530145,2010-08-31 18:17:27,b'@wmacgyver Thanks. This one is pretty exciting too: http://bit.ly/9avA6e'
+22636805986,2010-08-31 17:50:51,b'Where the heck is Jupiter? RT @cbeust The widest web page ever http://bit.ly/dl7RF3'
+22627732382,2010-08-31 15:50:16,"b'Welcome aboard! RT @aslakknutsen #Arquillian boards the Enterprise to greet #Spock. #Groovy, baby!  http://twurl.nl/ncg7eg'"
+22454268133,2010-08-29 17:27:59,"b""@aalmiray It doesn't add them to the source code. A trick for scripts is to add them at the very end of the script"""
+22430722936,2010-08-29 11:27:31,b'Great article from @pledbrook introducing Spock (and Geb): http://bit.ly/dgrO7z (via @ldaley)'
+22246590326,2010-08-27 06:59:48,"b'RT @csterwa for those interested in #agile testing tools, spock is a great up & comer w/ #groovy based #bdd syntax; try it out'"
+21990435148,2010-08-24 10:36:32,"b""Half of my day I'm enjoying #idea's productivity benefits. The other half I'm waiting for it to compile or reindex my projects."""
+21986173421,2010-08-24 09:03:28,"b""Trying to fix some details of IDEA's JUnit/Spock integration on my own. After all it's open source. Wish me luck."""
+21926919487,2010-08-23 16:38:32,"b'My #spock talk proposal for @devoxx was declined. Too bad, lots of interest last year. But you can still get all the news at #springone2gx.'"
+21896916038,2010-08-23 08:11:51,b'Go Geb! RT @pledbrook My first public Geb/Spock functional tests: http://bit.ly/d6AfSA'
+21849989874,2010-08-22 18:42:15,"b'Wasted lots of time with Java wildcard types. And to make things worse, JDK 6 adds a few &lt;?&gt; here and there. See Class.getInterfaces().'"
+21687354306,2010-08-20 18:57:58,b'Tired of waiting months until new #junit and #hamcrest versions appear in Maven Central? Get them from http://m2repo.spockframework.org/ext'
+21666072194,2010-08-20 13:54:18,"b'Intel CEO: ""We need antivirus, can someone buy me McAfee?"" Few hours later: ""Done."" ""Great, which version?"" ""Version ... ?"" (via @adrianmw75'"
+21604973184,2010-08-19 20:19:25,"b'@glaforge Will ""x = max 1, 2"" also be supported? That\'s something I\'m missing every day.'"
+21534427009,2010-08-19 00:42:53,"b'Spock now supports both Hamcrest 1.1 and 1.2, providing better diagnostic messages if the latter is used. Example: http://bit.ly/c11MIB'"
+21530395355,2010-08-18 23:42:42,b'Blogged: Annotation Driven Extensions with Spock \xc2\xbb http://tumblr.com/xqpg2o6ur (via @ldaley)'
+21497975839,2010-08-18 15:17:50,"b'@darthvader42 setup() gets called once per iteration. In your case, use @Shared together with setupSpec() (or field initializer).'"
+21497085518,2010-08-18 15:05:27,b'Groovy++ sources @ GitHub - http://goo.gl/QXYf (via @alextkachman)'
+21497037664,2010-08-18 15:04:46,"b""@darthvader42 It's a common pitfall; need to brush up docs. Instance fields have shorter lifetime than where-block, so must use @Shared."""
+21471974153,2010-08-18 07:38:55,"b""First look at Spock's Hamcrest integration:\nhttp://bit.ly/c11MIB\nMore to come!"""
+21400457914,2010-08-17 12:49:56,b'Groovier testing with Spock: slides from my talk at @LondonGGUG last night http://slidesha.re/9HNVAB #groovy #spock (via @rfletcherEW)'
+21341342617,2010-08-16 20:07:10,b'1st ever Groovy++ Grails plugin released - http://goo.gl/M56y (via @alextkachman)'
+21329994471,2010-08-16 17:01:48,b'Geb 0.4 Released \xc2\xbb http://geb.codehaus.org/ (via @ldaley)'
+21081065534,2010-08-13 17:15:59,"b""Can't stop to read! RT @werdnagreb Found a nice short tutorial on #git that goes through main concepts. I finally get git http://is.gd/egaZj"""
+21022223826,2010-08-13 01:17:45,"b'Staring at an interface method named ""_dont_implement_Matcher___instead_extend_BaseMatcher_"". Think I\'ll comply.'"
+21009593690,2010-08-12 22:09:36,b'Blogged: Auto-generate Spock specs for Grails artifacts http://bit.ly/ai9Kvm (via @rfletcherEW)'
+21000029835,2010-08-12 19:31:55,"b""@glaforge Groovy already has a poor man's traits feature in @Delegate. Would be incredibly nice to have real traits instead."""
+20832256637,2010-08-10 22:46:53,b'RT @niklasl Groovy in IDEA (CE): Just Works\xe2\x84\xa2. Including Spock: exquisite power for BDD:ing. Anyone doing Java should seriously check it out.'
+20781214229,2010-08-10 09:19:13,"b""@alextkachman What's the point then?"""
+20780991753,2010-08-10 09:14:04,"b""@alextkachman Can't you just include what you need (I assume persistent collections)? And you should probably change the package name."""
+20578442825,2010-08-07 21:13:40,"b""Nice to hear! RT @kenkousen: Like everyone else, I'm really enjoying the simple elegance of Spock testing #spock #groovy"""
+20487158280,2010-08-06 17:49:26,"b""@pledbrook Now that Groovy has Power Asserts, we should ship Spock's junit.xsl with Groovy or Grails. Just one line changed from original."""
+20474468737,2010-08-06 14:48:26,"b'@wmacgyver #hamcrest (http://code.google.com/p/hamcrest/) is an extensible matcher library, mostly used for testing'"
+20429892698,2010-08-06 01:44:56,b'FaNtAsTiC integration between #spock and #hamcrest coming up - hold your breath!'
+20420775176,2010-08-05 23:33:02,"b'#hamcrest 1.2 not available from Maven Central, more than one year after its release? You must be kidding me.'"
+20417830656,2010-08-05 22:48:28,"b'@lightguardjp Not exactly answering your q., but Spock is more dev centric (cf. JUnit/RSpec), and easyb more customer centric (cf. Cucumber)'"
+20403465469,2010-08-05 17:19:05,"b""@rfletcherEW will be talking about 'Groovier testing with Spock' at @LondonGGUG on 16-Aug - http://bit.ly/93fPuE (via @energizr)"""
+20393906645,2010-08-05 14:59:55,b'Geb is now usable from plain JUnit: http://bit.ly/beoumz (Spock equivalent: http://bit.ly/bYgEgT) (via @ldaley)'
+20345104525,2010-08-05 00:14:52,"b'#github issue tracker is a disaster. Search finds nothing. Sorting is only for current page. No way to  track issues, even your own.'"
+20327903560,2010-08-04 19:36:15,b'RT @tomaslin Details for London GGUG Aug. 16th are up http://bit.ly/8YIiNc Peter Ledbrook on Groovy Goodness and Robert Fletcher on Spock.'
+20250656183,2010-08-03 21:16:16,b'IDEA Jetty Plugin now hosted publicly on GitHub! Want to contribute? http://bit.ly/9pFoHp'
+20079823305,2010-08-01 18:32:07,"b'Reminds me a bit of another design guideline: ""Before making something reusable, make it usable.""'"
+20079287896,2010-08-01 18:21:46,"b'""Be careful making abstractions. You might have to use them."" Ryan Dahl in his Google Tech Talk on node.js http://bit.ly/btHyzX'"
+19992610632,2010-07-31 13:51:00,"b'Geb is now powered by WebDriver, which means you can driver real browsers or headless via HTMLUnit \xc2\xbb http://bit.ly/brYxSS (via @ldaley)'"
+19960688466,2010-07-31 02:58:03,"b""@ldaley Yes it's tough to be a Trekkie. Should Spock ever make it to the Scala universe, I'd feel obliged to call it Sc...otty."""
+19959084055,2010-07-31 02:33:20,"b""@ldaley The future is working on Spock in the park. Won't need 3G either - I bet there will be better technology by 2230 (his birth year)."""
+19938235070,2010-07-30 20:46:21,"b""@HamletDRC And now you get Pizza and I don't. :-("""
+19937641669,2010-07-30 20:35:49,"b""@ColinHarrington Technically there's no difference between a tag and a branch in SVN, but I agree it's good to stick to the conventions."""
+19822896328,2010-07-29 12:46:14,"b""@rfletcherEW Google Code's issue tracker is pretty awesome, and totally configurable. If you can't submit enhancements, it's misconfigured."""
+19814785246,2010-07-29 10:07:20,"b""@glaforge My question wasn't related to Groovy's build but to Maven builds in general. Getting Groovy sources into src jar is a challenge."""
+19771816268,2010-07-28 21:33:32,"b""Anyone knows why Groovy sources don't make it into sources Jar generated with maven-source-plugin?"""
+19764629298,2010-07-28 19:29:10,b'@spock is a superb example of a DSL and a beautiful  api leveraging Groovy. Pure joy! (via @berngp)'
+19676277478,2010-07-27 18:16:05,b'Anyone managed to buy an SSD from OWC and ship it to Europe?'
+19661953665,2010-07-27 14:44:51,b'Looks like I will be doing a talk about the rather awesome #Spock framework (http://bit.ly/a3j4VP at the next London GGUG (via @rfletcherEW)'
+19618708223,2010-07-27 01:39:12,"b'@ralfebert Groovy+Spock is a killer combo for testing Java code. For Scala code you probably want a Scala solution (ScalaTest, Specs, etc.).'"
+19296418612,2010-07-23 00:34:01,"b'@ck1125 For Groovy itself and my own projects? Definitely. At work? Unlikely, and not for me to decide.'"
+19294656173,2010-07-23 00:05:47,b'Shared article: Groovy 1.7.4 and the fist beta drop of Groovy 1.8 http://bit.ly/axZogt (via @glaforge)'
+19069051422,2010-07-21 11:23:37,"b""175 line pom.xml (that didn't even work right) replaced with a 14 line build.gradle. #gradle #ftw (via @rfletcherEW)"""
+18904956845,2010-07-19 09:59:45,"b'Cannoies in the news! @HamletDRC releases Griffon RefCard, @Aalmiray interviewed about Griffon. http://is.gd/dxQ7X (via @canoo)'"
+18630693088,2010-07-15 20:56:35,b'if u are interested in learning #grails via TDD with #spock come to our tekSpike this weekend www.tekspike.com only $50 (via @nusairat)'
+18529111602,2010-07-14 15:50:54,b'Grails plugin for geb/spock available to use \xc2\xbb http://github.com/alkemist/grails-geb-spock (via @ldaley)'
+18380544196,2010-07-12 20:37:02,b'@wmacgyver or Duby++'
+18361890730,2010-07-12 15:24:08,b'Concrete (WIP) example of aforementioned spock web/functional testing project \xc2\xbb http://bit.ly/a95v4z (via @ldaley)'
+18352772018,2010-07-12 13:07:13,b'Looking for contributors for Groovy functional testing lib with Spock integration  http://bit.ly/bK15wN & http://bit.ly/aVWz1U (via @ldaley)'
+18201723491,2010-07-10 15:02:56,"b""@r939ick What's your motivation for doing so?"""
+18138018067,2010-07-09 18:17:24,"b'Google Adwords reports ""You are using an older browser"" for Safari 5 :-)'"
+18137813584,2010-07-09 18:14:04,"b""It's amazing how slow everything Codehaus is. Why are project owners willing to accept this?"""
+18132206398,2010-07-09 16:48:59,"b""@wmacgyver I think you are referring to someone else's example"""
+18127754223,2010-07-09 15:46:04,b'@ohubaut Eagerly awaiting your report. :-)'
+18114778920,2010-07-09 12:42:08,b'Griffon 0.9-SNAPSHOT available http://ff.im/-nsC2D (via @aalmiray)'
+18038095978,2010-07-08 14:27:49,b'Grails Podcast Episode 113 - Interview with Luke Daley - http://bit.ly/dle8sY - A Rock Star Grails dev ... (via @glen_a_smith)'
+17992850362,2010-07-08 00:22:01,b'RT @yummymashup: Will Hibernate Switch From Maven to Gradle? http://bit.ly/d5uvcV #design #groovy'
+17983004039,2010-07-07 21:33:05,"b""@CedricChampeau Spock's DSL is mostly based on an AST transform (i.e. compiler plugin); haven't blogged about it - yet."""
+17935357555,2010-07-07 08:57:36,b'Poll: Help us make Spock rock the (testing) universe! http://bit.ly/9qZVH4 (DZone)'
+17904411729,2010-07-06 23:33:05,"b""Just had this ingenious idea to extend from #junit's org.junit.runner.Description, then realized that its constructor is private. Bad luck."""
+17866457007,2010-07-06 13:16:48,"b'July GroovyMag has my article on Lean, easyb, and builders: http://is.gd/dhnKd Next 21 RTs get a free copy. (via @HamletDRC)'"
+17812800229,2010-07-05 19:41:39,"b""@HamletDRC I'd love to do a Spock Hackergarten! Just need a sponsor for the trip."""
+17808390205,2010-07-05 18:18:36,b'50% off all Manning MEAPs at manning.com! Use code dotd0705tw at checkout. #groovy #grails #griffon (via @aalmiray)'
+17797987009,2010-07-05 15:31:00,b'#spock provides powerful assertions: http://mrhaki.blogspot.com/2010/07/spock-spotlight-assert-magic.html #groovy (via @mrhaki)'
+17797767875,2010-07-05 15:27:45,b'Messing around with #griffon today and really enjoying it. This is how swing should have been from the start! (via @marcoVermeulen)'
+17647682808,2010-07-03 13:29:08,"b'Increasingly noticing a communication problem in ""professional"" OSS projects: Paid devs work during the week, voluntary devs on weekends.'"
+17613647938,2010-07-03 01:11:29,b'Prototype for GStrings in #groovy annotations done. Time to call it a day.'
+17612201637,2010-07-03 00:45:14,"b'@aalmiray @wmacgyver Idea is to treat @Msg(""$foo"") as sugar for @Msg({""$foo""}) (i.e. annotation closures again)'"
+17611156861,2010-07-03 00:26:00,"b'Logical next question: What if #groovy allowed GStrings in annotations? @Message(""$team1.name defeats $team2.name with $goals1 : $goals2"")'"
+17607337624,2010-07-02 23:14:02,"b""just used Spock's data table support plus @Unroll. I won't be seeing JUnit in the same way again. Go Spock! (via @aalmiray)"""
+17597865702,2010-07-02 20:27:08,"b""testing edge cases of #groovy's new annotation closures"""
+17592984408,2010-07-02 19:02:01,"b'@aalmiray You and @HamletDRC really need to come to Linz one day, give a talk at our JUG (http://ejug.at), and enjoy the free wifi!'"
+17592205325,2010-07-02 18:49:12,"b'Sitting outside a pub, drinking beer, watching soccer, coding #spock, enjoying free wifi access #luxury'"
+17563215866,2010-07-02 10:50:41,"b""FEST+Spock together at last! http://bit.ly/cGQ76h compare with 'plain' FEST http://bit.ly/dmvgeN #griffon #yum (via @aalmiray)"""
+17520905436,2010-07-01 21:12:29,b'Ever wanted to feed your annotations some closures? Now available in #groovy trunk and nightly snapshot. Code example: http://bit.ly/9RpeGR'
+17447827708,2010-06-30 23:01:30,b'Testing the hell out of annotation closures. Soon coming to a #groovy trunk near you!'
+17377961661,2010-06-30 01:33:41,b'Implementing #groovy annotation closures turned out to be much simpler than expected. First tests are already passing!'
+17371194618,2010-06-29 23:40:40,b'Finally working on adding support for annotation closures to #groovy(c)'
+17364206847,2010-06-29 21:34:14,b'RT @mrhaki: simple #spock spec to get started: http://mrhaki.blogspot.com/2010/06/spock-spotlight-introduction-to-spock.html #groovy'
+17257040044,2010-06-28 14:59:15,b'Great eJUG meeting coming up tomorrow: Grails + Tomcat 7! http://ejug.at/node/49 (in German)'
+17253413274,2010-06-28 14:03:53,"b'@ryu00026 In case you asked where the name comes from: Spec + Mock = Spock. Plus, Spock is really smart, and ready for the Enterprise. :-)'"
+17252969325,2010-06-28 13:56:51,b'@fsarradin spock-core and spock-core-sources (spock-maven is optional; frees you from using naming conventions for your specs)'
+16877773113,2010-06-23 21:16:32,"b""@wmacgyver It's two sessions, but the #groovy #scala #clojure one is a challenge nevertheless."""
+16876904895,2010-06-23 21:00:26,b'Going to present on #spock and #groovy #scala #clojure compiler plugins/macros at #springone2gx. Awesome!'
+16859662694,2010-06-23 16:01:23,"b""my #spock tests are so bonny that they should be called t'pol instead #groovy (via @breskeby)"""
+16859648804,2010-06-23 16:01:06,b'Scalatest http://is.gd/d0etT und Spock (Groovy) http://is.gd/d0euv : Unit tests schreiben fast in Umgangssprache :-) (via @_skyr)'
+16859530101,2010-06-23 15:58:53,"b""@fsarradin It isn't necessary to add @Test. Have you added spock-core source jar to the Eclipse project (to avoid known Eclipse JUnit bug)?"""
+16847469104,2010-06-23 12:51:41,"b""@wmacgyver we'll probably add a few helpers for this, but you can already do sth. like: where: x &lt;&lt; [rand.nextInt()] * 50"""
+16618299067,2010-06-20 13:59:12,b'#spock plugin for #griffon!  http://svn.codehaus.org/griffon/plugins/griffon-spock/trunk/'
+16582141054,2010-06-20 01:03:18,"b""Watching Star Trek Enterprise (once again). T'Pol is a worthy replacement for Spock, and even better looking. :-)"""
+16571195111,2010-06-19 21:02:34,"b""@aalmiray Cool. What's the problem with method names?"""
+16555470539,2010-06-19 16:00:32,"b""@aalmiray Already time for #griffon 1.0? Don't you dare to release without JUnit4 and hence #spock support!"""
+16547263017,2010-06-19 13:53:25,"b""@wmacgyver Not sure what's better. Having them in json-lib avoids another optional dependency for groovy. But I don't like the current API."""
+16545358780,2010-06-19 13:22:27,"b'Another day, another #maven bug. ""mvn dependency:sources"" fails to download sources of dependencies with a &lt;classifier&gt;. WTF? #fail'"
+16541506596,2010-06-19 12:18:24,"b""JsonGroovyBuilder's way to dynamically build arrays fails if the array has just one element. Think I'll have to roll my own builder."""
+16539684481,2010-06-19 11:40:49,"b'@glaforge JsonGroovyBuilder is from json-lib. Kinda got it to work by now, but docs are f* up (not one of the given examples works).'"
+16538242532,2010-06-19 11:08:55,b'Is there a Groovy way to build Json (w/o pulling in Grails)? JsonGroovyBuilder seems broken.'
+16419321618,2010-06-17 21:35:03,"b""@ldaley Yes, that's the flaw I was referring to. :-)"""
+16406001841,2010-06-17 17:51:39,"b""@rfletcherEW Sounds like a flaw in Grail's plugin system (no optional deps possible). Maybe we could move functional stuff into extra plugin"""
+16378744844,2010-06-17 10:40:20,b'RT @gregfqt: Writing tests with #groovy and #spock : the expressiveness I can get with spock is dazzling'
+16258237391,2010-06-15 22:07:43,b'@paulk_asert would be nice to hear about some of the new features :-)'
+16187165578,2010-06-15 00:22:42,"b""@wmacgyver It's just to give Spock a chance to catch up. Once Spock hits 0.99, they'll go 1.0. :-)"""
+16186534811,2010-06-15 00:12:24,"b'Reading #gradle user guide cover to cover. Very impressed. Little reason left to use #maven 2, 3, or 4.'"
+16165363436,2010-06-14 17:56:20,"b'#groovy 1.7.3 out! http://bit.ly/cg74R2 Synchronized/InheritConstructors macros, bug/BigDecimal fixes, Date/String utils (via @paulk_asert)'"
+16159753417,2010-06-14 16:23:29,"b""@sternegross Alternatively, we could make power asserts smarter. Allow sth. like: assert false : 'Precondition violated:\\n\\n #msg'"""
+16158106336,2010-06-14 15:59:18,"b""@sternegross No. You'd have to generate assert stmt wo/ msg, catch PAE at runtime, construct your own msg from getMessage(), then rethrow"""
+16156665065,2010-06-14 15:42:13,"b'@sternegross You could catch PowerAssertionError and use its getMessage() (which is just visual output) to construct a new msg, then rethrow'"
+16154949196,2010-06-14 15:17:45,b'@sternegross No power asserts in #gcontracts ?'
+16144272971,2010-06-14 12:43:31,"b""love #spock 's datatable to test the method with multiple input / output values. So easy to write and good to read. (via @mrhaki)"""
+16133755820,2010-06-14 08:51:30,"b""New blog post from me: What's New In Spock 0.4? Episode 2: Better Mocking http://bit.ly/dy2PYG (DZone)"""
+16094282488,2010-06-13 19:59:12,"b'GContracts 1.1.0 Released: http://bit.ly/awJxTk (blog), http://dzone.com/ghlj #groovy #gcontracts (via @sternegross)'"
+16038949592,2010-06-13 00:32:59,"b""@ldaley If you do the markup & styling, I'll do the rest."""
+16037788418,2010-06-13 00:08:15,b'@ldaley Planned for 0.6. Anything else?'
+16019934231,2010-06-12 18:11:39,b'Started work on #spock 0.5. Which features would you like to see?'
+16018738791,2010-06-12 17:50:49,b'How do you like it? RT @_davidr Finally using the #spock framework for some real testing :-)'
+16017521265,2010-06-12 17:29:55,"b'@sternegross Looking forward to your Grails talk. Btw, my comments never seem to get through on your blog. Heard the same from other people.'"
+16016858157,2010-06-12 17:18:20,b'@sternegross Also you may add announcements to the Groovy news page: http://bit.ly/d3DrKT'
+16016643137,2010-06-12 17:14:37,"b""@sternegross There seems to be a list announce@g.c.o, but I've never used it. It's common to post to groovy-user with [ANN] in the title."""
+16015742116,2010-06-12 16:59:29,b'@alextkachman G++ web console seems to run G++ 0.1.14. Time to update?'
+16014387636,2010-06-12 16:36:48,b'Discussions on mailing lists often feel like playing correspondence chess: two moves per week...'
+15887418744,2010-06-10 23:48:12,b'Finally submitted #spock talks to #devoxx. Hope to be there again!'
+15876466048,2010-06-10 20:30:14,b'@tOMPSON Gratuliere! Und naechstes Jahr holt ihr den Catalysts CC. :-)'
+15743733143,2010-06-09 00:32:43,"b'@jamescarr Oh and by the way, the Spock/Groovy version is more refactoring-safe than the Java one. :-)'"
+15743584523,2010-06-09 00:30:13,b'@jamescarr Time to get Spock from M. Central instead? This is what your test would look like: https://gist.github.com/19bbe01a6b0b7754ec63'
+15731023687,2010-06-08 20:40:39,b'#sommernachtkonzert: letzte zugabe extra fuer #liwest kunden'
+15730666325,2010-06-08 20:33:41,b'rechtzeiting zum finale des #sommernachtskonzert erfindet #liwest fernsehen neu - laeuft jetzt im radiobetrieb'
+15730332740,2010-06-08 20:27:24,"b'@jamescarr Try both, blog about your impressions, pick the one you like better! Run Spock specs in your browser: http://bit.ly/9Cjg5u'"
+15728502347,2010-06-08 19:53:48,b'@Ulef gotv statt sommernachtskonzert :-('
+15413186782,2010-06-04 12:49:54,"b""@HamletDRC This case should be dealt with automatically, even in plain Groovy (i.e. power asserts). Wonder why it doesn't work for you."""
+15348975518,2010-06-03 20:13:53,b'RT @occurred: Job in Linz/AT: Java/Groovy/Grails Developer - DM me for more information. #groovy #grails #java #job #jobs #linz'
+15334465997,2010-06-03 15:55:56,b'RT @ldaley: New Grails Plugin \xc2\xbb http://bit.ly/bl3vQ4 &lt;-- easy spring scoped proxies (via @graemerocher)'
+15331342755,2010-06-03 15:08:08,"b""@epragt There was a long discussion in the forum (or was it the issue tracker). Nobody likes the new display, but they didn't take it back."""
+15322994856,2010-06-03 12:56:16,"b'@epragt Fortunately, the problem lies only in how Maven dependencies get displayed in IDEA 9 (which is a step back from IDEA 8)'"
+15321273718,2010-06-03 12:23:18,"b'June GroovyMag has my Spock article in it, explores data driven tests. Next _21_ retweets get a free copy. (via @HamletDRC)'"
+15269767674,2010-06-02 18:40:23,"b'@mrhaki Also useful: 0 * mockObj._, 0 * _.method(), and 0 * _ (same as 0 * _._)'"
+15195599546,2010-06-01 18:30:51,"b""Did I say Gradle 0.9-preview-1 had great console output? Well, in preview-2 it's even better!"""
+15194308185,2010-06-01 18:05:41,b'The first version of the gradle-idea-plugin is released for generating idea metadata. See: http://bit.ly/aMlbQg (via @GradleOrg)'
+15187821629,2010-06-01 16:11:30,b'#spock makes writing tests #fun. Mocking is so easy. :-) (via @mrhaki)'
+15187379792,2010-06-01 16:04:17,"b""@HamletDRC Which talks are you going to give at SpringOne? Anything about AST transforms? I'm asking because Jay wants 2nd proposal from me."""
+15134596393,2010-05-31 22:01:45,"b""@uehaj Oh, you are still translating. Thought you asked if Spock's builtin mocking framework supports partial mocks (which it doesn't)."""
+15134489605,2010-05-31 21:59:42,"b""@uehaj Spock's builtin mocking f. doesn't have partial mocks. In the 0.1% of cases where you need them, use Mockito/GMock/etc. (with Spock)."""
+15134187274,2010-05-31 21:53:14,"b""@uehaj Thanks. And what did you say about dbUnit? In case you'd like to use it together with Spock, there's spock-unitils waiting for you."""
+15133839699,2010-05-31 21:45:46,b'@ldaley Are you telling me you can hear a difference between lossless and Lame VBR-encoded mp3 (192 kbps or above) ?!'
+15124170375,2010-05-31 18:18:09,"b""@uehaj Could you please translate your Spock-related tweet to English? Google Translate isn't good enough. :-)"""
+15040701044,2010-05-30 13:22:39,b'@aalmiray Why does it generate new Long(val) and not Long.valueOf(val) ?'
+15003888631,2010-05-29 23:03:54,b'@tOMPSON Lena won? Too bad I stopped watching the song contest when Stermann & Grissemann stopped commenting it.'
+15003645516,2010-05-29 22:58:31,"b'@aalmiray Andres, you are a coding machine! Want commit rights for Spock? :-)'"
+15003589610,2010-05-29 22:57:12,"b""#gradle 0.9-preview-1 has best console output of any build tool I've used to date. Loving it."""
+14898822908,2010-05-28 11:03:30,b'@mknittig Or did the problem come up during the kata? In that case I forgive them. :-)'
+14898624113,2010-05-28 10:58:44,"b'@mknittig It\'s almost always an IDE/tooling issue, not a Spock issue. Too bad ""they"" didn\'t ask for help on the mailing list. #fail'"
+14868906125,2010-05-28 00:13:04,"b""@pmanvi Would be nice to hear which one you picked and why (once you've made your decision)."""
+14804109463,2010-05-27 01:58:06,b'Spock Framework 0.4 released! DZone link: http://bit.ly/98xIgU'
+14802990819,2010-05-27 01:40:03,b'Spock Framework 0.4 released! http://bit.ly/asUiX8'
+14647189256,2010-05-24 21:04:50,"b""@aalmiray You put me under pressure. So far I've always managed to stay ahead of Griffon (in terms of version number)."""
+14618088321,2010-05-24 11:52:25,b'New Post: GR8 Conference Wrap-Up http://is.gd/cn2PW (dzone: http://is.gd/cn2YG) (via @HamletDRC)'
+14618050747,2010-05-24 11:51:35,"b""next month's GroovyMag has a Spock article in it. Got good feedback on it from editors. (via @HamletDRC)"""
+14452612051,2010-05-21 21:07:21,b'RT @PeterBell: Totally blown away by #spock testing framework at #gr8conf. Looking forward to using it on a #grails project next week'
+14450543369,2010-05-21 20:21:03,"b'Flight back home from #gr8conf cancelled, new flight tomorrow 6 a.m. Getting up at 4 a.m. sucks. Now off to my free beer at the hotel bar.'"
+14387474967,2010-05-20 21:54:43,b'Spock talk at #gr8conf went pretty well. Got lots of positive feedback. Thanks everyone for a great conference!'
+14259604297,2010-05-19 00:13:38,b'@wmacgyver the Spock talk is on Thursday actually'
+14259578241,2010-05-19 00:13:10,b'@graemerocher welcome :-)'
+14259547469,2010-05-19 00:12:34,b'@wmacgyver Yeah but the Apple update is from u17 to u20.'
+14259394105,2010-05-19 00:09:46,b'@wmacgyver Seriously. IncompatibleClassChangeError all over the place when running some tests that use weird generics.'
+14259062857,2010-05-19 00:03:46,"b'@wmacgyver Read your tweet, updated JDK, now my project no longer builds. :-)'"
+14217328515,2010-05-18 09:26:01,"b""Ready for daily Scrum. Oh, wait, I'm in Copenhagen! No daily Scrum for me today."""
+14191080138,2010-05-17 23:39:18,"b'@ldaley Hi Luke, how does it feel to be married? And did you enjoy your honeymoon?'"
+14171369630,2010-05-17 16:41:40,"b""@pledbrook The Haml plugin page should make clear that JHaml is GPL'ed..."""
+14062773496,2010-05-15 22:54:12,b'Is there a way to define package-scoped methods and classes in Groovy? Not with @PackageScope it seems.'
+14062031709,2010-05-15 22:35:13,"b'finished scala and groovy versions of primefactors. did not know about spock before, really like it, very pretty tests.(via @mikaelsundberg)'"
+14056926887,2010-05-15 20:23:55,"b'@HamletDRC All about Spock? Cool! 0.4 will be released before my Gr8Conf talk, and there are several new features nobody has heard of. :-)'"
+14056270223,2010-05-15 20:07:26,"b""@HamletDRC Nope. It had intentions to write an article for GroovyMag, but I'm too lazy a writer."""
+13919650001,2010-05-13 15:26:46,"b""@aalmiray Can the latest NetBeans IDE run JUnit tests written in Groovy? I've been waiting for this feature for years."""
+13775551030,2010-05-11 07:24:40,b'@mittie @aalmiray @HamletDrc Congrats! I suppose Canoo is a JavaOne gold sponsor this year? :-)'
+13310192744,2010-05-03 15:09:57,b'@burtbeckwith Spock user reported that Spock plugin no longer works once Spring Security plugin is installed: http://bit.ly/diiLiK'
+13307659269,2010-05-03 14:18:27,b'Anyone knows if the Grails Spring Security (0.5.3) plugin uses AST transforms?'
+13131342274,2010-04-30 14:14:55,b'New Post: GR8 Conference EU: Interview with Peter Niederwieser http://bit.ly/bCUBv2 (via @gr8conf)'
+13127491359,2010-04-30 12:55:36,b'RT @jakubholynet: My new love: the easiest and most beautiful testing with Spock - http://pniederw.wordpress.com/category/spock-framework/'
+12974405533,2010-04-28 00:14:35,"b'@wmacgyver Good question, should have been released by now. My estimate is one more week.'"
+12957918968,2010-04-27 18:15:23,b'@rfletcherEW Because you are using Spock Grails plugin for Groovy 1.6/Grails 1.2 with Grails 1.3 RC2?'
+12957849003,2010-04-27 18:13:39,b'@aalmiray @dhinojosa Spock 0.4 will support tags (already in trunk).'
+12888145961,2010-04-26 15:11:17,"b""The Vulcan mindset is spreading... RT @aalmiray I'm now a Spock convert. JUnit/TestNG are not enough anymore."""
+12515075412,2010-04-20 13:08:19,"b""@HamletDRC Non-standard method names ARE a feature of Spock. In plain Groovy you'll soon get into troubles (e.g. closures won't work)."""
+12447522097,2010-04-19 09:52:07,b'Big day: Groovy++ goes APL 2.0 - http://goo.gl/dbCO (via @alextkachman)'
+12128976499,2010-04-13 22:54:17,b'Engage! RT @shopotainment: Geben wir Spock eine Chance uns beim TestDrivenDevelopment zu unterst\xc3\xbctzen #grails #plugin #tdd'
+12046155701,2010-04-12 13:29:56,b'RT @groovyblogs: GR8Conf: the European conference dedicated to the Groovy ecosystem is back! -- http://bit.ly/cX9mwm'
+11767998147,2010-04-07 17:47:18,"b""We've just released #groovy 1.7.2 http://bit.ly/bciNNs (via @glaforge)"""
+11426275561,2010-04-01 14:15:40,b'just released initial version of gcontracts - contract-oriented programming with #groovy and #grails http://j.mp/aIziwh (via @sternegross)'
+11271306277,2010-03-29 21:33:19,b'nice new www.gradle.org website (via @jonnybbb)'
+11150022381,2010-03-27 16:03:39,b'just released initial version of gcontracts - contract-oriented programming with #groovy and #grails http://j.mp/aIziwh (via @sternegross)'
+10961702931,2010-03-24 03:47:05,b'The Spock (Framework) Quiz http://bit.ly/9FClGr (Warning: may contain explicit material)'
+10945653799,2010-03-23 21:51:52,b'Unrolling Spock: Advanced @Unroll Usages in Spock 0.4 http://is.gd/aUOgk #groovy (via @HamletDRC)'
+10903960143,2010-03-23 02:16:11,b'Congrats! RT @werdnagreb We won! Groovy-Eclipse is the Best Open Source Developer tool  at #eclipsecon 2010. Thanks to the community [...]'
+10877024570,2010-03-22 15:31:38,b'@glaforge Java Generics are frustrating; try something better (e.g. Scala).'
+10745237571,2010-03-19 22:58:44,"b'Watching ""Industrial Strength Groovy"" by Paul King http://bit.ly/9HrXDS (infoQ)'"
+10744975621,2010-03-19 22:51:33,b'Groovy-Eclipse 2.0.1 released!  And see you at #eclipsecon http://is.gd/aPl5A (via @werdnagreb)'
+10744248419,2010-03-19 22:31:35,"b'I keep hearing from Java shops: ""Groovy is awesome, but we don\'t feel comfortable to use it in production."" How can Groovy gain their trust?'"
+10736646039,2010-03-19 19:05:38,"b'LOL RT @sigfpe: Overheard email conversation at work: ""What\'s Bing?"" ""It\'s the Zune of search engines."" (via @jamesiry) (via @jstrachan)'"
+10403750076,2010-03-13 02:59:28,b'Nice to hear! RT @dima767 Playing with Spock testing framework and it looks absolutely wonderful! I use #spock for my tests from now on!'
+10369561264,2010-03-12 12:30:11,b'timr ist app der woche - im Magazin FORMAT Nr. 10 auf Seite 46 - Yeah! http://yfrog.com/5gfx7dj (via @tOMPSON)'
+10352051892,2010-03-12 02:34:08,"b'Finally, Spock is fully JDK 1.5 compatible again. CI builds now run on JDK 1.5 and 1.6 to prevent this from happening again.'"
+10346831309,2010-03-12 00:29:25,b'@wangjammer5 All I can offer right now is the code: http://bit.ly/axFy9e (see latest changesets)'
+10318621658,2010-03-11 11:51:16,"b'New blog post from me: ""What\'s New In Spock 0.4? Episode 1: Data Tables"" http://bit.ly/b75Hn5 (DZone link)'"
+10297159358,2010-03-11 00:34:07,b'Code Bubbles: strongly visual/physical metaphor for code editing while showing rich relationships http://bit.ly/ds3GJ1 (via @KentBeck)'
+10271132008,2010-03-10 13:35:15,b'Building the first #grails release using the new #gradle build (via @graemerocher)'
+10246293149,2010-03-10 00:37:41,"b""Haven't used plain JUnit in a while, Amazed that my tests passed, then realised I was just doing \xe2\x80\x9cactual == expected\xe2\x80\x9d #spock (via @ldaley)"""
+10194730627,2010-03-09 00:02:17,b'Configuration based Spring bean definition with Grails http://tumblr.com/xqp77apn0 (via @ldaley)'
+10099236324,2010-03-07 01:43:41,b'#1 on DZone! Empowering Annotations with Groovy Closures http://bit.ly/ck3HlF Thanks for all the upvotes!'
+10088718469,2010-03-06 20:37:34,b'@HamletDRC How about eJUG Austria? http://ejug.at/'
+9971321752,2010-03-04 12:33:42,b'New blog post: Empowering Annotations with Groovy Closures http://bit.ly/ck3HlF Votes are appreciated.'
+9953399946,2010-03-04 02:22:10,b'Gradle Inc. and JFrog-Artifactory collaborative announcement - community wins! \rhttp://bit.ly/9TNQ7M (via @GradleOrg)'
+9940717403,2010-03-03 21:06:53,"b'Experimented with WordPress, Blogger, and Tumblr for my new blog. Clear winner: WordPress.'"
+9627497386,2010-02-25 14:25:01,b'Just started to write the first Gradle test using the spock framework. (via @GradleOrg)'
+9608906219,2010-02-25 03:39:56,"b""Found it - it's called @GrabResolver. Well hidden but I'm relieved that it exists."""
+9608721114,2010-02-25 03:35:23,"b""Anyone knows if it's possible in Groovy to @Grab from a repo other than Central, w/o external config?"""
+9608594336,2010-02-25 03:32:20,"b""@ldaley Isn't that the very purpose of Twitter? :-)"""
+9490492625,2010-02-22 19:53:37,"b'@HamletDRC Agreed, but currently transforms have several disadvantages over integrated operations. Maybe we can make improve the situation.'"
+9454380572,2010-02-22 01:27:56,"b""@wmacgyver All I can say right now is that it's related to annotations, and that @glaforge will definitely like it. Blog post is upcoming."""
+9453709363,2010-02-22 01:10:52,b'AST transforms are a great way to prototype new Groovy language features...curious? :-)'
+9437051374,2010-02-21 17:32:52,"b""Groovy AST transform that allows closures as annotation element values seems possible. Now I'm only afraid stub generator won't like it."""
+9436444901,2010-02-21 17:15:05,"b'Starting to think that ""we are currently updating our servers"" really means ""our server crashed, and noone\'s there to repair it"".'"
+9436277697,2010-02-21 17:10:10,b'@wmacgyver My understanding: Functional queue is an immutable queue where enqueue and dequeue are (and remain) O(1)'
+9435533470,2010-02-21 16:48:43,"b""@alextkachman -1 Have heard of it before, but didn't remember it out of my head. Now refreshing my memory."""
+9434887229,2010-02-21 16:29:47,"b'I like YouTrack, but http://youtrack.jetbrains.net/ is too often down for maintenance. Esp. on weekends where I do most of my OSS work.'"
+9409855361,2010-02-21 02:22:00,"b'@johanneslink ""Run As""should work fine. But GrEclipse has some other problems ATM that will hopefully be resolved soon http://bit.ly/99sWwo'"
+9409407276,2010-02-21 02:10:05,"b""@johanneslink Spock snapshots are pretty much as reliable as releases, but you could also use 0.3. What's the problem with Eclipse support?"""
+9400944774,2010-02-20 22:08:24,b'@donnerpeter Not sure which problem with source/target 1.6 you are referring to. YouTrack issue is here: http://bit.ly/9nPzRR'
+9394100422,2010-02-20 18:40:52,"b""@glaforge Against Groovy nightly builds you mean? Where are they published? Can't find anything on snapshots.repository.codehaus.org."""
+9388214423,2010-02-20 16:01:29,"b""@glaforge Announcing a release 2-4 days in advance isn't enough to give it a serious try, in particular if there is no weekend in between."""
+9381534265,2010-02-20 12:32:13,"b""@donnerpeter It's JDK6/Mac with source/target 1.5. I've just tried source/target 1.6, but it doesn't make a difference"""
+9362484132,2010-02-20 01:26:11,"b'After upgrading Spock build to Groovy 1.7.1, several specs are failing, and IDEA refuses to compile the project. Nasty surprise.'"
+9357963908,2010-02-19 23:27:26,"b""@werdnagreb Great view, even w/o the Olympic Flame! (I suppose that's what it is?)"""
+9357530675,2010-02-19 23:15:57,"b""@billgloff Haven't run specs like this yet, but I'll try and see if I run into the same problems."""
+9355298563,2010-02-19 22:16:52,"b'@billgloff In particular, which part of the spec is failing? setup method? expect/then block?'"
+9355201872,2010-02-19 22:14:16,"b""@billgloff possibly an IDEA bug (I've submitted several similar IDEA bug reports); can you let us know the specifics?"""
+9340497937,2010-02-19 15:58:56,"b'@alextkachman Ex: spock-spring supports Java 6 features like javax.a.Resource. Will need cond. compilation/testing, multiple CI builds, etc.'"
+9334310976,2010-02-19 13:29:10,"b'@mittie Thanks for the feedback. Decision made, Spock will continue to support Java 5.'"
+9333241406,2010-02-19 12:58:37,"b""@glaforge That's why I asked for feedback, to see if there is any demand for Spock on Java 5. If yes, we'll continue to support it."""
+9332864292,2010-02-19 12:46:46,"b""@glaforge I just said it's a lot of effort to support multiple Java versions (reflection, conditional compilation, multiple CI builds, etc.)"""
+9332366427,2010-02-19 12:30:57,"b'@glaforge Small example: spock-spring must use javax.annotation.Resource both in production code and tests, but this type is Java 6 only'"
+9331817003,2010-02-19 12:13:11,"b""@alextkachman It's certainly possible to keep Spock Java 5 compatible, but it's a LOT more effort than I initially thought"""
+9331791911,2010-02-19 12:12:20,"b""@glaforge Are you saying that 99% of enterprises are using an EOL'd version of Java?"""
+9303733075,2010-02-18 22:12:00,"b'If you need Spock to work with Java 5, tell us NOW on the mailing list http://bit.ly/c3Ee1b'"
+9291909733,2010-02-18 17:06:35,"b'@vaclav_pech YouTrack is much more pleasant to use than other JIRAs, err, bug trackers. Wondering if non-IT people will feel the same.'"
+8923180698,2010-02-10 22:56:51,b'Back from short visit to Google Hamburg. Most lasting impression: all the delicious organic food.'
+8702901473,2010-02-06 01:33:25,"b'Enjoying ""Programming Clojure"" by Stuart Halloway'"
+8691857176,2010-02-05 20:21:07,"b""@HamletDRC I doubt any German or Austrian would understand these words; I certainly don't :)"""
+8690769195,2010-02-05 19:48:26,"b'Whose German is best? Plz vote!\n@glaforge Ich spreche,not ich spreche\n@aalmiray Ich sprechen Deutsch nicht\n@HamletDRC We are verscrewedenden'"
+8689631721,2010-02-05 19:14:50,"b""Found some rough edges in Spock's mocking support. Will tackle them tonight."""
+8672376156,2010-02-05 10:49:24,b'Spock TextMate Bundle \xc2\xbb\xc2\xa0http://github.com/alkemist/groovy-spock.tmbundle (via @ldaley)'
+8627925887,2010-02-04 11:04:17,b'RT @glaforge: Just learned that #gradle is now an official build solution for a very big French electronics company! .. traction & mindshare'
+8541046212,2010-02-02 12:54:44,"b""@alextkachman It's too buggy to be widely used. But trunk already has some fixes."""
+8070591810,2010-01-22 14:17:39,"b""Great to hear! RT @tOMPSON was very inspired by tonight's Groovy presentation of @pniederw and needs to write some Groovy code now"""
+8044174506,2010-01-21 22:28:00,b'@aalmiray I knew this was coming. :-) Congratulations!'
+7961983388,2010-01-19 22:21:31,b'Trying to come up with a concrete example where defining an inheritance relationship between JUnit categories would help. Any ideas?'
+7921979845,2010-01-18 22:59:36,b'@ldaley What kind of shock?'
+7921205242,2010-01-18 22:36:10,b'Try to find and explain the compile error in this Java snippet: http://bit.ly/67Xl4A  Did I mention Java generics are wonderful?'
+7801042678,2010-01-15 20:42:04,b'#Groovy #Eclipse v2.0.0 final release is out! http://tinyurl.com/ybv9hsl (via @andy_clement)'
+7795469206,2010-01-15 17:41:51,b'Very big news! RT @breskeby \n#spring-security moves to #gradle builds!? http://bit.ly/4Sm4Hd (via @gboissinot)'
+7632205488,2010-01-11 15:10:16,b'Groovy Vortrag und Einsatz bei Smarter Ecommerce: http://bit.ly/5vjCtF'
+7495051742,2010-01-07 22:42:25,"b'@wmacgyver @glaforge is moving house, and he is a France Telecom customer...'"
+7488730281,2010-01-07 19:11:11,b'#griffon 0.3 beta1 and 0.2.1 released http://tinyurl.com/ydklnko http://tinyurl.com/ycb75d9 (via @wmacgyver)'
+7458403434,2010-01-06 23:41:15,"b""@ColinHarrington TextMate users have one big problem: they can't take a coffee break every 10 mins arguing their IDE has frozen..."""
+7270171797,2010-01-01 14:29:48,"b""@paulk_asert More Groovy than Java? That's an achievement."""
+7213914196,2009-12-31 00:09:11,"b""@aalmiray Well, I'd say at least 1.6.0_11 to 1.6.0_17 :)"""
+7213477888,2009-12-30 23:54:05,"b'java, java, java, groovy, java, java, java, scala, java, java, java, clojure, ... and I thought java was dead?! #code2009'"
+7211991984,2009-12-30 23:01:36,"b'First Google Groups forces me to change the name of the Spock discussion group, then the rename repeatedly fails with an error. Sigh.'"
+7195795414,2009-12-30 13:32:51,b'Java as seen by languages with usable type inference: http://is.gd/5Gzdi (via LtU) (via @HamletDRC)'
+7140633137,2009-12-29 00:32:39,"b'So true... RT @wmacgyver Seek simplicity. Often complexity is just that, and most of it accidental. http://bit.ly/61bbmP'"
+6986801224,2009-12-24 03:27:52,"b""@HamletDRC maybe I should have named them 'spocky asserts' :-)"""
+6979926779,2009-12-23 23:12:51,b'Grails 1.2 is out\xe2\x80\xa6 goodbye GroovyTestCase\xe2\x80\xa6 hello Spock. Never again will I write \xe2\x80\x9cassertEquals\xe2\x80\x9d. (via @ldaley)'
+6969736561,2009-12-23 16:50:58,b'Launch time! #grails 1.2 released. See release notes http://bit.ly/89M70N and announcement http://bit.ly/8pSnjO (via @graemerocher)'
+6930978507,2009-12-22 14:59:26,b'Groovy 1.7 released! http://bit.ly/6iE0xS (via @glaforge)'
+6900763499,2009-12-21 18:10:51,"b'RT @wmacgyver #gpars 0.9 released, fork/join, map/reduce oh my. http://bit.ly/8oiydX (via @glaforge) (via @mittie)'"
+6882805704,2009-12-21 04:20:39,"b""Latest snapshot of Spock 0.4 adds support for JUnit's @Rule; see http://meetspock.appspot.com/?id=5002 for a live example"""
+6831549403,2009-12-19 15:40:35,"b'""UNZIP into plugins directory"" is what I wanted to say.'"
+6831490107,2009-12-19 15:38:06,b'Forked Jetty Plugin for IDEA 9 is up on GitHub. Just download from http://bit.ly/7yQigX and put into IDEA plugins directory.'
+6808657165,2009-12-18 21:17:07,b'Seems that I successfully ported IDEA Jetty Plugin to IDEA 9. Will soon be up on GitHub.'
+6800454330,2009-12-18 16:15:46,b'Trying to port idea-jetty-plugin to 9.0. Often have a FacetPointer but need ArtifactPointer. Is there a way to get AP given FP?'
+6709426493,2009-12-15 22:09:25,b'@alextkachman Q: Is static Groovy a funded project?'
+6708661977,2009-12-15 21:41:26,b'@alextkachman Will static Groovy remain a separate language?'
+6665318407,2009-12-14 16:01:20,b'Gradle #2 at dzone! Go-go-go! http://bit.ly/74s57K (via @glaforge)'
+6605897002,2009-12-12 18:41:18,b'OK found it. Manning makes it super hard to download new MEAPs. They should take an ePublishing lesson from the Pragmatic Programmers.'
+6605611853,2009-12-12 18:29:27,b'Where can I download latest MEAP of reGINA (bought it a while back)?'
+6572451350,2009-12-11 17:12:22,b'RT @zuzur Bruce Schneier brilliantly replies to Eric Schmidt: http://bit.ly/6xMw2n (via @glaforge) (via @mittie)'
+6570763814,2009-12-11 16:14:17,"b""@alextkachman @Delegate is a good idea, but it sometimes doesn't compile, and it doesn't work with joint compilation (AFAIR)"""
+6516935109,2009-12-10 01:57:47,"b""working on first serious refactoring of Spock's extension SPI; Unitils extension will follow shortly"""
+6510342730,2009-12-09 22:10:13,"b""@werdnagreb Link doesn't work"""
+6474753707,2009-12-08 21:00:05,b'@breskeby Just the spock-core Jar? Or would you expect a distribution?'
+6472287022,2009-12-08 19:22:29,"b""@aalmiray I see the vote option even when I'm logged out"""
+6472251033,2009-12-08 19:21:03,"b'@mittie There is a ""vote"" link next to the ""Importance:"" label'"
+6470701218,2009-12-08 18:20:10,b'Please vote for better Groovy JUnit support in Eclipse: https://bugs.eclipse.org/bugs/show_bug.cgi?id=297237 Thanks!'
+6398231504,2009-12-06 12:11:14,b'Grails 1.2-RC1 compatible version of grails-spock pushed as \xe2\x80\x9c0.4-SNAPSHOT\xe2\x80\x9d. (via @ldaley)'
+6352273317,2009-12-04 23:04:53,"b""@mjwalldotcom Thanks for the hint. I found that already, but it's outdated."""
+6351131771,2009-12-04 22:20:05,b'@graemerocher grails-maven-plugin is missing from repository.codehaus.org'
+6350600310,2009-12-04 21:59:52,b'Where is the Maven repository for Grails 1.2-RC1?'
+6230770833,2009-12-01 09:41:55,b'http://tr.im/GgLa support for targeting test types in Grails 1.2 think \xe2\x80\x9cgrails test-app :spock\xe2\x80\x9d or \xe2\x80\x9cgrails test-app :cucumber\xe2\x80\x9d (via @ldaley)'
+6217687055,2009-12-01 00:06:05,"b'""Tags \xc3\xbcberwiegend wolkig"" hat doch nichts mit einer Tagcloud zu tun... #lesefehler (via @Ulef)'"
+6065015216,2009-11-25 23:39:37,"b'@mittie Congrats! Tried to convince Hamlet to join our company, but apparently you won!'"
+5914443979,2009-11-21 08:23:35,"b'Spock Framework 0.3 released, see http://bit.ly/8RHcO0 to learn more'"
+5904229506,2009-11-20 23:43:21,b'@paulk_asert So you removed half your UI? :)'
+5903485849,2009-11-20 23:13:10,b'@ldaley There were too many to list them in one tweet.'
+5902812632,2009-11-20 22:45:55,"b'After wasting much time with maven-release-plugin, doing a manual release felt almost too simple.'"
+5887010122,2009-11-20 11:56:40,"b""Impressed with Howard Lewis Ship's talks on Clojure and Tapestry - great content, great slides #devoxx"""
+5856888786,2009-11-19 13:12:31,"b'Cannot release Spock 0.3 due to severe problems with maven-release-plugin. Gradle, here I come!'"
+5845353791,2009-11-19 02:09:45,b'Why is releasing with Maven always such a big pain?'
+5808810028,2009-11-17 22:43:15,"b""@glaforge #devoxx isn't over yet, is it? Besides, I wouldn't have had time to announce a new release during my 18 minute talk. :-)"""
+5807858443,2009-11-17 22:07:57,b'Preparing Spock 0.3 release'
+5798504638,2009-11-17 15:40:26,b'Come see Hans Dockter speak about better builds with Gradle! NOW in room 5! #devoxx'
+5773612921,2009-11-16 19:39:58,"b""Spock talk at Devoxx didn't go very well. Only got 18 mins instead of 30, dropped the wrong parts. Good learning experience though."""
+5773401759,2009-11-16 19:31:14,b'first experiences of setting up a multi-project build with gradle. Verdict: it has never been easier! /by @mittie (via @wmacgyver)'
+5734028532,2009-11-15 11:05:35,"b'If you come to #devoxx this year, join me for my #spock talk on Monday, 17:25, Room 9. You will be amazed! http://bit.ly/BrsaE'"
+5655890303,2009-11-12 18:29:54,b'Awesome! RT @HamletDRC: dangerously close to have a Griffon Spock plugin. #hotel_based_programming_fueled_by_jet_lag'
+5655420185,2009-11-12 18:09:47,b'Winner! Canoo ULC on Grails wins #wjax challenge! Big thanks to all involved parties! (via @mittie)'
+5654249445,2009-11-12 17:20:18,"b'@HamletDRC oh, probably not a web app...'"
+5654183104,2009-11-12 17:17:27,b'@HamletDRC Congratulations! Is there a public installation of CrushGraphics that I could try?'
+5605811223,2009-11-11 01:20:47,"b""Google Go looks very interesting, too bad it doesn't run on the JVM."""
+5496349439,2009-11-07 02:29:38,b'Grails 1.2-M4 solves most of my problems with grails-maven-plugin. Now struggling with package-plugin and release-plugin.'
+5495779065,2009-11-07 02:03:29,"b'RT @bdicroce: LOL. Google Maps suggests to ""Kayak across the Pacific Ocean"". Checked. http://bit.ly/3LHlyA (via @paulk_asert)'"
+5378217872,2009-11-03 00:49:01,b'grails-spock issue http://bit.ly/2TjJrJ has been resolved. Grab the new snapshot. (via @ldaley)'
+5372921257,2009-11-02 21:07:59,b'Anyone out there who can make me a grails-plugins developer? Need to fix spock-grails asap.'
+5360394170,2009-11-02 10:37:59,"b""@graemerocher that's right. sources are here: http://bit.ly/2gYyxC I think the problem is on our side, but I need @ldaley to fix this."""
+5351505954,2009-11-02 01:21:25,"b'Spock string comparison - try it for yourself! http://meet.spockframework.org/?id=2001 (hit ""Run Script"")'"
+5347717640,2009-11-01 22:23:25,b'Spock now shows differences between strings: http://pastie.org/679292'
+5288282019,2009-10-30 14:26:07,"b""@RichardVowles Spock isn't a BDD tool. It's a general-purpose test/spec framework that may, at some point, add special features for BDD."""
+5276381651,2009-10-30 02:02:37,"b""@RichardVowles I've never heard anyone say that before. What is it that you don't like about Spock's syntax?"""
+5198416737,2009-10-27 11:36:49,b'New #grails #spock plugin (http://bit.ly/tSKVq) looks like a great alternative to JUnit for testing. Congrats @ldaley (via @graemerocher)'
+5187947213,2009-10-27 00:34:01,"b""@shemnon the link you just gave doesn't take me to dzone (no hate intended)"""
+5182321825,2009-10-26 20:44:33,b'#griffon 0.2 is out. http://bit.ly/omw8z (via @wmacgyver)'
+5174623108,2009-10-26 14:59:05,b'RT @rfletcherEW: w00t! successfully ran a #grails #spock #selenium test! (via @graemerocher)'
+5174246937,2009-10-26 14:42:01,b'Forget pair programming!  I want to learn pair guitaring: http://bit.ly/3MzsDN (via @jimweirich)'
+5159028858,2009-10-25 23:36:34,b'A little exhausted after sacrificing sleep in order to get grails-spock out the door before http://j.mp/pSpkp (via @ldaley)'
+5150073739,2009-10-25 16:34:02,"b'You asked for it, you got it! RT @ldaley Spock Grails Plugin\xe2\x80\xa6 available for install \xc2\xbb http://grails.org/plugin/spock'"
+5128929428,2009-10-24 19:04:21,"b""@headius Better on the ground and they can't turn the engine off, than in the air and they can't turn it on!"""
+5114508576,2009-10-24 03:08:59,b'grails-maven-plugin seems to suffer from (too) many problems; giving up for tonight'
+5110620494,2009-10-24 00:01:36,"b""Tracking down class loading problem of grails-maven-plugin. Make no mistake, I'll get you."""
+5070349239,2009-10-22 14:30:53,b'@glaforge Or free Spock licenses?'
+5057556449,2009-10-22 01:11:03,"b""@ldaley If you don't need a notebook, I'd pick the new iMac with a Core i5/i7."""
+5027617286,2009-10-20 21:17:36,"b""Anyone knows if there is a grails-maven-plugin-1.2-M3 out there? Can only find 1.2-SNAPSHOT but doesn't work due to missing dep."""
+5027475827,2009-10-20 21:10:35,"b'@mittie Spock had its own Maven repo from the start (m2repo.spockframework.org), and releases are also av. from Maven Central'"
+5027350884,2009-10-20 21:04:19,b'@mittie I have no idea. What are the requirements?'
+5025727603,2009-10-20 19:39:59,"b""@wmacgyver Rest assured that @ldaley's superb work on spock-grails will soon be reborn as spock-griffon!"""
+5025410409,2009-10-20 19:23:09,b'@mittie Still got a free ride? :-)'
+5022546511,2009-10-20 16:53:25,b'@ColinHarrington wrong link?'
+5021650297,2009-10-20 16:09:24,b'Spock plugin for Grails anyone? http://tr.im/CqL9 http://tr.im/CqLF http://tr.im/CqN1 (via @ldaley)'
+4980582211,2009-10-19 02:04:42,"b'@aalmiray Ah, now I understand why Grails/Griffon devs love NetBeans...'"
+4979315170,2009-10-19 01:06:49,"b""@aalmiray How do you cope with NetBean's inability to run unit tests written in Groovy?"""
+4920616449,2009-10-16 17:09:07,b'Watching live tennis at Generali Ladies Linz. Got best seat ever.'
+4894643109,2009-10-15 18:08:52,b'@billgloff Grails support will only be available in the paid edition (see http://bit.ly/3GSPXn)'
+4876815604,2009-10-15 00:56:52,"b""Updated Spock's Groovy 1.7 branch to 1.7-beta-2. Already available from http://m2repo.spockframework.org"""
+4788329278,2009-10-11 17:39:02,b'@HamletDRC powerassert.StatementReplacingVisitorSupport makes it easy to replace statements. Spock also has a version for expressions.'
+4626022372,2009-10-05 11:37:28,b'@mittie 60+ demos for gpars without Groovy?'
+4611586654,2009-10-04 21:05:48,"b'Hope to make progress on Spock Grails plugin over the next week. @ldaley, we need your help!'"
+4610234291,2009-10-04 20:01:23,b'@mittie Related question: How much fun is it to write a concurrent app with gpars + Java (w/o Groovy)?'
+4610026080,2009-10-04 19:51:27,"b'@mittie Flexible syntax, closures, immutable collections, powerful type systems etc. certainly help to write concurrent programs.'"
+4564289706,2009-10-02 21:57:43,"b'Groovy 1.6.5 contains significant bug fixes; it gave me several new compile errors for my project, but was always right. :-)'"
+4540607924,2009-10-02 01:16:13,"b'Fixing a nasty Groovy bug, just in time for the upcoming 1.6.5 release.'"
+3966657503,2009-09-14 01:02:50,"b""@paulk_asert If you wanted to be truly cutting edge, you could mention Spock's new Guice/Spring/Tapestry IoC extensions :-)"""
+3902090053,2009-09-11 01:56:56,"b""And I thought Apple's latest Java update would put an end to JVM crashes when running IntelliJ IDEA..."""
+3890504281,2009-09-10 16:25:37,b'Congrats! RT Happy Birthday Griffon! http://ff.im/-7TPpF (via @aalmiray)'
+3848055772,2009-09-08 20:48:45,"b""@vaclav_pech I'm beginning to think if Spock and GParallelizer could share their resources... :-)"""
+3811467136,2009-09-07 03:29:43,b'@mittie Herzlichen Glueckwunsch!'
+3791017834,2009-09-06 02:32:31,"b'If your project has separate issue trackers for ""reported by users"" and ""to be worked on"", something is going wrong.'"
+3789030335,2009-09-06 00:40:24,b'@RobertFischer Sure! Which shipment method do you prefer?'
+3780354955,2009-09-05 15:37:52,"b'Every aspiring software craftsman needs to read ""Meet my dog Patches"" in this wonderful article:  http://bit.ly/btDMh  (via @unclebobmartin)'"
+3760926011,2009-09-04 17:14:59,b'@vaclav_pech Two new committers in 24 hours - how do you do that? :-)'
+3760856261,2009-09-04 17:11:25,"b""Completed work on fundamental change to Spock's internals. Now Spock is ready to go multi-core!"""
+3759431952,2009-09-04 15:58:32,"b""Groovy syntax doesn't allow a line break before a binary operator? Honestly?!"""
+3758243468,2009-09-04 14:57:32,"b""@HamletDRC Interesting technique. In this case, I don't want to test the implementation detail but the higher-level goal it serves."""
+3758040697,2009-09-04 14:46:57,"b""@HamletDRC I disagree, but hard to explain in one tweet. I do have higher-level tests that cover the cases where private wouldn't work."""
+3757720807,2009-09-04 14:30:08,b'@JGFMK Next Spock talk: September 8th for http://cgug.org/ via web conference. Might appear on http://cgug.blip.tv.'
+3756876401,2009-09-04 13:43:34,b'Just wrote the longest code comment in my career. Length: 1 page. Subject: Why to generate a protected instead of a private field.'
+3744087496,2009-09-03 22:54:50,"b'Adding line numbers in the #groovy swing console and enabling ""power assert"" (Groovy 1.7) http://pic.im/ayr (via @glaforge)'"
+3738877667,2009-09-03 18:19:27,b'@aalmiray I doubt that anything written in C++ qualifies as RIA. :-)'
+3738462113,2009-09-03 17:57:28,b'@glaforge Flash and Silverlight are also often associated with RIA'
+3738401802,2009-09-03 17:54:15,"b'@glaforge RIA is alternative to (and somewhere in between) thin and thick client; hence, network is an essential part of it'"
+3736576282,2009-09-03 16:20:27,"b""@vaclav_pech Spock's Gradle build just successfully downloaded GParallelizer."""
+3734505412,2009-09-03 14:31:31,b'My Groovy and Testing slides now on SlideShare: http://tinyurl.com/groovy-testing (via @paulk_asert)'
+3733040562,2009-09-03 13:05:02,b'@mittie Good idea! And probably fairly easy to implement.'
+3732773465,2009-09-03 12:46:59,"b""@glaforge Not sure it's a good idea to publicly collect stuff that cannot be run. Anyway, auto-kick is probably over-aggressive."""
+3732501008,2009-09-03 12:27:23,"b""@glaforge Maybe Groovy Web Console should automatically kick published scripts that can't be run. Or open them in Groovy Console. :-)"""
+3732396192,2009-09-03 12:19:21,b'Working on major internal changes for Spock. Worst is over. 500+ (Spock) tests saved my day.'
+3713907072,2009-09-02 16:21:26,"b""Just discovered that GroovyConsole's AST browser highlights the source code corresponding to the selected AST node. Nice!"""
+3698694223,2009-09-01 22:47:19,"b""@ColinHarrington Branching is an option (even with SVN), but I'll just keep the main parts and drop the rest. Wasn't fully done anyway."""
+3698305525,2009-09-01 22:26:43,b'And the winner is... DROP IT! Ouch that hurts. Luckily I learned a few things on the way.'
+3698122974,2009-09-01 22:16:53,"b""Worked half a day on a new Spock (meta-)feature, only to realize that it's more than what I need atm. Keep it or drop it?"""
+3697872950,2009-09-01 22:03:23,"b'through with chapter 4 of #regina, hope we can publish the first chapters to meap soon. (via @mittie)'"
+3695258367,2009-09-01 19:48:18,"b""@wmacgyver Why? In contrary to Java, C isn't dead. :-)"""
+3690676979,2009-09-01 15:48:36,b'50% on any Manning MEAP ebook today with coupon pop0901! get your copy of Groovy/Grails/Griffon in Action! ;-) (via @aalmiray)'
+3546866532,2009-08-26 01:03:53,"b'@HamletDRC Yepp. May look familiar to ""Java devs"", but is counter-intuitive for ""Groovy devs"". Zero learning curve? Certainly not for me.'"
+3546605804,2009-08-26 00:50:22,"b'@HamletDRC Hmm, does GroovyTestCase\'s insistence on ""void"" methods qualify as foreign (Groovy) syntax? I keep falling into this trap...'"
+3545816023,2009-08-26 00:08:09,"b'@HamletDRC Zero learning curve is a fallacy. Unless you invest some time into learning Groovy, you will only gain runtime overhead... :-)'"
+3521159950,2009-08-24 21:55:11,b'My Devoxx presentation on Spock was approved! Hope to see you there! http://bit.ly/BrsaE'
+3306295109,2009-08-14 12:05:51,"b'@teyckmans ""native"" means without Ant in between?'"
+3295731601,2009-08-13 22:52:01,"b""The desire to keep up with #groovywebconsole leads straight into my first 'git rebase'."""
+3266568633,2009-08-12 15:09:08,b'Correct link to Spock web console: http://meet.spockframework.org'
+3266402436,2009-08-12 14:59:38,b'Spock web console. http://tinyurl.com/r5ztxe GUM presentation on Spock. (via @ColinHarrington)'
+3209340231,2009-08-09 16:10:29,"b'@mittie According to Jochen, next version after 1.7 will be 2.0. Probably too late for #regina...'"
+3209141148,2009-08-09 15:55:56,b'@mittie which version(s) of #groovy will be covered by #regina?'
+3194257580,2009-08-08 15:53:07,"b""@HamletDRC Yes it sucks. Transforms that run later than conversion shouldn't change the outside view of a class. Else joint c. is ruined."""
+3193950685,2009-08-08 15:24:33,"b'@HamletDRC If you use groovyc (or GMaven) joint compilation, Java classes cannot call getInstance() added by @Singleton (compile error)'"
+3193689701,2009-08-08 15:00:21,"b""@HamletDRC Sadly, that's only true as long as no joint compilation is involved."""
+3184398139,2009-08-07 22:18:21,b'@mittie 2:3 steep learning curve = difficult'
+3170980068,2009-08-06 23:32:43,"b'Dear Groovy friends, please stop the anti-Scala propaganda. Both are great languages and can live together peacefully.'"
+3087933689,2009-08-02 16:02:04,b'What are the consequences of renaming a freshly forked GitHub repository? Anything to be aware of?'
+3086749363,2009-08-02 14:17:41,"b""@RobertFischer Yes they work just as in Java, except that multiple labels on the same statement don't work as expected (last wins)"""
+3080973501,2009-08-02 03:33:34,"b""Groovy Eclipse plugin's compiler seems to inadvertently drop annotations; would explain why Spock and JUnit 4 tests don't work"""
+3080218896,2009-08-02 02:37:48,b'@RobertFischer I look for labels in the AST and turn them into something different (at compile time)'
+3080071984,2009-08-02 02:27:01,b'Created a Spock version for Groovy 1.7-beta-1. Porting was easy. No luck with running Spock in the new Eclipse plugin so far.'
+2933197559,2009-07-30 16:44:58,b'Early release of #groovy eclipse tools is available now... http://blog.springsource.com/ (via @andy_clement)'
+2902656515,2009-07-29 03:08:18,"b'@aalmiray thanks, meanwhile I even made the broken link work :-) griffon-spock-plugin sounds cool, where should I start?'"
+2900834545,2009-07-29 01:12:13,"b'Sorry, messed up the link to the example project. Correct is: http://bit.ly/12NbBZ'"
+2900709155,2009-07-29 01:04:07,"b'Spock 0.2 is out! Announcement: http://bit.ly/o8Scq Try it now - download http://bit.ly/aROFO, unzip, run ""gradlew test""'"
+2889881901,2009-07-28 13:41:04,"b'@mittie it has, try ""jvisualvm""'"
+2879232551,2009-07-27 22:58:29,b'Trying to convince maven-release-plugin to release Spock 0.2 ...'
+2855415386,2009-07-26 17:10:43,"b""Dear Apple JDK, thanks for crashing IDEA again. And why the hell don't you have a PUBLIC issue tracker?"""
+2853880813,2009-07-26 15:03:58,b'@glaforge One of my next coups will be to fork #groovywebconsole and turn it into #spockwebconsole :-)'
+2853734911,2009-07-26 14:50:36,"b""@glaforge If I had to pick one novelty, it would be the smart stack traces. Oh, and Spock's own tests doubled to reach almost 500!"""
+2853569965,2009-07-26 14:34:55,b'@glaforge No dramatic changes but lots of useful improvements. For details see http://bit.ly/xzaHL'
+2853172127,2009-07-26 13:54:49,b'Putting finishing touches on Spock Framework 0.2. Hope to release it tonight.'
+2827589725,2009-07-24 22:52:18,"b""RT @franklywatson: Saw SpringSource's #Eclipse plugin 4 #Groovy @ last nights Vancouver GGUG. Lookin like a beaut! (via @graemerocher)"""
+2821637628,2009-07-24 16:51:57,b'Nice blog post on compile-time meta-programming: http://bit.ly/wQ9qK'
+2820140911,2009-07-24 15:27:09,"b'@RobertFischer How about a blog post on Spock, with  a link to http://spockframework.org ? :-)'"
+2819976542,2009-07-24 15:17:23,"b""@mittie The difference is only in syntax, except that Scala doesn't yet support nested annotations (but will in 2.8)."""
+2819826190,2009-07-24 15:08:23,b'@glaforge I have been actively involved in documenting AST transformations on the mailing list :-)'
+2819635394,2009-07-24 14:57:35,"b'@mittie How to tag a Scala class as immutable? Well, how about an annotation?'"
+2819368586,2009-07-24 14:41:35,b'@mittie In Scala they are called compiler plugins. See http://www.scala-lang.org/node/140'
+2819346317,2009-07-24 14:40:19,"b'@mittie There are indeed similarities between Groovy and Scala. For example, their AST transformation mechanisms lack documentation. :-)'"
+2819021151,2009-07-24 14:20:29,"b'@mittie Scala has AST transformations as well, so it should be doable'"
+2714044012,2009-07-19 00:27:02,b'@glaforge Is or will http://groovyconsole.appspot.com/ be based on #gaelyk?'
+2713244116,2009-07-18 23:21:02,b'AST transforms that make otherwise not compilable code compile considered harmful. Delegate is already an example. #groovy'
+2697827045,2009-07-17 23:54:32,"b'IDEA fans, please vote for Groovy-related IDEA bug: http://bit.ly/PW7dA'"
+2674088540,2009-07-16 18:52:06,"b""@javajudd Yes, power assertions in Groovy 1.7 are a simplified (but still quite powerful) version of Spock's conditions"""

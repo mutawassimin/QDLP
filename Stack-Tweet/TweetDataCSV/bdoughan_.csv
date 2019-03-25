@@ -1,0 +1,1044 @@
+twitter_id,date,tweet
+652974261188096000,2015-10-10 22:29:30,b'RT @calcsam: 10x Engineer: a developer who incurs technical debt so fast he appears more productive than the 10 developers tasked w/ cleani\xe2\x80\xa6'
+651420653577457664,2015-10-06 15:36:01,b'RT @delabassee: JSON-B Status &amp; Update https://t.co/Wv2DrbSYcA #JavaEE8'
+611853495436623872,2015-06-19 11:10:15,b'RT @Oracle: Join Larry Ellison live on June 22 at 10am PT as he unveils new additions to #OraclePaaS: http://t.co/3i3Tl2UyHy http://t.co/VG\xe2\x80\xa6'
+588763168219996160,2015-04-16 17:57:32,b'RT @glassfish: JSON-P 1.1 (JSR 374) update: JSON Pointer &amp; JSON Patch https://t.co/thLq98MR4R via @delabassee #JavaEE8'
+569576129503354881,2015-02-22 19:15:06,b'@lukaseder @simas_ch Looks like W3C chose a subset of ISO-8601 for XML Schema which is what #JAXB supports:  http://t.co/gBa3mJIK4X'
+567681597550256130,2015-02-17 13:46:54,"b""@fbiville I'm happy to hear that.  It's much safer to go with the default behaviour for this use case."""
+567302095985184769,2015-02-16 12:38:54,b'@fbiville the non-hacky solution would be to keep the namespace declarations where they are instead of forcing them to the root element.'
+567301783878639617,2015-02-16 12:37:39,b'@fbiville I have updated my answer to factor in the XmlAdapter: http://t.co/i3jSwMYw6N #JAXB'
+567289582761545728,2015-02-16 11:49:10,b'@fbiville Here is an example of how to add namespaces declared on the root element with #JAXB:  http://t.co/i3jSwMYw6N'
+567125233321406464,2015-02-16 00:56:06,b'@dalelane What issue are you hitting with #JAXB?'
+563825429954703362,2015-02-06 22:23:52,b'@lee_dav_ies what issue are you hitting with #JAXB?'
+559756434146340865,2015-01-26 16:55:08,b'@fbiville adapter on collection property and a type level adapter on the referenced class? #JAXB'
+559496348492644353,2015-01-25 23:41:39,"b'@fbiville #JAXB impls will usually put the ns declarations on the root element, some ns like schema instance (xsi) are put in where needed.'"
+559495403213950976,2015-01-25 23:37:53,b'@fbiville do you have any specific examples?'
+559495178814509056,2015-01-25 23:37:00,"b""@fbiville there are no explicit controls since you shouldn't care as long as the #XML is properly namespace qualified."""
+556051748788658176,2015-01-16 11:34:02,b'RT @gf_jersey: Jersey 2.15 has been released:\n\nhttps://t.co/g2qgVcAL67\n\n#jersey #jaxrs #rest'
+555831877689290752,2015-01-15 21:00:21,b'@Akido37 Where is that one linked from?'
+555826460271734784,2015-01-15 20:38:49,b'@Akido37 What #JAXB information are you looking for?'
+546371074867613697,2014-12-20 18:26:29,"b""@lukaseder No problem, I've gone back and updated my answer to better explain what defaultValue is supposed to do: http://t.co/1OiA7YnrO4"""
+546042259406200832,2014-12-19 20:39:54,b'@lukaseder I have added an answer to that question:  http://t.co/ePTRFuZ4B1'
+532158810421727232,2014-11-11 13:12:02,"b""RT @michaelhkay: Every day on StackOverflow, someone asks why XPath doesn't work with namespaces. And every day, someone patiently and poli\xe2\x80\xa6"""
+529299754241359874,2014-11-03 15:51:09,b'@fbiville EclipseLink JAXB (MOXy) has the @XmlPath extension for that use case:  http://t.co/8aLS7j94yr'
+529284584513343488,2014-11-03 14:50:53,b'@fbiville I have posted an updated answer that will work:  http://t.co/7d5OMFjXsX #JAXB #StackOverflow'
+529271201160781825,2014-11-03 13:57:42,"b""@fbiville I will update my answer as soon as I'm back at my computer."""
+529259369285046272,2014-11-03 13:10:41,b'@fbiville I have posted an answer to your question:  http://t.co/WYrVxKRtwy #jaxb'
+529070517614313472,2014-11-03 00:40:15,b'@fbiville Could you post a question on #StackOverflow explaining what you are trying to do?'
+522432980183027712,2014-10-15 17:05:03,b'RT @marek_potociar: JSR-370: JAX-RS.next Expert Group is forming now. Want to join? Nominate yourself at http://t.co/dCinHk32mX:\nhttps://t.\xe2\x80\xa6'
+522338816536084481,2014-10-15 10:50:53,"b""RT @9RunRun: My forecast for Saturday is 'perfect running weather'.  Dry, sun shining, not too hot, with plenty of smiling moments for ever\xe2\x80\xa6"""
+520233717764063233,2014-10-09 15:25:58,"b""RT @mgrebac: Slides from my JavaOne'14 talk on JSONB API JSR posted:\nhttps://t.co/fPuanpQ4Ip"""
+517318470779019265,2014-10-01 14:21:49,"b'RT @DonaldOJDK: Important! #JavaOne Community Keynote Thursday 9am is at Marriott, on 4th near Mission. 4 blocks east of Hilton.  Downstair\xe2\x80\xa6'"
+517086386370129921,2014-09-30 22:59:36,b'RT @JavaOneConf: Meet #JavaEE Experts Marek Potociar #JAX-RS 4pm #JavaHub #JavaOne http://t.co/EcOCkEOZxA'
+516718775639764993,2014-09-29 22:38:51,"b""RT @mgrebac: Want to hear what's happening within JSON Binding API specification? Parc 55, Cyril Magnin II/III 4pm @JavaOneConf"""
+516283724972183552,2014-09-28 17:50:06,b'RT @abt_programming: MVP explained\nvia @smarty http://t.co/hZkCzqytAP'
+514353688161165313,2014-09-23 10:00:50,b'RT @jcp_org: #JavaEE 8 JSRs Unanimously Approved: https://t.co/LDOkkh4UHr'
+514018873117405184,2014-09-22 11:50:24,b'RT @glassfish: Meet the Java EE 8 Experts at JavaOne https://t.co/nI7RIfysBT via @delabassee @JavaOneConf @jcp_org'
+508744945604100097,2014-09-07 22:33:41,"b'RT @myfear: ""10 Powerful Body Language Tips for Your Presentation"" http://t.co/DMuuWRGwEP'"
+508608817412571136,2014-09-07 13:32:46,"b'RT @SunTzuSaid: Though we have heard of stupid haste in war, cleverness has never been seen associated with long delays.'"
+504700913118748672,2014-08-27 18:44:09,b'RT @myfear: #JavaEE8 is JSR-366 http://t.co/FHKGUkExtP'
+504651161916305408,2014-08-27 15:26:27,b'RT @jcp_org: JSR 339 JAX-RS posted a Maintenance Review: https://t.co/6v7To3pdMM #JSRUpdate'
+504564175478071296,2014-08-27 09:40:48,"b'RT @jcp_org: JSR 367, Java API for JSON Binding (JSON-B), submitted for JSR Review https://t.co/lGns0bKdJk #JSRUpdate'"
+503528772486721536,2014-08-24 13:06:29,"b""RT @notessensei: When asking on #Stackoverflow don't use your jumped to conclusion in disguise as title. Tell us what you want to do."""
+502073377368981504,2014-08-20 12:43:15,b'RT @arungupta: Latest #JavaEE8 status: http://t.co/hXTn9CxoK1 looking very healthy! Which spec are you excited about ?'
+498069605676756993,2014-08-09 11:33:42,b'RT @noah_white: @codinghorror wrt his comments on partial objects - he should look at Eclipselink instead of Hibernate - projection modelin\xe2\x80\xa6'
+491961642221969408,2014-07-23 15:02:50,b'@crstry No worries.  If you do have any #JAXB questions feel free to ask them on #StackOverflow.  I monitor that tag pretty closely.'
+491956374356508672,2014-07-23 14:41:54,"b'@crstry #JAXB is one way to handle #XML in #Java, there is also StAX, SAX, and DOM.  They can also be used together:  http://t.co/4ZZaq7V2mq'"
+491555284720971778,2014-07-22 12:08:07,b'@jnfrd @abailly You are trying to use the @XmlVariableNode extension without the required version of #EclipseLink?'
+491550101005795328,2014-07-22 11:47:31,b'@abailly @jnfrd #JAXB only requires annotations when you want to override the default mapping behaviour: http://t.co/bt4xRKAKZO'
+491549211792404480,2014-07-22 11:43:59,b'@jnfrd you need to ensure you are using #EclipseLink as your #JAXB (JSR-222) provider to avoid that exception. See: https://t.co/eCl3cPaihF'
+489208865863380994,2014-07-16 00:44:17,"b""RT @tnvaline: I've used a lot of different #JPA vendors but @eclipselink tops the heap.  Thanks again for a great 2.0 #implementation. #jav\xe2\x80\xa6"""
+487172653199810561,2014-07-10 09:53:06,"b""@edbrannin if you post this as a question on #StackOverflow I'll take a look. #JAXB"""
+486667951144054784,2014-07-09 00:27:36,"b'RT @johanvos: Lessons learned from a JAX-RS 2 project: the less code you write, the more chances it will work. Convention over Configuratio\xe2\x80\xa6'"
+485347756660502528,2014-07-05 09:01:37,"b'RT @JordanRinke: We need less hackathons, more apprenticeships. Less bootcamps, more classes. Less rockstars, more mentors. Develop people \xe2\x80\xa6'"
+484344962973052928,2014-07-02 14:36:52,"b""@sophistifunk You don't need to annotate anything in #JAXB (see:  http://t.co/bt4xRKAKZO). Is there something specific you are trying to do?"""
+482567896321622016,2014-06-27 16:55:26,b'RT @johanvos: @reza_rahman Glad to hear this. Agree on the spec and compete on the implementation. Thanks both of you! /cc @arungupta'
+481755055171727361,2014-06-25 11:05:30,b'@jmetcher @gf_jersey what are you trying to do?'
+481381899797946368,2014-06-24 10:22:43,b'RT @johanvos: GlassFish 4.0.1 is almost ready and you can test/improve it: https://t.co/wdAKKK2v6G'
+476755680028684288,2014-06-11 15:59:46,"b'@jmetcher Which environment were you running in where you saw it fail silently:  JAX-RS, JAX-WS, Java SE?'"
+476746162112720896,2014-06-11 15:21:57,b'@mortensieker FYI we have the @XmlInverseReference extension in #EclipseLink #JAXB (MOXy) for bidirectional rels: http://t.co/t1o3EjjYo1'
+472684999334846465,2014-05-31 10:24:20,"b""RT @Turbokiwi: @Java_EE it's not only about the name. Too few people know, that Java EE is far superior than J2EE was."""
+470350789232173056,2014-05-24 23:49:01,"b""RT @papapsi: Thanks to the smart guys who invented Jaxb... It's been a good coding day. Now to catch an episode of Royal Pains to unwind"""
+466990953715093504,2014-05-15 17:18:14,b'RT @AhoiIT: #XML to #Java object mapping is so easy when using #JAXB. Great!'
+464116902420160512,2014-05-07 18:57:47,"b""@apemberton I haven' tried this, but it looks interesting:  https://t.co/zJ1ndwxFzn #jaxb"""
+461825698856837122,2014-05-01 11:13:21,"b'RT @trisha_gee: Rant of the day: if you have a problem to post on Stackoverflow, start by writing a test. You might not even have a problem\xe2\x80\xa6'"
+459674290242060288,2014-04-25 12:44:25,b'RT @kmenzli: A perfectly clear way to understand REST+JAXB : \nwhy not a technical blog posts like this in #exoplatform http://t.co/bkOZdTe4\xe2\x80\xa6'
+458065588057690114,2014-04-21 02:12:01,b'RT @PicardTips: Picard management tip: Half of leadership is acting.'
+457234857341374464,2014-04-18 19:10:59,b'RT @johanvos: RI of the Java JSON API is great: no additional deps so you can easily use it in your JavaFX app: https://t.co/Y0nXePoh5D'
+456093464917078017,2014-04-15 15:35:30,b'@mpsiriwardena I have added an answer:  http://t.co/osJ8Qwj3ac #stackoverflow #jaxb'
+453909544570073089,2014-04-09 14:57:23,b'RT @davidkarlsen: Very nice stuff: https://t.co/aO6xPKrVB6'
+453151442983858176,2014-04-07 12:44:57,"b'RT @SunTzuSaid: When you capture new territory, cut it up into allotments for the benefit of the soldiery.'"
+449240537795555328,2014-03-27 17:44:25,b'@hgamalielbj Can you post a question on Stack Overflow?'
+448532025880756224,2014-03-25 18:49:02,b'RT @glassfish: Java API for JSON Processing (JSR 353) https://t.co/JhGtlEhvfd'
+447451490223796224,2014-03-22 19:15:23,b'@CJPhelps what exception are you seeing? #JAXB'
+447118055382867968,2014-03-21 21:10:26,b'@lizmstanley maybe the following will help: http://t.co/ucMEk6W0p9 #JAXB'
+445892016178618369,2014-03-18 11:58:35,"b'RT @OlivierCroisier: Java 8 is out today ! If you still use Java 6, you are officially 2 versions and 8 years late. So, when do you upgrade\xe2\x80\xa6'"
+445657073745797120,2014-03-17 20:25:00,b'@ivan_stefanov You can also use @XmlAccessorType(XmlAccessType.FIELD):  http://t.co/iHz5NVKZo0 #JAXB'
+445644629061279745,2014-03-17 19:35:33,b'@Hillgod What issue are you hitting with JAXB?'
+444425614418649088,2014-03-14 10:51:38,b'@hgamalielbj Here is one way to do it using EclipseLink JAXB (MOXy): http://t.co/1Do1pEgXCW'
+443848007503474689,2014-03-12 20:36:25,"b'RT @DonaldOJDK: Java 8 launch webcast - Tuesday, March 25, 2014 10 a.m. PT / 1 p.m. ET - http://t.co/bZKsbXWahs'"
+443358545015091202,2014-03-11 12:11:29,"b'RT @myfear: ""Agile is Dead"" - @pragdave http://t.co/PpJPf4OuFH'"
+441406084876480512,2014-03-06 02:53:06,b'RT @GregStasica: Interesting way to JAXB only part of the object http://t.co/6jjTpC0u6R'
+441181991082291201,2014-03-05 12:02:38,"b""RT @speakjava: #JavaOne 2014 call for papers is open! Don't delay, submit today! http://t.co/Ya9cPy6kP8"""
+440578115035611136,2014-03-03 20:03:02,b'@jejking #JAXB is conservative in what it sends and liberal in what it receives.'
+440510325180231680,2014-03-03 15:33:40,"b'RT @glassfish: Want to Work on EclipseLink/TopLink? Oracle is Hiring!: https://t.co/jKkdFqK96Y via @pavel_bucek, @reza_rahman #jobs #eclips\xe2\x80\xa6'"
+436939920372797440,2014-02-21 19:06:09,b'@popofibo Very nice answer. #JAXB #StackOverflow'
+435554607175979008,2014-02-17 23:21:25,b'@Ben_Basson what features are you looking for? #java #xml'
+434477331994771457,2014-02-15 00:00:42,"b'RT @cowtowncoder: ""Agile software development is when you make software that doesn\'t work"". Vs waterfall where you don\'t get to finish soft\xe2\x80\xa6'"
+433564839441494016,2014-02-12 11:34:47,b'@kosyrevss @DanKulp what issue are you hitting?'
+431864134158655488,2014-02-07 18:56:47,"b'@cowtowncoder Not sure if its the only way, just the only way I am aware of :).'"
+431860350795780097,2014-02-07 18:41:45,b'@cowtowncoder I have only ever used the system property for this.'
+431516334938005504,2014-02-06 19:54:46,b'RT @theeagermichael: Kudos to the @eclipselink #JAXB implementation. Your #JAXB XmlPath lets me win over even the nastiest XML structures o\xe2\x80\xa6'
+430765647354556416,2014-02-04 18:11:48,b'@martinveska What issue are you hitting with #JAXB?'
+427276750863613952,2014-01-26 03:08:10,"b""RT @PicardTips: Picard management tip: You're not supposed to come up with all the ideas yourself. Ask for suggestions."""
+426023418547286017,2014-01-22 16:07:52,b'RT @java_success: Why prefer JAXB with MOXy as opposed to default JDK implementation? http://t.co/K7pJkfJrx0'
+425969159311073280,2014-01-22 12:32:16,b'@FrVaBe cool thanks.  I was playing around with LinkedIn yesterday.  I thought the tweet was in relation to that :).'
+425946916644327424,2014-01-22 11:03:53,b'@olivergierke @FrVaBe ?'
+425932373092347905,2014-01-22 10:06:05,"b'RT @olivergierke: Dear $socialNetworkUser, if you like to connect with me, make sure you indicate the connection we have already, thanks!'"
+418797349247279104,2014-01-02 17:34:03,b'@andylatham For class gen?  You can use an external binding file to rename one of the classes: http://t.co/holHcPyG0A #JAXB'
+415599779763089408,2013-12-24 21:48:03,b'RT @glassfish: #HappyHolidays from Duke and Tux! And the GlassFish #JavaEE team to all this great community! http://t.co/rPvwLq1J6L'
+415599642772918273,2013-12-24 21:47:30,"b""RT @andexor: I've never liked JAXB until now.  This tutorial makes it look easy.  http://t.co/0uyX8PSl3h"""
+414732965898252288,2013-12-22 12:23:39,b'RT @DinisCruz: Hi @SodhanaLibrary I just blogged about the vuln you have on your blog post: http://t.co/VZzjKN9fP3 it would be cool to find\xe2\x80\xa6'
+414732535235506176,2013-12-22 12:21:56,"b""@SodhanaLibrary @DinisCruz #JAXB isn't a serialization framework. It can only instantiate classes you have mapped."""
+412308583854780416,2013-12-15 19:50:01,"b""RT @mathewi: You know you're Canadian when you not only have multiple snow shovels for different jobs, but one is your favorite #yourecanad\xe2\x80\xa6"""
+411495304765001728,2013-12-13 13:58:20,b'@jonzo1 What issue are you hitting with #JAXB?'
+411446494860820480,2013-12-13 10:44:23,"b'RT @cyriux: ""If nobody\'s ever done it before, the error margin is so huge that any estimate is useless"" @imtomgilb #NoEstimate http://t.co/\xe2\x80\xa6'"
+410355753019396096,2013-12-10 10:30:10,b'@harc007 #JAXB can start from your own POJOs using annotations to customize the mapping. Generation from schema is offered as a convenience.'
+410344994327642112,2013-12-10 09:47:25,b'@harc007 #JAXB is designed to work with traditional POJOs.'
+410106521138102273,2013-12-09 17:59:48,b'@ristoredet It would be best to post questions on the #EclipseLink forum: http://t.co/hQZ1tUe9GF'
+409672335562526720,2013-12-08 13:14:30,"b'RT @wadefoster: Love the ""features vs. benefits"" metaphor in this @useronboard post http://t.co/GhOhIOeCFd http://t.co/gdwsWP486p'"
+404985325727911937,2013-11-25 14:50:00,b'@OlivierCroisier See section 7.6.1.2 of the #JAXB 2.2 spec for nameXMLTransform;  http://t.co/xjcGRHaUZG'
+403872357468864512,2013-11-22 13:07:28,"b""@comte_a #JAXB too complex?  You don't even meet to specify any metadata:  http://t.co/D5uw8hdy2U"""
+402954791090806784,2013-11-20 00:21:23,b'@intellect42 What issue are you hitting with #JAXB?'
+402459381620416512,2013-11-18 15:32:48,b'@MaheshMovesOn You could do the following:  http://t.co/2RylkC78Cf #JAXB'
+402451376237576192,2013-11-18 15:00:59,b'@MaheshMovesOn You mean leverage a default namespace?  Then specify elementFormDefault=XmlNsForm.QUALFIED on @XmlSchema #JAXB'
+401539939524820992,2013-11-16 02:39:16,b'RT @glassfish: MOXy is the New Default JSON-Binding Provider in GlassFish 4... http://t.co/pphj9Xee0D'
+401436715891429376,2013-11-15 19:49:06,b'RT @jcp_org: JSR 173 Streaming API for XML posted Maintenance Review 4: http://t.co/z8wBRXsbmS'
+401388836313251840,2013-11-15 16:38:50,b'RT @BestXML: Using JAXB to cross reference XmlIDs from two #XML files - http://t.co/fJHCCUVnAI'
+401371619324469248,2013-11-15 15:30:25,"b""@dr0pout JAXB is config by exception, even when using it with JAX-RS/JAX-WS you only need to annotate where you don't want the default rep."""
+401355688196063232,2013-11-15 14:27:07,b'@dr0pout #JAXB does not require any annotations (see: http://t.co/xVD6RwSc53) what boilerplate are you referring to?'
+401346215347908609,2013-11-15 13:49:29,b'@dr0pout What are you trying to do with #JAXB?'
+401066042920693760,2013-11-14 19:16:10,"b'RT @geertguldentops: Very interesting session about JPA-RS @devoxx, really loving the HATEOAS kind of linking it supports. Thx @shaunmsmith\xe2\x80\xa6'"
+400675883431649280,2013-11-13 17:25:49,b'@r78v10a07 @javacodegeeks I have posted an answer to your #StackOverflow question: http://t.co/AjnD9vphbw #JAXB #MOXy'
+400289900567621632,2013-11-12 15:52:03,"b'@lukaseder With JAX-RS (based on MessageBodyReader) a case could be made for Unmarshaller.unmarshal(InputStream, Class). #JAXB'"
+400289671613145088,2013-11-12 15:51:09,b'@lukaseder Unmarshalling File/URL/Reader are already convenience methods overloading them with Class could be considered bloat.'
+400285626823499777,2013-11-12 15:35:05,"b'@lukaseder You can wrap Reader in a StreamSource and use Unmarshaller.unmarshal(Source, Class).  #JAXB'"
+399294249490841601,2013-11-09 21:55:42,b'RT @aral: Are you lonely? Tired of working on your own? Do you hate making decisions?\n\nHold a meeting.\n\n@leebryant #meaningconf http://t.co\xe2\x80\xa6'
+399145712526438400,2013-11-09 12:05:28,"b'RT @fmorak: Building HTML5 Applications with EclipseLink:  JSON, JAX-RS, JPA &amp; JavaScript http://t.co/QpLzNNk8fa'"
+398233193385451523,2013-11-06 23:39:26,b'RT @glassfish: 6 Facts About #GlassFish Announcement and the Future of #JavaEE http://t.co/uQUagSvWC7 via @brunoborges'
+395871136858116097,2013-10-31 11:13:28,"b'@richardnystrom If you run into an issue with #JAXB you can post a question on #StackOverflow, or check out my blog: http://t.co/1gHn630CaD'"
+395870092631633921,2013-10-31 11:09:19,b'@MaheshMovesOn The following should help with customizing namespace prefixes: http://t.co/uIH62AZAa2 #JAXB'
+394893509536133120,2013-10-28 18:28:44,b'RT @wimgtr: For all speakers : http://t.co/v3B23gOTRL'
+394524494166896640,2013-10-27 18:02:23,b'@fareez_ahamed @reza_rahman You can use a JPA implementation in a #Java SE environment #EclipseLink'
+393302172311363584,2013-10-24 09:05:19,"b""RT @codinghorror: If some people don't hate what you are doing, it probably sucks."""
+393098281904898048,2013-10-23 19:35:08,b'@KarlKFI Specify elementFormDefault=XmlNsForm.QUALIFIED on  @XmlSchema then #JAXB will use it as the default ns: http://t.co/HIiMS90pE2'
+393082868391346176,2013-10-23 18:33:53,"b""@KarlKFI JAXB (JSR-222) spec doesn't cover specifying specific prefixes. NamespacePrefixMapper is an ext offered by the RI (and now MOXy)."""
+393074301181501440,2013-10-23 17:59:51,b'@KarlKFI What is your counter proposal for what the API should be?'
+393070142214512640,2013-10-23 17:43:19,"b'@KarlKFI ""simple binding"" sounds like a good fit for your use case.'"
+393070013478752257,2013-10-23 17:42:48,"b""@KarlKFI #JAXB classes map to complex types. Multiple global elements can be of the same type, but you don't want to duplicate classes."""
+393067392487534593,2013-10-23 17:32:23,b'@KarlKFI You will get all named complex types and global elements with anonymous complex types as beans: http://t.co/0pTK4XYd4c #jaxb'
+393065758294429696,2013-10-23 17:25:54,"b""@KarlKFI Specifying namespace prefixes isn't part of the #JAXB (JSR-222) spec and only offered by extension:  http://t.co/uIH62AZAa2"""
+393065429570027520,2013-10-23 17:24:35,b'@KarlKFI static nested classes are used to avoid class name conflicts. Goal was/is to reduce external config:  http://t.co/ESpJMRV9BU #jaxb'
+392986124945457152,2013-10-23 12:09:28,"b""@KarlKFI If you post a #JAXB question on #StackOverflow I'll take a look and see if I can help you out.  JAXB can also start from classes."""
+392394465597341696,2013-10-21 20:58:25,b'@purefn what issue are you hitting with #JAXB?'
+391944644982239233,2013-10-20 15:11:00,b'RT @javacodegeeks: Introducing #EclipseLink JPA-RS http://t.co/GfqkElo3AU'
+391183184375066624,2013-10-18 12:45:13,"b""@bigthingist If you post a question on Stack Overflow I'll take a look at your issue."""
+391181211244433408,2013-10-18 12:37:23,b'@bigthingist What issue are you hitting with #JAXB?'
+390501918604152833,2013-10-16 15:38:07,b'@OlivierCroisier The following could be adapted to help with java.util.Date:  http://t.co/6MMzOmUjsN #JAXB'
+390479506953097218,2013-10-16 14:09:03,"b'@OlivierCroisier Class gen is tricky, but from classes #JAXB easily handles java.util.Date.  Not the default because lack of time zones.'"
+389716173438197760,2013-10-14 11:35:50,"b'RT @DonaldOJDK: Happy Canadian Thanksgiving!  Aka ""why I may not be answering your email today""'"
+387284201705189376,2013-10-07 18:32:03,"b'RT @lucasjellema: Downloading of presentation slides can begin for #oow13 and #javaone : log in to schedule builder, go to content catalog \xe2\x80\xa6'"
+384419491158831104,2013-09-29 20:48:43,b'RT @goldstift: OH: I almost forgot the #JavaOne session #surveys. Don\xe2\x80\x99t forget to vote for your attended @JavaOneConf sessions! http://t.co\xe2\x80\xa6'
+383540613783633920,2013-09-27 10:36:22,b'RT @SyrupSucker: I think the concept of a Json binding API as a JSR is a great idea and should be pursued. Keep it simple! @JavaOne'
+383540223629860864,2013-09-27 10:34:49,b'RT @sergiazo: JAXB arrived to 1.6 to make us hate XML a tiny bit less :D'
+383291479424114688,2013-09-26 18:06:24,"b'RT @ludoch: Day 1 at Javaone: So far, many friendly people at  Cloudbees, Jetty and EclipseLink.\nIntrigued by Nuvos.'"
+383247179021692929,2013-09-26 15:10:22,b'@davidtorrenews With JAX-RS part of Java EE 6 you can just return POJOs: http://t.co/TmpsdQ0Ips'
+383046411572346880,2013-09-26 01:52:35,"b'RT @OraBlogs_jp: JSON Binding\xe3\x81\xae\xe3\x83\x97\xe3\x83\xad\xe3\x83\x90\xe3\x82\xa4\xe3\x83\x80\xe3\x83\xbc\xe3\x81\xaf\xe3\x80\x81XStream, EclipseLink MOXy, Genson, Jackson\xe3\x81\xaa\xe3\x81\xa9\xe3\x80\x82#j1jp #JavaOne'"
+382649478832226304,2013-09-24 23:35:19,b'@abhinavgyan You may want to check out my session CON3838 #JavaOne'
+381214711292764160,2013-09-21 00:34:04,"b'@JoyrexJ9 XPathFactory.newInstance().newXPath().evaluate(""//item[name=\'flowResult\']/value"", new InputSource(...), XPathConstants.STRING);'"
+381106950152257538,2013-09-20 17:25:52,b'RT @gf_jersey: Jersey 2.3 has been released: https://t.co/Z494VZ2xoR #jersey #jaxrs #rest'
+380871058988888064,2013-09-20 01:48:31,"b'RT @java_tips: Convert Java Object To / From JSON, EclipseLink MOXy Example: http://t.co/mUtlp0NABF'"
+380780810850168832,2013-09-19 19:49:54,"b'RT @monacotoni: nice, just got rid of all #jaxb dependencies in my domain classes via #moxy'"
+377005963699818496,2013-09-09 09:50:00,b'RT @KamilMroczekCA: Setting up EclipseLink MOXy http://t.co/Yc1ieBjyn4'
+375323116785786880,2013-09-04 18:22:58,"b""RT @mmilinkov: I've spend the last 5 yrs happily not wearing a watch. Not sure that I'm interested in going back just because it does more \xe2\x80\xa6"""
+373568266632830976,2013-08-30 22:09:49,b'@IngJorgeLozano What issue are you hitting with #JAXB'
+373133930976669696,2013-08-29 17:23:56,"b""@dannemano The following should help with #JAXB namespaces: http://t.co/HIiMS90pE2.  XStream doesn't have much namespace support."""
+373097037702504448,2013-08-29 14:57:20,b'@dannemano What issues did you hit with #JAXB?'
+372788496605257729,2013-08-28 18:31:18,b'@hhariri #EclipseLink MOXy is a #JAXB (JSR-222) impl that offers a mapping document as an alternative to annotations: http://t.co/yGmyoVlLX8'
+372047843948650496,2013-08-26 17:28:12,"b""@SeanTAllen I'm the #EclipseLink JAXB (MOXy) lead, I could probably point you in the right direction with any #JAXB issues you are having."""
+371004324094029824,2013-08-23 20:21:38,b'@SeanTAllen What issue are you hitting with #JAXB?'
+370629808511655936,2013-08-22 19:33:26,b'This is the second time I have appeared in a class name on  a #StackOverflow question - http://t.co/4NeEGykyzV #jaxb'
+370269464584912896,2013-08-21 19:41:34,b'RT @evanchooly: GlassFish party at the Thirsty Bear  http://t.co/EYpvyamSca during @JavaOneConf'
+369932122272047104,2013-08-20 21:21:05,b'@DanKulp this issue has been fixed in the #EclipseLink 2.5.1 and 2.6.0 streams.'
+369882809407504384,2013-08-20 18:05:08,b'@leppie If you use an unmarshal method that takes a Class parameter you will always get a JAXBElement back - http://t.co/6MZF3XvHaw.  #JAXB'
+369880580013301760,2013-08-20 17:56:16,b'@leppie What gets returned depends on if the root element is mapped with @XmlRootElement or @XmlElementDecl - http://t.co/0pTK4XYd4c #jaxb'
+369838453212467202,2013-08-20 15:08:53,b'@leppie I have opened the following bug for the documentation issue that you hit:  https://t.co/lQsk8GFfPk #jaxb'
+369476709940097024,2013-08-19 15:11:26,b'@ThSlyu #JAXB (JSR-222) implementations can handle java.util.Map by default.  The following should help:  http://t.co/zlayvXrDcR #java #xml'
+368806266363060224,2013-08-17 18:47:20,"b'@cowtowncoder here you go, just choose MOXy as the component:  https://t.co/ernJnYWSwc'"
+368036903980777472,2013-08-15 15:50:10,"b""@DanKulp We're close to having this issue resolved.  I will let you know as soon as its available for download."""
+365525369106870272,2013-08-08 17:30:13,"b""@DanKulp We've fixed the bug in #EclipseLink 2.5.1 and 2.6. You'll be able to download a nightly build tomorrow: http://t.co/1cyLMxFy8m"""
+365172075968741376,2013-08-07 18:06:22,"b'RT @myfear: ""#JavaOne Community Keynote 2013"" by @DonaldOJDK  http://t.co/MN0I63ISEm'"
+365165180948193280,2013-08-07 17:38:58,b'EclipseLink MOXy and the Java API for JSON Processing - Object Model APIs | Eclipse Zone: http://t.co/ejaOCkuUrp'
+364795954370576384,2013-08-06 17:11:47,"b'@DanKulp I have confirmed the behaviour you are seeing, we are working on a fix now.'"
+364758790857428994,2013-08-06 14:44:07,b'@fnharms If you wanted to start a #StackOverflow question with some additional details about your problem I could take a look.'
+364679627198824449,2013-08-06 09:29:33,b'@fnharms what issue are you hitting with #JAXB and #JAX-RS?'
+362031318785200129,2013-07-30 02:06:07,b'RT @cpurdy: WebLogic &amp; Coherence 12c release event only two days away! http://t.co/4lavIaY7Oj'
+361928511964971008,2013-07-29 19:17:36,b'RT @javacodegeeks: #EclipseLink #MOXy and the Java API for #JSON Processing - Object Model APIs - #CoreJava  http://t.co/nEzdvlv17E'
+360500961577414657,2013-07-25 20:45:01,b'@lauraliparulo you should be able to find a path that works.  Could try a corresponding property on a SAX parser and use UmarshallerHandler.'
+360485164687687681,2013-07-25 19:42:15,b'@MartinCalagua What issue are you hitting with #JAXB?'
+360483812242763777,2013-07-25 19:36:52,b'@lauraliparulo The following answer I gave on #StackOverflow will help:  http://t.co/WYLOQDIxv0 #jaxb'
+360344663519014912,2013-07-25 10:23:57,b'@eddgrant You can ask #JAXB/JAX-WS questions on #StackOverflow  (http://t.co/zjGwI9Oswg) or the #EclipseLink forums if you need help.'
+360091894220460034,2013-07-24 17:39:32,"b""@suzukij I'm the MOXy lead, is there any way that I can help?"""
+360065867582681089,2013-07-24 15:56:07,b'New blog post:  #EclipseLink MOXy and the #Java API for #JSON Processing - Object Model APIs http://t.co/vPdT4gOsS1 #JavaEE7'
+360010649662799873,2013-07-24 12:16:42,"b""RT @myfear: Five sessions at #JavaOne and #OpenWorld for me this year. Awesome! http://t.co/ntiSttktVh If you haven't: Register! http://t.c\xe2\x80\xa6"""
+360005828331311104,2013-07-24 11:57:32,b'RT @myfear: #EclipseLink MOXy and the Java API for #JSON Processing - Object Model APIs by @bdoughan #JavaEE7 http://t.co/EGOoZ4IoLv'
+359966393417994240,2013-07-24 09:20:50,"b'RT @arungupta: Blogged: JSON Binding with JAX-RS - Moxy, JSON-P, Jackson, Jettison (TOTD #214): \nOne of the typical questions... http://t.c\xe2\x80\xa6'"
+358209214541340673,2013-07-19 12:58:26,"b'RT @myfear: Brand the Community Keynote at #JavaOne! Submit a\ncrazy, fancy, funny, geeky slogan about what you LOVE with #Java! http://t.co\xe2\x80\xa6'"
+356856030937886720,2013-07-15 19:21:22,b'@DanKulp I have fixed the bug.  It will be available in the #EclipseLink 2.5.1 and 2.6.0 streams tomorrow.'
+356802644104314880,2013-07-15 15:49:14,b'Oracle WebLogic 12.1.2 Now With EclipseLink MOXy JSON-Binding | Architects Zone: http://t.co/fFK5VQ0nPL'
+356784480192692224,2013-07-15 14:37:03,"b""@DanKulp I'm currently investigating this.  Do you have access to the XMLStreamReader at all, or is it all happening in CXF?"""
+355750124003135488,2013-07-12 18:06:53,b'New blog post: Oracle #WebLogic 12.1.2 Now With #EclipseLink MOXy #JSON-Binding - http://t.co/8iyIzzX30A #Java'
+355630026508611586,2013-07-12 10:09:40,b'RT @OracleWebLogic: #Oracle announces GA of #WebLogic_Server 12.1.2- See press release http://t.co/Gz8wOavzfh &amp; join launch event http://t.\xe2\x80\xa6'
+355004738527444992,2013-07-10 16:45:00,b'RT @rjgpro: One of those days when you are satisfied with your work and enjoyed. Had fun with reflection and jaxb'
+354656718782861312,2013-07-09 17:42:05,b'RT @j_b_sutherland: Added support for #BatchFetch in #TablePerClass #inheritance in #EclipseLink\n2.6 dev https://t.co/nAAXYMHYzf'
+352889294815371267,2013-07-04 20:38:58,"b'Just reached 50,000 rep on #StackOverflow much of that came from 1,500 answers to #JAXB questions.'"
+352593021948272642,2013-07-04 01:01:41,b'@m7cs Have you tried #EclipseLink JAXB (MOXy)?  Here is a post about our latest release:  http://t.co/reEf2PADg3'
+350292833862823938,2013-06-27 16:41:34,"b'RT @NeilHauge: In case you missed it, Eclipse Kepler released yesterday, including Dali Java Persistence Tools 3.3.  Release info - http://\xe2\x80\xa6'"
+349547862419439616,2013-06-25 15:21:19,"b""RT @droy_eclipse: Eclipse download servers been doing crunches and sit-ups all night... Kepler release Final Daze...  Tomorrow's the big da\xe2\x80\xa6"""
+349181845662994432,2013-06-24 15:06:54,b'Java API for JSON Processing \xe2\x80\x93 Creating JSON Objects http://t.co/JNFdfWT41t\xe2\x80\x93 via @dzone'
+348102696831692800,2013-06-21 15:38:45,b'@olivergierke @Peter_Krogh #EclipseLink 2.5 is in Maven Central.  2.4.2 is still in development.  More info here:  http://t.co/hK1urLiUUX'
+347739868601929728,2013-06-20 15:37:00,"b""MOXy's @XmlVariableNode - Using a Map's Key as the Node Name | Javalobby: http://t.co/QtFjDxaAD8"""
+347739757121515521,2013-06-20 15:36:33,"b""MOXy's @XmlVariableNode - JSON Schema Example | Javalobby: http://t.co/87bH8fEAbR"""
+347437009079529472,2013-06-19 19:33:32,"b""New blog post:  #EclipseLink MOXy's @XmlVariableNode - Using a Map's Key as the Node Name http://t.co/JRHq1ULyoi #java #xml #json"""
+347426633596149760,2013-06-19 18:52:18,b'RT @mreinhold: JDK 8 is Feature Complete: http://t.co/WwAPtrhdTq #jdk8 #java8 #openjdk'
+347085635020009473,2013-06-18 20:17:18,b'RT @DonaldOJDK: Oracle Java SE 7u25 now available - http://t.co/WagHkvKzQU'
+346709541272031235,2013-06-17 19:22:50,b'RT @IanSkerrett: We are doing a review of the Eclipse Public License (EPL). Details at http://t.co/KmBk0uVnbo'
+346677495237582848,2013-06-17 17:15:30,"b'RT @j_b_sutherland: The new #EclipseLink #Extensions component is now available in 2.6 dev builds, http://t.co/H3LBYJFdjp, see http://t.co/\xe2\x80\xa6'"
+346674206961975296,2013-06-17 17:02:26,"b""RT @Sharat_Chander: The 2013 #Java Duke's Choice Award program is now accepting nominations.  Winners to be announced at #JavaOne: https://\xe2\x80\xa6"""
+346657932169080834,2013-06-17 15:57:46,"b""New blog post: #EclipseLink MOXy's @XmlVariableNode - #JSON Schema Example - http://t.co/8YObvrbFJa #java"""
+345636999148994561,2013-06-14 20:20:56,b'RT @javacodegeeks: #MOXy is the New Default JSON-Binding Provider in GlassFish 4 http://t.co/nWj3zVx5Zy #enterprisejava #oracleglassfish'
+345567620239609856,2013-06-14 15:45:15,b'#EclipseLink MOXy is the New Default #JSON-Binding Provider in #GlassFish 4 | Javalobby: http://t.co/W0VOiaS7xj #java'
+345241274934243328,2013-06-13 18:08:28,"b""RT @gf_jersey: It's official: Jersey 2.0 has been released!\nhttp://t.co/B32YNswGsZ"""
+344938615710810112,2013-06-12 22:05:49,"b""RT @java: Didn't make the #JavaEE7 Webinar this morning? It's happening again tonight at 9pm PT. Register now http://t.co/jvYDriV8fN"""
+344862672027791360,2013-06-12 17:04:02,b'New blog post:  #EclipseLink MOXy is the New Default #JSON Binding Provider in #GlassFish 4 http://t.co/CyfwuKEoVw #Java'
+344839456714526723,2013-06-12 15:31:47,"b'RT @arungupta: 30 minutes to hear all the latest,greatest, innovation, excitement, passion, community, participation around #JavaEE7 http:/\xe2\x80\xa6'"
+344089866612654080,2013-06-10 13:53:11,"b'RT @j_b_sutherland: New blog post on some cool new performance features of EclipseLink 2.5, http://t.co/ZFjrKYVgx1'"
+343097030551412736,2013-06-07 20:08:01,b'RT @demed: A-Team chronicles website by @orclateamsoa is live! in-depth tech articles on #oraclesoa http://t.co/wFF9pZbwrJ'
+342774190417530881,2013-06-06 22:45:10,b'@praysteady @FaYiMoRa @Fasholaide What exception are you getting? #jaxb'
+342700889032777728,2013-06-06 17:53:53,b'@robby_pelssers You could use the CycleRecoverable extension to help you debug your model: http://t.co/KpNFZF3hSm #jaxb'
+342577876098494464,2013-06-06 09:45:05,"b'RT @kingsfleet: Fact of the day, fairly hidden Base64 conversion methods in Java http://t.co/PajF9cYWHb and http://t.co/zHS6PqZRwa'"
+342379333601603584,2013-06-05 20:36:08,"b'RT @myfear: Community participation in #javaee7 - 14 JSRs, 32 companies, 187 experts serving on the JSR expert groups! @arungupta at #JAXCon'"
+341845088898535424,2013-06-04 09:13:15,b'@FusionVJ @eclipselink Yes you can use just MOXy.  If your are using Maven you can pull in the org.eclipse.persistence.moxy artifact.'
+341713253161910273,2013-06-04 00:29:22,b'RT @shaunmsmith: Cool new EclipseLink dynamic MOXy example from Rick Barkhouse that interacts w/ Reddit and Flickr XML and JSON APIs. http:\xe2\x80\xa6'
+340478646273859584,2013-05-31 14:43:29,b'Polyglot Persistence: EclipseLink with MongoDB and Derby - http://t.co/fRi8adBmOf'
+340155844652048384,2013-05-30 17:20:47,"b'RT @java: Feedback wanted on Java SE 8. Download a snapshot from https://t.co/ESrvmHZS9X and try it out, please! http://t.co/C7JnZQPIUi'"
+339806914089193473,2013-05-29 18:14:16,b'@davsclaus FYI - I have created an #EclipseLink #JAXB (MOXy) enhancement request for this issue: http://t.co/Kx1NMv7Lsq.'
+339771326392840192,2013-05-29 15:52:51,b'EclipseLink 2.5 Release Available for Download http://t.co/ZL04ZTChoz via @dzone'
+339770439544995840,2013-05-29 15:49:20,b'RT @steinermatt: New EclipseLink version 2.5 comes with built-in support for #saphana - W00t! \nhttp://t.co/K0DIBLaXFA #ensw #oss #eclipse'
+339453003666948096,2013-05-28 18:47:57,"b'RT @j_b_sutherland: New Blog post today, I tested various databases with batch writing, and posted the results, http://t.co/YJqbvGGIdO'"
+339450891428036608,2013-05-28 18:39:33,b'RT @wolflook: @shaunmsmith is going to present #EclipseLink 2.5 in his session at #Java Forum Stuttgart 4th of July in Germany'
+339431722720559104,2013-05-28 17:23:23,"b'RT @brunoborges: ""@myfear: #EclipseLink 2.5 is available! Its the first release available on #Maven Central!  #JPA 2.1 compliant RI for JPA\xe2\x80\xa6'"
+339411596646432770,2013-05-28 16:03:25,b'New blog post: #EclipseLink 2.5 Release Available for Download http://t.co/nldoftlmvu #jaxb'
+339380484620566528,2013-05-28 13:59:47,b'RT @kallepahajoki: @eclipselink Thank you for making XML marshalling/unmarshalling a breeze &lt;3'
+339379064123039744,2013-05-28 13:54:08,b'@chengg1978 The XJC tool should pull in all included/imported #XML schemas.   The following may help:  http://t.co/kKNXTXKj27 #jaxb.'
+339369251326529540,2013-05-28 13:15:09,b'@ttola I have posted an answer to your question on #StackOverflow with a couple of things you can try:  http://t.co/irinBmuVmq #jaxb.'
+338751456251363328,2013-05-26 20:20:15,b'@dhinojosa That is correct.  #EclipseLink (version 2.5) is the JPA 2.1 (JSR-338) reference implementation which is part of Java EE 7.'
+338163591582736384,2013-05-25 05:24:17,b'@chengg1978 are you getting an exception?'
+338124561168093184,2013-05-25 02:49:12,b'@chengg1978 What issue are you hitting with #JAXB?'
+338032045999665152,2013-05-24 20:41:34,"b'RT @jcp_org: JSR 338, Java Persistence 2.1, has posted their Final Release http://t.co/iVaHRNzqER'"
+338031165141295104,2013-05-24 20:38:04,"b'RT @jcp_org: JSR 339, Java API for RESTful Web Services, has posted their Final Release\nhttp://t.co/8ZNKFplR38'"
+338031129628123136,2013-05-24 20:37:56,"b'RT @jcp_org: JSR 353, Java API for JSON Processing, has posted their Final Release http://t.co/W61vS7O1fi'"
+337947176502185984,2013-05-24 15:04:20,b'@ericpeters it is now fixed.'
+337939447100350464,2013-05-24 14:33:37,"b""@ericpeters I'm still looking into this. I found out as a workaround you can remove the navigation: https://t.co/bblZ629y0o"""
+337618082560352256,2013-05-23 17:16:38,b'@ericpeters Thank you for reporting that.  I will look into it.'
+337275436620996608,2013-05-22 18:35:05,"b'@ericpeters BTW, If you hit another #JAXB issue you can leverage the #EclipseLink forum (http://t.co/hQZ1tUe9GF) or #StackOverflow for help.'"
+337274807466987521,2013-05-22 18:32:35,"b'@ericpeters Thanks, I have forwarded that bug onto the JAXB spec lead.'"
+337270732155387904,2013-05-22 18:16:23,"b""@ericpeters Could you enter a bug for your use case?  https://t.co/dLzCzDhSYn.  If you let me know the #, I'll point the XJC guys at  it."""
+337268124619522048,2013-05-22 18:06:01,b'@ericpeters What issue are you hitting with #JAXB?'
+336554864614195200,2013-05-20 18:51:47,"b""RT @java: Where's your #JavaOne flair? http://t.co/CxvxP4qAQc"""
+335461263494750209,2013-05-17 18:26:12,b'@_sp00n I have opened the following #EclipseLink bug for the issue that you are seeing:  http://t.co/UcgGUtmQbW'
+335456904040026114,2013-05-17 18:08:53,b'@_sp00n Could you raise this issue on the #EclipseLink forum?  http://t.co/0W7OTvKO85'
+335372859788640256,2013-05-17 12:34:55,b'RT @simas_ch: After some time using both in parallel I prefer #GlassFish over #JBoss.'
+335133415311552512,2013-05-16 20:43:27,"b""RT @petercle: Wow, this JAXB xml stuff is sliiiiick! Java, you're sly fox. #Java #JAXB #XML"""
+335121450891624448,2013-05-16 19:55:54,b'RT @bkosarzycki: #geecon \nMongoDB working on EclipseLink. Awesome! http://t.co/xQ3bVWSUmT'
+335090286264975361,2013-05-16 17:52:04,b'RT @myfear: Are you jazzed about Java? Do you get stoked about code? Promote your #Java passion. It\xe2\x80\x99s all right here.\n http://t.co/at22PhDb\xe2\x80\xa6'
+335014941490814976,2013-05-16 12:52:40,"b'RT @wteq: Nice seeing #EclipseLink evolving in a good direction: HTML 5, REST, NoSQL #geecon'"
+334693051970768897,2013-05-15 15:33:36,b'@survivant It will work on any Java EE 6 or Java EE 7 compliant application server.'
+334687783597768704,2013-05-15 15:12:40,b'@myfear @survivant @arungupta Here is an example using #EclipseLink MOXy (included in GlassFish 4):  http://t.co/2ixJIU2t9z'
+331906442649026560,2013-05-07 23:00:37,b'RT @javacodegeeks: #EclipseLink #MOXy as a #JAXB provider - #java http://t.co/BjkPkkF7UW'
+331716805758418945,2013-05-07 10:27:04,b'RT @myfear: Congrats to #JCP Star Spec-leads @plmuir @spericas and @marek_potociar  http://t.co/PBstsoftat'
+330367054819500033,2013-05-03 17:03:38,"b""RT @olrad: I really wish I'd played around with JAXB sooner. Takes a lot of the pain out of working with XML files."""
+329626809060716546,2013-05-01 16:02:10,b'@chuggid #EclipseLink JAXB MOXy allows you to augment the metadata programmatically does this help your use case?  http://t.co/gD63LN8CE8'
+329348320206131200,2013-04-30 21:35:33,"b""RT @glassfish: Java EE 7 Platform Completes the JCP Final Approval Ballot: \nI'm happy to announce that the Java EE 7 Platform... http://t.c\xe2\x80\xa6"""
+329047574155776000,2013-04-30 01:40:29,"b""@waiphyok what issue are you hitting with #JAXB?  I'm the #EclipseLink JAXB (MOXy) lead and can help you get unstuck."""
+328455251466276864,2013-04-28 10:26:49,"b'@chuggid Thank you, I will take a look.'"
+327828095274983424,2013-04-26 16:54:43,"b""The Java API for #JSON Processing  (JSR-353) isn't a single implementation, but a standardized public API with potentially many impls. #java"""
+327817080047022080,2013-04-26 16:10:57,b'@olivergierke @mwessendorf Here is an intro to JPA-RS example: http://t.co/IX4X2XfpKh #EclipseLink'
+327436067718443012,2013-04-25 14:56:56,"b'RT @shaunmsmith: Join me in Watfordsaal at 16:45 to hear about #EclipseLink #NoSQL, #Polyglot persistence, and JPA-RS RESTful services. #ja\xe2\x80\xa6'"
+326682015845986305,2013-04-23 13:00:36,"b'RT @jcp_org: JSR 339, JAX-RS 2.0, passed EC Final Approval Ballot with 22 yes votes: http://t.co/sDWKWLmDX9'"
+326681946430251008,2013-04-23 13:00:20,"b'RT @jcp_org: JSR 338, Java Persistence 2.1, passed EC Final Approval Ballot with 22 yes votes: http://t.co/XaQERBsXe1'"
+326681845309779968,2013-04-23 12:59:56,"b'RT @jcp_org: JSR 356, Java API for WebSocket passed EC Final Approval Ballot with 22 yes votes: http://t.co/rD8JvGOpdQ'"
+325932862450827265,2013-04-21 11:23:44,b'Customizing EclipseLink JPA-RS Messages with MOXy | Javalobby: http://t.co/WQ6B32A6Cz'
+325641209836093441,2013-04-20 16:04:49,"b""@whereits could you send me a message through my blog and I'll point you at the right #EclipseLink resources: http://t.co/xJcVNZno08"""
+325607313442500608,2013-04-20 13:50:07,"b""@whereits #EclipseLink can do entities from tables. #JAXB doesn't require any annotations, so technically nothing needs to be auto added."""
+325590981418311680,2013-04-20 12:45:13,b'@whereits what information are you trying to find? #EclipseLink'
+325566872546328576,2013-04-20 11:09:25,b'Introducing EclipseLink JPA-RS | Javalobby: http://t.co/Bb12gL3V09'
+324683335370682369,2013-04-18 00:38:34,b'RT @javacodegeeks: #MOXy\xe2\x80\x99s Object Graphs &amp; Dynamic #JAXB http://t.co/G7tFdAxCIL #enterprisejava #xml'
+324657059108884481,2013-04-17 22:54:09,b'RT @javacodegeeks: Introducing #EclipseLink #JPA-RS http://t.co/Vr2t2OSiC7 #enterprisejava #jpars'
+323446486715232256,2013-04-14 14:43:46,b'RT @GaryStafford: Make your JAXB cleaner with the MOXy implementation  http://t.co/iqdsjPvwAT via @dzone'
+323421816519524353,2013-04-14 13:05:44,"b'RT @JavaOneConf: JavaOne San Francisco call for papers extended until April 23rd, 2013 #Javaone http://t.co/7Aih2Xchak'"
+323062960870289408,2013-04-13 13:19:46,"b'RT @myfear: ""Trust and help the platform. Jump right in. Yeah it\'s messy but it\'s fun!"" #qotd good slogan for @adoptajsr if you ask me :-)'"
+322761085994270722,2013-04-12 17:20:14,b'Just submitted my #JavaOne proposals. Have you done yours?:  http://t.co/Cwj3ryCnaE'
+322738449868259328,2013-04-12 15:50:17,b'New blog post: Customizing #EclipseLink JPA-RS Messages with MOXy - http://t.co/2HKrfDA1P8 #java #json'
+322738015753605120,2013-04-12 15:48:33,b'New blog post: Introducing #EclipseLink JPA-RS - http://t.co/IX4X2XfpKh #java #json'
+322721716201725952,2013-04-12 14:43:47,b'RT @IanSkerrett: Just launched our annual Eclipse Community Survey. Please provide your feedback. http://t.co/D280QDEbO6  Pls RT too :-)'
+322707500396867586,2013-04-12 13:47:18,"b""@ramsankar83 I don't think so, my previous tweet was prompted by a rude message that I had received through my blog."""
+322692758496223232,2013-04-12 12:48:43,"b""Why don't developers enter a bug when they encounter an issue?  Are they afraid they'll get a fix and won't be able to complain on Twitter?"""
+322359865567756288,2013-04-11 14:45:55,b'@ramsankar83 You can start a thread with me using the following link:  http://t.co/xJcVNZno08'
+322342351018291201,2013-04-11 13:36:19,b'@ramsankar83 something like?:  http://t.co/ezDS57ginT #JAXB'
+322340458497986560,2013-04-11 13:28:48,"b'@ramsankar83 is there a fixed set of elements of known types.  For instance it could be foo of type String, or bar of type Address? #JAXB'"
+322312548189872130,2013-04-11 11:37:54,b'@ramsankar83 what kind of customization are you looking for? #JAXB'
+322282631934918656,2013-04-11 09:39:01,"b'@ramsankar83 #JAXB is flexible at converting #XML to/from #Java objects, it is a key component of JAX-WS and JAX-RS: http://t.co/Is5PpVLMRB'"
+321688801787404288,2013-04-09 18:19:21,b'RT @jcp_org: 4 #javaee7 JSRs pass Final Approval Ballot; view results: https://t.co/sfMdXFFccH'
+321688772494364672,2013-04-09 18:19:14,b'Java API for JSON Processing (JSR-353) - Stream APIs | Javalobby: http://t.co/EN2kPx7Xgr'
+321357514472046592,2013-04-08 20:22:56,b'New blog post about the Java API for JSON Processing (JSR-353):  http://t.co/zHGmoG1mqP'
+320494367980793856,2013-04-06 11:13:06,"b""MOXy's Object Graphs - Input/Output Partial Models to XML &amp; JSON | Javalobby: http://t.co/JScjXzTryO"""
+320252680272486400,2013-04-05 19:12:43,b'RT @Peter_Krogh: Latest milestone of the #JPA 2.1 reference implementation now available - @EclipseLink 2.5 M11 http://t.co/zTuyKhTiaE'
+320245232115523586,2013-04-05 18:43:07,b'New blog post: #EclipseLink MOXy and #JSON with Padding - http://t.co/h69SMmSsNH #java http://t.co/ofL9yZFKcv'
+319475950221934592,2013-04-03 15:46:16,"b""#EclipseLink MOXy's Object Graphs &amp; Dynamic #JAXB http://t.co/Of49wviHqM #java #xml #json"""
+317313269155115008,2013-03-28 16:32:33,"b""New blog post: MOXy's Object Graphs - Partial Models on the Fly to/from #XML &amp; #JSON - http://t.co/j15XMSkerg #eclipselink"""
+317298371809398784,2013-03-28 15:33:21,b'RT @glassfish: Jitendra Kotamraju on JSON-P: The 126th episode of the Java Spotlight podcast features an interview with\xc2\xa0JSON-... http:// ...'
+317291866049617920,2013-03-28 15:07:30,b'RT @javacodegeeks: #MOXy\xe2\x80\x99s Object Graphs \xe2\x80\x93 Input/Output Partial Models to #XML &amp; #JSON http://t.co/OoyoMMMmCq #enterprisejava #jaxb'
+317003530143690752,2013-03-27 20:01:45,b'RT @waynebeaton: There are 502 Git repositories at Eclipse http://t.co/OVXSPMvq0q'
+316930265085800449,2013-03-27 15:10:38,b'RT @NeilHauge: Speaking at 1:30 today on Eclipse persistence tools for web apps and NoSQL DBs.   #eclipsecon'
+316592849967783937,2013-03-26 16:49:52,"b""New blog post:  MOXy's Object Graphs - Input/Output Partial Models to #XML &amp; #JSON  http://t.co/AY8U8HEqpG #eclipselink #java"""
+315960012973436930,2013-03-24 22:55:12,"b'RT @teknopaul: Impressed by JAXB today, Easy to create  the concise XML I want, then I get a free RPC W.ebService layer.'"
+314390241303752705,2013-03-20 14:57:29,"b""RT @Sharat_Chander: Technical demo ideas or use-cases you'd like to see at #JavaOne? Share them on Twitter and use the #JavaOneIdeas has ..."""
+314325675999916032,2013-03-20 10:40:55,b'RT @myfear: A free Mercurial &amp; Git client for Windows or Mac. @sourcetree @bitbucket #git #hg http://t.co/1JolNkCWRu'
+314059042458828800,2013-03-19 17:01:25,b'RT @arungupta: Did you know that ALL #JavaEE7 specs are now in Proposed Final Draft ? Download GlassFish 4 latest promoted (b80): http:/ ...'
+314028925267365888,2013-03-19 15:01:44,b'RT @javacodegeeks: Binding to #JSON &amp; #XML \xe2\x80\x93 Handling Collections http://t.co/ZAHa3EYfav #enterprisejava #jaxb'
+313674481237385217,2013-03-18 15:33:18,b'Binding to JSON &amp; XML - Handling Collections | Architects Zone: http://t.co/8plibcZ7UC'
+312601133879267328,2013-03-15 16:28:13,b'New blog post: Binding to #JSON &amp; #XML - Handling Collections http://t.co/tPlmoUfBVr #java #eclipselink'
+312508441405059072,2013-03-15 10:19:53,b'RT @NicolasLabrot: Serializing a #JAXB fragment to a #JAXP writer. Java is well designed on this part!'
+312217761495539712,2013-03-14 15:04:49,b'JAXB and java.util.Map  http://t.co/GmASYmOt54 via @dzone'
+312215809873281024,2013-03-14 14:57:04,b'@mxfpete try http://t.co/bBRfiip3hi'
+311947658371690496,2013-03-13 21:11:32,b'RT @Sharat_Chander: The 2013 #JavaOne Call-for-Proposals is NOW LIVE! Start submitting your brilliant ideas on #Java: http://t.co/dM9gmWAcfU'
+311445440086306818,2013-03-12 11:55:53,b'RT @johanvos: We are experimenting with nosql storage for #dalicore : http://t.co/NHSicJrBFp\nCurrently working with #mongo #eclipselink  ...'
+309769586138574849,2013-03-07 20:56:39,"b""Java Persistence Performance: But what if I'm not querying by id? (database and ... http://t.co/8e6Yjlc5mz"""
+309652815670824960,2013-03-07 13:12:38,b'RT @javacodegeeks: #JAXB and java.util.Map http://t.co/m3xdRSidV4 #enterprisejava #xml'
+309428630486913024,2013-03-06 22:21:49,b'New blog post: #JAXB and java.util.Map http://t.co/NZNXHZ6vej #java #xml'
+309004337022107648,2013-03-05 18:15:49,b'@mjparme Have you tried pulling #JAXB down from the http://t.co/BMcUVss81Q maven repository.  https://t.co/owh2ay0GgS'
+308907828242944000,2013-03-05 11:52:20,"b""New blog post: #EclipseLink MOXy's @XmlInverseReference is now Truly Bidirectional http://t.co/3wjS1mjRhV #java #xml #json"""
+308554955160174592,2013-03-04 12:30:08,"b""@diptanu what issue are you hitting with #JAXB?  I'm the #EclipseLink JAXB (MOXy) lead and may be able to help."""
+307822571116695552,2013-03-02 11:59:54,b'@daiconrad The JDK comes with the command line XJC tool.  Eclipse offers #JAXB tooling via the Dali component.'
+307809212006809600,2013-03-02 11:06:49,b'@benedwinmorgan What issue are you hitting with #JAXB and generics?'
+307639093322457089,2013-03-01 23:50:50,b'RT @moonysun: Generating schemas from Java JAXB annotated classes is kinda magical.'
+307473227188408320,2013-03-01 12:51:44,"b'RT @mxfpete: Hmm, jaxb reference implementation adds unnecessary xmlns attributes willy nilly on XmlAnyElement Elements! MOXy does not,  ...'"
+307314955613528064,2013-03-01 02:22:49,b'RT @jcp_org: JSR 339 JAX-RS 2.0 posted a Proposed Final Draft: http://t.co/RVWUY1j4WD'
+306933541390913538,2013-02-28 01:07:13,b'RT @jcp_org: JSR 353 Java API for JSON Processing has posted a Proposed Final Draft: http://t.co/OwzN7wPP8d'
+306725145672810496,2013-02-27 11:19:08,"b'Using NoSQL with JPA, EclipseLink and Java EE by @reza_rahman on @slideshare http://t.co/8CNE0xtGMj'"
+306723219493240832,2013-02-27 11:11:28,"b'@glaforge @samaxes @mojavelinux @agoncal @arungupta JAJB was considered, but its harder to say than a TLA such as JPA or EJB.'"
+305055462364180480,2013-02-22 20:44:24,b'@tfm Have you tried using episode files: http://t.co/9HlONXBW8d #jaxb'
+304666176447975424,2013-02-21 18:57:31,b'@davidjrusek @cowtowncoder There are JSRs covering each of the Java SE releases.  That expert group would propose items for inclusion.'
+304599104854568960,2013-02-21 14:31:00,"b""@davidjrusek @cowtowncoder A #Java SE module system could accomplish this. You'd be able to pull in a different amount of the JDK than I do."""
+304590517382045696,2013-02-21 13:56:53,b'@ecHKay what issues are you hitting with #JAXB?'
+304559687305682944,2013-02-21 11:54:22,b'@davidjrusek @cowtowncoder This is the problem space that Project Jigsaw is addressing:  http://t.co/LyxrEWjM1P'
+304267386666766336,2013-02-20 16:32:52,b'RT @waynebeaton: The \xe2\x80\x9cEclipse Luna\xe2\x80\x9d name has passed our trademark review process http://t.co/ebdw7N7L'
+303598146347466753,2013-02-18 20:13:33,b'My latest blog post has been published on Java Code Geeks.  #JAXB #EclipseLink http://t.co/77pfJole'
+303543159722475521,2013-02-18 16:35:03,b'My newest blog post has been published on DZone. http://t.co/SkN9Pg0w'
+302763513628196864,2013-02-16 12:57:01,b'@TheKojuEffect #EclipseLink was open\nsourced from TopLink which was originally TOPLink which supported object-relational before Java.'
+302521420976640000,2013-02-15 20:55:01,"b""@luisclipse Thanks.  There aren't that many tutorials on JAX-WS's Provider class, hopefully people will find it useful."""
+302515656170029056,2013-02-15 20:32:07,b'New blog post.  I have been meaning to write this one for a while now:  http://t.co/t5jdStGb #jaxb #jaxws #eclipselink'
+301997874336653312,2013-02-14 10:14:38,"b'RT @jayjaybillings: Long night of code, but it was #eclipse and #jaxb for the win!'"
+301733396302921729,2013-02-13 16:43:42,b'@chuggid PROPERTY is the safest way to go when mapping JPA entities.  #EclipseLink JPA will normally weave @XmlTransient on woven fields.'
+301716280552071168,2013-02-13 15:35:41,b'@chuggid Are you using the #JAXB RI or #EclipseLink JAXB (MOXy)?'
+301657502649569281,2013-02-13 11:42:07,b'RT @adoptajsr: JSR-535-JSON repo get new home in the #adoptajsr org in github see http://t.co/it0CXb8T ! Play with it &amp; back push ch ...'
+301022445903695872,2013-02-11 17:38:38,"b'@chuggid documentation is right, just two possible repo locations you can specify.'"
+301011784091971584,2013-02-11 16:56:16,b'@chuggid The following example should help: https://t.co/BpVFopfM'
+299532405826535425,2013-02-07 14:57:45,b'RT @johanvos: DaliCore experimental: EclipseLink 2.5 allows us to switch from relational db (mysql) to MongoDB via persistence.xml (JPA  ...'
+298809146386550786,2013-02-05 15:03:46,"b""@kouphax That's a result of an XML schema with a choice structure.  If you would like to customize that see: http://t.co/py4dFnEv #jaxb"""
+298790324153765889,2013-02-05 13:48:59,"b'RT @jcp_org: JSR 353, Java API for JSON, passed EC Public Review Ballot; 21 yes, 1 abstain #javaee7 http://t.co/3TYgkpIn'"
+297452304129482753,2013-02-01 21:12:10,"b'RT @DonaldOJDK: Release notes and CPU Advisory posted for Oracle #Java SE 7u13, 6u39 and JavaFX 2.2.5 http://t.co/LmvIfkdY binaries: htt ...'"
+296932422753337345,2013-01-31 10:46:20,b'@RamielRowe Are you running into any issues with #JAXB?'
+296297852827746305,2013-01-29 16:44:47,"b'@jasondlee #EclipseLink #JAXB (MOXy) does, see:  http://t.co/jnndTqI7'"
+296291555948523520,2013-01-29 16:19:46,"b'@jasondlee Yes you can, see http://t.co/uE0tC0hC and http://t.co/nnoM20Ky #jaxb'"
+296010398765826048,2013-01-28 21:42:33,"b'RT @mmilinkov: Nominations close this Friday for the 2013 Eclipse Foundation Board elections. These are important, pls get involved! htt ...'"
+295988228501151744,2013-01-28 20:14:27,"b""@monacotoni I'm looking into your bug. Which version of #EclipseLink are you using? The latest code has the javax.xml.bind.helpers import."""
+295937864796086272,2013-01-28 16:54:19,b'RT @waynebeaton: Vote for the name of the 2014 Eclipse Release! http://t.co/IJOgV5m5'
+295532575684956163,2013-01-27 14:03:51,b'@monacotoni Thank you for opening the bug.  I should be able to get this fixed in the #EclipseLink 2.4.2 and 2.5.0 streams tomorrow.'
+295514611162169344,2013-01-27 12:52:28,"b'@monacotoni Could you provide more details about your use case, so we can fix the issue?'"
+295506958910382080,2013-01-27 12:22:03,"b""@monacotoni I'm the #EclipseLink MOXy lead, I can help sort out any issues you're having with MOXy and OSGi:  http://t.co/dmA18UH6"""
+294457068075745281,2013-01-24 14:50:10,"b'RT @ashivasubramani: So finally, I break my blog hiatus. Wrote an article on JAXB not generating an enum with more than 256 elements. Li ...'"
+293056522483814401,2013-01-20 18:04:54,b'@dret @fgeorges usually a poor #JAXB model is caused by a poor #XML schema. You can always start from your own classes: http://t.co/uE0tC0hC'
+292580359588179968,2013-01-19 10:32:48,b'RT @OracleBlogs: JPA 2.1 Implementation - EclipseLink M6 integrated in GlassFish 4 (TOTD #195) http://t.co/Wd9R9DfA'
+290939480523812865,2013-01-14 21:52:32,"b'@raulvk That would be great, thanks.'"
+290935425726545920,2013-01-14 21:36:25,"b""@raulvk JAXB implementations don't do any package scanning."""
+290926254348181504,2013-01-14 20:59:58,"b""@raulvk The real purpose of XmlSeeAlso is to pull in subclasses (can't use reflection for this) . Relationships are processed automatically."""
+290924188099825664,2013-01-14 20:51:46,"b'@raulvk Prefix is to reduce potential conflicts with other APIs such as JPA.  ""Xml"" is less typing than fully qualifying your annotations.'"
+290915562501046272,2013-01-14 20:17:29,"b""@raulvk No, but if you have ideas for improvements I'd be happy to hear them.  #jaxb"""
+289120478021443584,2013-01-09 21:24:28,b'RT @yokofakun: @bdoughan thank you ! http://t.co/DqyDS8TO'
+289067000402149376,2013-01-09 17:51:58,b'Why Not Adopt a JSR? | Javalobby: http://t.co/AEzoi4Tc'
+289050586584842240,2013-01-09 16:46:44,b'Polyglot Persistence: EclipseLink with MongoDB and Derby  http://t.co/t2y79Kuw via @dzone'
+289021862485319680,2013-01-09 14:52:36,b'@yokofakun No problem.  Have you tried removing your makefile from the equation?: http://t.co/dWkl44BU #jaxb #stack-overflow'
+286921972473012224,2013-01-03 19:48:23,b'RT @arungupta: .@torontojug providing great feedback on JSR 353/JSON as part of #JavaEE7 #adoptajsr : http://t.co/RABYepQy 15 JUGs now p ...'
+286848767490146304,2013-01-03 14:57:30,b'@zer0n1ne Could you raise the issue you are seeing on the #EclipseLink forum so we can help you out:  http://t.co/yi34SvSt'
+286801635735388160,2013-01-03 11:50:13,b'JAXB - Representing Null and Empty Collections | Javalobby: http://t.co/ATDZ0Mx8'
+286441258187124736,2013-01-02 11:58:12,"b""JAXB's @XmlAnyElement(lax=true) Explained | Javalobby: http://t.co/Tq8naNYw #java #xml"""
+284653063980068864,2012-12-28 13:32:33,b'RT @maheswaranm: Learned and used JAXB in detail today. Binding is actually quite easy and the freedom you get with the objects is quite ...'
+283245487748964352,2012-12-24 16:19:21,b'RT @javacodegeeks: JAXB \xe2\x80\x93 Representing Null and Empty Collections http://t.co/wjCZvqIl'
+283214301081239554,2012-12-24 14:15:25,b'RT @jcp_org: JSR 353 Java API for JSON Processing posted Public Review: http://t.co/6RsvTLa0'
+282222894073913345,2012-12-21 20:35:56,"b""Posted 9 answers on #StackOverflow today and still won't hit the rep cap:  http://t.co/KtAwA79q (sharing as mini #JAXB blog posts)."""
+282167311434121216,2012-12-21 16:55:04,b'I think someone was trying to get my attention on #StackOverflow: http://t.co/QNwOpPTF #jaxb'
+282087915528536065,2012-12-21 11:39:34,"b""New blog post: #JAXB's @XmlAnyElement(lax=true) Explained http://t.co/L6psu7tw #java #xml http://t.co/ZQWIqxn6"""
+281715985944305664,2012-12-20 11:01:39,b'New blog post: #JAXB - Representing Null and Empty Collections http://t.co/oFTBUp0h #java #xml'
+279184395515080705,2012-12-13 11:22:01,b'RT @gf_jersey: Jersey team in Prague is hiring: http://t.co/KQ79wVds\nLooking for a passionate developer who likes to work with latest te ...'
+277863320311197696,2012-12-09 19:52:32,b'RT @stroobat: Playing around with #eclipselink and liking it ... (for the moment) ... :-)'
+277147983269724160,2012-12-07 20:30:03,b'@NicolasGeraud @marek_potociar @gf_jersey This may have been dropped in favour of MOXyJsonProvider provided by MOXy:  http://t.co/xJTXTlSR'
+276651063191404544,2012-12-06 11:35:28,"b""@NilaySundarkar #JAXB isn't a beast, just powerful. My #Java #XML and #JSON Binding blog may help in your studies: http://t.co/6h1PIFyz"""
+276387535360503808,2012-12-05 18:08:18,b'@abailly Ultimately you require object-XML and object-relational metadata which can be annotations or XML.  What is your ideal solution?'
+276366762407235585,2012-12-05 16:45:45,"b'RT @CherylMcKinnon: Wow. 4 of the top 5 cities in ""the Americas"" on the Quality of Life index are Canadian. http://t.co/mW04SobA via @ot ...'"
+276282147541753856,2012-12-05 11:09:31,b'@abailly You still need to specify the mappings. This can be done through XML to reduce the clutter:  http://t.co/G5fzSEER #jaxb #jpa #java'
+276279083258753024,2012-12-05 10:57:21,"b""@bigthingist It's an optional step to compile a #JAXB model from a XML schema. You can start from your #Java classes: http://t.co/uE0tC0hC"""
+275915779818520579,2012-12-04 10:53:42,"b""@abailly You can have a single #Java model that is mapped to a database with #JPA, and #XML with #JAXB.  They don't need to be separate."""
+274843113095311361,2012-12-01 11:51:19,b'@sigpwned #EclipseLink MOXy has path based mapping which allows different #Java and #JSON representations http://t.co/wSOTAW2W'
+274533913060315136,2012-11-30 15:22:40,b'RT @waynebeaton: TOPLink puck #winning http://t.co/AgC7SIOw'
+273832272535371776,2012-11-28 16:54:35,"b'RT @eclipselink: New JPA 2.1 feature proposal for load, fetch, merge, &amp; copy plans from @GordonYorke. http://t.co/k5uHHVMe'"
+271630551964852224,2012-11-22 15:05:44,b'RT @dbms_output: JAXB Marshal and Unmarshal CDATA Block http://t.co/fiwKnpKo'
+271285142771884032,2012-11-21 16:13:12,b'RT @jcp_org: JSR update &lt;JCP PMO blog&gt;; 8 Java EE 7 JSRs recently published draft review milestones https://t.co/Thr52RSd'
+271282063397748736,2012-11-21 16:00:58,"b""RT @shaunmsmith: Slides from my 'Evolution of Java Persistence' session at @devoxx 2012.  #eclipselink http://t.co/Ljb1j42j"""
+271254163000786944,2012-11-21 14:10:06,b'RT @myfear: RT @lonnekedikmans: This json stuff in #eclipselink is really cool. #doag2012 &lt; it is awesome! :)'
+271251846671249410,2012-11-21 14:00:54,b'One of my blog entries was just posted to Javalobby. http://t.co/8gzZHzci'
+270888493952159744,2012-11-20 13:57:04,b'RT @lonnekedikmans: This json stuff in eclipselink is really cool. #doag2012'
+270876765860286465,2012-11-20 13:10:28,"b""@lonnekedikmans Here's a #JSON binding example using #EclipseLink MOXy:  http://t.co/ozlBPJsC #Java"""
+270148199312928769,2012-11-18 12:55:24,b'@pb_ee1 You can post to the #EclipseLink forums for assistance:  http://t.co/ZFvBBG41'
+269777480175464448,2012-11-17 12:22:18,"b'RT @rafaelliu: MOXy is a pretty neat JAXB impl. Congrats to @bdoughan and team, cool features and vibrant comunity #OSSproud'"
+269427890674868226,2012-11-16 13:13:09,b'@Lynx6 @glassfish What issue are you hitting?  You need to make sure you replace all the #EclipseLink bundles.'
+269049319808696321,2012-11-15 12:08:51,b'RT @TYsewyn: Seeing some nice features in the talk of @shaunmsmith at #Devoxx about the new @eclipselink version that also has @MongoDB  ...'
+269043181113466880,2012-11-15 11:44:27,b'New blog post based on an answer I gave on Stack Overflow:  Creating a Generic List Wrapper in JAXB - http://t.co/jICKvhYJ #java #xml'
+268743408380678146,2012-11-14 15:53:16,b'Java Persistence Performance: EclipseLink 15x faster than other JPA providers http://t.co/nBctcXFB'
+268678871476482048,2012-11-14 11:36:49,b'New Blog Post: Using JAXB With XSLT to Produce HTML http://t.co/aqUsHizi'
+267993143713091584,2012-11-12 14:11:59,b'Applying a Namespace During JAXB Unmarshal  http://t.co/r7UZOOoI via @dzone'
+266544590285324288,2012-11-08 14:15:57,b'@errygg The ContextResolver mechanism in #JAX-RS?  Here is an example that may help: http://t.co/f33AfF7L #jaxb #java'
+266283363902554113,2012-11-07 20:57:55,b'RT @goldstift: Wondered how @twitter handled huge traffic during election? They moved from Ruby to a @java VM Stack http://t.co/wvHViw74'
+266173261992304641,2012-11-07 13:40:25,"b""RT @maoo: @bdoughan thanks for your answer! I've used jaxb and I'm very happy with the results!"""
+265515338114945026,2012-11-05 18:06:04,"b'RT @cowtowncoder: After earlier complaining, I think discussions on JSON-P list have been quite productive lately. Having Genson, fast-j ...'"
+265185342297092096,2012-11-04 20:14:47,b'RT @toisrael: Falling in love with #EclipseLink MOXy'
+264108701793804288,2012-11-01 20:56:36,b'RT @arungupta: Blogged: Java EE 7 Status Update - November 2012: Here is a quick status update on different components that are... http: ...'
+263954201154052096,2012-11-01 10:42:40,b'New blog post: Applying a Namespace During JAXB Unmarshal - http://t.co/0NufzbNj #java #xml http://t.co/564ORO2v'
+263733432142671872,2012-10-31 20:05:24,"b'RT @arungupta: ""There is nothing named JEE"" quote by uber-Bill Shannon: http://t.co/Zl7pjYMf if you are want to keep living in 2004, the ...'"
+263597976889475072,2012-10-31 11:07:09,b'Updating EclipseLink in WebLogic | Javalobby: http://t.co/SyuqvFXZ'
+263452781124390912,2012-10-31 01:30:12,"b'RT @biemond: Easy way to access JPA with REST (JSON / XML): With the release of\xc2\xa0EclipseLink 2.4, JPA persistence units can be... http:// ...'"
+263298274377752576,2012-10-30 15:16:15,"b""There is a big difference between complaining and suggesting improvements.  Too many do the former believing they're doing the latter."""
+262929842566209536,2012-10-29 14:52:14,b'Good discussions occurring on the Java API for JSON Processing (JSR-353) mailing list.  Most from open source parser implementers. #java'
+260677276348346368,2012-10-23 09:41:20,b'@maoo A JAXB (JSR-222) impl is included in the JDK since Java SE 6. You can also try EclipseLink JAXB (MOXy): http://t.co/QGfYegd6'
+259286021991198720,2012-10-19 13:32:59,b'Updating EclipseLink in WebLogic http://t.co/p61424TW'
+258675830996230146,2012-10-17 21:08:18,b'RT @magirtiko: Must admit that create #Java #REST services is easy with #jersey and #jaxb. JAX-RS makes easy to manage both #XML and #JS ...'
+258650225932132352,2012-10-17 19:26:34,b'@nwallman EclipseLink JAXB (MOXy) offers an external mappinng file that allows multiple XML &amp; JSON mappings:  http://t.co/gGUy1s7U'
+258234445750992896,2012-10-16 15:54:24,b'@DavidHutchison #JAXB implementations could put enum values in alphabetical order to ensure that the schema is generated consistently.'
+258233630512537601,2012-10-16 15:51:09,"b""@DavidHutchison #JAXB doesn't currently provide a way to order enum values. Result of reflective call may have changed the generated schema."""
+258228173735620608,2012-10-16 15:29:28,b'@DavidHutchison What issue are you hitting with #JAXB?  Maybe I can help.'
+256849120424243201,2012-10-12 20:09:36,"b""@stephenjsweeney It's work to specify them, but they can\nt be auto detected  You only need to specify leaf types as parents can be found."""
+256830766191878144,2012-10-12 18:56:41,"b'@stephenjsweeney For Example: JAXBContext.newInstance(Root.class, SubClass1.class, Sublcass2.class);'"
+256830161998204928,2012-10-12 18:54:16,"b""@stephenjsweeney You don't need to use XmlSeeAlso, but your JAXBContext does need to be made aware of the subclasses somehow."""
+256822644433887233,2012-10-12 18:24:24,b'@stephenjsweeney What issue are you hitting with #JAXB?  Maybe I can help.'
+256695732642385920,2012-10-12 10:00:06,b'RT @GaryStafford: Specifying JSON Bindings | EclipseLink 2.4.x EclipseLink MOXy http://t.co/Fiv8k6Ph via @sharethis'
+254555370209546240,2012-10-06 12:15:04,b'@tfitch The following may help:  http://t.co/wbprk0Ry #JAXB'
+253562674296795136,2012-10-03 18:30:27,"b'@cowtowncoder A JSR needs to start first, and then a public mailing list would be available for discussion.'"
+253552262671122432,2012-10-03 17:49:04,b'@cowtowncoder Agree with annotations and generic types. Bootstrapping is an interesting topic JAXB style vs on the fly discovery.'
+253546101972537346,2012-10-03 17:24:36,b'@cowtowncoder @chuggid @noah_white OxM lower case X as in anything?'
+253229190025977857,2012-10-02 20:25:18,b'RT @rluttikhuizen: EclipseLink has no XML parsing overhead to go from POJOs to JSON and vice versa'
+253228911746494464,2012-10-02 20:24:11,b'RT @danilolorenzi: JPA-RS great idea!\n#jpa #eclipselink'
+253212497048391681,2012-10-02 19:18:58,"b'RT @mobileLarson: And btw ""Polyglot Persistence: EclipseLink JPA for NoSQL, Relational, and Beyond"" is another sold out session. Trend b ...'"
+253212183146680320,2012-10-02 19:17:43,"b""@chuggid @noah_white There isn't a spec yet.  Hopefully @cowtowncoder will participate and Jackson will provide an impl of it.  #java #json."""
+253181620314570753,2012-10-02 17:16:16,b'RT @noah_white: #Eclipselink extensible entity types look pretty slick. Could use today. #JavaOne'
+253181563930562561,2012-10-02 17:16:03,b'RT @danilolorenzi: #javaone #eclipselink putting all together JPA JAX-B JAX-RS multitenant nosql'
+253181016162836480,2012-10-02 17:13:52,"b""@ensode Here is an example of EclipseLink MOXy's JSON-binding support:  http://t.co/ozlBPJsC #json #java"""
+252894556142567424,2012-10-01 22:15:35,"b'@cowtowncoder Anyone can join JSR-353 and members of open source JSON libraries were invited.  More participation, better spec. #java #json'"
+252892657234370560,2012-10-01 22:08:02,b'@cowtowncoder Now that best practices have been established in open source is what makes in a good time to standardize support. #java #json'
+251840732661440512,2012-09-29 00:28:04,b'RT @jcp_org: JSR 339 The Java API for RESTful Web Services Public Review: http://t.co/ijAMZvXD'
+251442724157403136,2012-09-27 22:06:31,b'RT @glassfish: JSR 356 (Java API for WebSocket) Early Draft now formally available: http://t.co/RcjF5JMV Hear all about it at #javaone h ...'
+249230587641090049,2012-09-21 19:36:17,"b""@_angelos no problem.  I've come across many grumpy tweets about issues that were solved after pretty short discussions."""
+249230062526816256,2012-09-21 19:34:12,"b""@_angelos #JAXB itself doesn't require annotations (http://t.co/uE0tC0hC).  MOXy also offers XML metadata extension (http://t.co/nnoM20Ky)"""
+249215895803658240,2012-09-21 18:37:54,"b""@_angelos If you have any questions about #JAXB let me know. I'm the EclipseLink JAXB (MOXy) lead and a member of the JAXB (JSR-222) EG."""
+248878521697579008,2012-09-20 20:17:18,"b'Just answered my 1,000th #JAXB question on #StackOverflow http://t.co/4tRVraHH]'"
+248784147873681408,2012-09-20 14:02:17,"b'@jejking You can do the following to prevent a header from being marshalled:  marshaller.setProperty(Marshaller.JAXB_FRAGMENT, true);'"
+248092365624078336,2012-09-18 16:13:23,"b'RT @yokofakun: New blog post: Describing protein-protein interactions in XML: customizing the xsd-schema with JAXB, my notebook.:  http: ...'"
+245617537117716481,2012-09-11 20:19:18,b'RT @glassfish: Complete list of Java EE and GlassFish sessions at #JavaOne listed at: http://t.co/cn0YjWU9'
+245276903475384320,2012-09-10 21:45:45,b'RT @JavaOneConf: Students Can Discover #JavaOne for Free http://t.co/sY8JMuUS'
+244376456745062400,2012-09-08 10:07:42,b'RT @glassfish: JSON-P (JSR 353) early draft available: http://t.co/fuBqhTAH #javaee7 making progress'
+242312879997603840,2012-09-02 17:27:47,b'RT @janosgyerik: New post: Debugging strange unmarshalling problems when using jaxb http://t.co/5IOpStcc'
+241901616930885633,2012-09-01 14:13:34,"b""@tgrall Have you seen the new JSON binding we've added to EclipseLink JAXB (MOXy):  http://t.co/ozlBPJsC"""
+241547987132768257,2012-08-31 14:48:22,"b'RT @CompSciFact: ""There are just two kinds of languages: the ones everybody complains about and the ones nobody uses."" -- Bjarne Stroustrup'"
+241102313652113408,2012-08-30 09:17:25,b'Removing JAXBElement From Your Domain Model | Javalobby: http://t.co/dm0pENDo'
+241097067018207232,2012-08-30 08:56:34,"b""RT @Arktist: Java JAXB XML parsing capabilities are pretty neat - what I've seen of them so far. Rather elegant approach."""
+240912309546008576,2012-08-29 20:42:25,"b'RT @shaunmsmith: After the recording EclipseLink 2.4 shipped with JSON Binding, JPA-RS, Multi-tenancy enhancements, &amp; more http://t. ...'"
+240071043560128512,2012-08-27 12:59:31,b'Handle the Middle of a XML Document with JAXB and StAX | Javalobby: http://t.co/JM1GYbsT'
+239294356446670849,2012-08-25 09:33:15,"b""JAXB's @XmlTransient and Property Order | Javalobby: http://t.co/ivynvK9R"""
+238415473488850944,2012-08-22 23:20:53,"b'RT @glassfish: 12 submissions for GlassFish tshirt design, help pick a winner by voting at: http://t.co/nm535doa'"
+237961727835246592,2012-08-21 17:17:51,b'RT @arungupta: JSON-P (JSR 353) early draft javadocs are now available: http://t.co/2FSbRZye'
+236209852446306304,2012-08-16 21:16:32,b'RT @ricksapir: Searching for #eclipselink info? Try with my custom search engine: http://t.co/6g80XoJW #java #jpa #jaxb #dbws'
+236145112927838208,2012-08-16 16:59:16,"b""@pmjpmj What problem are you hitting with #JAXB?   I'm the #EclipseLink JAXB (MOXy) lead and may be able to help."""
+236117731202711554,2012-08-16 15:10:28,b'@vrystater You should check out the JSON binding we have added in EclipseLink (JAXB) MOXy:  http://t.co/ozlBPJsC'
+236046759120478209,2012-08-16 10:28:27,b'New blog post:  Removing JAXBElement From Your Domain Model - http://t.co/IQHlbYLN #jaxb #java #xml http://t.co/5Jn9IwgC'
+234949965766610944,2012-08-13 09:50:11,b'New Blog Post:  Handle the Middle of a XML Document with JAXB and StAX - http://t.co/P7T4xYYc #java #xml'
+234593944506347520,2012-08-12 10:15:29,b'JAXB and Root Elements | Javalobby: http://t.co/rjdYusMh'
+234250724681326592,2012-08-11 11:31:39,"b""New blog post: JAXB's @XmlTransient and Property Order http://t.co/i2XxeyiP, released early to answer an SO question: http://t.co/Y4PKeXdz"""
+234033447851671555,2012-08-10 21:08:16,b'@fitzecarraldo76 I have written a couple of articles that may help:  http://t.co/5ddNvgj8 #JAXB'
+233978872247488512,2012-08-10 17:31:24,"b'@ryokimball XML has XML schema (validation), XSLT (transformation), and XPath (queries) in the plus column.'"
+233971510635810818,2012-08-10 17:02:09,"b'@ben_turner #JAXB is a powerful API, if you have any questions about it feel free to send me a message:  http://t.co/dmA18UH6'"
+232983269233287170,2012-08-07 23:35:14,b'@projectbc the logo was contributed by a member of the user community as part of a contest shorty after we started the project.  I like it.'
+232780322671054849,2012-08-07 10:08:48,b'RT @javacodegeeks: JAXB and Root Elements http://t.co/sG2ndgbx'
+232093244874440704,2012-08-05 12:38:36,"b""RT @JakeWharton: In general, I'm very much not a fan of XML but JAXB is amazing when you are already working with something that has an  ..."""
+231321785214304258,2012-08-03 09:33:06,b'JAXB - No Annotations Required  http://t.co/I9iD3dFk via @dzone'
+231083216264650752,2012-08-02 17:45:06,b'RT @ricksapir: Refreshed EclipseLink #jpa and #jaxb docs:  http://t.co/tTSSDABw #java #eclipse #techcomm #opensource'
+231075273326600193,2012-08-02 17:13:32,"b""RT @craigdevel: @myfear Part of why I'm working on improving AS7 + EclipseLink integration. EclipseLink solves problems."""
+230250877041143808,2012-07-31 10:37:41,"b'New blog post , ""JAXB and Root Elements"" http://t.co/jUGlYykP #java #xml http://t.co/ZbSK2xaG'"
+230099993128734721,2012-07-31 00:38:08,b'@Sounie are you looking for something like this? http://t.co/8Vu5yPuV  #jaxb'
+230081987023613952,2012-07-30 23:26:35,b'JAXB - No Annotations Required http://t.co/J91CLroj'
+229955671569858560,2012-07-30 15:04:39,b'RT @javacodegeeks: EclipseLink MOXy as a JAXB provider http://t.co/0jqBI6ch'
+229868306750902272,2012-07-30 09:17:29,b'JAXB - No Annotations Required http://t.co/421hxkjO #java #xml http://t.co/TvSdYtFA'
+228807360599171072,2012-07-27 11:01:40,b'@mccraigmccraig @matthewSpleep Bad idea? #JAXB (JSR-222) is a config by exception OXM standard that enables both JAX-WS &amp; JAX-RS.'
+227905638670405633,2012-07-24 23:18:33,"b""@RobertReiz I don't agree that it is over engineered (I helped create it). I invite you to check out my #JAXB blog:  http://t.co/Hnc7MsnF"""
+227883859784630272,2012-07-24 21:52:00,"b""@cowtowncoder @robertreiz @christianbeil JAXB (JSR-222) impls don't swallow exceptions they report them to the ValidationEventHandler."""
+226481564001923072,2012-07-21 00:59:47,b'RT @ricksapir: New #eclipselink 2.4 Developing JAXB Applications Using EclipseLink MOXy guide http://t.co/HRVZ27VU #jaxb #json'
+225621182144192512,2012-07-18 16:00:56,b'@gwestr If you need any help with #JAXB please let me know:  http://t.co/6h1PIFyz'
+225288417657888768,2012-07-17 17:58:39,"b'RT @jasondlee: OH: ""I never warmed to hibernate, like I never warmed to spring. GF and EclipseLink are just plain simpler"" #glassfish'"
+218779923052109824,2012-06-29 18:56:13,b'I just became the MVP of blog20120418 on @masterbranch http://t.co/njGK8Y7y'
+217999757937876992,2012-06-27 15:16:07,"b""RT @doug_clarke: WTP's Dali 3.2 support in #Eclipse #Juno looks great. Provides great tooling for latest #EclipseLink features - http:// ..."""
+217998738940112896,2012-06-27 15:12:04,"b""@javamurph What issue are you hitting?  I'm the EclipseLink JAXB (MOXy) lead and may be able to help."""
+217998510769975297,2012-06-27 15:11:09,b'RT @doug_clarke: EclipseLink 2.4 has shipped. My thoughts on what is interesting - http://t.co/i68TvYPW. Release - http://t.co/zWBRfBw7'
+217988424429355008,2012-06-27 14:31:05,b'EclipseLink 2.4 Release Available for Download - http://t.co/6lk2uO12'
+217986311095726080,2012-06-27 14:22:41,b'RT @eclipselink: Eclipse Juno and EclipseLink 2.4 are here! http://t.co/MTwYAP1O'
+214722352913715202,2012-06-18 14:12:52,b'RT @jasondlee: Jersey 2 landed in the #GlassFish trunk last week.  Enjoy! (@gf_jersey)'
+211156627762577408,2012-06-08 18:03:57,b'@_rahulthakur I meant &amp;mp;mp; will be unmarshalled as &amp;.'
+211156157954396160,2012-06-08 18:02:05,b'@_rahulthakur &amp;amp; will be unmarshalled as &amp;.  Are you seeing different behaviour? #jaxb'
+206705151254331392,2012-05-27 11:15:23,"b""@aolifu I'm the EclipseLink JAXB (MOXy) lead, could you send me additional info about what you are trying to do?  http://t.co/dmA18UH6"""
+205973007548682240,2012-05-25 10:46:06,b'MOXy as Your JAX-RS JSON Provider - MOXyJsonProvider http://t.co/xJTXTlSR #eclipselink #in'
+203622138350022656,2012-05-18 23:04:35,"b'RT @oracletechnet: Best tech company investment since its IPO in last 30 years? Not Google, Apple, MSFT, or Cisco. http://t.co/czMVrn1F'"
+203531147114852352,2012-05-18 17:03:01,"b'@_rahulthakur You could @XmlRootElement(name=""A"") on the AType class, though I would use JAXBIntrospector do to the unwrapping.  #jaxb'"
+203473095313465346,2012-05-18 13:12:20,b'@_rahulthakur The following may help:  http://t.co/aHCLr9k6 #jaxb'
+202853323701891073,2012-05-16 20:09:35,b'@jsbret The following may help:  http://t.co/e71naQWb #eclipselink #jaxb'
+202371151249420289,2012-05-15 12:13:36,"b'@brianjriddle JAXB impls do not require an XML schema.  Here is an example of using 1 model, 2 services and 0 schemas:  http://t.co/gGUCz2h4'"
+202360884792791040,2012-05-15 11:32:49,b'@brianjriddle You may be interested in the XPath based mapping in EclipseLink JAXB (MOXy)?: http://t.co/D0GarUW3'
+200305194255396865,2012-05-09 19:24:14,"b'RT @matulic: Na OJDD 6. cervna dorazi prezentovat lide jako VP pro aplikacni servery, nebo EclipseLink JAXB/SDO Lead. Registrace: http:/ ...'"
+199956017260400640,2012-05-08 20:16:44,b'@robinhowlett I have not come across any.  If you find some would you mind forwarding the info to me?'
+199441192147103745,2012-05-07 10:11:00,b'Extending JAXB - Representing Metadata as JSON | Javalobby: http://t.co/bYHRwJCv #eclipselink'
+197858771840671744,2012-05-03 01:23:01,b'Using XmlAdapter for Testing | Javalobby: http://t.co/bMvznuNE #jaxb'
+197679976483532801,2012-05-02 13:32:33,"b'RT @fiammante: Wrote a tool converting any XPDL version to BPMN 2.0, importing processes in Rational RSA. Used JAXB on the standard XSDs ...'"
+197635886505144320,2012-05-02 10:37:21,b'Creating a RESTful Web Service: XML Metadata | Javalobby: http://t.co/KavpLew3 #eclipselink #jpa'
+195867928145559552,2012-04-27 13:32:07,"b'RT @glassfish: Oracle Fusion Middleware is Hiring in Ottawa, Canada: \n\nThe Oracle Fusion Middleware Team is looking for talent ... http: ...'"
+195079042117017600,2012-04-25 09:17:22,b'Binding to JSON & XML - Handling Null | Javalobby: http://t.co/jDDHkMBR #eclipselink #jaxb'
+195075118664388608,2012-04-25 09:01:47,b'@baraky you can specify the order of elements using the @XmlType annotation: http://t.co/9ToPNlCG #jaxb'
+193299294361616386,2012-04-20 11:25:17,b'RT @glassfish: Java EE Brings Power to the POJO: Enterprise Java Beans (EJBs) have come a long way in since J2EE 1.4.\xc2\xa0 Beginnin... http: ...'
+193290730729517056,2012-04-20 10:51:16,b'GlassFish 3.1.2 is Full of MOXy (EclipseLink JAXB) http://t.co/sWIQYWtZ'
+192927385795035136,2012-04-19 10:47:27,b'Extending JAXB - Representing Metadata as JSON http://t.co/wn34fyiI #eclipselink #in'
+192602593380405250,2012-04-18 13:16:51,b'MOXy as Your JAX-RS JSON Provider - Client Side http://t.co/F0QgWweB #eclipselink #jaxb'
+192566898704130048,2012-04-18 10:55:01,b'Creating a RESTful Web Service - Part 2/5 (XML Metadata) http://t.co/G5fEqeFL #eclipselink #jpa #in'
+192548804594122753,2012-04-18 09:43:07,b'RT @glassfish: WebSockets and Java EE 7: JSR 356 Starting Up: \n\nJava API for WebSocket (aka JSR 356) will define a standard API... http: ...'
+191842120489906176,2012-04-16 10:55:00,b'Binding to JSON & XML - Handling Null http://t.co/GqQwcxJN #eclipselink #jaxb #in'
+191838306202419201,2012-04-16 10:39:51,b'MOXy as Your JAX-RS JSON Provider - Server Side http://t.co/3h3q4lOa #jaxb #eclipselink'
+190736172086067200,2012-04-13 09:40:21,b'RT @glassfish: EclipseLink Moxy Provider for JAX-RS and JAX-WS: \n\nEclipseLink MOXy is a JAXB provider bundled in GlassFish 3.1.... http: ...'
+190021988327235584,2012-04-11 10:22:27,"b'@kpciesielski yes they have, I apologize for the delay.  I have just sent you a reply.'"
+189341733765652480,2012-04-09 13:19:21,b'RT @javacodegeeks: JAXB and Unmapped Properties http://t.co/Wg9RC1QM'
+187854485694058496,2012-04-05 10:49:34,b'JAXB and Unmapped Properties http://t.co/lH9D0qvi #jaxb #java #xml'
+186899226138132481,2012-04-02 19:33:42,b'Java Persistence Performance: EclipseLink JPA supports MongoDB http://t.co/POtcPguA'
+186832968952709122,2012-04-02 15:10:25,"b""RT @JAXconf: Interested in @doug_clarke 's session The Evolution of Java Persistence in EclipseLink? Find out more at http://t.co/zKqF1q ..."""
+185668171292880896,2012-03-30 10:01:56,b'RT @PunksRant: #Xstream is great but still lacks in documentation and ease of use as compared to #JAXB .. observed after toiling a lot'
+184727454882070529,2012-03-27 19:43:51,"b""@knr I may be able to help you with #JAXB.  I'm the EclipseLink JAXB (MOXy) lead:  http://t.co/dmA5GuI0"""
+184279927649091585,2012-03-26 14:05:33,b'RT @NeilHauge: Dali Juno M6 is out with new #EclipseLink dynamic persistence support and @XmlPath    support. Check it out - http://t.co ...'
+182934514585174017,2012-03-22 20:59:21,b'RT @aleftik: Nice Job Arun-&gt; Why is Java EE 6 better than Spring ?  https://t.co/EvPHHiIo'
+182931642216742914,2012-03-22 20:47:56,"b'@jamescarr Not yet, it\'s been a bit of a ""white whale"".  I\'ll take another look.  If I come up with something I\'ll post it to my blog.'"
+182555699086233600,2012-03-21 19:54:05,"b""@jamescarr I have added an enhancement request to add this behaviour to #EclipseLink #JAXB (MOXy)'s @XmlCDATA:  http://t.co/FR4BZMUE"""
+181727847021420545,2012-03-19 13:04:29,b'Client Side MOXy JSON Binding Explained http://t.co/fts9gH6r via @dzone #eclipselink #jaxb'
+181341553992794113,2012-03-18 11:29:30,b'RT @sbook: JAXB schema generation continues to be the coolest thing ever'
+180752635417214976,2012-03-16 20:29:21,b'@adericbourg This corresponds to the following issue:  http://t.co/1FrM0SLt #jaxb'
+180692035408363521,2012-03-16 16:28:32,b'@mr_michael_lee @jyeary You could use an XmlAdapter to map a java.util.Map:  http://t.co/TMi4LQal #jaxb'
+180335308515188736,2012-03-15 16:51:02,b'MOXy as Your JAX-RS JSON Provider - Client Side http://t.co/8hwk3DsB #EclipseLink #JAXB'
+180331945220255746,2012-03-15 16:37:40,"b'@glenmazza Sorry about that, here you go:  https://t.co/ryvYTtwS'"
+180326700620578817,2012-03-15 16:16:50,b'@glenmazza Here is an example pom.xml that pulls in #EclipseLink.'
+180220947494744064,2012-03-15 09:16:36,"b'RT @divijvaidya: #NewThingLearntToday JAXB &gt; SAX. Also, JAXB &gt; DOM. Me thinks my xml handling problem solved \\m/'"
+179934925846351872,2012-03-14 14:20:04,b'Just received the gold badge for the #JAXB tag on #StackOverflow -  http://t.co/1EXDFjLC'
+179687066064527360,2012-03-13 21:55:09,b'@cuberri you may find the following useful:  http://t.co/O0iaJetO #jaxb'
+179663827779059712,2012-03-13 20:22:49,"b""RT @eddieawad: Don't forget, call for papers opens tomorrow, March 14th http://t.co/BMmWaYVr #Oracle #OOW12"""
+179622646533722113,2012-03-13 17:39:10,b'@adericbourg Could you send me a sample (http://t.co/dmA5GuI0)?  As the naming algorithm is covered by JSR-222 this may be a bug.'
+179599116521836545,2012-03-13 16:05:40,b'MOXy as Your JAX-RS JSON Provider - Server Side: http://t.co/b9YoG3R1 #jaxb #eclipselink'
+178233792337690624,2012-03-09 21:40:22,b'@roblittledotca You might find the following articles helpful wrt #JAXB and inheritance:  http://t.co/QYCHUSxW'
+178141578697773057,2012-03-09 15:33:56,"b""@kpciesielski if you don't mind:  http://t.co/dmA5GuI0"""
+178138050122096640,2012-03-09 15:19:55,b'@kpciesielski which version and implementation of JAXB are you referring to?'
+178121549084237824,2012-03-09 14:14:21,"b""@marty_pitt Thanks, I'm happy I was able to help."""
+176760132967989248,2012-03-05 20:04:34,b'RT @glassfish: Upgrading to GlassFish 3.1.2 - http://t.co/XBmKq7If'
+176040638456922112,2012-03-03 20:25:33,b'RT @NeilHauge: #EclipseLink dynamic persistence support is really coming together in #Dali for Juno M6.  Dynamic entity gen and XML code ...'
+175303156308262913,2012-03-01 19:35:04,"b""@masudanaika you may be interested in the JSON binding we're adding to EclipseLink JAXB (MOXy):  http://t.co/ozlGnjBM"""
+174940664977571842,2012-02-29 19:34:39,b'@glenmazza this link contains a MessageBodyReader/Writer you can use to enable EclipseLink JAXB (MOXy) for JSON:  http://t.co/WrLngMVI'
+174936799553138688,2012-02-29 19:19:17,b'GlassFish 3.1.2 is Full of MOXy (EclipseLink JAXB) -http://blog.bdoughan.com/2012/02/glassfish-312-is-full-of-moxy.html'
+174935601068523520,2012-02-29 19:14:32,b'RT @glassfish: GlassFish 3.1.2 (Final) is here! - http://t.co/Ph5Nz5b6'
+174935331546734593,2012-02-29 19:13:27,b'@glenmazza Have you seen the JSON binding in EclipseLink (JAXB) MOXy?  For an example see: http://t.co/ozlGnjBM'
+174654371538280450,2012-02-29 00:37:01,b'@jamescarr Do you have the eclipselink.jar on your class path or bundles?  What environment are you running in?  Are you using Maven?'
+174234676343480320,2012-02-27 20:49:18,b'RT @DeliciaBrummitt: I am loving jaxb right now'
+174210023784853505,2012-02-27 19:11:20,"b'RT @chrisguindon: Interesting! Building HTML5 Applications with EclipseLink: JSON, JAX-RS, JPA & JS | #econ2012 - http://t.co/AhiqKId6 ( ...'"
+174188866603982849,2012-02-27 17:47:16,b'@jamescarr you may be interested in the following #EclipseLink JAXB (MOXy) extension to override the default names:  http://t.co/GSS6hSN8'
+173063824872706049,2012-02-24 15:16:45,b'@mrt1nz @davidgreco You can specify an XmlAdapter on the XSD side:  http://t.co/MOPulPWR #jaxb'
+172805556858400768,2012-02-23 22:10:29,b'JAXB and Package Level XmlAdapters | Javalobby: http://t.co/XpDLZ0BY via @AddThis'
+172679404684705792,2012-02-23 13:49:12,b'RT @glassfish: And then there were 14 compatible Java EE 6 implementations - http://t.co/k68PJZ2Q'
+172321293310504961,2012-02-22 14:06:12,"b""Mapping an Arbitrary List of Objects using JAXB's @XmlAnyElement and XmlAdapter  http://t.co/05k9oKU7 via @dzone #java #xml"""
+172123163642175490,2012-02-22 00:58:54,b'I just became the MVP of EclipseLink on @masterbranch http://t.co/njGOGy8s'
+172064035431383040,2012-02-21 21:03:57,"b""@kevinthomas89 I don't have it posted, but if you send me a message (http://t.co/dmA5GuI0) I can send it to you."""
+170567055114903552,2012-02-17 17:55:29,"b'@robinhowlett EclipseLink 2.4 is still in development, but you can grab a snapshot.  Here is an example pom file:  https://t.co/hBT8CXam'"
+170135633048776705,2012-02-16 13:21:10,b'JAXB and Package Level XmlAdapters http://t.co/yMthNFXu #java #xml #jaxb'
+169858040483418113,2012-02-15 18:58:07,"b'RT @DonaldOJDK: Update to Java 6 EOL, and clarification of the long standing Java EOL policy - https://t.co/ZDJeqDIQ'"
+169751159198851072,2012-02-15 11:53:24,"b""@mrt1nz You may find the JSON binding we're currently adding to #EclipseLink JAXB (MOXy) useful: http://t.co/ozlGnjBM"""
+169459430256164865,2012-02-14 16:34:11,"b'@Daenyth no problem, there is also the EclipseLink forum (http://t.co/xQpfyfq0), or Stack Overflow (http://t.co/TrkQiikZ) if you need help.'"
+169458690993299456,2012-02-14 16:31:14,"b'@Daenyth You may find the #EclipseLink JAXB (MOXy) user guide (http://t.co/gTs4B6s4), and my blog (http://t.co/6h1UgfHJ) helpful.'"
+169435673282093057,2012-02-14 14:59:47,"b""JAXB's @XmlType and propOrder  http://t.co/iaDKihBj via @dzone"""
+169160928607211520,2012-02-13 20:48:02,"b""@Daenyth What issue are you hitting with #JAXB?  I'm the #EclipseLink JAXB (MOXy) lead and maybe able to help."""
+169061350776127489,2012-02-13 14:12:21,"b""Mapping an Arbitrary List of Objects using JAXB's @XmlAnyElement and XmlAdapter - http://t.co/EcxjQaw9 #java #xml"""
+167608674896969729,2012-02-09 13:59:56,"b""JAXB's @XmlType and propOrder http://t.co/9ToPNlCG #java #xml"""
+167234277715623937,2012-02-08 13:12:13,"b""@rattlingCan Thank you for the kind words.  I'm happy to hear you are finding the information useful."""
+167203631731453952,2012-02-08 11:10:26,b'RT @rattlingCan: @bdoughan thanks for your great blog and for being Mister JAXB on http://t.co/cq6qvMvC ! #jaxb'
+166923675159904257,2012-02-07 16:38:00,b'RT @aleftik: Getting ready for GlassFish 3.1.2 release!.Things are looking good!'
+166528003709472769,2012-02-06 14:25:44,"b""JAXB and Inheritance - EclipseLink MOXy's @XmlClassExtractor - http://t.co/CMkgV4HK #java #xml"""
+165579498673287168,2012-02-03 23:36:43,b'RT @glassfish: GlassFish 3.1.2 Release Candidate builds are here! http://t.co/zFpPF7TB'
+165083721425362946,2012-02-02 14:46:40,b'JAXB and Inheritance - Using XmlAdapter  http://t.co/dwnnzmuv via @dzone'
+164749769871331330,2012-02-01 16:39:40,b'@jensfischerhh In the future the following may help you with JAXB and namespaces:  http://t.co/wbpvRASs'
+164727443473711104,2012-02-01 15:10:57,b'How Does JAXB Compare to XMLBeans?  http://t.co/fxORYWdv via @dzone'
+164335410795921409,2012-01-31 13:13:09,"b""@maker7000 what issue are you hitting with #JAXB?  I'm the #EclipseLink JAXB (MOXy) lead and may be able to help."""
+162257436231729152,2012-01-25 19:36:02,b'RT @FelfelWorld: Introduction To JAXB http://t.co/RwiXmM09'
+162130309264060416,2012-01-25 11:10:52,b'JAXB and Inhertiance - Using XmlAdapter http://t.co/q3Gmin6J #jaxb #java #xml'
+161920401931374593,2012-01-24 21:16:46,b'@niborst @XmlSeeAlso was introduced in JAXB 2.1 which is why it may not have appeared in the Javadoc you were using:  http://t.co/yplBprtJ'
+161851751006343170,2012-01-24 16:43:59,"b'RT @kingsfleet: Using MoXY with JAX-WS in WLS 12, interestingly XML Schema generation with those nice XmlPath annotations. http://t.co/m ...'"
+161766844850634752,2012-01-24 11:06:35,b'How Does JAXB Compare to XMLBeans? http://t.co/TNyTZiEU #jaxb #java #xml'
+160354897353637890,2012-01-20 13:36:01,b'RT @fribeiro1: How to Generate Serializable JAXB Classes http://t.co/xkg0ngK9'
+160348655897939969,2012-01-20 13:11:13,b'RT @glassfish: GlassFish as one of top 2011 open source projects http://t.co/Jo6gA8Zz'
+159364538490302464,2012-01-17 20:00:41,"b'@SeanTAllen If you have any suggestions for improvements to JAXB (JSR-222), let me know and I can forward them on:  http://t.co/dmA5GuI0'"
+159361094517919745,2012-01-17 19:47:00,"b""@SeanTAllen What issue are you hitting with #JAXB?  I'm the EclipseLink JAXB (MOXy) lead and may be able to help/"""
+158284624538247169,2012-01-14 20:29:29,b'Make your JAXB cleaner with the MOXy implementation  http://t.co/pcIua3A3 via @dzone'
+158263202378022912,2012-01-14 19:04:22,b'RT @chicorss: JAXB Singletons Made Easy http://t.co/MGDYFBQk'
+157828310506807297,2012-01-13 14:16:16,b'@hageskal This problem is often encountered if a field is annotated when access type is property/public(default): http://t.co/TbfMd05t #jaxb'
+157643950574944256,2012-01-13 02:03:41,b'RT @javacodegeeks: Extending your JPA POJOs http://t.co/HgHrzwYG'
+157112864015003649,2012-01-11 14:53:20,b'@hageskal What issue are you hitting with #JAXB?  I lead the #EclipseLink JAXB (MOXy) impl and may be able to help.'
+156840657481240576,2012-01-10 20:51:41,b'RT @doug_clarke: \xe2\x80\x9c@eclipsecon: Welcome to Oracle as an  #EclipseCon Gold sponsor.  http://t.co/HNNw4mNO\xe2\x80\x9d'
+155313346026016770,2012-01-06 15:42:41,"b""@danielpetisme I'm the #EclipseLink MOXy lead, feel free to contact me (http://t.co/dmA5GuI0).  Also check out:  http://t.co/gGUCz2h4"""
+155244068279033856,2012-01-06 11:07:24,"b""RT @mmilinkov: 2012 - It's Going to be an Exciting Year for Eclipse http://t.co/9vGCaq4r"""
+155004918879621120,2012-01-05 19:17:07,b'RT @JavaOneConf: Sign up to be notified for #JavaOne Call For Paper here - http://t.co/nqyyIIxO'
+154947338627067904,2012-01-05 15:28:18,b'RT @javacodegeeks: Make your JAXB cleaner with the MOXy implementation http://t.co/Oi5OIPyN'
+154745282989535232,2012-01-05 02:05:25,b'RT @jcp_org: SE/EE EC approves JSR 353 Java API for JSON Processing: http://t.co/vR4xYQsa'
+154272603358502913,2012-01-03 18:47:09,b'@slite2 Could you provide additional details about your use case?:  http://t.co/dmA5GuI0'
+153908814419202048,2012-01-02 18:41:35,"b""Dublin's Tech Blog: Make your JAXB cleaner with the MOXy implementation: http://t.co/ZJkaKwaX #jaxb #eclipselink"""
+153847568848273409,2012-01-02 14:38:13,b'@CodingFabian have you tried JAXB?  An implementation is included on Java SE 6.  #java #xml'
+153835273787146240,2012-01-02 13:49:22,b'@slite2 you could use the Bean Validation (JSR-303) annotations with your model.'
+152828527518035969,2011-12-30 19:08:55,b'@hardillb which JPA implementation were you using?  I believe they all support static inner classes.'
+152730718483648512,2011-12-30 12:40:15,"b""@hardillb What JAXB issue did you hit when building your JAX-RS service?   I'm the EclipseLink JAXB (MOXy) lead and may be able to help."""
+152697932733358080,2011-12-30 10:29:58,"b""RT @javalobbyposts: XML Schema to Java - Generating XmlAdapters: In previous posts\n I have demonstrated how powerful JAXB's XmlAdapt...  ..."""
+152357730135457792,2011-12-29 11:58:08,b'RT @javalobbyposts: Mapping Objects to Multiple XML Schemas - Weather Example: I have written previous posts on EclipseLink JAXB (MO...  ...'
+152357304501669888,2011-12-29 11:56:26,b'RT @javalobbyposts: JAXB and Joda-Time: Dates and Times: Joda-Time\n provides an alternative to the Date and Calendar classes current...  ...'
+150292011491139584,2011-12-23 19:09:42,"b'RT @seicocz: Once again I discovered beauty of JAXB. I needed to get a list of URLs from a sitemap. I googled sitemap xsd,... http://t.c ...'"
+149487961044549632,2011-12-21 13:54:41,"b""@lonnekedikmans I've forwarded this tweet onto the DBWS lead, he'll be messaging you soon. #eclipselink"""
+149470624220315648,2011-12-21 12:45:48,b'@tbeernot Could you send the issue you are seeing to our mailing list?:  eclipselink-users@eclipse.org #eclipselink #java7'
+149458342459342849,2011-12-21 11:57:00,"b'RT @glassfish: Grizzly 2.2 is here, WebSocket inside! (& more) : http://t.co/kFFO0H1N'"
+149448416953511936,2011-12-21 11:17:33,b'RT @javalobbyposts: EclipseLink MOXy is the JAXB Provider in WebLogic Server 12c: I am very happy to announce that EclipseLink JAXB ...  ...'
+149444060162162688,2011-12-21 11:00:15,"b'@jeffcoble JAXB is the standard binding layer for JAX-RS.  Your app will run on any Java EE server:  GlassFish, WebLogic, WebSphere, etc.'"
+148600098446782464,2011-12-19 03:06:38,"b'RT @OracleWebLogic: New Blog Post: WebLogic Weekly for December 19th, 2011: 12c Q+A, MOXy and JAXB, TopLink Grid for JPA with Coherence, ...'"
+148579920644288512,2011-12-19 01:46:28,b'@phasmal Could you provide more details on what you are looking for JAXB to support?: http://t.co/dmA5GuI0'
+148119450783195136,2011-12-17 19:16:43,"b""@franciscophilip @notessensei You are looking to create a Java client to access CouchDB's JSON RESTful API?"""
+148027002547470336,2011-12-17 13:09:22,b'@franciscophilip @notessensei EclipseLink JAXB (MOXy) also does JSON parsing:  http://t.co/ozlGnjBM'
+147776479424557056,2011-12-16 20:33:52,"b'@chuggid Yes, you can leverage the JAX-RS ContextResolver mechanism for this.  Here is an example:  http://t.co/f33ENf8F #eclipselink #jaxb'"
+147775174039715840,2011-12-16 20:28:41,b'EclipseLink MOXy is the JAXB Provider in WebLogic 12c - http://t.co/YnXau7qr #jaxb #jax-ws #weblogic'
+147735993410256896,2011-12-16 17:53:00,b'@chuggid You may be interested in EclipseLink JAXB (MOXy). We have externalized metadata that would help your use case  http://t.co/nnoQzALs'
+147688376852680704,2011-12-16 14:43:47,b'RT @javacodegeeks: Reusing Generated JAXB Classes http://t.co/9wa61rD6'
+147653676700413952,2011-12-16 12:25:54,"b'RT @litrik: Experienced bug in EclipseLink, checked bug tracker, downloading nightly build with fix. Open source FTW!'"
+146978441504358401,2011-12-14 15:42:45,b'@0xcafebabe Thank you for doing that. I have targeted that enhancement http://t.co/hZPOkKZP for #EclipseLink 2.4 (our next release). #jaxb'
+146970310216908800,2011-12-14 15:10:27,b'@0xcafebabe No good reason. We have an enhancement request in EclipseLink JAXB (MOXy) for it:  http://t.co/af7dRF1t #jaxb'
+146899424847736833,2011-12-14 10:28:46,b'RT @glassfish: Jersey 1.11 is here with MOXy support - http://t.co/fAAHINtQ'
+146891597513113600,2011-12-14 09:57:40,b'RT @TweetingFroggy: #Jersey 1.11 is out. Main new feature is EclipseLink #MOXy support (http://t.co/JQBGRLdk). Changelog:...: http://t.c ...'
+146891339429195776,2011-12-14 09:56:39,b'RT @0xcafebabe: Just threw away ~1000 LOC by replacing custom XML parsing code w/ JAXB. FTW!'
+145328025314131968,2011-12-10 02:24:35,b'RT @cpurdy: Congrats team! WebLogic 12c now available for download: http://t.co/Wjfesgpf'
+145191637079961601,2011-12-09 17:22:38,b'@jsjohnst @rckenned JAXB is the JAX-WS/JAX-RS binding layer for every major Java EE app server.  A lot of work goes into making JAXB fast.'
+144755858243457024,2011-12-08 12:31:00,"b""@DrMathochist ObjectMapper that's a Jackson class isn't it?"""
+144735952387055617,2011-12-08 11:11:54,b'@DrMathochist you can set a configured instance on Marshaller/Unmarshaller: http://t.co/pDHJDUvX.  I will follow up with an email. #jaxb'
+144550160976969728,2011-12-07 22:53:38,"b'@DrMathochist I do, how can I help:  http://t.co/wuwIw7B5 #jaxb'"
+144412491995283457,2011-12-07 13:46:35,b'RT @lonnekedikmans: Doug: extension for flexfields in eclipselink. --&gt; cool!! #ukoug2011'
+143705996034965505,2011-12-05 14:59:14,b'Reusing Generated JAXB Classes http://t.co/mixvwfw1 #jaxb #java #xml #in'
+142282887880900610,2011-12-01 16:44:18,b'RT @dave_cabelus: 90 minutes until #weblogic 12c launch with Hasan Rizvi and Will Lyons http://t.co/pfqcWOJb'
+141994794707730433,2011-11-30 21:39:31,b'#JAXB and Namespace Prefixes http://t.co/QjA6k2GU #java #xml #in'
+141685089439465475,2011-11-30 01:08:52,b'@ManishChaks you can get this exception if you annotate the field but have accessor type as property or public member:  http://t.co/TbfMd05t'
+141673521515479041,2011-11-30 00:22:54,"b""@ManishChaks what issue are you hitting?  I'm the EclipseLink JAXB (MOXy) lead."""
+141179652294193152,2011-11-28 15:40:26,b'@zoom_nu You can use @XmlElement(type=Object.class).  See http://t.co/5X4dlAUk'
+140140860774944769,2011-11-25 18:52:39,b'@morgantaschuk You may be interested in #EclipseLink.  It has both JPA & JAXB implementations along with extensions to ease the integration.'
+139657445348880384,2011-11-24 10:51:44,b'@simonetripodi #EclipseLink #JAXB (MOXy) offers an XPath mapping extension to avoid the 1:1 relationship: http://t.co/T4Vq83lD'
+137494000390246400,2011-11-18 11:34:58,"b""@petterholmstrom could you provide more details through my contact page (I'm the MOXy JAXB lead):  http://t.co/dmA5GuI0"""
+137489950185766913,2011-11-18 11:18:53,"b'@petterholmstrom afterUnmarshal(Unmarshaller u, Object parent) is called at both the parent and child levels #jaxb #java.'"
+137145657684262913,2011-11-17 12:30:47,"b""@royaltyindia could you provide more details about your use case? I'm the #EclipseLink #JAXB (MOXy) lead: http://t.co/dmA5GuI0"""
+132533471628378113,2011-11-04 19:03:36,b'RT @java: JUG members: Adopt A JSR! http://t.co/gNx7PJO2'
+132531819961782272,2011-11-04 18:57:02,b'RT @java: Jersey 1.10 released #JAX-RS http://t.co/Yx20afhX /via @jfarcand'
+132524392424013824,2011-11-04 18:27:31,"b""@filipesaraiva Checkout http://t.co/wiekMfjB.  Note: I'm the #EclipseLink JAXB (MOXy) lead and a member of the #JAXB 2 (JSR-222) EG."""
+132418436495187968,2011-11-04 11:26:30,b'@mrt1nz Not yet. If you already have a #JAXB impl working with #Scala you could try swapping in MOXy as the provider:  http://t.co/04wEjLW3'
+132411676384444416,2011-11-04 10:59:38,b'@mrt1nz you may be interested in #EclipseLink MOXy.  You can use the same annotations for #XML\n and #JSON: http://t.co/wSOY8w3Q'
+132156041373827072,2011-11-03 18:03:50,b'@lmcalpin You can use an external binding file to control class gen without modifying the schemas and -p with XJC to control package name.'
+132155734635970560,2011-11-03 18:02:37,b'@lmcalpin You may be able to use episode files to make the compilation easier:  http://t.co/AY0MbpHR.'
+132152623771037696,2011-11-03 17:50:15,b'@lmcalpin What issue are you hitting?'
+131828936496783360,2011-11-02 20:24:02,b'Here is an example of using episode files with XJC when generating classes from multiple related XML schemas http://t.co/AY0MbpHR #jaxb'
+129969922397831170,2011-10-28 17:16:58,b'@fcamblor @ndeloof Why not use one object model with both JAXP and JPA annotations instead of having two models? #jaxb #jpa'
+129539982330306560,2011-10-27 12:48:33,b'RT @Cynic_one: EclipseLink JPA: An Advanced ORM Persistence Framework #Dzone #Refcardz http://t.co/ZYHHXPcS'
+128486800246321152,2011-10-24 15:03:35,b'@cymantic What issue are you hitting?  The following may help:  http://t.co/vcTIgYK4 #jaxb #spring'
+127781771822632961,2011-10-22 16:22:03,b'RT @ChristophBeck: StAXON Wiki - Using JAXB - http://t.co/h9XqoKAL'
+127428656481046529,2011-10-21 16:58:53,b'@ivarsv You could leverage an XmlAdapter for the Date class registered at the package level for this use case:  http://t.co/O0iaJetO #jaxb'
+127183168120958976,2011-10-21 00:43:24,b'@danielglauser the following may help: http://t.co/wbpvRASs #jaxb'
+126707451872546817,2011-10-19 17:13:05,b'RT @glassfish: JCP.next Final Approval Ballot - We have a go! http://t.co/k4f9gkQK'
+126658279249166337,2011-10-19 13:57:41,b'@villesv You may be interested in the mapping document in #EclipseLink #JAXB (MOXy) as an alternative to annotations:  http://t.co/nnoQzALs'
+125999572291026945,2011-10-17 18:20:13,"b'@matttriner Since you have used XStream, here is comparison I wrote:  http://t.co/wiekMfjB #jaxb'"
+125959113762021377,2011-10-17 15:39:27,b'RT @carloschacin: EclipseLink Goes Cloud \xe2\x80\x93 Q&A http://t.co/bwbW5DyG'
+125951678888427521,2011-10-17 15:09:54,b'@_nd_ Have you tried creating a package level XmlAdapter for Long?  Here is an example demonstrating at package level: http://t.co/O0iaJetO'
+125949608659660800,2011-10-17 15:01:41,b'@_nd_ What kind of errors?'
+125938036855947265,2011-10-17 14:15:42,b'@matttriner Have you given any of the JAXB implementations a try?  Here is a taste of what #EclipseLink (MOXy) can do:  http://t.co/gGUCz2h4'
+124205724447420416,2011-10-12 19:32:06,b'JAXB (XJC) Imported Schemas and XML Catalogs http://t.co/gdPSEqo0 #jaxb #java #xml #eclipselink'
+124199471864229889,2011-10-12 19:07:16,b'RT @Sellberg: Wrote a small blog post about JPA pagination in Eclipselink: http://t.co/Q583gAh0 #in #jpa'
+123744639609081856,2011-10-11 12:59:55,"b""@samuel_langlois Hi Samuel, I'm now following you.  You will need to follow me as well before we can DM."""
+122320257619738624,2011-10-07 14:39:56,b'@donkelito Have you seen the @XmlCDATA extension in #EclipseLink #JAXB (MOXy)?   http://t.co/ZICliiX5 #java #xml'
+120814091106394112,2011-10-03 10:54:58,b'RT @tomeuCabrer: Despu\xc3\xa9s de comparar JAXB vs Simple vs XStream para convertir POJO a XML el ganador por goleada es JAXB'
+119815185186820096,2011-09-30 16:45:40,"b""Mixing Nesting and References with JAXB's XmlAdapter http://t.co/gKrth5gz #jaxb #java #xml #eclipselink"""
+119466336719077376,2011-09-29 17:39:28,b'Great article by Antony Reynolds & Andrew Gregory demonstrating #EclipseLink MOXy with SOA Suite http://t.co/qGtxo6F3 #java #xml #Oracle'
+118817750847209472,2011-09-27 22:42:13,"b""@openwms EclipseLink is also the JPA reference implementation, so we're familiar with using EclipseLink JAXB (MOXy) to map JPA entities."""
+118817254098997248,2011-09-27 22:40:15,"b""@openwms #EclipseLink MOXy is a standard #JAXB impl (I'm a member of the JSR-222 EG).  I'm surprised in your response to my offer to help."""
+118727208922652672,2011-09-27 16:42:27,b'@netzapper Have you tried JAXB?  I lead the EciipseLink MOXy implementation:  http://t.co/gGUCz2h4'
+118621390931890176,2011-09-27 09:41:58,b'@fridrik @shatsar #JAXB does not require an XML schema.  Have you checked out #EclipseLink JAXB (MOXy)?:  http://t.co/gGUCz2h4 #java #xml'
+118132589461647360,2011-09-26 01:19:38,b'@openwms Check out the extensions in #EclipseLink #JAXB (MOXy) for mapping #JPA entities to #XML:  http://t.co/qthBjXgp #java'
+116629570039455744,2011-09-21 21:47:11,b'@PedesAndres what kind of objects are you trying to map? #jaxb'
+116204429191028738,2011-09-20 17:37:49,"b'@jimkeeler What type of example are you looking for?  Could you send me details via my ""Contact Me"" page:  http://t.co/dmA5GuI0'"
+116151121956974593,2011-09-20 14:06:00,"b'@cornerpirate you can always use classloader.getResourceAsStream(""foo/bar.xml"") and then process the stream as you see fit.  #java #xml'"
+115796257192165376,2011-09-19 14:35:53,b'Interesting example by Christopher Beck demonstrating how to use #JAXB with #StAXON to produce #JSON:  http://t.co/fiE0vxqk #java'
+115382103234981890,2011-09-18 11:10:11,"b'@jeppec I\'m very interested in hearing more details.  There is a ""Contact Me"" form on my website:  http://t.co/ekMW7yTK'"
+114752969534214144,2011-09-16 17:30:14,b'@joachimbaran have you had a chance to try out EclipseLink MOXy for #XML and #JSON binding?  http://t.co/wSOY8w3Q #java'
+114730489536987137,2011-09-16 16:00:54,b'@jeppec What issue are you hitting with #JAXB and #XJC?'
+114394764815761410,2011-09-15 17:46:51,"b'@ON3Z3RO #JAXB 2 (JSR-222) is based on Java SE 5 (enums, annotations, etc).  You will need to use a JAXB 1 impl with JDK 1.4.'"
+114366599431069696,2011-09-15 15:54:56,b'@triplem74 for this use case you can configure #JAXB to use field access:  http://t.co/TbfMd05t since your property is unmodifiable.'
+114335776866713600,2011-09-15 13:52:28,b'RT @javacodegeeks: Mapping Objects to Multiple XML Schemas - Weather Example http://t.co/4625rBPT'
+114275048482803712,2011-09-15 09:51:09,b'@ON3Z3RO what issue are you hitting? #jaxb'
+114141264743632897,2011-09-15 00:59:32,b'@OldManKris have you registered your XML schemas in the XML catalog?  This enhances the experience with the XML editor. #Eclipse'
+114043352269336576,2011-09-14 18:30:28,"b""@virtualkhill What issue are you hitting with #JAXB? I'm the EclipseLink JAXB (MOXy) lead and may be able to help."""
+113977522131189761,2011-09-14 14:08:53,"b""@mdendot Here is a JAXB (JSR-222) tutorial that does that:  http://t.co/SbbmZCu.  An impl is included in Java SE 6, I'm the MOXy JAXB lead."""
+113955791286968320,2011-09-14 12:42:32,b'@mdendot what are you trying to build? #Java #xml'
+113689892583772162,2011-09-13 19:05:57,b'@danielglauser feel free to contact me if you have any #JAXB questions:  http://t.co/iWVuZfG.'
+113681802119483392,2011-09-13 18:33:48,b'@bsletten @danielglauser JAXB only requires annotations where you desire behaviour different from the default:  http://t.co/SbbmZCu'
+113679139118133248,2011-09-13 18:23:13,"b'@danielglauser @bsletten There are multiple JAXB impls (with their own extensions), check out EclipseLink JAXB (MOXy):  http://t.co/iWFyTeK'"
+113671683742765056,2011-09-13 17:53:35,b'@danielglauser If you want to interact with #XML as #Java domain objects check out #JAXB:  http://t.co/qYdDvV6'
+113616201992777728,2011-09-13 14:13:08,b'RT @java: JDK 7: Small Library Treats #java7 http://t.co/wmou2QU'
+113615403099492352,2011-09-13 14:09:57,b'RT @DonaldOJDK: The incredible Diversity of JavaOne http://t.co/ryQxyVe'
+113599340966182912,2011-09-13 13:06:08,"b""@triplem74 what issue are you hitting with #JAXB ?  I'm the #EclipseLink JAXB (MOXy) lead, I may be able to help."""
+113346931505364992,2011-09-12 20:23:09,b'@tsmd57 The XML schema your model was generated from can be used to validate the XML being unmarshalled:  http://t.co/yilgty1 #jaxb'
+113261682800865280,2011-09-12 14:44:24,b'@icougil If you are using JAXB 2.2 then you could use @XmlElement at the parameter level to set a namespace URI. #jaxb'
+113242956374347776,2011-09-12 13:29:59,"b'@icougil The following may help http://t.co/faK1baU, what issues are you hitting?'"
+111881500940713985,2011-09-08 19:20:03,b'Mapping Objects to Multiple XML Schemas - Weather Example: http://t.co/DQfrUY7 #jaxb #java #xml #eclipselink #in'
+111218836291850240,2011-09-06 23:26:51,"b'@CarraroUriel #JAXB is the #Java SE/EE standard for converting objects to/from #XML. There are \nmultiple implementations: MOXy, Metro, JaxMe'"
+109255488943828992,2011-09-01 13:25:13,b'RT @nmccready: Code Monkey See Code Monkey Do: Hello Java and JAXB - Un-Marshal reflectivley http://t.co/Aq28GQc - New Post thanks to @b ...'
+109219775783251968,2011-09-01 11:03:18,b'@andystewart79 here is approach you can use with XmlAdapter to handle multi-arg constructors:   http://t.co/HV1vCpb #jaxb'
+108890933071839233,2011-08-31 13:16:36,"b""RT @shaunmsmith: My latest blog about mapping to Oracle DB's XMLTYPE with #EclipseLink: http://t.co/GWrCXC8  #JPA #Oracle"""
+106821081658179584,2011-08-25 20:11:45,b'XML Schema to Java - Generating XmlAdapters http://t.co/RwoPpSS #jaxb #eclipselink #java #xml #in'
+106804162884403201,2011-08-25 19:04:31,"b""@Faulomi I haven't received your message via my blog.  I have sent you my email address via a Twitter direct message."""
+106766814012375041,2011-08-25 16:36:06,"b'@Faulomi Email might be easier, could you send me a message using the following link:  http://t.co/iWVuZfG'"
+106757907512705024,2011-08-25 16:00:43,"b""@Faulomi An RI dependency was introduced (bug). I haven't been able to reproduce the issue on the latest, have you run the update tool?"""
+106463650138697728,2011-08-24 20:31:26,b'JAXB and Enums http://t.co/MnVf5RR #jaxb #java #xml #eclipselink #in'
+106388670608703488,2011-08-24 15:33:30,b'EclipseLink Team Blog: EclipseLink: Multitenancy with Oracle VPD http://t.co/STwAhAR'
+106373987893911552,2011-08-24 14:35:09,"b'@nmccready You can include sequence in the XPath node=""/x:schema/x:element[@name=\'foo\']/x:complexType/x:sequence/x:element[@name=\'bar\']"".'"
+106357932232417280,2011-08-24 13:31:21,b'@nmccready What other issue are you hitting?'
+106349766270648320,2011-08-24 12:58:54,"b'@nmccready sorry for the confusion, the example was meant to show starting with /xs:schema instead of // to avoid the multiple matches.'"
+106095623794737152,2011-08-23 20:09:02,b'@nmccready The following example may help:  http://t.co/jqns2GT The bindings file is quite powerful:  http://t.co/k0X1NL6 #jaxb'
+106093029726756865,2011-08-23 19:58:44,b'@nmccready What issue are you hitting with #JAXB?'
+106051618147016704,2011-08-23 17:14:10,"b'JAXB and Java IO (Files, Streams, Readers, and Writers) http://t.co/0uJeD8z #jaxb #eclipselink #in'"
+104542617785733121,2011-08-19 13:17:57,b'Binding to JSON & XML with MOXy - Geocode Example http://t.co/qiYXNWw #jaxb #json #eclipselink #in'
+103541628949630976,2011-08-16 19:00:22,"b'Using an Unmarshaller.Listener to Capture the Location - http://t.co/PphIcwY #jaxb, #eclipselink, #in'"
+103162295735164929,2011-08-15 17:53:02,b'Java XML & JSON Binding: JSON Binding with EclipseLink MOXy - Twitter Example - http://t.co/JXPPdMw #jaxb #json #eclipselink #in'
+102818843440848896,2011-08-14 19:08:17,"b'@DrLouisLSmith yes (MOXy has a XDK platform).  xmlparserv2 has this issue, but is not representative of the XML compatibility in Java today.'"
+102756104563462144,2011-08-14 14:58:59,"b'@DrLouisLSmith How so?  #JAXB is compatible with DOM/SAX/StAX and the various impls including Xerces, Woodstox, etc.'"
+100612776908693505,2011-08-08 17:02:09,"b""@jejking They should appear in the same schema.  How's your namespace qualification specified (i.e. @XmlSchema on package-info)? #jaxb"""
+99544614737952768,2011-08-05 18:17:40,b'@triplem74 I still may be able to help on the #JAXB end.  You can reach me through my blog:  http://t.co/VQfXNkI'
+99486795431030784,2011-08-05 14:27:55,b'@triplem74 Have you tried #EclipseLink?  It provides JPA & JAXB implementations with extensions to easy the integration  http://t.co/5Dr8eUE'
+99418941843189760,2011-08-05 09:58:17,b'@MDransfield what issue are you running into with #JAXB?  I may be able to help.'
+98834429908230144,2011-08-03 19:15:39,b'@jimkeeler The following may help you with #JAXB and namespaces:  http://t.co/0T0VQmI'
+98409148689035264,2011-08-02 15:05:44,"b'RT @pinorom: New blogpost: POJO TO SDO Marshalling through JAXBHelperContext, the POJO/SDO bridge. http://t.co/9r2nt4i #JDeveloper #SDO  ...'"
+97266577090691073,2011-07-30 11:25:33,"b'@jaymcgavren No, it will nest the classes to avoid potential conflicts.  You can use the bindings file to force all top level classes.'"
+96961300416036865,2011-07-29 15:12:30,"b'@jaymcgavren Check out the following about #JAXB, XJC, and Deeply.Nested.Classes: http://t.co/aHGOwm1'"
+96961051907735553,2011-07-29 15:11:30,b'Java XML Binding: JAXB (XJC) and Nested Classes http://t.co/PQNoZKO'
+96516271302119424,2011-07-28 09:44:06,b'@jaymcgavren what issues are you hitting with #JAXB?'
+93406998598647809,2011-07-19 19:48:58,b'@danielhepper #EclipseLink #JAXB (MOXy) offers an XML representation of the JAXB metadata to solve just that problem:  http://t.co/eWrJSDz'
+91212360118845441,2011-07-13 18:28:15,"b""@wmartinez MOXy will generate the same.  You're essentially looking for a way for #JAXB to generate a Map property from an XML schema?"""
+91210165428305921,2011-07-13 18:19:32,b'@wmartinez You can modify the code generated by #JAXB.  XmlAdapter often helps control the XML representation of Maps:  http://t.co/vbU9sfF'
+91205828480204800,2011-07-13 18:02:18,b'@wmartinez What problem are you hitting with JAXB?'
+90769030511738880,2011-07-12 13:06:37,b'@hovenko By default #JAXB implementions will use default namespaces (http://t.co/c3Z57TO) what is your setup?'
+90476648062918656,2011-07-11 17:44:48,b'@fnicollet You might find the following helpful:  http://t.co/ObLfCXR #jax-rs #jaxb #jpa'
+89754435131146240,2011-07-09 17:54:59,"b""@cowtowncoder I'm a big fan of Woodstox, nice to run into you.  I'm the EclipseLink JAXB (MOXy) lead.  See ya on the forums."""
+89645006821933056,2011-07-09 10:40:09,b'@cowtowncoder @rrmckinley MOXy does the XPath processing on a single StAX parse without any sort of in-mem tree model:  http://t.co/szEtllM'
+89427287098933250,2011-07-08 20:15:01,"b""@cowtowncoder @rrmckinley MOXy is a #JAXB impl (I'm a member of the JSR-222 expert group).  Plus it has extensions such as XPath mapping."""
+89424331855233024,2011-07-08 20:03:16,b'@rrmckinley @cowtowncoder You may be interested in #EclipseLink #JAXB (MOXy) for object-to-XML mapping:  http://t.co/IxgUsEw'
+88954057531719680,2011-07-07 12:54:34,"b'@technige What are you using for XML serialization?  In #JAXB you can do: @XmlRootElement(name=""OLT"") public class OfflineTransaction {}.'"
+88948966468759553,2011-07-07 12:34:20,b'RT @java: Java User Groups Gear Up to Celebrate the #Java7 Launch #javausergroups http://bit.ly/nIeP5h'
+88674005699149825,2011-07-06 18:21:45,b'@tsuki_chama What issue are you hitting with #JAXB?'
+88673890976530432,2011-07-06 18:21:17,"b'@kimptoc You could start with your own objects, use XmlAccessType.FIELD, and have your own add/remove methods.  #jaxb'"
+86467811844694016,2011-06-30 16:15:07,b'Java XML Binding: JAXB and Complex Types with Simple Content http://t.co/u4zjoEj'
+86086627922948096,2011-06-29 15:00:26,"b'@robinhowlett An XmlAdapter allows the bound type to be marshalled as the value type.  If the value type has no namespace info, then maybe.'"
+85444182646337536,2011-06-27 20:27:35,b'Java XML Binding: JAXB and Factory Methods http://t.co/p1jeJCH #jaxb'
+84317337590837250,2011-06-24 17:49:54,"b""Java XML Binding: Using JAXB's @XmlAccessorType to Configure Field or Property Access: http://t.co/BI4vi5k #jaxb"""
+83526323674431488,2011-06-22 13:26:42,b'Java XML Binding: EclipseLink 2.3 Release Available for Download http://t.co/WS84Pu5 #eclipselink #jaxb'
+83208294583386112,2011-06-21 16:22:58,b'Java XML Binding: MOXy Extensible Models - Multiple Versions http://t.co/GBPjRuG #jaxb #eclipselink'
+81824430027845632,2011-06-17 20:43:59,b'EclipseLink Team Blog: EclipseLink Indigo Preview: Shared Databases for Multiple Tenants http://t.co/NbXsCFa'
+81648497992019968,2011-06-17 09:04:53,"b'@Vyoma The last XMLBeans release was July 2008 (http://t.co/TM1VSAV).  Multiple #JAXB impls (Metro, MOXy, etc) are in active development'"
+80733107698929664,2011-06-14 20:27:27,b'Java XML Binding: MOXy Extensible Models - Refresh Example http://t.co/V0t8iUm #EclipseLink #JAXB'
+80667031015395330,2011-06-14 16:04:53,"b'@coresystems_rit No yet, a lot of people ask about this.  It may be possible to add something based on JSR-303 Bean Validation.'"
+80662903446978561,2011-06-14 15:48:29,b'@coresystems_rit You can use the JAXBContext.generateSchema(SchemaOutputResolver) method to generate an XML schema:  http://t.co/14gkQVI'
+80656924189802498,2011-06-14 15:24:43,b'@coresystems_rit Restrictions as in a complexType removing properties from its parent complexType?'
+80656756878999552,2011-06-14 15:24:04,b'@coresystems_rit What type of generation?'
+80652193358807040,2011-06-14 15:05:55,"b""@coresystems_rit It isn't in base #JAXB, but you could use #EclipseLink MOXy's @XmlPath extension for this:  http://t.co/QA47krB"""
+79190601609904128,2011-06-10 14:18:05,"b'RT @dzoneposts: How to improve JPA performance by 1,825%  - http://bit.ly/lZmbZ3 - @DZone Big Link by Jamesssss'"
+78875910010437632,2011-06-09 17:27:37,b'@robinhowlett You could also use an XmlAdapter to represent any object as an Atom Link.  This would work on any JAX-RS/JAXB implementation.'
+77910449462587392,2011-06-07 01:31:13,b'RT @java: Dzone Eclipselink Refcard http://cot.ag/mfMU8c'
+76747699839434752,2011-06-03 20:30:52,b'Java XML Binding: Using EclipseLink MOXy with a Metadata Repository http://t.co/5Me2PkV #jaxb'
+76347354499911680,2011-06-02 18:00:02,b'Java XML Binding: MOXy Extensible Models - Multi-Tenant Example http://t.co/CzWIqSu #jaxb'
+76025624183062529,2011-06-01 20:41:35,b'Java XML Binding: Extensible Models with EclipseLink #JAXB (MOXy) http://t.co/3Te9OW7'
+76020455726776321,2011-06-01 20:21:03,b'@loverdos #jaxb uses a bindings file to resolve conflicts (http://tinyurl.com/3pfmfcz).  How does XMLBeans handle this?'
+75968949933711360,2011-06-01 16:56:23,b'@ndunn2 Good news the bug has already been fixed in EclipseLink #JAXB 2.3.  I have closed the bug.  If you require a backport let us know.'
+75954648661508097,2011-06-01 15:59:34,b'@loverdos What issue did you hit with #jaxb?'
+75954560044249090,2011-06-01 15:59:12,b'@ndunn2 Which bug did you hit?  The link you provided was broken.'
+75950499186216960,2011-06-01 15:43:04,b'Java XML Binding: Ignoring Inheritance with @XmlTransient http://t.co/uD23bt7 #jaxb'
+75264683606675456,2011-05-30 18:17:53,b'Java XML Binding: #JAXB and Joda-Time: Dates and Times http://t.co/mZlAGIe'
+74210336202428417,2011-05-27 20:28:17,"b'Java XML Binding: Overriding #JAXB\'s ""Name Mangling"" Algorithm with #EclipseLink MOXy http://t.co/gWYz9od'"
+74120107168759808,2011-05-27 14:29:45,"b'@quoll Since JAXP is a standard you may have used an ext lib (such as Xerces, Woodstox, XDK, etc), but there are also impls in Java SE.'"
+74086726406119425,2011-05-27 12:17:06,b'@ademarizu what binding issues are you hitting with #jaxb? I may be able to help.'
+74085964217196544,2011-05-27 12:14:04,"b'@quoll You could use the JAXP APIs for: DOM, SAX, & StAX.  An implementation of each is included in Java SE. #java #xml'"
+73840079646367744,2011-05-26 19:57:01,"b'@CurtisQoTD That is a good question, honestly I have never tried to compile a #JAXB app with GJC.'"
+73132289218977794,2011-05-24 21:04:31,b'Java XML Binding: #JAXB and DTD - Apache log4j Example http://t.co/DJryiRl'
+73111324447617024,2011-05-24 19:41:12,b'@doug_clarke @wernerkeil Here is an example of using EclipseLink MOXy to map JPA entities in a JAX-RS service:  http://t.co/CSBCXEv'
+72614984185692160,2011-05-23 10:48:56,b'@DanielFJ #EclipeseLink #JAXB (MOXy) has an XML mapping file that can be used instead of annotations:   http://t.co/eU6pgzz'
+71556107201548288,2011-05-20 12:41:20,"b""@coresystems_rit I've a few XmlAdapter examples on my blog if you need more info: http://bdoughan.blogspot.com/search/label/XmlAdapter #jaxb"""
+71540472207777793,2011-05-20 11:39:12,"b'@6022e23 #JAXB also supports other Java date types, see:  http://t.co/sFKp83N'"
+71539087529619456,2011-05-20 11:33:42,"b'@coresystems_rit check out:  http://t.co/VIRlWhp I lead the EclipseLink  JAXB (MOXy) impl, If you have #JAXB questions I can help out.'"
+71383530319523840,2011-05-20 01:15:34,b'@mmrack for cyclic graphs check out:  http://t.co/IffGFKP #jaxb'
+71368563260268545,2011-05-20 00:16:06,b'@muthsera #XmlSeeAlso is offered as a convenience to facilitate introspecting subclasses since this can not be done via reflection. #jaxb'
+70571651724611584,2011-05-17 19:29:27,"b""@jeanhelou Don't forget #JAXB is a spec (JSR-222) with multiple impls (Metro, MOXy, JaxMe).  If there is a bug in one you can use another."""
+70148318294056960,2011-05-16 15:27:17,"b'@ishiijp If you have any questions about #JAXB and or #EclipseLink JAXB (MOXy), please let me know:  http://bdoughan.blogspot.com/'"
+69123291868172288,2011-05-13 19:34:11,b'Java XML Binding: #JAXB and Interface Fronted Models http://t.co/ogcAVfl'
+66245945494474753,2011-05-05 21:00:38,b'Java XML Binding: Schema to Java:  @XmlMimeType & @XmlInlineBinaryDa... http://t.co/fak36Do #jaxb'
+65519285820329984,2011-05-03 20:53:09,b'Java XML Binding: Specifying EclipseLink MOXy as Your JAXB Provider http://t.co/Fu3o2gx'
+63982593535774721,2011-04-29 15:06:53,b'RT @doug_clarke: The Oracle TopLink team is looking for a developer to work on EclipseLink - http://goo.gl/FEJgj'
+63354979536224256,2011-04-27 21:32:58,"b'RT @CurtisQoTD: #JAXB is proof that when a technology is sufficiently advanced, it is indistinguishable from #magic. #Java #programming'"
+58995498782175233,2011-04-15 20:49:57,b'Java XML Binding: @XmlAnyElement and non-DOM Properties http://t.co/mArB057 #jaxb'
+58966377112936450,2011-04-15 18:54:14,b'Java XML Binding: #JAXB and #JSON via Jettison - Namespace Example http://t.co/MwTCIBn'
+58942968089948160,2011-04-15 17:21:13,b'Java XML Binding: XML Schema to Java - XSD Choice http://t.co/iX75pdD #jaxb'
+58544184084275200,2011-04-14 14:56:35,"b'@jwesonga When I run that example I get the entire document as ouput, you are only seeing a partial output?'"
+58539936118341632,2011-04-14 14:39:43,b'@jwesonga here you go:  http://pastebin.com/F0V1ZK5e'
+58527820581834752,2011-04-14 13:51:34,b'@jwesonga you can just start with your existing domain classes #jaxb.'
+58506338673762304,2011-04-14 12:26:12,b'@jwesonga you may find my Java XML Binding blog useful. It contains many #jaxb examples starting from objects:  http://t.co/dqaATfp'
+58474879263047681,2011-04-14 10:21:12,b'@jwesonga #JAXB does not require a .xsd file.  You can start from POJOs and annotate them as necessary to control the mapping to XML.'
+58336813995147264,2011-04-14 01:12:34,b'@alankelon there is also #EclipseLink #JAXB (MOXy): http://t.co/IxgUsEw'
+58318564440031232,2011-04-14 00:00:03,b'@alankelon have you tried #JAXB:  http://t.co/VLcGylp'
+58094608500011008,2011-04-13 09:10:08,b'@catiemonster were you able to reproduce the issue outside of Jax-rs?'
+57837745984389121,2011-04-12 16:09:27,b'Java XML Binding: #JAXB and #JSON via Jettison http://t.co/bQxtu47'
+57466231057424385,2011-04-11 15:33:11,b'RT @doug_clarke: Planning on giving a sneak peek at new #EclipseLink SaaS features in my #JPA talk tomorrow at #jaxlondon'
+57462009599500288,2011-04-11 15:16:25,"b""Java XML Binding: MOXy's XML Metadata in a JAX-RS Service http://t.co/Jux0C3R #JAXB #Java #REST #EclipseLink"""
+56453353051406336,2011-04-08 20:28:22,"b""@catiemonster I'm the #EclipseLink #JAXB (MOXy) lead, you may want to give it a try too:  http://t.co/CUWXAMz"""
+56450501667061760,2011-04-08 20:17:03,b'@catiemonster Have you tried using JAXB impl (probably Metro) with the doc outside Jersey?'
+56448581934133249,2011-04-08 20:09:25,"b""@catiemonster When the message doesn't load properly it's XML or JSON?"""
+56440821171486721,2011-04-08 19:38:35,"b'@catiemonster Is the message JSON? If so a JAXB impl (Metro, MOXy, JaxMe, etc) with Jettison or are you using Jackson ?'"
+56438153090842624,2011-04-08 19:27:58,b'@catiemonster Is the XML namespace qualified as per the #JAXB mappings?  Also are you using the default JAXBContext init or ContextResolver?'
+56415860985827329,2011-04-08 17:59:24,b'@catiemonster What exception are you hitting?'
+56351745726611456,2011-04-08 13:44:37,"b'@jseibert System.out(JAXBContext.newInstance(Foo.class)); will give the #JAXB provider impl, and I believe JBoss has there own.'"
+56077030357340160,2011-04-07 19:33:00,"b""@jseibert #JAXB (default JAX-RS binding layer) impls do not detect @Transient (it's a bug if they do).  Which implementation are you using?"""
+56043994324549632,2011-04-07 17:21:44,b'@davesahil #EclipseLink #JAXB can use XML metadata: http://bdoughan.blogspot.com/2010/12/extending-jaxb-representing-annotations.html'
+56040176262184960,2011-04-07 17:06:33,"b'@davesahil #JAXB will generate the XML elements in the same order as the XSD.  This is controlled with @XmlType(propOrder={""foo"", ""bar""}.'"
+55726046607183872,2011-04-06 20:18:19,b'@davesahil What are your requirements?  JAXB is the standard and EclipseLink JAXB (MOXy) many extensions:  http://bdoughan.blogspot.com'
+55653015193006080,2011-04-06 15:28:07,"b""@jseibert Why not use #JPA's @Transient on the field with the #JAXB annotation?"""
+55273078648872960,2011-04-05 14:18:23,b'@johanvos What do you mean by override @XmlElement?'
+52814114883506176,2011-03-29 19:27:20,"b""@edbrannin #JAXB doesn't require any annotations, they're just used to customize the mapping to XML:  http://bit.ly/fM1MmZ"""
+52548231447576577,2011-03-29 01:50:49,b'@edbrannin have you tried #jaxb starting from objects? http://t.co/VLcGylp'
+51001665939193856,2011-03-24 19:25:19,b'@stevegood check out:  http://bdoughan.blogspot.com/2010/12/case-insensitive-unmarshalling.html'
+50559240384942080,2011-03-23 14:07:16,"b'Java XML Binding: #JAXB, Web Services, and Binary Data http://t.co/EwEdwuo'"
+50534327246790657,2011-03-23 12:28:17,b'@leosays be sure to check out the new #JAXB tooling in #Eclipse Dali: http://t.co/rXdQKlt'
+50532923153195009,2011-03-23 12:22:42,"b""@ajclarkson Have you considered using a #JAXB (JSR-222) implementation instead?:  Metro (RI), MOXy (I'm the lead),  Apache JaxMe, etc."""
+50208987152527360,2011-03-22 14:55:30,"b""@rgladwell Also, an advantage of the #JAXB standard is that you're not bound to an impl.  If you're blocked by a bug you can switch impls."""
+50199475217637376,2011-03-22 14:17:42,b'@rgladwell For the extensions in other #JAXB impls:  http://bdoughan.blogspot.com/2011/03/map-to-element-based-on-attribute-value.html'
+50187983072145409,2011-03-22 13:32:02,b'@Dorpsidioot Just wanted to follow up on your #JAXB question. Could you provide more info?:  http://bdoughan.blogspot.com/p/contact_01.html'
+50183691481268224,2011-03-22 13:14:59,b'@rgladwell @olivergierke Metro JAXB is bundled with Java SE 6.  Other implementations of JAXB (JSR-222) include:  EclipseLink MOxy and JaxMe'
+50183214815379457,2011-03-22 13:13:05,b'Java XML Binding: Map to Element based on an Attribute Value with #EclipeseLink #JAXB (MOXY) http://t.co/dnrzsQJ'
+48371017176981504,2011-03-17 13:12:03,b'@Dorpsidioot Can you provide more details on the #eclipselink #jaxb issue to our mailing list:  eclipselink-users@eclipse.org'
+48064521742454784,2011-03-16 16:54:09,b'@skohler check out @XmlID/@XmlIDREF:  http://bdoughan.blogspot.com/2010/10/jaxb-and-shared-references-xmlid-and.html'
+48021682044145664,2011-03-16 14:03:55,b'@olivergierke Have you tried EclipseLink JAXB (MOXy)?   You may be able to get rid of the Dozer piece:  http://t.co/fuKd0rZ'
+47651902380453890,2011-03-15 13:34:33,b'@throneless You can also use #jaxb to generate XML Schemas:  http://wiki.eclipse.org/EclipseLink/Examples/MOXy/JAXB/GenerateSchema'
+47597748253499392,2011-03-15 09:59:22,b'@robertmassaioli check out:  http://t.co/2k82xkR #jaxb'
+47325818858389504,2011-03-14 15:58:49,b'@j0bro You may be looking for MessageBodyReader and MessageBodyWriter in the javax.ws.rs.ext package.'
+46278116263464960,2011-03-11 18:35:37,b'Java XML Binding: Preventing Entity Expansion Attacks in JAXB http://t.co/wDiYtJM'
+46023697127055360,2011-03-11 01:44:39,b'RT @cloudPotatoSala: just ripped out the Hibernate jars dependencies... switched to EclipseLink. Got rid of 14 jar files.'
+45924260870500353,2011-03-10 19:09:31,b'@jasonwhaley the following may help:  http://wiki.eclipse.org/EclipseLink/Examples/MOXy/JAXB/GenerateSchema'
+45796006230622208,2011-03-10 10:39:53,b'@b_martinelle for #jaxb and atom checkout:  http://t.co/Ztm6kSd'
+45602168610361344,2011-03-09 21:49:38,b'Java XML Binding: Handling Duplicate @XmlRootElement Declarations http://t.co/k0V5BSi #JAXB'
+45568460620697600,2011-03-09 19:35:42,"b""@virtualkhill No standard way for prefixes, RI uses an extension. MOXy will use prefixes as defined on @XmlSchema, it's impl specific."""
+45486858150481920,2011-03-09 14:11:26,b'@virtualkhill What problem did you hit with JAXB?  I lead a #JAXB implementation (EclipseLink MOXy) and may be able to help.'
+45296306796756992,2011-03-09 01:34:15,b'@tieTYT you can use the avax.xml.transform APIs on a StAXSource wrapping the XMLStreamReader to a StreamResult wrapping a StringWriter.'
+45239343593426945,2011-03-08 21:47:54,b'Java XML Binding: Using JAXB to Implement a Copy Operation http://t.co/85xLNtv'
+43351040451547136,2011-03-03 16:44:28,b'RT @shaunmsmith: EclipseLink 2.2 released with lots of new features. http://wiki.eclipse.org/EclipseLink/Release/2.2.0 #eclipse #eclipse ...'
+40751189637345280,2011-02-24 12:33:35,b'@catiemonster How are you bootstrapping your JAXBContext?'
+35743777150734337,2011-02-10 16:55:55,b'@albertchan999 Check out EclipseLink JAXB (MOXy) and XPath:  http://bdoughan.blogspot.com/2010/09/xpath-based-mapping-geocode-example.html'
+35743581960413184,2011-02-10 16:55:08,b'@jreschke What problems are you hitting with JAXB?'
+35743463752339456,2011-02-10 16:54:40,b'@tsuki_chama check out EclipseLink JAXB (MOXy):   http://bdoughan.blogspot.com/2010/09/xpath-based-mapping-geocode-example.html'
+32080015482949633,2011-01-31 14:17:26,b'@davesahil check out my Java XML Binding blog for JAXB examples:  http://bdoughan.blogspot.com'
+30017186294661120,2011-01-25 21:40:29,b'Java XML Binding: JAXB and Choosing the  List Implementation http://t.co/GYHzBXC'
+28210634080387072,2011-01-20 22:01:53,b'Java XML Binding: JAXB and Date/Time Properties http://t.co/sFKp83N'
+27770070616768512,2011-01-19 16:51:15,"b""@emigdioh can you provide more details?  I am Oracle's JAXB lead:  http://bdoughan.blogspot.com/p/contact_01.html"""
+27689027964502016,2011-01-19 11:29:13,"b'@emigdioh Are you using XJC, JDev, or Eclipse to generate the code? Also choosing the impl: Metro, MOXy, JaxMe is a strength. #JAXB'"
+27023328489250816,2011-01-17 15:23:58,b'@ogirardot Checkout my #JAXB blog:  http://bdoughan.blogspot.com/ it also contains some comparisons to other OXM frameworks.'
+25632732964982784,2011-01-13 19:18:14,b'@dhiegorp what problem are you hitting with JAXB?'
+24507844837511168,2011-01-10 16:48:20,b'@ahmad_alhaj_h @agiotis What are you using to convert your #Java objects to #XML?  #JAXB is the standard and does not include package names.'
+23472952037089280,2011-01-07 20:16:02,"b'@funtime_bobby Not sure what you mean, but check out EclipseLink JAXB (MOXy):  http://t.co/fsoSnjV'"
+20834094317305856,2010-12-31 13:30:09,b'RT @helvalius: just used JAXB for storing and loading my model #nice :)  lines of code for the xml parser:2  + 2 annotation lines'
+20101743819890688,2010-12-29 13:00:03,"b'@adriano73 check out my blog ""Java XML Binding"" for #JAXB examples:  http://bdoughan.blogspot.com'"
+18317643119333376,2010-12-24 14:50:41,"b'@OlivierCroisier #JAXB is the industry standard, check out my blog for examples:  http://bdoughan.blogspot.com/'"
+17297114803478528,2010-12-21 19:15:28,b'Java XML Binding: Represent String Values as Element Names with JAXB... http://t.co/hbFWQ5Y'
+17206124793044992,2010-12-21 13:13:54,"b""@mbohlende I'd be interested in learning more about the requirements:  http://bdoughan.blogspot.com/p/contact_01.html"""
+17199093692506112,2010-12-21 12:45:58,b'@mbohlende MOXy can represent the mappings as XML: http://bdoughan.blogspot.com/2010/12/extending-jaxb-representing-annotations.html'
+17190850425520128,2010-12-21 12:13:12,"b""@mbohlende check out EclipseLink MOXy's XPath mapping:  http://bdoughan.blogspot.com/2010/09/xpath-based-mapping-geocode-example.html"""
+16968284230385664,2010-12-20 21:28:48,"b'@adietisheim If you start with the object an marshal it, does the resulting XML match the input you are trying to unmarshal?'"
+16967672273051648,2010-12-20 21:26:22,b'Java XML Binding: JAXB and Marshal/Unmarshal Schema Validation http://t.co/mLpz7v7'
+15865245310386177,2010-12-17 20:25:43,"b""@adietisheim MOXy's main benefits are: XPath based mapping, externalized metadata file, support for JPA entities, dynamic JAXB (no classes)."""
+15847943605067780,2010-12-17 19:16:58,"b'@adietisheim JAXB is the standard (I lead the MOXy impl), check out my blog to see what can be done with JAXB:  http://bdoughan.blogspot.com'"
+15717944394776577,2010-12-17 10:40:24,b'@heathgerhardt agreed about #JAXB.  Checkout my blog http://bdoughan.blogspot.com for Java first examples.'
+15414789777920001,2010-12-16 14:35:46,b'@lonnekedikmans This may help with #JAXB and #XSD inheritance http://bdoughan.blogspot.com/2010/11/jaxb-and-inheritance-using-xsitype.html'
+15346247401472000,2010-12-16 10:03:25,b'@acoliver check out:  http://bdoughan.blogspot.com/2010/09/xpath-based-mapping-geocode-example.html'
+15228100400914432,2010-12-16 02:13:56,b'@acoliver but you get that the primary use case is to start with you own well designed model and add #JAXB annotations to it?'
+15113124344500224,2010-12-15 18:37:04,"b'@acoliver Actually #JAXB is designed to map your own object model to XML, good idea.  It CAN also auto generate one from XSD based on rules.'"
+15003877740904448,2010-12-15 11:22:57,"b'@gochaism #EclipseLink is a complete open source persistence solution offering object-relational (#JPA) object-XML (#JAXB), and more.'"
+14438573113606144,2010-12-13 21:56:38,b'@frantzencd Check out the #JAXB support in Eclipse Dali:  http://www.eclipse.org/webtools/releases/3.2.0/NewAndNoteworthy/jpa.php'
+14434942775730176,2010-12-13 21:42:13,"b'@nedgar Not sure I follow your question, could you send more details:  http://bdoughan.blogspot.com/p/contact_01.html'"
+14384331447345154,2010-12-13 18:21:06,b'@stokiematt Which implementation of JAXB are you using?'
+13576777905471488,2010-12-11 12:52:10,"b'@donald_i Metro JAXB is included, I lead MOXy JAXB which is part of EclipseLink.  Checkout http://bdoughan.blogspot.com for some examples.'"
+13564076894457856,2010-12-11 12:01:42,b'@donald_i Have you tried #JAXB?'
+13259521111621632,2010-12-10 15:51:30,b'Java XML Binding: Extending JAXB - Representing Metadata as XML http://t.co/nUU0iVi'
+12958795076472832,2010-12-09 19:56:32,"b'@lonnekedikmans JAXB should support anon type extending named type.  Not sure your JAXB impl, but we recently fixed this in MOXy JAXB.'"
+12875292506849281,2010-12-09 14:24:43,"b""@chriscmuir @lonnekedikmans Provider API is useful for dealing with XML directly.  Can also define your own JAXB object model not gen'ed."""
+12871665826402304,2010-12-09 14:10:18,b'@lonnekedikmans What problem are you running into with #JAXB?'
+12268279246622720,2010-12-07 22:12:40,"b'@DonaldEclipse no worries,  Mike and Jason got a good laugh over it :).'"
+12258271037497347,2010-12-07 21:32:54,b'Java XML Binding: Case Insensitive Unmarshalling with JAXB http://t.co/UYoRp2u'
+12217946092863488,2010-12-07 18:52:40,b'@jonnyzzz Also check out my blog for JAXB info:  http://bdoughan.blogspot.com/'
+12217819626213376,2010-12-07 18:52:09,"b'@jonnyzzz Metro JAXB home page may not be working, but MOXy JAXB home page is running:  http://www.eclipse.org/eclipselink/moxy.php.'"
+12169076164001792,2010-12-07 15:38:28,b'@svjson What issues are you running into with #JAXB ?'
+10782461264928768,2010-12-03 19:48:33,b'Java XML Binding: JAXB and Immutable Objects http://t.co/oPvAgKr'
+10014416913301504,2010-12-01 16:56:37,"b'@txedo It is not mandatory to generate the model classes with XJC, check out http://t.co/onXUA4s the example uses the same objects for both.'"
+10004925526315008,2010-12-01 16:18:54,"b'@txedo JAXB, check out my October blog posts for comparisons to Simple and XStream:  http://bdoughan.blogspot.com/2010_10_01_archive.html'"
+9974633247805440,2010-12-01 14:18:32,b'@pleii My blog http://bdoughan.blogspot.com is focused on Java XML binding and contains many JAXB examples you may find useful.'
+7504625234083841,2010-11-24 18:43:36,b'Java XML Binding: Validate a JAXB Object Model With an XML Schema http://t.co/KSrZqfo'
+7141533769793536,2010-11-23 18:40:48,"b'@martin_probst JAXBContext is thread safe, so go ahead and cache them.  Good news is you should see a performance improvement by doing this.'"
+7136905636352000,2010-11-23 18:22:25,b'@srisankaran which implementation of JAXB are you trying to use in WebLogic?'
+5944132207902720,2010-11-20 11:22:46,"b""RT @DZone: Java XML Binding: XmlAdapter - JAXB's Secret Weapon - http://dzone.com/kKHf - @DZone Big Link by bdoughan"""
+4961717155008513,2010-11-17 18:19:00,"b""RT @srisankaran: Generating XML from POJOs?  Use JAXB.  Couldn't be simpler!"""
+4960660202987520,2010-11-17 18:14:48,b'@vladimire #JAXB is your best choice.  Check out my blog for articles that back up this claim:  http://bdoughan.blogspot.com/'
+1215349731106816,2010-11-07 10:12:16,b'@hrkiii for #JAXB & CDATA refer to http://bdoughan.blogspot.com/2010/07/cdata-cdata-run-run-data-run.html'
+649412225269760,2010-11-05 20:43:26,b'Java XML Binding: JAXB and Inheritance - MOXy Extension XmlDescriminatorNode/XmlDescrimintatorValue http://t.co/dQaLKJJ'
+29675699524,2010-11-04 15:19:27,b'Java XML Binding: JAXB and Inheritance - Using Substitution Groups http://t.co/dUGmqYI'
+29672309876,2010-11-04 14:37:38,b'Java XML Binding: JAXB and Inheritance - Using the xsi:type Attribute http://t.co/u6TpUyA'
+29393962341,2010-11-01 18:00:25,"b""@bithooked check out MOXy #JAXB's support for interfaces: http://bdoughan.blogspot.com/2010/07/moxy-jaxb-map-interfaces-to-xml.html"""
+29377461242,2010-11-01 14:33:58,"b""@Sho2010 I can help with EclipseLink.  I see you're using JAX-RS, check out:  http://t.co/AKrMdPi"""
+29360329974,2010-11-01 10:45:39,b'@rluttikhuizen checkout MOXy JAXB it was designed with JPA in mind: http://wiki.eclipse.org/EclipseLink/Examples/MOXy/JPA'
+29357972234,2010-11-01 10:00:58,b'@Sho2010 check how EclipseLink JAXB (MOXy) handles CDATA: http://bdoughan.blogspot.com/2010/07/cdata-cdata-run-run-data-run.html'
+29088644366,2010-10-29 13:41:32,b'@chromeragnarok check out http://t.co/olCzWWo and http://t.co/fsoSnjV and let me know if you still think XStream is easier  than #JAXB.'
+28901220433,2010-10-27 15:41:20,"b'@agloriousmess which #JAXB impl is the bug in:  Metro (the RI), MOXy, JaxMe, etc?'"
+28789839934,2010-10-26 13:21:28,"b'@mr_urf Check out the support for #interfaces in MOXy #JAXB, http://t.co/1mRwpym'"
+28712684849,2010-10-25 17:54:46,b'Java XML Binding: How Does JAXB Compare to Simple? http://t.co/Gmgcwyi'
+28431121508,2010-10-22 18:56:35,"b'@pnpinformatica maybe I can help, feel free to send me details through my blog:  http://bdoughan.blogspot.com/p/contact_01.html'"
+28429200727,2010-10-22 18:29:29,b'@pnpinformatica MOXy #JAXB was designed with #JPA in mind.  Let me know if I can help: http://wiki.eclipse.org/EclipseLink/Examples/MOXy/JPA'
+28427705619,2010-10-22 18:07:33,b'@pnpinformatica What issue are you hitting with JAXB?'
+28053784698,2010-10-21 19:25:46,b'Java XML Binding: JAXB and XSD Choice:  @XmlElements http://t.co/tFXqbdI'
+27934554230,2010-10-20 14:12:26,"b""@jynxzero you could try MOXy JAXB (I'm the tech lead):  http://bdoughan.blogspot.com/2010/09/jaxb-xml-infoset-preservation.html"""
+27929245504,2010-10-20 13:08:54,b'@jynxzero what is your use case?  Are you using the #JAXB Binder?'
+27722067956,2010-10-18 10:35:24,b'@sshahar1 what issues are you encountering with #JAXB ?'
+27721850177,2010-10-18 10:31:19,"b""@ikeike443 What problem's are you running into with the #JAXB unmarshaller?"""
+27435474310,2010-10-15 12:23:12,b'@daylilyfield this example may help with XmlAdapter and #JAXB: http://bdoughan.blogspot.com/2010/07/xmladapter-jaxbs-secret-weapon.html'
+27336909170,2010-10-14 12:45:26,b'@daniel_novo JAXB is the right choice.   I lead the MOXy JAXB implementation.   You may find my blog useful:  http://bdoughan.blogspot.com/'
+27235155359,2010-10-13 12:15:06,"b'@killercentury no problem, in our upcoming EclipseLink 2.2 release those JPA entity-to-XML JAXB extensions will be available as annotations.'"
+27047994979,2010-10-11 16:15:32,"b'@svjson with atleast 3 open source impls one in Java SE 6, and it being the JAX-RS & JAX-WS binding layers. JAXB it is very familiar to devs'"
+27024166460,2010-10-11 11:17:12,b'@matshenricson check out JAXB: http://bdoughan.blogspot.com/2010/10/how-does-jaxb-compare-to-xstream.html'
+27023548870,2010-10-11 11:06:05,b'@svjson export as in OSGi?  The MOXy impl is available as OSGi bundles.'
+27023385994,2010-10-11 11:03:16,b'@svjson MOXy JAXB has an external binding file:  http://wiki.eclipse.org/EclipseLink/Examples/MOXy/EclipseLink-OXM.XML'
+27023120357,2010-10-11 10:58:23,b'@svjson Check out JAXB vs. XStream:   http://bdoughan.blogspot.com/2010/10/how-does-jaxb-compare-to-xstream.html'
+27022669438,2010-10-11 10:49:45,b'@svjson Why not JAXB?  Check out the MOXy implementation: http://bdoughan.blogspot.com/2010/09/xpath-based-mapping-geocode-example.html'
+26959235557,2010-10-10 18:16:39,b'@killercentury check out MOXy JAXB http://wiki.eclipse.org/EclipseLink/Examples/MOXy/JPA for JPA entity to XML mapping.'
+26942026946,2010-10-10 14:41:22,"b""@mucahitkurt I'm guessing you can't upgrade to JDK 1.5 or later?"""
+26931795957,2010-10-10 12:17:28,"b""@mucahitkurt check out JAXB's namespace support http://bdoughan.blogspot.com/2010/08/jaxb-namespaces.html"""
+26931572975,2010-10-10 12:13:40,b'@mucahitkurt Have you considered JAXB instead of XMLBeans?'
+26681267211,2010-10-07 20:10:23,b'Java XML Binding: JAXB and Shared References:  @XmlID and @XmlIDREF http://t.co/7gRcqRf'
+26672982566,2010-10-07 18:03:39,"b'@rbachlec re: EclipseLink-108, there is something wrong in your mapping metadata regarding inheritance.'"
+26669455058,2010-10-07 17:14:02,"b""@rckenned Try MOXy's XPath based mapping with your model:  http://bdoughan.blogspot.com/2010/09/xpath-based-mapping-geocode-example.html"""
+26576913171,2010-10-06 19:04:00,b'Java XML Binding: How Does JAXB Compare to XStream? http://t.co/2roXhc6'
+26574831294,2010-10-06 18:31:25,b'@hal9000dev check out http://bdoughan.blogspot.com/2010/10/how-does-jaxb-compare-to-xstream.html'
+26545885910,2010-10-06 12:21:18,"b""@tobitobita attributes are unordered in XML and therefore the are not controlled through JAXB's propOrder."""
+26540097590,2010-10-06 10:44:43,b'@hal9000dev try the example with XStream http://bdoughan.blogspot.com/2010/09/xpath-based-mapping-geocode-example.html JAXB is better.'
+26417136188,2010-10-05 01:52:52,b'@dennisacosta for OXM check out MOXy JAXB http://bdoughan.blogspot.com/2010/09/xpath-based-mapping-geocode-example.html'
+25803372518,2010-09-28 17:10:14,b'Java XML Binding: JAXB & Collection Properties http://t.co/gEWgmH1'
+25801092961,2010-09-28 16:41:51,"b'@martengustafson you can use @XmlAdapter (see my first blog post), or you can use a factory with @XmlRegistry.'"
+25796760369,2010-09-28 15:50:37,"b'@martengustafson Check out my blog http://bdoughan.blogspot.com/ for info on why JAXB is the best for handling XML,'"
+25788761875,2010-09-28 14:21:35,"b'@hal9000dev JAXB, in particular MOXy JAXB.  See http://bdoughan.blogspot.com/2010/09/xpath-based-mapping-geocode-example.html'"
+25788536288,2010-09-28 14:19:04,b'Java XML Binding: JAXB & XML Infoset Preservation http://t.co/gRQoyk7'
+25304387126,2010-09-23 12:58:46,b'@grimmimeloni since JAXB uses POJOs I would add the behaviour directly to the classes themselves.'
+25268231802,2010-09-23 02:11:07,b'RT @bsubra: #Lab49 : JavaOne 2010 \xe2\x80\x93 Effective XML: Leveraging JAXB and SDO: Blaise Doughan (Team lead for the TopLink and the ... http:/ ...'
+25268221782,2010-09-23 02:11:00,b'@bsubra great summary.  I hope you enjoyed the talk.'
+25211099033,2010-09-22 13:28:11,"b""@locn I've posted a reply on SO to your JAXB question."""
+24493213395,2010-09-14 17:07:52,b'@undrewb The following may help http://bdoughan.blogspot.com/2010/08/creating-restful-web-service-part-15.html'
+24411343464,2010-09-13 20:06:39,b'Java XML Binding: XPath Based Mapping - Geocode Example http://goo.gl/b/sUmn'
+24134709934,2010-09-10 20:20:17,b'Java XML Binding: Processing Atom Feeds with SDO http://goo.gl/b/Lgry'
+24111259000,2010-09-10 14:56:47,b'@bmathus See item 14 at https://jaxp.dev.java.net/1.4/JAXP-FAQ.html for tips on configuring the JAXP parser in your VM.'
+24107481869,2010-09-10 14:11:03,b'@bmathus MOXy JAXB will use whatever JAXP parser you have configured for your Java VM.  I believe Metro JAXB (the RI) is the same.'
+24038728286,2010-09-09 19:51:12,"b'@ballmw Power of XPath mapping http://tiny.cc/tlfmj, JPA entity mapping http://tiny.cc/ovbal'"
+24029699721,2010-09-09 17:34:08,"b'@Cruick JAXB is the standard. Metro (the RI), JaxMe, and EclipseLink MOXy are implementations of the standard.  Is ADB still active?'"
+24026788168,2010-09-09 16:55:54,b'@ballmw check out my blog http://bdoughan.blogspot.com to see how the MOXy JAXB impl eliminates to Dozer step.'
+23934317859,2010-09-08 17:42:45,b'Java XML Binding: Processing Atom Feeds with JAXB http://goo.gl/b/y51c'
+22876727779,2010-09-03 10:42:12,b'@hiroxpepe check out http://bdoughan.blogspot.com/2010/08/creating-restful-web-service-part-15.html it may help.'
+22847477752,2010-09-03 01:25:43,"b""@rafaeldff check out MOXy's XPath based mapping http://bdoughan.blogspot.com/2010/07/xpath-based-mapping.html it eliminates that problem."""
+22816789590,2010-09-02 17:31:35,b'@hazamel which private variables do you want to make public?  Can you marshal to an OutputStream instead?'
+22816724743,2010-09-02 17:30:38,b'@poppanator I can probably help with your JAXB issue.'
+22807275985,2010-09-02 15:25:52,"b'@hazamel When marshalling to a Writer, JAXB cannot override the encoding.  It needs to be set at the Writer that Spring is passing to JAXB.'"
+22796502589,2010-09-02 13:10:49,"b'@hazamel marshaller.setProperty(Marshaller.JAXB_ENCODING, ""iso-8859-1"");'"
+22202246705,2010-08-26 19:09:52,b'Java XML Binding: EclipseLink 2.1.1 Patch Set Released http://goo.gl/b/Z17N'
+22200661760,2010-08-26 18:43:39,b'Java XML Binding: Using @XmlAnyElement to Build a Generic Message http://goo.gl/b/mYOK'
+22109034434,2010-08-25 18:19:03,"b""Java XML Binding: @XmlTransformation - Going Beyond JAXB's XmlAdapter http://goo.gl/b/r6uz"""
+21936520508,2010-08-23 19:17:14,b'Java XML Binding: Creating a RESTful Web Service - Part 5/5 http://goo.gl/b/djdn'
+21762523126,2010-08-21 16:46:19,b'RT @matthiassteiner: #jaxb #xmltypeadapter + #listener = minimalistic code #ilike'
+21673656710,2010-08-20 15:37:42,b'Java XML Binding: Creating a RESTful Web Service - Part 4/5 http://goo.gl/b/hW1H'
+21669492459,2010-08-20 14:41:11,b'Java XML Binding: Creating a RESTful Web Service - Part 3/5 http://goo.gl/b/nAbO'
+21666804379,2010-08-20 14:04:21,"b'@jjathman You can use a combination of @XmlElementWrapper(name=""nameOfTheListAsContainer"") and @XmlElement(name=""typeOfObject"").'"
+21666516427,2010-08-20 14:00:22,"b'@jjathman simply use the annotation @XmlElementWrapper(name=""phoneNumbers"") on the phoneNumbers property.'"
+21626860193,2010-08-20 02:00:17,"b'@jjathman Here is an intro to JAXB example, http://wiki.eclipse.org/EclipseLink/Examples/MOXy/GettingStarted'"
+21582645260,2010-08-19 14:43:37,"b'@o_k_t_n_ Here is an intro to JAXB example, http://wiki.eclipse.org/EclipseLink/Examples/MOXy/GettingStarted'"
+21582398007,2010-08-19 14:40:26,b'Java XML Binding: Creating a RESTful Web Service - Part 2/5 http://goo.gl/b/DB4P'
+21494883076,2010-08-18 14:34:58,b'Java XML Binding: Creating a RESTful Web Service - Part 1/5 http://goo.gl/b/ZrWj'
+21412579810,2010-08-17 15:42:30,b'Java XML Binding: XML Binding Talk at JavaOne http://goo.gl/b/qE9k'
+21391556571,2010-08-17 10:04:15,b'RT @aruld: Blog Post: Hate JAXB annotations: MOXy and JAXBIntroductions comes to the rescue http://bit.ly/cVnohJ'
+20906658286,2010-08-11 18:27:06,b'Java XML Binding: JAXB & Namespaces http://goo.gl/b/98kZ'
+20395391540,2010-08-05 15:21:34,b'EclipseLink Team Blog: Using partial EclipseLink JPA entities with JAXB http://goo.gl/b/rm5Y'
+20318328568,2010-08-04 16:56:51,"b'@Dorpsidioot I lead the EclipseLink JAXB (MOXy) impl, what behaviour are you loking for with JPA/JAXB?'"
+19612672854,2010-07-27 00:00:48,b'@0xcafebabe regarding JAXB & interfaces see http://goo.gl/b/tiJk'
+19583540660,2010-07-26 15:53:37,b'@0xcafebabe you do not need a concrete Map type in your model to use XmlAdapter see http://goo.gl/b/Je5n'
+19580322310,2010-07-26 15:07:24,b'Mapping JPA entities to XML using JAXB - Bidirectional Relationships http://goo.gl/b/GIcC'
+19337794565,2010-07-23 13:10:06,b'@djpompey regarding JAXB & interfaces see http://goo.gl/b/tiJk'
+19337663481,2010-07-23 13:08:11,b'@jamescarr regarding JAXB & interfaces see http://goo.gl/b/tiJk'
+19337606012,2010-07-23 13:07:22,b'Java XML Binding: MOXy JAXB - Map Interfaces to XML http://goo.gl/b/tiJk'
+19084035575,2010-07-21 15:18:47,b'@jamescarr we can add that support to MOXy JAXB (see https://bugs.eclipse.org/320513).  I have it working but need finish testing.'
+19008590618,2010-07-20 17:04:48,b'Java XML Binding: JAXB - The XML Binding Standard http://goo.gl/b/mF9A'
+18833889917,2010-07-18 11:23:20,b'@billytsang for JAXB & JPA check out - http://wiki.eclipse.org/EclipseLink/Examples/MOXy/JPA'
+18696888481,2010-07-16 16:02:53,"b""@shaunmsmith I'm using http://tiny.cc/nsh56"""
+18680631900,2010-07-16 12:13:17,"b'@Elsa0713 sure, &lt;jdk6_home&gt;/bin/xjc -d anEmptyDirectory yourSchema.xsd is what you need to generate classes from an XML schema using JAXB.'"
+18525119987,2010-07-14 14:54:45,b'Java XML Binding: XPath Based Mapping http://bdoughan.blogspot.com/2010/07/xpath-based-mapping.html?spref=tw'
+18478004175,2010-07-14 00:26:57,"b""@bubbl that document is pretty old (JAXB 1), check out JAXB 2 it's even better."""
+18446425669,2010-07-13 15:44:58,"b'@wesleyarchbell you could use EclipseLink JAXB (MOXy) to output CDATA, see http://goo.gl/b/qmEa'"
+18446323711,2010-07-13 15:43:29,"b'Java XML Binding: CDATA, CDATA Run, Run Data Run http://goo.gl/b/qmEa - Learn how to use CDATA with JAXB.'"
+18378432885,2010-07-12 19:58:42,"b""Java XML Binding: XmlAdapter - JAXB's Secret Weapon http://goo.gl/b/Je5n"""
+18220288287,2010-07-10 20:10:42,b'@y0gman you could use a servlet.  JAX-RS is aimed more at read/write services.  However the built in JAXB/JSON does make things easy.'
+18198878045,2010-07-10 14:17:27,"b""@y0gman JAX-RS overkill?  It's a minimal config service framework offering XML, JSON, etc messages over the internets core protocol HTTP."""
+17860023679,2010-07-06 11:11:28,b'@t2dev as a performance improvement you could leverage the thread safety of JAXBContext and create it once in the Xml constructor.'
+17345234032,2010-06-29 16:26:38,b'@metacosm which implementation of JAXB are you using?'
+17267488690,2010-06-28 17:39:46,"b'@jmones JAXB included in Java SE 6.  Plus since JAXB is a standard you can pick between impls:  Metro (RI), EclipseLink (MOXy), etc'"
+17168365493,2010-06-27 14:34:33,"b'@mtrcn using JAXB with JPA http://wiki.eclipse.org/EclipseLink/Examples/MOXy/JPA , I hope to have a JAX-RS example posted soon.'"
+17167521733,2010-06-27 14:24:28,"b'@JorgeVeras also JAXB 2 APIs are included in Java SE 6, and there are extended implementations such as EclipseLink MOXy available.'"
+17161511791,2010-06-27 12:41:44,b'@JorgeVeras that document is a bit old  JAXB 2 is even better with annotated POJOs instead of vendor specific model impl classes.'
+17032203678,2010-06-25 17:49:28,"b""@mtrcn are you using TopLink's implementation of JAXB it has many features to handle JPA entities."""
+17012890269,2010-06-25 13:17:29,"b'@stefanbangels JAXB configuration without annotations is possible using EclipseLink JAXB (MOXy), see http://tiny.cc/ib3na'"
+16952244055,2010-06-24 18:56:37,"b""@stefanbangels You could use EclipseLink's XML representation of the JAXB metadata http://tiny.cc/ib3na to do this, I'd be happy to help."""
+16879158547,2010-06-23 21:42:00,b'EclipseLink 2.1 released http://bit.ly/ciS3Ug .  EclipseLink JAXB now supports JAXB 2.2 with extensions for representing annotations as XML.'
+16486975485,2010-06-18 17:46:27,b'One way to handle orphan properties using EclipseLink JAXB http://tiny.cc/ltngy'
+16466084911,2010-06-18 12:27:26,"b""@paulrbrown you don't need to use the endorsed mechanism to use a non-JDK JAXB, simply add the jaxb impl jar and use a jaxb.properties file."""
+16426052750,2010-06-18 00:01:31,b'@tngraessler you can use libraries like Jettison with JAXB to produce JSON messages.  It acts like a StAX input/output.'
+15935133547,2010-06-11 15:12:53,b'@twegather #ottawaandroid http://bit.ly/agZGPt Maybe'

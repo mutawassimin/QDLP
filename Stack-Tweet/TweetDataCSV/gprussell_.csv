@@ -1,0 +1,354 @@
+twitter_id,date,tweet
+1105587198517223424,2019-03-12 21:51:43,"b""RT @confluentinc: If you're looking to learn more about the @apachekafka integration in @springcloud Stream, start here! Soby Chacko from @\xe2\x80\xa6"""
+1100555260505063425,2019-02-27 00:36:36,b'RT @confluentinc: Using @springcentral with @apachekafka can eliminate much of the boilerplate code that you otherwise need. It also adds f\xe2\x80\xa6'
+1099088433652355073,2019-02-22 23:27:57,b'RT @artem_bilan: Have migrated #SpringIntegration tests to #AssertJ: https://t.co/pY3GbV6QVa. Big thanks to @intellijidea plugin: https://t\xe2\x80\xa6'
+1085669269990502401,2019-01-16 22:44:59,"b'@ashishdaniel86 Don\'t ask such questions on twitter if you want an answer. I don""t monitor it that closely. You got\xe2\x80\xa6 https://t.co/uT5yXsox3O'"
+1085268485683507202,2019-01-15 20:12:24,"b""RT @springcentral: We'd like to ask you about @springcloud Stream. Where do you use it? how do you use it? What do you like about it? What\xe2\x80\xa6"""
+1081408502420123648,2019-01-05 04:34:13,"b'RT @snicoll: 99% of the time a user is posting some code snippet to ask a question, the information that we need to help them is not provid\xe2\x80\xa6'"
+1075073703132741632,2018-12-18 17:01:59,b'RT @michaelminella: Do you love the Spring Framework? Imagine what it would be like working on it! You can! The @springcentral team is hiri\xe2\x80\xa6'
+1070430907868295169,2018-12-05 21:33:10,b'@HTTR_UK @artem_bilan Thanks for pointing it out; I just added a migration guide and link to the wiki\xe2\x80\xa6 https://t.co/b9e08sJlFc'
+1070426872633274386,2018-12-05 21:17:08,"b""@HTTR_UK @artem_bilan See the What's New? in the reference manual https://t.co/7nvZRdg4eX"""
+1068726771896524802,2018-12-01 04:41:33,"b'RT @springboot: And last but not least, Spring Boot 2.1.1 is now available!\n\nhttps://t.co/Buq5OzmjQ8'"
+1058469155672899590,2018-11-02 21:21:26,b'RT @confluentinc: Integrate @apachekafka into your @springboot project with this six-step guide by @igorkosandyak: https://t.co/oujeoMdOFG'
+1057039255619452928,2018-10-29 22:39:32,b'RT @artem_bilan: #SpringIntegration 5.1 GA is out: https://t.co/wZzBucSpUZ !'
+1056999282061049856,2018-10-29 20:00:41,b'Spring for Apache Kafka 2.2 is released: https://t.co/Pt1rLiRdvl @springcentral @apachekafka'
+1054725167560167424,2018-10-23 13:24:10,"b'@starbuxman Thanks, Josh! Another successful trip around the Sun completed.'"
+1044793446467284992,2018-09-26 03:39:03,b'RT @gAmUssA: #speakerselfie with @gprussell from the stage of #SpringOne @s1p. \n@cppwfs is also on the pic and he looks exciting to hear ab\xe2\x80\xa6'
+1044608948777758722,2018-09-25 15:25:55,"b'RT @artem_bilan: #SpringIntegration, Spring for @apachekafka and Spring #AMQP Release Candidates are available https://t.co/dMUekfU4nP. Jus\xe2\x80\xa6'"
+1035696987100917761,2018-09-01 01:12:58,b'@jeffreymaxwell @artem_bilan @gitchat Thank *you* for helping to improve the projects with your suggestions and code contributions.'
+1033084743691264003,2018-08-24 20:12:51,"b""@alwynschoeman Please don't ask questions like this on twitter; I don't monitor it closely enough (and twitter is n\xe2\x80\xa6 https://t.co/OVrHsf5YM2"""
+1029124198529155072,2018-08-13 21:55:03,"b""@tolbier It's generally better to ask such questions on Stack Overflow tagged with spring-kafka; that way other com\xe2\x80\xa6 https://t.co/tBsh6ikFEk"""
+1024728512312340485,2018-08-01 18:48:10,"b'@springcentral @ramtwits @jon_k_schneider I suggest you explain in more detail what you are looking for, in a GitHu\xe2\x80\xa6 https://t.co/2NwCwNF6NG'"
+1024707260470251520,2018-08-01 17:23:43,"b'New Spring releases are available for Integration, RabbitMQ, Apache Kafka - also next.gen milestones for each proje\xe2\x80\xa6 https://t.co/ZOvahQJmuf'"
+1022239170708865026,2018-07-25 21:56:25,b'RT @confluentinc: The Philly @springcloud #Meetup group is back! August 28th at 6:30pm ET! \n\nJoin @gprussell and @sobychacko as they explor\xe2\x80\xa6'
+1022221986674757638,2018-07-25 20:48:08,b'RT @MkHeck: Thanks to all who came out on a rainy Tuesday evening @ the Philadelphia JUG to discuss &amp; code reactive microservices w @spring\xe2\x80\xa6'
+1022221465922535431,2018-07-25 20:46:04,"b""@Biswomohan You don't have to ping us on twitter; we get notified of new questions that are properly tagged and wil\xe2\x80\xa6 https://t.co/1eFPzJ2Ynp"""
+1014930928664182784,2018-07-05 17:56:04,"b'@cardrichwino @brunoborges @clemensv @springframework @rseroter @MkHeck @starbuxman @springboot @RabbitMQ BTW, I ha\xe2\x80\xa6 https://t.co/kQtSUOPqct'"
+1014921336559427584,2018-07-05 17:17:57,b'@cardrichwino @brunoborges @clemensv @springframework @rseroter @MkHeck @starbuxman @springboot @RabbitMQ I believe\xe2\x80\xa6 https://t.co/1jJWPcRdiy'
+1014920925274353664,2018-07-05 17:16:19,b'@cardrichwino @brunoborges @clemensv @springframework @rseroter @MkHeck @starbuxman @springboot @RabbitMQ Spring AM\xe2\x80\xa6 https://t.co/yKRxNTER4b'
+1012460595222892555,2018-06-28 22:19:51,b'RT @artem_bilan: @springcloud for @GCPcloud 1.0.0.RC1 is available: https://t.co/hRGf4osmWY !'
+1002950660604735488,2018-06-02 16:30:46,"b'@YunaMorgenstern If you can be more specific about exactly what you want/need to do, I might be able to point you i\xe2\x80\xa6 https://t.co/4Xxr0j9j9s'"
+1002946941779628032,2018-06-02 16:15:59,"b'@YunaMorgenstern There are a lot of moving parts; listener containers, factories, listener adapters, invocable hand\xe2\x80\xa6 https://t.co/YmRri1N3sx'"
+1002294080175525888,2018-05-31 21:01:45,b'@MatthiasJSax @sobychacko @apachekafka They used to publish snapshots; but the last one was 0.10.2.0: https://t.co/UBUeTrSCwn unfortunate'
+1001153091499184128,2018-05-28 17:27:52,"b'RT @snicoll: Actuator improvement in the next @springboot feature release (2.1). \n\nSpring Integration graph endpoint, see the reference doc\xe2\x80\xa6'"
+999351829191372808,2018-05-23 18:10:17,b'RT @rseroter: No biggie. Just set up @springcloud Stream to send messages to @Azure Event Hubs via the new @apachekafka interface. Couple l\xe2\x80\xa6'
+999082730754371584,2018-05-23 00:20:59,"b""RT @springcentral: June 7th 10:00am webinar with @z_oleg\nabout @springcloud stream: What's New in 2.x\xe2\x80\x94and What's Next? \nhttps://t.co/wiiNPC\xe2\x80\xa6"""
+997566108306681856,2018-05-18 19:54:28,"b""Spring for @apachekafka : Note that in most cases you aren't tied to using old versions of spring-kafka if you have\xe2\x80\xa6 https://t.co/88r4Sns0l6"""
+987415743309533184,2018-04-20 19:40:33,b'RT @markpollack: Spring Cloud Data Flow 1.5.0 M1 released! https://t.co/wU93zNdX7E  @springcloud'
+987031660372938754,2018-04-19 18:14:20,b'RT @sobychacko: Recently released @springcloud stream 2.0.0 has improved support for writing Spring applications using @kafkastreams. Here\xe2\x80\xa6'
+986349777355931648,2018-04-17 21:04:47,b'RT @artem_bilan: #SpringIntegration for @awscloud 2.0.0.M2 and @springcloud Stream @awscloud Kinesis Binder 1.0.0.M2 are available https://\xe2\x80\xa6'
+986049704499834880,2018-04-17 01:12:24,"b'RT @artem_bilan: @springcloud for @GCPcloud 1.0 Milestone 3 is available: https://t.co/IUQza5xGUS. @springboot Initializr, @SpringData Span\xe2\x80\xa6'"
+983762647232499712,2018-04-10 17:44:27,"b'Note: while Spring for Apache Kafka 2.1.5 uses the 1.0.1 kafka-clients natively, it will support the 1.1.0 clients\xe2\x80\xa6 https://t.co/CtRhFVzzKa'"
+981900842797330433,2018-04-05 14:26:18,"b'Several maintenance releases for Spring Integration https://t.co/JT1aoz7fAh, Spring for Apache Kafka\xe2\x80\xa6 https://t.co/cTiFUimM7p'"
+975017347881820163,2018-03-17 14:33:45,"b'RT @gregturn: If you haven\xe2\x80\x99t read this, do it. Now!\n\nhttps://t.co/am6mdbIXlC\n\nSo glad we have @jon_k_schneider on the team building @microm\xe2\x80\xa6'"
+973335785729679361,2018-03-12 23:11:49,b'RT @z_oleg: Pleased to announce @springcloud stream 2.0.0.RC3/Elmhurst.RC3 - https://t.co/L6d2lcaeFM which we believe is our last RC. Some\xe2\x80\xa6'
+972511746903724032,2018-03-10 16:37:23,b'RT @sobychacko: Spring Cloud Stream samples are now updated in preparation for the 2.0.0 Release (aka Elmhurst.RELEASE). https://t.co/xRLPC\xe2\x80\xa6'
+971469414200758272,2018-03-07 19:35:32,"b""@jeffreymaxwell @sentto Twitter's not really a suitable medium for such questions - suggest moving the\xe2\x80\xa6 https://t.co/KF5vBW6EkY"""
+971445815481896960,2018-03-07 18:01:45,"b'@jeffreymaxwell @sentto I was referring to ""In a typical request/reply scenario..."". As I said, it\'s hard to consid\xe2\x80\xa6 https://t.co/NXUebtJs1R'"
+971231256037003264,2018-03-07 03:49:10,"b'@jeffreymaxwell @sentto Anything is ""possible""; it\'s just software; it just needs someone with the time/inclination\xe2\x80\xa6 https://t.co/HJBkpyEGeH'"
+971211810551590912,2018-03-07 02:31:54,"b'@jeffreymaxwell @sendto @StreamListener @sentto @SendTo is used with several annotations, StreamListener, KafkaList\xe2\x80\xa6 https://t.co/N2SPtpuF6W'"
+970713655250743298,2018-03-05 17:32:25,b'Great news; first class support for JUnit5 is in Gradle 4.6 https://t.co/3AEnGvYF0K  https://t.co/hX9aVYBdSl #springamqp @sam_brannen'
+968940107943247872,2018-02-28 20:04:58,b'@snicoll On its way to Maven Central... #springintegration'
+968539303566553088,2018-02-27 17:32:19,b'Spring Cloud Stream 2.0 - learn about polled consumers: https://t.co/uf2WE8u8zp #springcloudstream #springintegration @springcentral'
+968248936610791424,2018-02-26 22:18:30,"b'@rbrtwnklr @olivergierke @testcontainers @artem_bilan If I understand what you mean, it would be non-trivial to cre\xe2\x80\xa6 https://t.co/sXMnSe2lyD'"
+968159571427590144,2018-02-26 16:23:24,"b""RT @z_oleg: Content-type negotiation and transformation in Spring Cloud Stream 2.0. First blog in a series of pre-GA blogs about what's new\xe2\x80\xa6"""
+967151034731724800,2018-02-23 21:35:50,b'RT @z_oleg: After a long yet exciting journey we are pleased to announce the Release Candidate of the @SpringCloud Stream 2.0.0.RC1 - https\xe2\x80\xa6'
+966777412531998722,2018-02-22 20:51:11,b'New Spring for Apache Kafka and Spring Integration Kafka releases are available. They add request/reply semantics t\xe2\x80\xa6 https://t.co/t8tFtIZtvw'
+964253257530007552,2018-02-15 21:41:06,b'@snicoll @starbuxman @iNikem @sobychacko @z_oleg @artem_bilan The contribution guidelines are in the main Spring Cl\xe2\x80\xa6 https://t.co/EKhfaFmspy'
+963556698408607744,2018-02-13 23:33:13,b'@starbuxman @iNikem @sobychacko @z_oleg @artem_bilan Yeah; we broke it with the recent changes to add request/reply\xe2\x80\xa6 https://t.co/8jhenKwAGV'
+960698272997396481,2018-02-06 02:14:51,"b""RT @z_oleg: Very excited to announce the release of Spring Cloud Stream 2.0.0.M4! Lot's of cool stuff, yet more to come! @springcentral @sp\xe2\x80\xa6"""
+958071706974937088,2018-01-29 20:17:49,"b'A bunch of Spring Messaging (Integration, AMQP, Spring for Apache Kafka) maintenance releases are out, just in time\xe2\x80\xa6 https://t.co/cYTWp5Bk9t'"
+957370937741111296,2018-01-27 21:53:13,"b""@TYsewyn @s1p Cool. Also see the spring-flo-si sample (part of the spring-flo project) - it's on the angular-1x bra\xe2\x80\xa6 https://t.co/6m9uRtHeBS"""
+957368464859123713,2018-01-27 21:43:23,"b""RT @TYsewyn: Ever wondered how to visualize your application's internal architecture when using #Spring Integration? We explained it in thi\xe2\x80\xa6"""
+956566466287099904,2018-01-25 16:36:32,b'@kumar_6081 I am not in a position to provide individual support; sorry.'
+948249387117015040,2018-01-02 17:47:26,b'RT @starbuxman: Programmatically register #SpringIntegration adapters - driven by data - using the @springframework 5.0 functional bean def\xe2\x80\xa6'
+947315495283363843,2017-12-31 03:56:29,"b'@starbuxman @cloudnativejava I love @ ParameterizedTest (and more) but, sadly, lack of first class @gradle test rep\xe2\x80\xa6 https://t.co/qY14pM5FP3'"
+947255281314091008,2017-12-30 23:57:12,b'Good stuff - already started converting my stuff - just need needs first class gradle test report support. https://t.co/FJwB3VcKJr'
+944594152150401024,2017-12-23 15:42:50,b'@dr_pompeii @starbuxman @artem_bilan @gregturn @david_syer @petrikainulaine @martinlippert The same to you and yours; and Happy New Year!'
+940413953166811136,2017-12-12 02:52:13,b'RT @spring_io: CFP for Spring I/O 2018 is now open! Send us your talk or workshop proposal here: https://t.co/cMtVuIabji'
+939551273698836481,2017-12-09 17:44:14,"b'RT @gregturn: In #LearningSpringBoot 2nd Edition, we explore @springcloud Stream, @RabbitMQ, and @ProjectReactor -based websockets. https:/\xe2\x80\xa6'"
+938514313303568384,2017-12-06 21:03:43,b'RT @ryanpmorgan: Excited to see @projectriff announced today by @m_f_ at #springone https://t.co/QACghUITcG'
+937827423692787712,2017-12-04 23:34:16,"b""There's a lot that has changed in Spring for Apache Kafka (and Apache Kafka itself) since I presented the 1.0 versi\xe2\x80\xa6 https://t.co/wIW7TI2LHF"""
+936745747621478400,2017-12-01 23:56:04,b'RT @rseroter: #springone is sold out and 50% larger than last year. Pre-conference training is sold out. Sponsorships are sold out. All thi\xe2\x80\xa6'
+936602292689784835,2017-12-01 14:26:02,b'Spring for Apache Kafka 2.1.0.RELEASE is now available. Supports Apache Kafka 1.0.0 and adds a few new features. Al\xe2\x80\xa6 https://t.co/E9bHnoHucx'
+936085416326979584,2017-11-30 04:12:09,"b'RT @z_oleg: Extremely excited to be back, more excited to be presenting ""Spring stuff"", and even more excited to be co-presenting it with @\xe2\x80\xa6'"
+935896299244843009,2017-11-29 15:40:40,b'RT @artem_bilan: #SpringIntegration 5.0 GA Available: https://t.co/wzjUPNCbw8. @ProjectReactor @springwebflux @MockitoJava . See you all at\xe2\x80\xa6'
+935633435875594241,2017-11-28 22:16:08,b'RT @artem_bilan: Spring AMQP 1.7.5 and 2.0.1 available: https://t.co/emtkhEywdT. Everyone is encouraged to upgrade! See you all on @s1p ! /\xe2\x80\xa6'
+928741644156928000,2017-11-09 21:50:37,"b'RT @artem_bilan: Spring for @apachekafka 2.1 RC1, 2.0.1 &amp; 1.3.1 available: https://t.co/RrQN0Qfrg1. Upgrade to Apache Kafka 1.0.0, useful i\xe2\x80\xa6'"
+927313389826854912,2017-11-05 23:15:15,"b'RT @john_blum: Actually, it is standard time that is horrible and should be eliminated; it cuts into my #golf time! https://t.co/YaynnQyzpn'"
+927280957907980290,2017-11-05 21:06:23,b'RT @s1p: .@m_f_ introduces Spring Cloud Function from the basic programming model  to multicloud deployments at #SpringOne: https://t.co/rl\xe2\x80\xa6'
+926811113831976961,2017-11-04 13:59:23,b'RT @rstoya05: Impressive to see a book based on Spring Framework 5 in &lt; 2 months after GA.. https://t.co/iIJuLOJ9Uq'
+925809920267702272,2017-11-01 19:41:00,"b'RT @artem_bilan: #SpringIntegration 5.0 RC1 Available: https://t.co/mOuo2r0NXZ. Java DSL, functions and @springwebflux improvements.'"
+923335566879584256,2017-10-25 23:48:48,b'RT @michaelminella: The Spring Team is hiring! Contribute to Spring while working directly with customers! Details here: https://t.co/g2jJe\xe2\x80\xa6'
+922868867688534018,2017-10-24 16:54:18,b'RT @artem_bilan: Stuck with testing @springcloud Stream Microservises? Check this out! https://t.co/j5JXRZ8vK2'
+921119864030457862,2017-10-19 21:04:23,"b'RT @artem_bilan: #SpringIntegration for @awscloud 1.1.0.RC1 Available \nhttps://t.co/VL2rzIcGra. DynamoDB, @springcloud Stream Kinesis Binde\xe2\x80\xa6'"
+921000641656475650,2017-10-19 13:10:38,"b'@dr_pompeii It was not recorded, but I plan to upload the code I walked through to https://t.co/Nuq41nNUsg later today.'"
+920844203084705792,2017-10-19 02:49:01,b'RT @LeighaWilson: Great talk tonight with @gprussell @IpponUSA was full of #kafka chatter and #springintegration learning \xf0\x9f\x93\x9a thanks @Capital\xe2\x80\xa6'
+920346157246767104,2017-10-17 17:49:57,"b""RT @richmondjug: Excited to have @gprussell speaking at Wednesday's meetup! #springintegration #apachekafka #rva #java #spring  https://t.c\xe2\x80\xa6"""
+920072563853811712,2017-10-16 23:42:48,b'@mariusbogoevici @flyLAXairport @patriciabogoevi Say hi to @ghillert if you make it to the Big Island.'
+920069686619967488,2017-10-16 23:31:22,"b'@mariusbogoevici @flyLAXairport @patriciabogoevi Man, you take a lot of nice trips - enjoy!'"
+918924352002801664,2017-10-13 19:40:12,b'RT @lukewshannon: @starbuxman @springcentral @rstoya05 @l8arrival @markpollack @gprussell @joe_grandja @spencerbgibb Spring is one of the b\xe2\x80\xa6'
+918641222880808961,2017-10-13 00:55:09,b'RT @lukewshannon: @gprussell #torontospring https://t.co/xeq3T2QZG1'
+917907161816227840,2017-10-11 00:18:15,"b'RT @mraible: @starbuxman is right, @springjuergen is very deserving of a \xe2\x80\x9cspecial jury\xe2\x80\x9d #JAXInnovationAward. Congrats! \xf0\x9f\x8e\x89 \n\nhttps://t.co/COc\xe2\x80\xa6'"
+916730899793895425,2017-10-07 18:24:13,"b""RT @vccarvalho: It's my pleasure on behalf of the team announce that Spring Cloud Stream 1.3 is officially GA: https://t.co/yqoBi9qfta @spr\xe2\x80\xa6"""
+916123501383290880,2017-10-06 02:10:38,b'RT @artem_bilan: One more GA based on #SpringFramework 5.0 - Spring AMQP 2.0 available! https://t.co/YUoQZnz2cu. /CC @springcentral @Rabbit\xe2\x80\xa6'
+914904792044097537,2017-10-02 17:27:55,b'RT @artem_bilan: One more #SpringFramework 5 based GA - Spring for @apachekafka 2.0! https://t.co/NtBRj1MChG. /CC @springcentral'
+913063960395571202,2017-09-27 15:33:06,b'Second release candidate for Spring AMQP 2.0 is available https://t.co/HaEjWiIuFK #springamqp @RabbitMQ @springcentral'
+908431434402148353,2017-09-14 20:45:06,b'Spring Cloud Stream Ditmars Release Train Release Candidate is available https://t.co/DQPoI8pW2O @springcentral #springcloudstream'
+908431198694846464,2017-09-14 20:44:10,"b'RT @artem_bilan: #SpringIntegration 5.0 Milestone 7 &amp; 4.3.12 available: https://t.co/i0vcHhyCwi @springwebflux , @ProjectReactor , @springc\xe2\x80\xa6'"
+907599622054572033,2017-09-12 13:39:46,b'Spring for Apache Kafka 2.0 and 1.3 release candidates are now available - https://t.co/G70x1NR5l2 @apachekafka @springcentral #springkafka'
+907598863929954304,2017-09-12 13:36:46,b'Spring for RabbitMQ 2.0 release candidate is now available https://t.co/L2j9J0wC4T #springamqp @RabbitMQ @springcentral'
+905105582667046914,2017-09-05 16:29:21,"b'RT @rseroter: Partition processing, whether using @RabbitMQ or @apachekafka? Pretty easy with @springcloud Stream. I tried it out: https://\xe2\x80\xa6'"
+903470027893911553,2017-09-01 04:10:14,"b'RT @vccarvalho: two amazing white boarding days with @gprussell @sobychacko @artem_bilan @ilayaperumalg, so much cool things for @springclo\xe2\x80\xa6'"
+902671513685565440,2017-08-29 23:17:14,"b""RT @ryanpmorgan: A huge day for @pivotal.  It's going to be fun bringing the power of @springcentral to #K8s\nEnterprise @springcentral supp\xe2\x80\xa6"""
+899661464931315713,2017-08-21 15:56:22,"b'Spring for Apache Kafka 1.3 Milestone w/ 0.11.x.x (transactions, headers). https://t.co/j0MwxVeR5s #springkafka #apachekafka @springcentral'"
+896531315507564549,2017-08-13 00:38:17,b'RT @java: \xe2\x80\x9cWhen startups grow up they turn into Java shops\xe2\x80\x9d\n\nhttps://t.co/JGMPEL4yDx'
+889634861388091393,2017-07-24 23:54:14,b'RT @artem_bilan: Spring for @apachekafka 2.0 Milestone 3 Available https://t.co/x2x4FmsdzI. Transactions and headers support finally! /CC @\xe2\x80\xa6'
+889560640276353025,2017-07-24 18:59:18,b'RT @artem_bilan: Spring AMQP 2.0 Milestone 5 Available: https://t.co/jcu4Z4V4j1. Fixes and improvements! /CC @springcentral'
+885282665838112768,2017-07-12 23:40:09,b'RT @springcentral: Surprise! @cdupuis speaking 2x at Spring Days Atlanta! Check out the agenda and register now:\nhttps://t.co/w8qwi9GCJX @s\xe2\x80\xa6'
+884475526534094850,2017-07-10 18:12:52,b'RT @springcentral: Last week to register for Spring Days #atlanta - featuring @kennybastani @royclarkson\n@cppwfs and many more  https://t.c\xe2\x80\xa6'
+883755522041810945,2017-07-08 18:31:50,b'@root_nishi Spring Cloud Stream has done some work already https://t.co/5QV4KCfUgm I suggest moving the discussion\xe2\x80\xa6 https://t.co/bZw34VPkxz'
+868586896187957252,2017-05-27 21:57:08,b'RT @monkchips: arguably the most powerful tech company in the world hires engineers in their 60s. we should all learn from that https://t.c\xe2\x80\xa6'
+864318441871769600,2017-05-16 03:15:49,"b""RT @mariusbogoevici: Here's a quick preview of the upcoming @springcloud #Stream and #DataFlow support for @apachekafka #KafkaStreams https\xe2\x80\xa6"""
+863530372981719040,2017-05-13 23:04:19,"b""RT @starbuxman: Anybody who's worked for @briandussault knows he loves and cares for his people AND the technology (Spring). https://t.co/H\xe2\x80\xa6"""
+862820943260942336,2017-05-12 00:05:17,b'RT @ankinson: Please don\xe2\x80\x99t use OSGi as an example of what Jigsaw should be. Jigsaw has to be suitable for the mainstream. OSGi has never es\xe2\x80\xa6'
+861663653581467648,2017-05-08 19:26:38,"b""@openwms @spring_io Sorry - couldn't make it over there this year; maybe next, perhaps."""
+861652676072939520,2017-05-08 18:43:01,b'Spring AMQP 2.0 4th milestone is available; a couple more features ready for the upcoming Spring Boot 2.0 milestone  https://t.co/q9BFc6aUJP'
+857659199173611520,2017-04-27 18:14:22,"b'Spring for Apache Kafka 2.0 milestone1 is now available: https://t.co/x37JSWXXag better threading, listener SendTo, and more @springcentral'"
+857289454775652353,2017-04-26 17:45:08,"b""RT @pivotal: We're opening up early-bird registration for @S1P! Book your ticket now &amp; save $400. We can't wait to see you again! https://t\xe2\x80\xa6"""
+856993708985790465,2017-04-25 22:09:57,b'RT @RabbitMQ: Our team is hiring a software engineer anywhere in the Americas https://t.co/lci9n3i0UL'
+856993354361565184,2017-04-25 22:08:32,b'RT @ryanpmorgan: Congratulations Rajini on becoming an @apachekafka committer! Great news and well deserved! \xf0\x9f\x99\x8c https://t.co/uDeI1bFzYv'
+856993297029619716,2017-04-25 22:08:18,b'RT @glynnormington: .@apachekafka Rajini Sivaram just became an @apachekafka committer! https://t.co/wU8EQ3FJ6P'
+856986904583131136,2017-04-25 21:42:54,b'RT @cppwfs: Pleased to announce the release of Spring Cloud Task 1.2.0.RELEASE.  Read more about it here: https://t.co/6TDuKE8kx7 @springce\xe2\x80\xa6'
+856706312465502208,2017-04-25 03:07:56,b'@zeroows Best place is Stack Overflow with spring-amqp tag; twitter is not suitable for such dialogs.'
+855886294345449472,2017-04-22 20:49:28,b'RT @pivotal: Happy #EarthDay from all of us at Pivotal. Be kind to our planet. https://t.co/rmjpN1cjDi'
+852658368359665664,2017-04-13 23:02:51,b'RT @mariusbogoevici: We\xe2\x80\x99re happy to announce that the @springcloud #SpringCloudStream release train Chelsea is now GA (as Chelsea.SR1)!\nhtt\xe2\x80\xa6'
+851217250887622656,2017-04-09 23:36:22,"b""@starbuxman @PunksRant Couldn't be a better Sunday - play a decent round of golf; watch the masters; answer a value\xe2\x80\xa6 https://t.co/pd2XuCPlo6"""
+851213998498484224,2017-04-09 23:23:26,b'@PunksRant @starbuxman Wrap the DefaultSftpSessionFactory in a CachingSessionFactory - the pool can be open-ended or bounded.'
+850374248380203008,2017-04-07 15:46:34,"b'Spring for Apache Kafka 1.2.0, 1.1.4 available (adds KStreams support; some bug fixes). @springcentral @apachekafka https://t.co/vkWWJPrPAz'"
+849783913648140288,2017-04-06 00:40:47,b'RT @springcentral: #SpringIntegration 5.0.M3 debuts a test framework to help write unit tests for integration flows &amp;  channel adapters htt\xe2\x80\xa6'
+849337470760210432,2017-04-04 19:06:47,b'Spring AMQP 2.0 Milestone 3 is now available https://t.co/1LYuWa978w #springamqp @RabbitMQ @springcentral'
+847809481912320000,2017-03-31 13:55:06,b'@snicoll @EisteeOnDaRocks They keep changing their internals; you generally need to use the kafka client version th\xe2\x80\xa6 https://t.co/HwjsePetES'
+845420662017736709,2017-03-24 23:42:47,b'RT @ankinson: A poorly formatted GitHub issue or Stack Overflow question makes me doubt that helping will be a good use of my time'
+845420368416395264,2017-03-24 23:41:37,"b'RT @ankinson: TL;DR If you want some help, show that you care. Make it easy to help you and clear that you\xe2\x80\x99ve already tried on your own'"
+842773172130906114,2017-03-17 16:22:36,"b""RT @erjohnso: Oooh! @googlecloud Pub/Sub coming to @springcloud Stream? I'm excited for more Spring+GCP in 2017! h/t @saturnism - https://t\xe2\x80\xa6"""
+842466399524147200,2017-03-16 20:03:36,b'RT @mariusbogoevici: Happy to announce that @springcloud #SpringCloudStream Chelsea.RC1 is out! Find all about it here https://t.co/Jdrt7mh\xe2\x80\xa6'
+839977045962739713,2017-03-09 23:11:48,b'RT @artem_bilan: #SpringIntegration for @awscloud 1.1 M1 Available https://t.co/JeXzAbYBcF CC @springcentral'
+837804013684932608,2017-03-03 23:16:57,b'@antonio_lazaro @starbuxman That question is not tagged with spring-amqp - it talks about JMS and I generally stay clear of WL questions. :)'
+837802609192939520,2017-03-03 23:11:22,"b'@starbuxman @antonio_lazaro Please ask, with more specifics, on Stack Overflow ([spring-amqp[ tag - https://t.co/gJJxCQUCqx ).'"
+836756538404515840,2017-03-01 01:54:39,b'RT @mariusbogoevici: Always great to hang out with @gprussell @sobychacko @artem_bilan ! https://t.co/MRwDCiDb7h'
+828714609506996224,2017-02-06 21:18:54,b'RT @PieterHumphrey: @s1p replay: Spring for @apachekafka by @gprussell\nhttps://t.co/jsSwzL5ngp @java @springboot'
+828638893687861248,2017-02-06 16:18:02,b'RT @artem_bilan: Spring for @apachekafka 1.1.3 is available: https://t.co/tuJ32Yw8Yc'
+824377182545920002,2017-01-25 22:03:31,b'Spring Integration 4.3.7 is available. https://t.co/sg3PEa92pd \xe2\x80\xa6 #springintegration @springcentral'
+822202692886036481,2017-01-19 22:02:52,"b""RT @briandussault: It's time to break down those data silos with @springcloud dataflow! Great post by @sabbyanandan https://t.co/m2CwahxRZm"""
+822187003777257473,2017-01-19 21:00:31,b'RT @artem_bilan: Spring #AMQP 1.7 GA and 1.6.7 available https://t.co/mCSQbsok88 //CC @gprussell @springcentral'
+820098541225967616,2017-01-14 02:41:43,"b""RT @rseroter: Do you like @apachekafka? How about @springboot? If so, you'll like this deep-dive presentation ... https://t.co/JE3R5yF7a4 h\xe2\x80\xa6"""
+818579250294845440,2017-01-09 22:04:36,b'@ddewaele We also use a JUnit Rule - https://t.co/3DBFz2Yw3t - together with the MQTT plugin installed in a local @RabbitMQ broker. 2/2'
+818578832605134848,2017-01-09 22:02:56,b'@ddewaele We have some tests that use Mockito - https://t.co/d6lS7Od6S7 -  the Paho client is pretty easy to mock. 1/2'
+817115655124160513,2017-01-05 21:08:48,b'RT @artem_bilan: #SpringIntegration 5.0 M2 Available: https://t.co/CXymR3eLEj #JavaDSL #Mongodb #reactive /CC @xavips @ProjectReactor @spri\xe2\x80\xa6'
+812823373168381952,2016-12-25 00:52:48,"b'@dr_pompeii @david_syer @artem_bilan Thanks Manuel, all the best to you and yours too. ""See"" you in \'17.'"
+807233294114897920,2016-12-09 14:39:49,b'RT @ghohpe: Hacking Spring Cloud Data flow with @starbuxman #yow16 https://t.co/VRgGwpxogq'
+804718458017615872,2016-12-02 16:06:45,b'The first milestone of Spring Integration 5.0 is out! https://t.co/OBKsMszH7i #springintegration @springcentral'
+804012649667301376,2016-11-30 17:22:08,b'Spring AMQP 2.0 Milestone 1 is now available https://t.co/Qm7Fmhk4L0 #springamqp #rabbitmq @springcentral'
+801562140146626560,2016-11-23 23:04:41,b'RT @onsijoe: hundred thousand apps\nrun them on the cloud for me\ni do not care how\n\n#cloudfoundry #diego #1.0'
+798289459535958017,2016-11-14 22:20:13,"b""@buissoni It's not clear how you can get such exceptions - I added an answer."""
+796035097656967168,2016-11-08 17:02:11,b'New Spring Integration/AMPQ releases available #springintegration #springamqp #rabbitmq (note AMQP is now 1.6.5 due to bad pom in 1.6.4).'
+791409311801085953,2016-10-26 22:40:58,b'RT @vietnem: Thank you @artem_bilan and @gprussell for the Routing Slip Pattern implementation ... this just made my day ! #springintegrati\xe2\x80\xa6'
+789560375838646272,2016-10-21 20:13:57,b'RT @springcentral: #FF @m_f_ @markpollack @sabbyanandan @artem_bilan @gprussell @ebottard @ilayaperumalg @trisberg @tunebluez @mariusbogoev\xe2\x80\xa6'
+786990979094118400,2016-10-14 18:04:05,b'&gt;Any news about the SI flow visualizer? @josetesan https://t.co/0MJk2EANPQ - much kudos goes to @andy_clement and team. #springintegration'
+786977034379661312,2016-10-14 17:08:40,b'RT @artem_bilan: #SpringIntegration Java DSL 1.2 is available https://t.co/gwvAnvJYjU. Upgrade and enjoy new feature!'
+785903810182942720,2016-10-11 18:04:04,b'RT @ankinson: Delighted to accept the @JAXEnter Innovation Award on behalf of the @SpringBoot team and community. Thanks to everyone who vo\xe2\x80\xa6'
+783037591440334848,2016-10-03 20:14:44,"b""@josetesan @springcentral We're getting close - see the README screenshots in this new sample app: https://t.co/CURcJG7O1Z @sabbyanandan"""
+783007486399741952,2016-10-03 18:15:06,"b'Spring Integration 4.3.4, 4.2.11 available; also Spring AMQP 1.6.3 https://t.co/kjFiFqL75E #springintegration #springamqp @springcentral'"
+780768352272875520,2016-09-27 13:57:35,"b'RT @ProjectReactor: After more than a year of work, Reactor 3.0 GA is out! https://t.co/UWgPiPRQOD'"
+777980547721232384,2016-09-19 21:19:51,b'RT @artem_bilan: Spring for @apachekafka 1.1 GA and #SpringIntegration Kafka 2.1 GA are available: https://t.co/hx39J6sqrZ. Enjoy Kafka 0.1\xe2\x80\xa6'
+777980470176997376,2016-09-19 21:19:32,b'RT @artem_bilan: #SpringIntegration 4.3.2 is available: https://t.co/Xurq49i3cV. Would be great if you upgrade! //cc @springcentral'
+776517058829791232,2016-09-15 20:24:28,b'RT @artem_bilan: The Java DSL for #SpringIntegration 1.2 M2 is available: https://t.co/m8ajNAGjOA. /cc @springcentral'
+776120108628451328,2016-09-14 18:07:08,b'RT @MichaelDell: Celebrating our new company with the global #DellTechnologies family! Ready to #GoBigWinBig https://t.co/ltwPgMNRQo https:\xe2\x80\xa6'
+773928683023261696,2016-09-08 16:59:11,b'RT @artem_bilan: Spring for @apachekafka 1.1 M2 and #SpringIntegration Kafka 2.1 M1 are available: https://t.co/quZBIYb2KN. cc/ @springcent\xe2\x80\xa6'
+773666376477212672,2016-09-07 23:36:52,b'RT @david_syer: Updated the code from my 2008 JavaWorld article (https://t.co/GJQT0zEbj6) to use Spring Boot: https://t.co/j0IuUxO0J7'
+770255890276548612,2016-08-29 13:44:49,"b'@utrakarsh See your logging subsystem documentation log4j, logback etc. https://t.co/pYYpnZshOB'"
+768147794632716288,2016-08-23 18:08:00,b'Spring for Apache Kafka 1.1.0 Milestone 1 available https://t.co/ZZEey183r4 0.10.x.x client support and more @apachekafka @springcentral'
+767051180698656771,2016-08-20 17:30:27,b'@bowersox_kevin Good catch. Yes. Open. In src/reference/asciidoctor in the SI Github repo.'
+765963915155140608,2016-08-17 17:30:02,b'@bowersox_kevin Added some notes to the docs for the next release; hope that helps. https://t.co/UAAnzI5VWz'
+765321075936800768,2016-08-15 22:55:38,b'@bowersox_kevin We should clarify; here the solid line represents polling (e.g. QueueChannel) Vs. dotted for subscribing (pull Vs. push).'
+765175441627942912,2016-08-15 13:16:56,"b'@bowersox_kevin Not sure what you mean by ""optional""; there\'s nothing in that diagram or discussion about that. What am I missing?'"
+764112164483280897,2016-08-12 14:51:51,"b'RT @artem_bilan: Spring @apachekafka 1.0.3 released https://t.co/d4NExsw69h Now we have KafkaNull! Thanks https://t.co/eeWF9hv9DW, @gprusse\xe2\x80\xa6'"
+761737006020001792,2016-08-06 01:33:49,"b""@starbuxman @spring1platform Cheers Josh. Let's do it again next year!! #s1p"""
+761451053187555328,2016-08-05 06:37:32,b'@MkHeck @gprussell #s1p Always good to get together with colleagues at the best conference of the year. c u next year if not b4'
+759760190501683200,2016-07-31 14:38:39,b'@josetesan @spring_io ... not yet. Soon though. Stay tuned!!'
+757978742136279040,2016-07-26 16:39:49,"b""RT @snicoll: Spring Boot 1.4.0 GA about to be released. I you haven't upgraded your project to RC1, please do so and let us know how it goe\xe2\x80\xa6"""
+753238346978172928,2016-07-13 14:43:11,b'RT @artem_bilan: Spring for @apachekafka 1.0.2 released https://t.co/hSNGJhkE9Y Upgrade is strongly recommended. Thank you community for co\xe2\x80\xa6'
+752945641035210752,2016-07-12 19:20:04,b'RT @briandussault: Come to @spring1platform to meet the mythical pokeman @starbuxman #PokemonGO'
+752444137132134400,2016-07-11 10:07:16,b'@PrateekMehrotra @starbuxman @DanielJonesEB Not sure what the question is; SI on CF is no different to any SI app. A boot app is a boot app.'
+752060211255533568,2016-07-10 08:41:41,b'RT @artem_bilan: #SpringIntegration Java DSL 1.2 M1 and 1.1.3 released https://t.co/7N3fDF16Aa @springcentral'
+750492226816450560,2016-07-06 00:51:05,b'RT @snicoll: Current status: working in the @springframework codebase with Java8 - I so much feel like a kid in a candy store right now!'
+750453477365522433,2016-07-05 22:17:06,b'RT @artem_bilan: For whom has missed: Spring for @apachekafka 1.0.0 GA is available https://t.co/4bNJV5mwoC. Also meet 1.0.1 bug fixes. @sp\xe2\x80\xa6'
+748291546852667392,2016-06-29 23:06:22,b'RT @spring_io: Spring Integration with Spring Boot and RabbitMQ by @gprussell @ Spring I/O 2016  https://t.co/840wEjE7Vg #springio16 #replay'
+747836870311088129,2016-06-28 16:59:38,b'RT @spring1platform: Learn about Spring For Apache Kafka from @gprussell this August at #S1P https://t.co/Rs9kylV6KB @springcentral https:/\xe2\x80\xa6'
+744077051523522564,2016-06-18 07:59:28,b'RT @michaelminella: Spring Cloud Task 1.0.0.RC1 is now available!  Check it out: https://t.co/HVTgnhzMPf @springcentral'
+741897770471161856,2016-06-12 07:39:46,"b""@goldstift We're not able to provide 1:1support. use Stack Overflow, Git Issues, and Gitter. Contact Pivotal fo commercial support."""
+741732688781004800,2016-06-11 20:43:48,b'@goldstift sorry. on vaca. until 6/27.'
+741343321717514240,2016-06-10 18:56:36,b'RT @snicoll: Spring Framework 4.3 GA is now available! https://t.co/X3nUz27mC5 @springframework @springboot'
+740210857641054208,2016-06-07 15:56:35,b'RT @artem_bilan: Spring for @ApacheKafka 1.0.0.RC1 is available https://t.co/m0R8MLZp9j. GA coming soon! @springcentral @gprussell'
+739959749513510912,2016-06-06 23:18:46,"b""@goldstift @david_syer @m_f_ @starbuxman Let's move this to gitter https://t.co/WLX5X9ykAJ Tweets are too short for a meaningful discussion."""
+739948470400847872,2016-06-06 22:33:57,"b'@david_syer @goldstift @starbuxman @m_f_ If you need strict ordering, I would use a queue per consumer, and distribute the work accordingly.'"
+739948051155062784,2016-06-06 22:32:17,"b""@david_syer @goldstift @starbuxman @m_f_ I am not entirely sure what you mean but I don't think you can assume they won't be interleaved."""
+738737342895292417,2016-06-03 14:21:22,b'RT @mariusbogoevici: @springcentral @SpringCloudOSS #SpringCloudStream 1.0.1.RELEASE is now available.\nhttps://t.co/bW1pqmKeSc'
+738130992171339778,2016-06-01 22:11:57,b'RT @artem_bilan: @springcentral @gprussell @RabbitMQ #SpringAMQP 1.6 GA is available https://t.co/7Fawk4Ywbl'
+734042396116148224,2016-05-21 15:25:19,"b'RT @briandussault: The Spring team is hiring! Passionate about OSS, @springframework and reactive programming? Apply: https://t.co/XwV1oNI2\xe2\x80\xa6'"
+733420283470565376,2016-05-19 22:13:16,b'RT @spring1platform: New Session: From Imperative To #Reactive Web Apps https://t.co/VKFuOUltyI @pivotal #springframework https://t.co/fMDe\xe2\x80\xa6'
+731900077934039042,2016-05-15 17:32:31,b'RT @sergialmar: Getting ready for @spring_io #springio16 https://t.co/snKrD8G07S'
+730735684890329088,2016-05-12 12:25:38,b'Spring Integration 4.3 Release Candidate is Available: https://t.co/6BreNf67Xe #springintegration'
+728704646500519936,2016-05-06 21:55:01,"b""@lukasbradley I just edited my answer with some more info. Bottom line is you currently can't use JSON with the remote invocation stuff."""
+726451031178117120,2016-04-30 16:39:57,b'RT @m_f_: Spring Cloud Data Flow 1.0.0 Milestone 3 has been released! https://t.co/q3F8AyufLo'
+725413487162224640,2016-04-27 19:57:07,b'RT @springcentral: Webinar tomorrow: Introducing Spring Cloud Task \nhttps://t.co/1h80WbG5Hy @java @SpringCloudOSS #microservices @pivotal @\xe2\x80\xa6'
+724938894333108224,2016-04-26 12:31:15,b'RT @artem_bilan: Spring Integration 4.3 Milestone 2 is available #SpringIntegration @springcentral https://t.co/6Pz8n7AE9s'
+720776933290741760,2016-04-15 00:53:06,b'RT @spring1platform: Early bird pricing for tickets &amp; pre-conf training expires April 15th https://t.co/QzVdPZJqNL @cloudfoundry @springfra\xe2\x80\xa6'
+719727535576260608,2016-04-12 03:23:11,b'#springintegration  https://t.co/jHZVYpN4Fy'
+719726605476753408,2016-04-12 03:19:29,b'RT @artem_bilan: @springcentral @apachekafka https://t.co/1n9CGmkGat'
+719299745097846784,2016-04-10 23:03:17,b'@YougalBisht not so much when using the  DSL but I agree when using pure Java configuration.'
+719250456417947648,2016-04-10 19:47:26,b'@YougalBisht Whichever you prefer; many are switching to the Java DSL https://t.co/xP5P8Jhl2o but we have no plans to remove XML support.'
+713386536126038016,2016-03-25 15:26:18,b'Spring AMQP 1.6.0 Milestone 2 (and 1.5.5) Available https://t.co/ckcJrTfS92 auto type conversion + more #springamqp #rabbitmq @springcentral'
+712776920484679682,2016-03-23 23:03:55,"b'RT @mariusbogoevici: #SpringCloudStream 1.0.0.RC1 is available, with better tooling and content type handling support https://t.co/XXsGU7r4\xe2\x80\xa6'"
+711251914034438149,2016-03-19 18:04:05,"b""RT @pivotal: We're delighted to announce @adrianco will be a keynote speaker at @spring1platform. Get your early bird tickets now https://t\xe2\x80\xa6"""
+710984171389362176,2016-03-19 00:20:10,b'RT @briandussault: Mark your calendars next week for @mariusbogoevici webinar: Stream Processing in the Cloud with Data Microservices https\xe2\x80\xa6'
+709449471596204032,2016-03-14 18:41:49,b'RT @springcentral: Spring for @apachekafka M1 aims to offer Kafka support for @springboot users not just #springintegration users \nhttps://\xe2\x80\xa6'
+709366661770518528,2016-03-14 13:12:46,b'Spring for Apache Kafka - milestone 1 for the 1.0.0 release is available: https://t.co/8ldHOobtXA'
+708426750422863873,2016-03-11 22:57:53,b'Reminder: I am talking about #springintegration at the inaugural Philly Spring meetup next week https://t.co/6aPSbvLE6x @springcentral'
+699980750565806081,2016-02-17 15:36:30,b'Spring Integration 4.3 Milestone 1 is now available https://t.co/AvOKoPvwXC #springintegration'
+699610743390478336,2016-02-16 15:06:14,b'Spring AMQP 1.6.0.M1 and 1.5.4.RELEASE available https://t.co/KodQiOBZu1 #spring #springamqp #RabbitMQ'
+695785463492304896,2016-02-06 01:45:56,b'RT @mariusbogoevici: #SpringCloudStream 1.0.0.M4 introduces important primitives for data streaming microservices https://t.co/yfN58LWpOm @\xe2\x80\xa6'
+694314836931547136,2016-02-02 00:22:11,"b'RT @mariusbogoevici: #springframework community of #nyc, don\xe2\x80\x99t miss the meetup tomorrow with @gprussell introducing #SpringIntegration http\xe2\x80\xa6'"
+694314564029120513,2016-02-02 00:21:06,b'RT @sobychacko: Introducing Philadelphia area Spring meetup group. https://t.co/lS5zgBk3YT. @springcentral'
+684131839703777281,2016-01-04 21:58:35,b'RT @marcin_pil: Hurray! My first contribution in spring-integration! https://t.co/W3a0B0tzEx\n@artem_bilan &amp; @gprussell thanks for help and \xe2\x80\xa6'
+679454701520326657,2015-12-23 00:13:19,b'@nathankurtyka Just trying to help. Thanks for the kind words.'
+675750286506508289,2015-12-12 18:53:17,"b'RT @michaelminella: Just in time for the weekend, Spring Batch 3.0.6 is now available: https://t.co/7S7BL5bjej @springcentral  #SpringBatch'"
+671108136468652034,2015-11-29 23:27:02,b'RT @phillip_webb: Blogged: \xe2\x80\x9cHow not to hate Spring in 2016\xe2\x80\x9d\n\nhttps://t.co/ymjtPfkE5l'
+666320849339838465,2015-11-16 18:24:04,"b'Spring Integration 4.2.2, Spring Integration Java DSL 1.1.1 and Spring AMQP 1.5.2 are available #springintegration #springamqp #rabbitmq'"
+659113537315278848,2015-10-27 21:04:47,b'Spring Integration 4.2.1 (and other maintenance versions) now available: https://t.co/QKNX9AgjaB #springintegration'
+646405795937169408,2015-09-22 19:28:46,b'RT @artem_bilan: Spring Integration Java DSL 1.1 GA! http://t.co/4LW4bvdP4j #SpringIntegration'
+642026093461946368,2015-09-10 17:25:23,b'RT @artem_bilan: Spring Integration Java DSL 1.1 M2 released http://t.co/35uGg0DbUH #springintegration #ReactiveStreams'
+641957902207610880,2015-09-10 12:54:25,b'Spring Integration 4.2 is released https://t.co/w02IACUsa1 #springintegration'
+641957576968667136,2015-09-10 12:53:08,b'Spring AMQP 1.5 for RabbitMQ is released https://t.co/rVQp2KnBaE #spring #springamqp #rabbitmq'
+638692746832822272,2015-09-01 12:39:51,"b'RT @sam_brannen: #Spring Framework 4.2.1 has been released... w/ lots of love for @AliasFor, Jackson, etc. ;)  http://t.co/wjD8imeZ1N'"
+633209454310346752,2015-08-17 09:31:13,b'The Spring Integration 4.2 Release Candidate is now available https://t.co/NfDr8r2X9h #springintegration See you at SpringOne 2GX!!'
+632234086392721408,2015-08-14 16:55:27,b'Spring AMQP 1.5 Release Candidate is now available https://t.co/VRJac2GXIR #spring #rabbitmq #springamqp'
+626046640927952898,2015-07-28 15:08:45,b'RT @odbmsorg: Q&amp;A with David Turanski/ Spring-XD @pivotal \nhttp://t.co/vupZTUDMo5\n#hadoop #bigdata #springxd #pivotal'
+618455671231545344,2015-07-07 16:24:57,b'Spring Integration 4.2.0.M2 and 4.1.6.RELEASE are available https://t.co/l7uH7PIE0L Apache Zookeeper and more...  #springintegration'
+618451167648071680,2015-07-07 16:07:03,"b'RT @springone2gx: #SpringIntegration, #SpringAMQP and #RabbitMQ in #SpringXD @gprussell #s2gx\nhttps://t.co/UFKgpozNEk'"
+618203941646393344,2015-07-06 23:44:40,b'RT @springone2gx: Changes and additions to #SpringIntegration. #kafka #hazelcast #AWS #s2gx @eavsarogullari @artem_bilan @gprussell\nhttps:/\xe2\x80\xa6'
+611990322873278464,2015-06-19 20:13:57,"b'RT @mariusbogoevici: Spring Integration Kafka 1.2 released, with 0.8.2 support and faster dispatching via @ProjectReactor https://t.co/usWT\xe2\x80\xa6'"
+606072842673901568,2015-06-03 12:20:00,"b'RT @springcentral: #SpringXD 1.2 RC1 intros @ApacheAmbari , @RabbitMQ HA support, lots of new source/sinks! http://t.co/F4SY83tyzw #java #h\xe2\x80\xa6'"
+605493223218397184,2015-06-01 21:56:48,"b""In case you haven't heard - Spring Integration 4.2 Milestone 1 is available. Better JMX and more https://t.co/JoWeloitfD #springintegration"""
+596589424030457856,2015-05-08 08:16:17,b'Spring AMQP 1.4.5 and 1.5.0.M1 releases are now available http://t.co/G7vhZgg6WM #springamqp #rabbitmq @springcentral'
+590113281852977152,2015-04-20 11:22:24,b'RT @artem_bilan: Spring Integration Hazelcast 1.0.0.M1: https://t.co/yNZF1aSRfa @springcentral #SpringIntegration @hazelcast. Thanks to @ea\xe2\x80\xa6'
+588405970835021826,2015-04-15 18:18:10,b'RT @artem_bilan: Spring integration Java DSL 1.1 M1 is available: https://t.co/zKjdffxhzJ @springcentral #springintegration'
+585375420880683008,2015-04-07 09:35:50,b'RT @artem_bilan: https://t.co/vlH7NZgjRK @springcentral  #springintegration  #springamqp @gprussell'
+574012358143561728,2015-03-07 01:03:05,b'RT @mewzherder: Excited to see @ghillert @starbuxman @phillip_webb @rstoya05 @spencerbgibb @cppwfs @gprussell @gregturn next week at #DevNe\xe2\x80\xa6'
+572099995152867328,2015-03-01 18:24:02,b'@sam_brannen congrats!!'
+567040646809391106,2015-02-15 19:19:59,b'RT @steveklabnik: How did I not know GitHub did this? https://t.co/RBkpYnVBD8 So useful.'
+564861592806756352,2015-02-09 19:01:13,b'RT @springcentral: Save the date! @springone2gx Sept 14-17 2015 in DC  http://t.co/nFD1ZSgIgT #java #springio #cloudfoundry #hadoop #bigdat\xe2\x80\xa6'
+563469092980408320,2015-02-05 22:47:55,b'The @DevNexus schedule is live! I am presenting; join the &lt;dev/&gt;olution with 1500 developers. http://t.co/1d7I38aaop #springintegration'
+561990502057541632,2015-02-01 20:52:31,b'@M_Stock Glad I was able to answer too. I hope you find the information useful for your decision process. #springintegration'
+556115474078240768,2015-01-16 15:47:15,"b'RT @michaelminella: A fresh batch of Spring Batch releases are here! Spring Batch 3.0.3, Admin 1.3.1 and 2.0.0.M1. https://t.co/jHaXx1GHfX \xe2\x80\xa6'"
+555098537298788352,2015-01-13 20:26:19,b'Spring Integration 4.1.2 maintenance release is now available https://t.co/5fGGIeGVJg #springintegration http://t.co/T3mADzeKeO'
+544547015766867968,2014-12-15 17:38:20,b'@chrylis @david_syer Sorry guys: https://t.co/cXGB217hab'
+544546354383835136,2014-12-15 17:35:42,"b'Spring Integration, AMQP Maintenance Releases available: https://t.co/m8ujOiBnEe  #springintegration #springamqp #rabbitmq'"
+539489059228635138,2014-12-01 18:39:49,"b'RT @springcentral: Spring Integration Java DSL line-by-line tutuorial, no Java 8\nhttp://t.co/Cuj0szeNhW #integration #java #annotation #jav\xe2\x80\xa6'"
+537276234263441408,2014-11-25 16:06:51,b'RT @springcentral: #SpringIntegration Java DSL: Line by line tutorial \nhttp://t.co/adm5UpvufF #java8 #integration #springframework #springi\xe2\x80\xa6'
+536876849335648256,2014-11-24 13:39:50,b'RT @artem_bilan: @springcentral  #springintegration http://t.co/6MnORTufog'
+532271134964994048,2014-11-11 20:38:22,b'New Spring Integration and Spring AMQP releases available: http://t.co/soJzPSYX5b #springintegration #springamqp #rabbitmq @springcentral'
+528274158111981568,2014-10-31 19:55:48,b'Spring Integration Java DSL 1.0 Release Candidate is now available!! http://t.co/DiOgJdSBeq @springcentral #springintegration'
+526745660314624000,2014-10-27 14:42:06,b'Spring Integration 4.1 Release Candidate Available https://t.co/YHqvzXLhFC @springcentral #springintegration'
+525355555091939328,2014-10-23 18:38:19,b'Spring AMQP 1.4 Release Candidate is available https://t.co/l09vxeC7BI @springcentral #rabbitmq #springamqp'
+515101951496032256,2014-09-25 11:34:10,b'#springintegration #s2gx @springcentral Demo code from my SpringOne talk is now in the repo https://t.co/cVkABmvo23 Sorry for the delay.'
+510098146270011392,2014-09-11 16:10:49,b'@patrickperalta Customer meeting 12-1; free after.'
+507974534822363137,2014-09-05 19:32:21,b'Spring Integration 4.1 and Spring AMQP 1.4 Milestones are now available http://t.co/B7TbpUOJdL\n http://t.co/IbYfclos1V #springintegration'
+505501319818674176,2014-08-29 23:44:41,b'RT @sam_brannen: SpringOne 2GX 2014 -- register now! Hope to see you at the conference in Dallas. :) http://t.co/7A2wsWmLkj #s2gx #spring #\xe2\x80\xa6'
+495574925466296323,2014-08-02 14:20:44,b'RT @pivotal: via @GregChase Wow! Spring XD 1.0 is now GA.  Now you can easily develop &amp; manage your #bigdata apps. #hadoop #oss http://t.co\xe2\x80\xa6'
+490259883754000384,2014-07-18 22:20:39,b'RT @springcentral: Spring XD 1.0.0 RC1 \nhttp://t.co/rKw9CUkgyr #java #hadoop #mapreduce #pivotal #cloudera #hortonworks #bigdata #yarn http\xe2\x80\xa6'
+489570907984105474,2014-07-17 00:42:54,"b""@florenjust Because it would make it difficult for other modules (and users) to add arbitrary headers such as 'foo'."""
+483401203578310656,2014-06-30 00:06:42,b'RT @arialdomartini: Escher on the beach http://t.co/keaVOWBcVN'
+474349761198563329,2014-06-05 00:39:30,b'RT @patrickperalta: Spring XD meetup underway @gopivotal @springcentral @markpollack http://t.co/tVXtttTooZ'
+467431839993696256,2014-05-16 22:30:09,b'RT @markpollack: Long time no tweet.  We are hiring for #springxd.  Cool stuff.  http://t.co/fPcpPkwjlG'
+467370580409593856,2014-05-16 18:26:44,"b'@fastnsilver Chris - in case you missed the @springcentral announcement, the replay is now available: https://t.co/C92mHSXhc9'"
+467039334491635712,2014-05-15 20:30:29,"b""RT @springcentral: Webinar Replay: Spring Integration 4.0's new frontier - XML free development! http://t.co/H9fDoKQvNF with @gprussell htt\xe2\x80\xa6"""
+466309194157948928,2014-05-13 20:09:10,"b'@fastnsilver Yes; my understanding it will be on the YouTube channel (https://t.co/0jE1dDy6Ba) within 2 weeks, but usually faster than that'"
+464517941216952320,2014-05-08 21:31:22,"b'RT @hughewilliams: One more thing: was blown away by the #springxd demo I saw yesterday. Simple, elegant, powerful. Watch out world, here c\xe2\x80\xa6'"
+461512142639079424,2014-04-30 14:27:23,b'Spring Integration 4.0.0.RELEASE is out! https://t.co/uIBIwzp8iC #springintegration @springcentral'
+456173355658665984,2014-04-15 20:52:57,b'Pleased to announce that Spring Integration 4.0 Relesae Candidate is available https://t.co/wVxgNywblf #springintegration @springcentral'
+450982102667112448,2014-04-01 13:04:46,"b""@JabidTV sorry; just saw this; in future tag SO questions with 'spring-amqp' http://t.co/gJJxCRcLEF I don't monitor the generic rabbitmq tag"""
+450734243552169985,2014-03-31 20:39:52,b'Spring Integration 3.0.2 and 4.0.0 Milestone 4 are now available https://t.co/CsMtCamV4q #springintegration @springcentral #springframework'
+449536302690869248,2014-03-28 13:19:41,b'Spring AMQP 1.3.0 is now available https://t.co/05VgvFPAbB #springamqp #springframework #rabbitmq'
+442298071729582081,2014-03-08 13:57:32,b'RT @springcentral: #SpringOne2GX 2014 Call for Papers now open! CFP Close April 30    http://t.co/CeLEqyXTVB #java #spring #groovy #grails \xe2\x80\xa6'
+442002750193537024,2014-03-07 18:24:02,b'Spring AMQP 1.3.0 Release Candidate is now available https://t.co/l5iAeuYtRw #springamqp #rabbitmq #springframework'
+436122779272749057,2014-02-19 12:59:08,b'A little bit of Spring and MQTT http://t.co/sW3Sd65QWI via @andypiper #springintegration'
+435140429005479936,2014-02-16 19:55:37,"b'RT @bijukunjummen: @gprussell, #SpringIntegration  - Standalone Spring Integration app with Spring Boot - http://t.co/pfRQfBSW1L'"
+430723307751489536,2014-02-04 15:23:33,b'Spring Integration 3.0.1.RELEASE is now available: https://t.co/YKILM3yeX8 #springintegration @springcentral'
+422835593618276352,2014-01-13 21:00:36,b'Spring AMQP 1.2.1.RELEASE and 1.3.0.M1 are available. https://t.co/geWsJOg0Ir #springamqp #rabbitmq @springcentral'
+412704267901087745,2013-12-16 22:02:19,"b""RT @rob_winch: I'm pleased to announce the release of #springsecurity 3.2 https://t.co/09tmypDsqx"""
+412593912813854721,2013-12-16 14:43:49,b'Spring Integration 3.0 is now available! https://t.co/BbQZvxxyCf #springintegration @springcentral'
+405854050987823104,2013-11-28 00:22:00,"b""@lucianoadrian @springcentral yes, looking into it, and there's already a start in #springxd with syslog &amp; channel."""
+405725244624629761,2013-11-27 15:50:10,b'Spring Integration 3 Release Candidate 1 is now available https://t.co/LvS5yKRVwH #springintegration @springcentral'
+396028967259746304,2013-10-31 21:40:38,b'RT @mstine: Current status: streaming incoming HTTP posts into Pivotal HD HDFS using Spring XD running on Pivotal CF. w00t!'
+389843800639541248,2013-10-14 20:02:59,b'#springintegration 2.2.6.RELEASE is now available https://t.co/DSCR9ev9Hx'
+365891893176971265,2013-08-09 17:46:39,b'RT @michaelminella: #SpringBatch will be #JSR352 compliant! Get the details at SpringOne2GX: http://t.co/kWf6bYF7l6 Early Bird discount end\xe2\x80\xa6'
+365833372028764160,2013-08-09 13:54:07,b'Deep dive into #springintegration internals #SpringOne2gx https://t.co/8WzSwCznWc Early bird discount ends tonight. @springone2gx'
+365827528423776257,2013-08-09 13:30:54,b'RT @ProjectReactor: #SpringOne2GX early bird discount ends at midnight! Hear @smaldini + @j_brisbin dig into #Reactor #fastdata http://t.co\xe2\x80\xa6'
+359869726190600193,2013-07-24 02:56:43,b'Interested in a deep dive into #springintegration internals? #springone2gx #s2gx @springone2gx https://t.co/8WzSwCznWc'
+357980550532825088,2013-07-18 21:49:48,b'RT @springone2gx: Reg $200 discount now for #springone2gx http://t.co/zNxUFLs5Dt ends 8/9! #java #springframework #s2gx'
+356762646399287296,2013-07-15 13:10:17,"b'Spring AMQP 1.2.0.RELEASE is now available; conditional declaration, #RabbitMQ 3.1.3, and more! http://t.co/OJU3ef6whA'"
+344863681156358145,2013-06-12 17:08:03,b'RT @SpringSource: New Blog Post: Spring XD M1 Released by @markpollack http://t.co/m4KTNxzpNS Simplify big data app development #springfram\xe2\x80\xa6'
+338031704033857537,2013-05-24 20:40:13,b'#springintegration #mqtt extension Milestone 1 is now available http://t.co/6QXjtgBKGs #paho'
+337957493059772416,2013-05-24 15:45:19,b'We are pleased to announce that #springintegration 3.0.0.M2 is now available http://t.co/wrnmIEFMtG'
+328315634242961408,2013-04-28 01:12:01,b'RT @scothis: Wishing the dude @jeremyg484 and his lady friend @jencompgeek all my love on the occasion of their wedding. http://t.co/Qem0dv\xe2\x80\xa6'
+302452926826307584,2013-02-15 16:22:51,b'#springintegration 3.0.0.M1 Released! http://t.co/ED9NJ5Xz'
+295914834585874432,2013-01-28 15:22:49,b'#springintegration 2.2.1 is now available http://t.co/1fV1evNj'
+293159218796703744,2013-01-21 00:52:59,b'Why do so many American media types pronounce February FebUary???  Drives me nuts... I guess I need to get over it.'
+290238096958701569,2013-01-12 23:25:29,b'My #raspberrypi first boot ... way cool!!'
+284444665443409920,2012-12-27 23:44:27,b'RT @ManningBooks: Get the Spring in Action Third Edition and Spring Integration in Action eBooks together for $45. Use code dotd1227tw a ...'
+275662984251072513,2012-12-03 18:09:11,b'\xe2\x99\xba @m_f_: Spring Integration 2.2 GA is now available! http://t.co/RYxWBNid'
+275646204891766784,2012-12-03 17:02:31,b'Heading to Beijing - talking #springintegration at SpringOne China http://t.co/4obJ1sHd and then to SpringOne India http://t.co/y0EFgJph'
+271410959443165184,2012-11-22 00:33:09,b'#springintegration 2.2.0.RC3 is now available: http://t.co/xO7cC3A3'
+265961980790185984,2012-11-06 23:40:52,"b'\xe2\x99\xba @dturanski: RT @DZone ""A Groovy DSL for Spring Integration"" http://t.co/VajXJDwu'"
+264196567966310402,2012-11-02 02:45:44,"b'RT @rajdeepdua: SpringOne comes to India; Dec 11: Bangalore, Dec 13 Hyderabad! Learn the latest updates on Spring and Cloud Foundry. htt ...'"
+259402858653417473,2012-10-19 21:17:15,b'RT @z_oleg: #SpringIntegration 2.1.4.RELEASE and 2.2.0.RC2 are out. More here: http://t.co/JbNsl00O'
+258200770015555584,2012-10-16 13:40:35,"b'RT @ghillert: Getting ready for my session ""Introduction to\rSpring Integration and Spring Batch"" with @gprussell @ 10:15am #s2gx #spring ...'"
+255739083056349184,2012-10-09 18:38:43,b'Add retry and other behavior to your #SpringIntegration endpoints: http://t.co/NmMhGqFv Spring Integration 2.2 coming soon!'
+250266817795325952,2012-09-24 16:13:53,b'Just received #SpringIntegrationInAction pBook - congrats @m_f_ @iweinfuld @MariusBogoevici @jonaspartner #springintegration #book'
+249254486768488448,2012-09-21 21:11:15,b'#SpringIntegration 2.2.0.RC1 (Release Candidate is now available - http://t.co/DEGi9bM7'
+246684904488837121,2012-09-14 19:00:39,b'RT @ManningBooks: Spring Integration in Action is now available in eBook! Congrats! Job well done! http://t.co/XLqNs9Xx'
+238761887322492928,2012-08-23 22:17:24,b'Spring AMQP 1.1.2 is released http://t.co/gGMJJnSg #spring #springamqp #amqp #rabbitmq'
+238473897153028097,2012-08-23 03:13:02,b'I will be talking about Managing and Monitoring #springintegration applications at SpringOne 2GX #s2gx #springone2gx http://t.co/yV0xXybv'
+238374156398383104,2012-08-22 20:36:42,b'Spring Integration 2.2. Milestone 4 is now available http://t.co/ewsJ3sr2'
+232352003802677248,2012-08-06 05:46:49,b'Congrats @NASA #MSL @MarsCuriosity has landed'
+230048629631643648,2012-07-30 21:14:02,b'RT @timfox: RT @glynmoody: Journalist Twitter account suspended after complaining about #NBCFail - http://t.co/rlD0oHE4 (v @jamesrbuk @j ...'
+220222638717542400,2012-07-03 18:29:03,b'Asked on #springintegration #springinsight webinar http://t.co/dTrNM7pV answer: Yes - Spring Insight coming to WebLogic http://t.co/8KppEGnX'
+217227235306901505,2012-06-25 12:06:23,"b'@kylesm ""...do you know if a recording..."" #springintegration Managing &amp; Monitoring webinar link here ... http://t.co/WmBirKYL'"
+217225887618306050,2012-06-25 12:01:02,"b'@kylesm ""...do you know if a recording..."" #springintegration Managing &amp; Monitoring webinar link here'"
+209704491006701568,2012-06-04 17:53:41,b'Webinar: Managing and Monitoring #springintegration applications June 14th http://t.co/zNzDin73'
+204708725133541376,2012-05-21 23:02:18,"b""\xe2\x99\xba @m_f_: \xe2\x80\xa6 for the record the Spring Batch position doesn't *require* relocation (Palo Alto or Cambridge MA is a plus) http://t.co/XRTngcfu"""
+204699157657686016,2012-05-21 22:24:16,b'RT @m_f_: VMware (SpringSource) is hiring a lead developer for Spring Batch! http://t.co/bBs5CqDF'
+202911979713724416,2012-05-17 00:02:40,"b'#springamqp 1.1.0 available http://t.co/tMpElQdI and #springintegration 2.2.0.M1 uses it. #amqp #rabbitmq confirms, returns, and more'"
+197304346101301248,2012-05-01 12:39:56,"b'@timfox: VM Settings | Options | Shared Folders - needs VMware tools in guest,'"
+192604884703514625,2012-04-18 13:25:57,b'RT @mknittig: Scala DSL for Spring Integration looks good.. #ScalaDays http://t.co/VSvui5iS'
+191628622098989056,2012-04-15 20:46:39,b'@z_oleg have a nice time in europe - but look what u r missing... http://t.co/E5iq7r9Q'
+186517044701831168,2012-04-01 18:15:03,b's/cronab/crontab/'
+186513193131184128,2012-04-01 17:59:45,b'#Ubuntu - night mute - cronab -e | 0 23 * * * amixer sset Master mute &gt;/dev/null 2&gt;&1 | 0 7 * * * amixer sset Master unmute &gt;/dev/null 2&gt;&1'
+151129613274329088,2011-12-26 02:38:02,"b""Sheer stupidity. Just received a check for $0.01 settlement of class action against Ebay. #lawyers ca$hed in, I'm sure. Sad really."""
+143042126974955520,2011-12-03 19:01:15,b'#springintegration HA Cluster #SpringOne demo code now available http://t.co/Iz8aEuIN #Spring'
+133329602822148096,2011-11-06 23:47:09,"b'US Airways needs new DST software - just got a web check-in notice 1 hr early - and got ""reservation is not yet available for Web check in"".'"
+104874048269459456,2011-08-20 11:14:56,b'After an overnight weather delay... flying an a carrier with no status reall s*cks'
+60323217264476160,2011-04-19 12:45:50,"b""Thanks M$ - Ford rental N'Sync rebooted while backing up - took out the backup camera - usual M$ quality. Good it's not the engine computer."""
+60114730458681344,2011-04-18 22:57:23,b'I now have my #springintegration app running in #cfoundry - required no effort at all!!!'
+45836208881934336,2011-03-10 13:19:38,"b""#springinsight is so easy to customize; it's not just for web requests; see how your non-web threads are behaving in #tcserver; cool stuff!"""
+27973815766,2010-10-20 23:15:54,b'Man - you guys are killing me w/ all these #s2gx tweets... wish I was there...'
+27973244121,2010-10-20 23:08:44,b'RT @spring_tom: #s2gx #int2 Oleg rocking the house with a sneak preview of the new #springintegration #springroo add-on - composite EIP  ...'
+21752872810,2010-08-21 14:36:05,b'RT @ManningBooks: Deal of the Day! Get the ebook version of Spring Batch in Action (http://bit.ly/bqpbCK) for $15! Use code dotd0821tw a ...'
+18936933315,2010-07-19 18:57:41,"b""Oh Joy!... this is going to be a fun week... my loaner laptop just took 17 minutes to build SI (with no maven downloads). It's a boat anchor"""
+18722670066,2010-07-16 23:13:37,"b'RT @eishay: LOL !! RT @liqweed RT @davetron5000: In random dev discussion: ""Java is a DSL for converting large XML files into Stack Traces""'"
+17910179701,2010-07-07 01:11:14,"b""omg... it's been too long since I flew in 1st class. B767 PHL-&gt;CLT (2A) (same flt goes onward to Rio D J) makes up for all the recent miles"""
+15453954759,2010-06-05 00:54:09,b'Airport bar at ORD ... gotta stop shouting YEAH! out when Flyers score (2x so far :-)'
+14524831746,2010-05-23 00:29:58,b'Just got started with #git - I like it... not just for code - cool way to easily version customer documents locally + back up to a server'
+13638549977,2010-05-09 01:03:29,"b""Modern application environments don't have the support for batch operations we had on mainframes 30+ years ago! #springbatch fills the gap"""

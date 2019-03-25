@@ -1,0 +1,381 @@
+twitter_id,date,tweet
+1109676519876628480,2019-03-24 04:41:13,"b'@trudyscousin @davedelong Labs are 100% the reason to go. Last year, Tue-Fri I sat through maybe two sessions live.\xe2\x80\xa6 https://t.co/l3j3LeMCvt'"
+1109245460194254848,2019-03-23 00:08:21,"b'@stephentyrone @jckarter var romeo: Rose by AnyOtherName\n\n(AnyOtherName being a type eraser for the OtherName protocol, obvs.)'"
+1106796773748682752,2019-03-16 05:58:08,"b""@rsms Here's another secret option-key behavior: https://t.co/4CvMiOi6ix"""
+1105546361884295169,2019-03-12 19:09:27,b'@jckarter [] is both infix and postfix. The [ is infix and the ] is postfix.'
+1103442577930489856,2019-03-06 23:49:46,b'@daniel_duan @davedelong And we can put a prefix on the classes in the non-standard library to distinguish them fro\xe2\x80\xa6 https://t.co/LaVy9Fq898'
+1102717618509791232,2019-03-04 23:49:02,b'@jckarter Obviously nobody from the Long Now Foundation is on the Swift core team\xe2\x80\xa6'
+1102717274367115265,2019-03-04 23:47:40,b'@jckarter Not Facebark? Or would that be too on the nose?'
+1099877553051963394,2019-02-25 03:43:38,"b'Perlis: \xe2\x80\x9cIf you have a procedure with ten parameters, you probably missed some.\xe2\x80\x9d\n\nXcode: https://t.co/vCPmKbBFvR'"
+1099374630320656384,2019-02-23 18:25:11,b'@davedelong The real solution: extend DDMathParser to parse predicate language.'
+1099236151674716160,2019-02-23 09:14:56,"b""@steipete Have you considered making PSPDFKit enamel pins for this year's WWDC?"""
+1098662862946557952,2019-02-21 19:16:53,b'@akosma @steipete Turbo Pascal 2.0 was the first software I ever bought with my own money. I was 13.'
+1098055302379958272,2019-02-20 03:02:39,b'@jckarter pod_cast&lt;T&gt;(x) when you want to listen to x on the ride to work\nfore_cast&lt;T&gt;(x) when you want to know wha\xe2\x80\xa6 https://t.co/IdxAxtCOzR'
+1097385502955765760,2019-02-18 06:41:06,b'@mristroph PETA?'
+1096967321682432000,2019-02-17 02:59:24,b'@CodaFi_ @segabor @H2CO3_iOS \xe2\x80\x9dSwift dynamically casts collections element-wise.\xe2\x80\x9d I don\xe2\x80\x99t know what a \xe2\x80\x9ccollection\xe2\x80\x9d i\xe2\x80\xa6 https://t.co/lZxzTmvnvi'
+1096120292886413315,2019-02-14 18:53:37,b'@jckarter How far down the list do you have to go to find \xe2\x80\x9cthinking\xe2\x80\x9d?'
+1095047755209281537,2019-02-11 19:51:44,b'@thequinntaylor @davedelong @bjhomer You guys are adoorable.'
+1095043282583937028,2019-02-11 19:33:58,"b""@ccgus See this gist for demo code: https://t.co/61GJaJY6jz\n\nHere's the output of the demo: https://t.co/7E343Tsv28"""
+1095042779913375744,2019-02-11 19:31:58,b'@ccgus You set the pHYs chunk by setting the kCGImagePropertyDPIHeight and kCGImagePropertyDPIWidth image propertie\xe2\x80\xa6 https://t.co/pNQtV54W9m'
+1095042632835833856,2019-02-11 19:31:23,"b'@ccgus If you are talking about the pHYs chunk, CGImageMetadata is the wrong API. CGImageMetadata is for the EXIF,\xe2\x80\xa6 https://t.co/mshVHJr4cB'"
+1089763304724185088,2019-01-28 05:53:13,b'https://t.co/FoZwkwCR4C https://t.co/NLwB8kGajb'
+1089759563220480000,2019-01-28 05:38:21,"b""@elliottwil @nerdonica Product &gt; Perform Action &gt; Test Again is so useful that it's worth mapping it to something e\xe2\x80\xa6 https://t.co/JVDWtOJWNz"""
+1089753894232776704,2019-01-28 05:15:49,b'@davedelong Is it okay if I send you some pull requests to make it easier for non-Daves to build the project withou\xe2\x80\xa6 https://t.co/TSh4p04O4S'
+1088590083790385153,2019-01-25 00:11:15,b'@atpfm I don\xe2\x80\x99t want the slack-bait atp logo on a shirt. I want it on an enamel pin. Please make it happen!'
+1082389238988132352,2019-01-07 21:31:19,"b'@ccgus So it will be MacOS 14, but the ""M"" is pronounced ""one thousand"", right?'"
+1074889874900160512,2018-12-18 04:51:31,b'@jckarter - But each message is a number in the range 0 ... 255.'
+1072546067303096321,2018-12-11 17:38:04,b'@jckarter https://t.co/IFWWJgH6eR'
+1070492170845597696,2018-12-06 01:36:36,b'@WhatTheBit Alternate timeline Phil Schiller: \xe2\x80\x9cWhy would we add an analog audio jack to the iPhone? It really comes\xe2\x80\xa6 https://t.co/F5wqSWISb4'
+1069647444625915904,2018-12-03 17:39:58,b'@jckarter Would you say Swift\xe2\x80\x99s solution to the Optional pyramid of doom problem was... avant-guard?'
+1069506512438128640,2018-12-03 08:19:57,b'@jckarter I bet every April you engage in tax return-oriented programming.'
+1065664569568305153,2018-11-22 17:53:27,"b""@soothron I have no plans to update Fractal Clock. I don't have any Macs running Mojave at the moment."""
+1063150109590990849,2018-11-15 19:21:53,"b""@iamdevloper I've tried nothing and I'm all out of ideas."""
+1062772021212467206,2018-11-14 18:19:29,b'@steipete @pdfviewerapp https://t.co/suJ5TTi97N'
+1062759292300877824,2018-11-14 17:28:55,"b""@steipete @pdfviewerapp What's New\n\n\xe2\x80\xa2 Release notes are now in 3D."""
+1062444854209327104,2018-11-13 20:39:27,"b'@jckarter Say that thou jitst forsake me for some segfault\xe2\x80\xa6\n\n\xe2\x80\x94 Shakespeare, Sonnet LXXXINUX'"
+1062094545159118849,2018-11-12 21:27:26,"b""How should macOS adopt iOS's shake-to-undo gesture?"""
+1053484233765933056,2018-10-20 03:13:08,b'@gparker So\xe2\x80\xa6 the set of statements `if (condition) { consequence }` is a monoid with identity `if (0) {}` and operation `else`.'
+1053350060401049600,2018-10-19 18:19:59,"b'@patio11 @Steli @threadreaderapp Dear Thread Reader App,\n\nKindly unroll this thread for me at your earliest conveni\xe2\x80\xa6 https://t.co/gLsHWM0iqL'"
+1052267389411319809,2018-10-16 18:37:50,b'@davedelong @amazon https://t.co/ARCCVeeAxk'
+1050463811818405888,2018-10-11 19:11:04,"b""That lldb Decimal formatter I tweeted about yesterday\xe2\x80\xa6 doesn't work for Decimals inside a Dictionary. Not sure wher\xe2\x80\xa6 https://t.co/jfX4VsLBN1"""
+1050160388178931712,2018-10-10 23:05:22,"b'@cocoaphony @alexisgallagher @NSExceptional @jckarter I agree, but tell that to indexPathsForSelectedRows. \xf0\x9f\x98\xa2'"
+1050154931385184256,2018-10-10 22:43:41,"b'I needed better Xcode debugger support for Decimal, so I finally learned a little bit about lldb type summaries. He\xe2\x80\xa6 https://t.co/4j02Bb9CNg'"
+1048291759086874624,2018-10-05 19:20:06,"b""@jckarter Wouldn't \xe2\x80\x9cattorney af general\xe2\x80\x9d be inpositive?"""
+1047514044331167751,2018-10-03 15:49:44,"b""@matth1s @iamdevloper I think that's what \xf0\x9f\x92\xb0 means in this case\xe2\x80\xa6"""
+1043290644595257344,2018-09-22 00:07:27,b'@littlesteve @bob_burrough https://t.co/d1I2Pf4xPc'
+1043236847336546304,2018-09-21 20:33:41,"b""I've heard a lot of people calling that new large iPhone the \xe2\x80\x9cexcess max\xe2\x80\x9d. That will not do. It's pronounced \xe2\x80\x9cten ess one-thousand ay ten\xe2\x80\x9d."""
+1043164411438026754,2018-09-21 15:45:51,"b'@b3ll @steipete If you meant to say -layoutSubviews, the View Programming Guide for iOS says layoutSubviews can \xe2\x80\x9cAd\xe2\x80\xa6 https://t.co/IaNFWyfEKz'"
+1043163447033245698,2018-09-21 15:42:01,b'@b3ll @steipete NSView.h: \xe2\x80\x9cTo add subviews (or layers) use -layout.\xe2\x80\x9d https://t.co/Yc0yOVvZGS'
+1042821837888073728,2018-09-20 17:04:35,b'@depth42 But look at __UIResponderFindInputAssistantItem\xe2\x80\xa6 the \xe2\x80\x9cUIKit automatically searches the responder chain\xe2\x80\x9d pa\xe2\x80\xa6 https://t.co/FT4JVcVDUN'
+1042447085482770432,2018-09-19 16:15:27,"b""@thequinntaylor @AppStore I'm very happy with the improvements to the floating library panel since the first beta (\xe2\x80\xa6 https://t.co/coZL9RhuNQ"""
+1041791915333697537,2018-09-17 20:52:02,"b""@XcodeReleases If you already used the GM seed, you won't have to install components when you launch the actual GM."""
+1041011741625380869,2018-09-15 17:11:54,b'@jbone Sounds suspicious. How do I know your account wasn\xe2\x80\x99t hacked?'
+1039211644977668103,2018-09-10 17:58:58,b'@Padraig Malloc Stack Logging has the answers\xe2\x80\xa6 if you can afford her services.'
+1038121906766065666,2018-09-07 17:48:44,"b""@mristroph It's massively parallel."""
+1034462226139230209,2018-08-28 15:26:28,"b'#askupgrade Dear Jason and Myke, I have an LG Ultrafine 5K connected to an iMac Pro. Colors are slightly but notice\xe2\x80\xa6 https://t.co/fvGpQkISDX'"
+1030692944385327104,2018-08-18 05:48:41,b'@mikeash Shoes enclose feet. What shape is your head if it encloses your hat? Or is this one of those Wonko the Sane things?'
+1027597903953584134,2018-08-09 16:50:06,"b""@cocoaphony @ant_bello @chriseidhof @krzyzanowskim let f2 = {} // stack-allocated\nlet f3 = id(f2) // If id's arg is\xe2\x80\xa6 https://t.co/xInSP2B4a2"""
+1027246377330520064,2018-08-08 17:33:16,"b'@steipete Even though I generally agree with your political tweets, I appreciate your restraint and your focus.'"
+1027245602512482305,2018-08-08 17:30:11,b'@pedantcoder \xe2\x80\x9cthe application must take care not to modify that file descriptor until the associated cleanup_handle\xe2\x80\xa6 https://t.co/ERF7XnZPHK'
+1027244206274895875,2018-08-08 17:24:38,"b'@Gok @pedantcoder The read/write position and the O_NONBLOCK flag are shared between fd and dup(fd), so that is not necessarily a good fix.'"
+1025471830721785857,2018-08-03 20:01:51,"b""Sometimes IB gets into a weird state where, everywhere it's supposed to draw a hairline, instead it draws\xe2\x80\xa6 what's t\xe2\x80\xa6 https://t.co/squ9W7bdEh"""
+1024006386278182915,2018-07-30 18:58:42,b'@kyalbr @threadreaderapp unroll please'
+1024003802540781568,2018-07-30 18:48:26,b'@NSHipster The article is missing some https://t.co/boOqBB92k4'
+1022859661119303680,2018-07-27 15:02:01,b'@danielpunkass Try typing just the property or function name without \xe2\x80\x9coverride var\xe2\x80\x9d or \xe2\x80\x9coverride func\xe2\x80\x9d first. https://t.co/DEtfIC7VZt'
+1022132977910857728,2018-07-25 14:54:26,b'@steipete  https://t.co/H0OFlE4aUO'
+1021860976935804928,2018-07-24 20:53:36,"b'@jckarter ""pomeranian big butt"" is the new ""foo bar baz""'"
+1020091701065633793,2018-07-19 23:43:08,"b""@Catfish_Man Actually I guess it's not the only way, duh, but still, the documentation for addObserverForName:objec\xe2\x80\xa6 https://t.co/0DWFU64MdX"""
+1020090972540194817,2018-07-19 23:40:14,b'@Catfish_Man But the only way to remove the observer returned by addObserverForName:object:queue:usingBlock: is by\xe2\x80\xa6 https://t.co/nBJGoNw4qC'
+1019335105930780673,2018-07-17 21:36:42,b'\xe2\x80\xa6 These were two of my feature requests for Xcode 10.\nhttps://t.co/e1ReUYCRVW\nhttps://t.co/2jl7vOhhQv'
+1019334791202836480,2018-07-17 21:35:27,b'Quality of life improvements in Xcode 10 beta 4\n\n- Hold option while opening the library (e.g. press \xe2\x8c\xa5\xe2\x87\xa7\xe2\x8c\x98L) to make\xe2\x80\xa6 https://t.co/MgMWSgkECA'
+1017167331053760512,2018-07-11 22:02:44,"b""@ericasadun @jckarter I've definitely needed this and not known about it. And I'm sure I'll forget it again. We nee\xe2\x80\xa6 https://t.co/0qPz2xk0VA"""
+1016812127531749382,2018-07-10 22:31:17,"b'@steipete See, now, if Apple would just update Macs to the latest CPUs, that beach ball could be spinning twice as fast.'"
+1016425171484323840,2018-07-09 20:53:39,b'@mattt @NSHipster LGTM'
+1016393420045275136,2018-07-09 18:47:29,b'@mattt @NSHipster Welcome back! Any chance of getting this asciiwwdc PR merged? https://t.co/sPTWQFkIP9'
+1015787768662908928,2018-07-08 02:40:51,b'@jnadeau Will this incredibly helpful time-and-labor-donor get any comment in his radar beyond the standard \xe2\x80\x9cEngine\xe2\x80\xa6 https://t.co/NffznCRTob'
+1015650898318626817,2018-07-07 17:36:58,b'I hope (but don\xe2\x80\x99t really believe) Mojave\xe2\x80\x99s removal of subpixel antialiasing means Apple will be removing non-Retina\xe2\x80\xa6 https://t.co/Nq8jfRuyu8'
+1012408462750486530,2018-06-28 18:52:41,b'@johjakob @eli_schiff Yes. Yes it is.'
+1012405031436476416,2018-06-28 18:39:03,b'@olebegemann Right-clicking an operator and choosing \xe2\x80\x9cJump to Definition\xe2\x80\x9d seems to work in Xcode 10b2. https://t.co/32qMOGxwLo'
+1009352090823651328,2018-06-20 08:27:45,"b'@marcoarment I reported a bug against the Feedback app in iOS 12 Beta. In beta 1, Feedback only knew about iOS 9 Be\xe2\x80\xa6 https://t.co/1NzvkIAjXR'"
+1009307848994709510,2018-06-20 05:31:57,b'@kapeli Thank you. The prior version was painfully slow in Mojave.'
+1008793167997566976,2018-06-18 19:26:48,b'@modocache Coders in Cars Having Conniptions'
+1008442277222633472,2018-06-17 20:12:29,b'@pointfreeco You could also factor NonEmptyList as:\n\nNEL&lt;A&gt; = A + A*A + A*A*A + A*A*A*A + ...\n  = A * (1 + A + A*A\xe2\x80\xa6 https://t.co/xH8xdt43JN'
+1007066604365115392,2018-06-14 01:06:03,b'@lapcatsoftware @krzyzanowskim *shirk*'
+1006672902568271873,2018-06-12 23:01:37,b'@dmartincy Jim was incredibly helpful with my lldb questions at WWDC.'
+1006223438325977094,2018-06-11 17:15:37,"b""Chris Miles's debugging session at WWDC shows just how badly Xcode needs hot code reloading. (Yes, I know about @Injection4Xcode.)"""
+1005998406756700161,2018-06-11 02:21:25,"b""@steipete That one's actually your fault. I thought of it because when I stopped you to say hello, you asked my nam\xe2\x80\xa6 https://t.co/OkG6g41IRr"""
+1005169373936402432,2018-06-08 19:27:08,b'@marcoarment \xe2\x80\x9cDonate\xe2\x80\x9d would be the right way to refer to time spent filing radars\xe2\x80\x94given without expecting anything in return. \xf0\x9f\x98\x85'
+1004966971799027712,2018-06-08 06:02:52,"b""@kastiglione True enough! But with more help from Jim and John at today's compiler lab, I was able to revise the co\xe2\x80\xa6 https://t.co/Q6bFa0v2Vf"""
+1004604526823796736,2018-06-07 06:02:38,"b""I've been wanting to write an lldb command to find an Objective-C block's source code. Thanks to some very friendly\xe2\x80\xa6 https://t.co/yJ44ZQlXha"""
+1004198880819363843,2018-06-06 03:10:44,"b'@realmrpippy @mdiep Yep, GCD works the same way. Compare Network/nw_object.h and dispatch/object.h.'"
+1003787302227734529,2018-06-04 23:55:16,b'@jckarter And wouldn\xe2\x80\x99t Augmented Reality File make for a better file extension than Unified Scene Description Zip?'
+1003769877235023872,2018-06-04 22:46:02,b'@steipete Partly. UIFoundation isn\xe2\x80\x99t new. Take a look in /System/iOSSupport.'
+1003769454855983104,2018-06-04 22:44:21,"b'If Apple has an evangelist in charge of promoting the use of Metal, I hope his title is \xe2\x80\x9cMetal Urgist\xe2\x80\x9d.'"
+1002978680656842753,2018-06-02 18:22:06,b'@zats @stroughtonsmith \xf0\x9f\x98\xad'
+1002965975619244033,2018-06-02 17:31:37,"b""@stroughtonsmith Pretty sure the ability to set a window's titleVisibility to NSWindowTitleHidden in a storyboard i\xe2\x80\xa6 https://t.co/euHHXfD0sh"""
+1002962876334772225,2018-06-02 17:19:18,b'@stroughtonsmith Direct link to the MP4: https://t.co/bWcVQkur9h'
+1002944339864113152,2018-06-02 16:05:39,"b""@GreggJaskiewicz @stroughtonsmith @Apple__Thoughts @chriswb AppKit's NSViewController has had viewDidLoad since 10.10 (Yosemite)."""
+1002943949076647937,2018-06-02 16:04:05,"b""@GreggJaskiewicz @chriswb @stroughtonsmith You can see `import AppKit` in Steve's first screen shot."""
+1002756197374660609,2018-06-02 03:38:02,"b""@smileyborg What do I tell the lab gatekeeper who wants to know what I'm asking about, so they can find me the righ\xe2\x80\xa6 https://t.co/CWsjfmQWK9"""
+1002754207747674112,2018-06-02 03:30:08,"b'@cocoawithlove See, this is why we need Xcode for iPad. Then the replacement would be covered as an AppleCare+ accidental damage incident.'"
+1002303679217709061,2018-05-31 21:39:53,"b'@Catfish_Man I look forward to your WWDC session, \xe2\x80\x9cIntroducing CoreFizzBuzz and FizzBuzzKit\xe2\x80\x9d.'"
+1002242985537495041,2018-05-31 17:38:43,"b""@joaopmaia @steipete Mine's a screen shot of Trello on my iPad. Peter's is a screen shot of a GitHub issue web page."""
+1002229811614535680,2018-05-31 16:46:22,b'@steipete Indeed! https://t.co/4MWZkNxbmx'
+999138883278426112,2018-05-23 04:04:07,"b'@ubsanitizer Hot take: `\xf0\x9f\x90\xb1` is the natural choice for concatenation. Also, gonna go with `\xf0\x9f\xa4\x90` for the zip function.'"
+998653162033688582,2018-05-21 19:54:02,b'@jckarter  https://t.co/f14vCoFt79'
+998629940869369858,2018-05-21 18:21:46,"b""It's only a matter of time before a charger shoots another charger to claim a Bird scooter."""
+996792036849258496,2018-05-16 16:38:35,b'@jtjoelson @dantz @marcoarment Microsoft\xe2\x80\x99s experiments are alternatives to the status quo. Apple\xe2\x80\x99s experiments repl\xe2\x80\xa6 https://t.co/9i9WoG9lnF'
+989139947453075458,2018-04-25 13:51:55,b'@bob_burrough Stock up on these\n\nhttps://t.co/qXETqZYncC'
+988459711933681664,2018-04-23 16:48:54,b'@krzyzanowskim @konstantinbe And nibs and storyboards\xe2\x80\xa6 https://t.co/a0vEKza9ie'
+987414583534071809,2018-04-20 19:35:56,"b""@steipete Doesn't IDA do a much better job of decompiling though?"""
+983456245058285568,2018-04-09 21:26:55,b'@jnadeau @BigZaphod  https://t.co/VPxz0HbvXx'
+983453074344894465,2018-04-09 21:14:19,"b'@mjtsai Have you tried turning it off and on again?\n\n... where ""it"" is Apple\'s iMessage server cluster, of course.'"
+980311549691777026,2018-04-01 05:11:01,b'@meetingcpp @jckarter I feel like this would be more accurate if it were all blade and no handle.'
+980268517302747137,2018-04-01 02:20:01,b'@gparker Make the sharps maple but the flats olive. \xf0\x9f\xa4\x94'
+979106397693595648,2018-03-28 21:22:10,"b'@stephentyrone Oh, hello, IntelliJ. https://t.co/1kM81UgXfM'"
+977368136986095617,2018-03-24 02:14:57,"b'@AirspeedSwift @steipete Any one who considers arithmetical methods of producing arc4random digits is, of course, in a state of arc4sin.'"
+976535808286044160,2018-03-21 19:07:34,b'@wklj You might find this useful.\nhttps://t.co/MtUelQXGon'
+976512151841050624,2018-03-21 17:33:34,"b'@wklj As far as I can tell, cmd-T in spotlight means \xe2\x80\x9crepeat last action\xe2\x80\x9d in both Sierra and High Sierra.'"
+974087884151156736,2018-03-15 01:00:23,b'@gparker :; grep -r -w _thread . | wc -l\n      18'
+971818094653042688,2018-03-08 18:41:03,"b""@jckarter Now that SE-0199 has been accepted, can't we just jckarter.mind.continuumHypothesis.toggle()"""
+971131887971373056,2018-03-06 21:14:19,"b""@mzarra Maybe you submitted them from an alternate account? I've done that accidentally."""
+971102294602321920,2018-03-06 19:16:43,b'@morrick Apple Garamond is such a nice-looking font.'
+967130682437890055,2018-02-23 20:14:57,"b'When considering whether pop-tarts are ravioli, we must ask whether food is structurally typed or nominally typed.\xe2\x80\xa6 https://t.co/bROnIRVvEi'"
+967114255169413120,2018-02-23 19:09:41,b'@timothyekl NSRunLoop/CFRunLoop also provides a very detailed debugDescription. https://t.co/B8tebcWfCm'
+963627451136999424,2018-02-14 04:14:22,"b""@jsnell dude it's called MultiFinder"""
+963626499709562880,2018-02-14 04:10:35,b'@jckarter  https://t.co/yb6p7iRpIm'
+962775254736211968,2018-02-11 19:48:02,"b'@mbarriault @ian_mcdowell Yeah, I think you need to transfer `position` over to the new (post-append) string with `\xe2\x80\xa6 https://t.co/nLKJ0L2leN'"
+958723552575926273,2018-01-31 15:28:01,b'@nicklockwood Result:\n\n__T04test1fS2i1x_tF:        // test.f(x: https://t.co/iQ5kvwVA9B) -&gt; https://t.co/iQ5kvwVA9B\xe2\x80\xa6 https://t.co/JT4eObEyxm'
+958723193602273280,2018-01-31 15:26:36,"b'@nicklockwood A local variable can be computed. In a release build, the getter can be optimized away. My test case:\xe2\x80\xa6 https://t.co/KdNd6rn6iJ'"
+956337515753033730,2018-01-25 01:26:46,b'@thequinntaylor DayQuil / NyQuil\nLiveQuil / DieQuil\nLowQuil / HighQuil\nNSQuil / UIQuil'
+950146309121552384,2018-01-07 23:25:07,b'I did this for fun. Maybe somebody will find it useful. https://t.co/o99vC6rOVv'
+947948866682355712,2018-01-01 21:53:16,"b'@twostraws @jnadeau This was actually in the AppKit Release Notes for macOS 10.13, but the page formatting actually\xe2\x80\xa6 https://t.co/FNQFffgnL6'"
+939658858703749126,2017-12-10 00:51:44,"b'@handleym99 You\xe2\x80\x99re not wrong, BUT what I\xe2\x80\x99ve learned from filing radars is: NEVER report multiple issues/requests in\xe2\x80\xa6 https://t.co/YXWzd4ITvj'"
+938857218254016513,2017-12-07 19:46:18,"b""@mikeash I know this isn't precisely the same as what you said, but you are aware of these right? https://t.co/Yx9RlEgClx"""
+935262723155415042,2017-11-27 21:43:04,b'RT @gregtitus: Daughter: Why was 6 afraid of 7?\nMe: (rolling my eyes) because 7 ate 9.\nDaughter: But why did 7 do that?\nMe: Huh?\nDaughter:\xe2\x80\xa6'
+932380968714895364,2017-11-19 22:52:00,"b'@vitovalov @WallapopEng @AppleSupport @Apple If the app is using the standard photo picker in iOS 11, this is expec\xe2\x80\xa6 https://t.co/DDxaZ21jmQ'"
+927719080953606149,2017-11-07 02:07:19,b'@thequinntaylor Is there a radar for the release notes font size being unusually large? \xf0\x9f\x98\x81'
+927717555254497280,2017-11-07 02:01:15,"b""@marc0ni It is the first argument you passed to registerUndo(withTarget:handler:), so in that answer, it's self. See https://t.co/Ev4YwzhW6a"""
+925104742233190400,2017-10-30 20:58:52,"b'How many casts does it take, in Swift, to get from DispatchData to Data without copying? Three. https://t.co/vtnyvuT7To'"
+922570716037332992,2017-10-23 21:09:33,b'@Sneakyness @jckarter Object Request Broker'
+920325916076756993,2017-10-17 16:29:31,"b'@olebegemann To paraphrase Fred Brooks: \xe2\x80\x9cShow me your [data], and I won\xe2\x80\x99t usually need your [algorithms]; they\xe2\x80\x99ll be obvious.\xe2\x80\x9d'"
+917066899703451648,2017-10-08 16:39:21,"b'@steipete May 16, 2016. https://t.co/rmUgfk99v4 https://t.co/ujIa8lXU2V'"
+912776519403130884,2017-09-26 20:30:55,"b'Apple: We changed some API names in Swift 4, but we added fix-its for them.\nAlso Apple: You can no longer perform fix-its from the keyboard.'"
+912735375579369474,2017-09-26 17:47:25,b'@steipete Ever taken a look at the actual size of the Xcode executable? Or of the window server? https://t.co/1P6zIooFNH'
+908390056997605376,2017-09-14 18:00:41,"b""@mikeash 5K iMac (w/ https://t.co/H7HCCTcuTC). Join me in the future. It's beautiful here! https://t.co/oR5bxuSHCA"""
+907292059303899137,2017-09-11 17:17:38,b'@borkware Have you tried this? https://t.co/X0zAYMTI8L'
+903671664721973248,2017-09-01 17:31:28,"b'\xe2\x80\x9cHave you ever heard of \xe2\x80\x98not-invented-here\xe2\x80\x99 syndrome?\xe2\x80\x9d\n\xe2\x80\x9cYes, but we have our own term for it.\xe2\x80\x9d'"
+903648661627969540,2017-09-01 16:00:04,b'@mikeash A personal remote repo &amp; getting over my reluctance to force-push to it.'
+903335439930707969,2017-08-31 19:15:26,"b""@flyosity I see they've gone with the standard three-function, base five calculator."""
+902619899943641088,2017-08-29 19:52:08,"b'@olebegemann Hello, CFReadStreamSetClient.'"
+899748509217325056,2017-08-21 21:42:15,"b'RT @sethwillits: Need to see redacted &lt;private&gt; data logged by os_log on Sierra?\n\nsudo log config --mode ""private_data:on""'"
+895351503954825216,2017-08-09 18:30:08,"b""@0xced I'd love to see you stream it on twitch."""
+894605293824479233,2017-08-07 17:04:57,"b""@steipete Go meta. Ask \xe2\x80\x9cWhat's your favorite non-technical interview question?\xe2\x80\x9d"""
+892851702662955008,2017-08-02 20:56:48,b'@steve_breen I can wear them fine. They just sit at slightly different angles.'
+892849960915357696,2017-08-02 20:49:53,"b""@steve_breen I didn't realize how asymmetric my pinnae are until I got AirPods."""
+892623556479246336,2017-08-02 05:50:14,b'@tgaul @gedeon Adds letterboxing to a 4x3 video to prevent it from being scaled anamorphically on wide screens?'
+892271200554156032,2017-08-01 06:30:06,b'@robot_or_not Is a sandal a shoe?'
+892172929043243010,2017-07-31 23:59:36,"b'@jnadeau @jckarter Were those imported from Next\xe2\x80\x99s bug tracker, or did Radar come with the Next purchase?'"
+889643743351058432,2017-07-25 00:29:31,b'@lapcatsoftware I still have no idea what a \xe2\x80\x9cnon-weak zeroing reference\xe2\x80\x9d is. (c.f. https://t.co/v1Tachca39)'
+888493177371594752,2017-07-21 20:17:35,b'@olebegemann Right-click \xe2\x80\x9cCustomize text macros\xe2\x80\x9d in the sidebar and choose \xe2\x80\x9cCopy Link\xe2\x80\x9d: https://t.co/F1YkyHSHIZ'
+888491785915441152,2017-07-21 20:12:03,b'RT @olebegemann: New Xcode 9 feature: customizing the default file header comment (and other text macros): https://t.co/ahFoGZb8hN https://\xe2\x80\xa6'
+888237318229905408,2017-07-21 03:20:53,"b""@gparker To fix: printf '\\033c'"""
+886974670972616708,2017-07-17 15:43:35,b'@TimSweeneyEpic @mugunthkumar *Answering* questions on stackoverflow can be a great way to expand your knowledge.'
+885891361458851841,2017-07-14 15:58:54,"b""@_mochs @steipete Precisely, and I don't mind. https://t.co/jQeeT2ZF8F"""
+885644854235148288,2017-07-13 23:39:22,"b'@steipete Two more I have in my user breakpoints: CGPostError, malloc_error_break.'"
+885635084115685376,2017-07-13 23:00:33,"b'@steipete How about in Swift Playgrounds? (IPad Pro 10.5, iOS 11.0b3) https://t.co/HmW55mHAz7'"
+884613460734205955,2017-07-11 03:20:59,"b'I should clarify, that only seems to happen in macOS xibs, not iOS xibs.'"
+884611968010559488,2017-07-11 03:15:03,"b'Sadly, control-dragging from a view in a xib to a source file instantly crashes Xcode 9 beta 3. Apple giveth, and Apple taketh away.'"
+884611808887271425,2017-07-11 03:14:25,b'The \xe2\x80\x9cUse Storyboards\xe2\x80\x9d checkbox has returned to the macOS Cocoa App template in Xcode 9 beta 3. https://t.co/SyP2TL0dib'
+883753250624860161,2017-07-08 18:22:48,b'@Cocoanetics The documented solution is to use type NSNotificationName. See UIApplicationProtectedDataWillBecomeUnavailable for example.'
+883554875472269312,2017-07-08 05:14:32,"b'@jnadeau OMG, this really is how NSDatePicker works. That is delightful. https://t.co/DxgR3yNfjj'"
+883431753821675521,2017-07-07 21:05:18,b'@steipete Sometimes the compiler output has more info. Right-click the error and choose \xe2\x80\x9cReveal in Log\xe2\x80\x9d to find it.'
+882805507756630016,2017-07-06 03:36:49,"b""To be fair, I'm sure many on the Xcode team opposed the change. Why not explain the motivation in the Xcode release notes?"""
+882725572354428929,2017-07-05 22:19:11,b'Did I file a radar? Yes I did! (#32598333) Closed: \xe2\x80\x9cEngineering has determined that this issue behaves as intended.\xe2\x80\x9d'
+882713263934517248,2017-07-05 21:30:16,"b""WWDC 2017 Essential Design Principles session: \xe2\x80\x9cDon't break user expectations.\xe2\x80\x9d Xcode 9 team: \xe2\x80\x9cWe broke all your navigator shortcuts, LOL.\xe2\x80\x9d"""
+882013998794895361,2017-07-03 23:11:38,"b'@LOLgrep @parkerwightman @jnadeau @stroughtonsmith @argentumko po view.value(forKey: ""_ivarDescription"")!'"
+881623894297374721,2017-07-02 21:21:30,"b""@b3ll There's a pretty simple fix for this: put your inner stack view in a wrapper view. I just posted a detailed a\xe2\x80\xa6 https://t.co/LE6bzAMKuY"""
+880094439498186752,2017-06-28 16:04:00,b'@soryu2 Because I first wrote the init as a single line. Then I decided to put in new lines but I forgot to take out the semicolon. Derp.'
+880085858371616768,2017-06-28 15:29:54,b'@soryu2 Slightly more compact: https://t.co/y4RTUlu0df'
+878009088881328128,2017-06-22 21:57:34,"b'@borkware @bignerdranch This really needs to be a function, not a type, that returns an upside-downified string.'"
+877933327503818752,2017-06-22 16:56:31,"b""@ericasadun I discussed this with an engineer at WWDC and he told me it'd be fixed in \xce\xb23. Apparently \xce\xb22 was already \xe2\x80\x9cbaking\xe2\x80\x9d by then."""
+877634216049115138,2017-06-21 21:07:57,"b'Beta 2 of Xcode 9, iOS 11, and everything else available now. https://t.co/Snd4O2OanM'"
+877360089056804868,2017-06-21 02:58:40,b'@clattner_llvm There was a guy outside WWDC with a \xe2\x80\x9cLooking for technical cofounder\xe2\x80\x9d sign\xe2\x80\xa6 anybody get his contact info?'
+877295031924793353,2017-06-20 22:40:09,b'@chockenberry This makes a great item in the Services menu. https://t.co/H8hNUtQ9jV'
+877288434511032321,2017-06-20 22:13:56,"b'@lapcatsoftware Instead of global function `NSTextField *JJLabelView(NSString *)`, why not `+[NSTextField jj_label:(NSString *)]`?'"
+876283222979747840,2017-06-18 03:39:35,"b""Add NSZombieEnabled=YES to Xcode's environment and you get this icon: https://t.co/IaD193KL9b"""
+876283087272935424,2017-06-18 03:39:03,"b'When ShowDVTDebugMenu is on, Xcode draws its build number into its icon\xe2\x80\x94tilted to match the icon art. https://t.co/vJMNXZkp4z'"
+876163716651286528,2017-06-17 19:44:43,"b'@lapcatsoftware @borkware They probably use os_log_with_type, a macro around _os_log_impl. Both are in os/log.h and\xe2\x80\xa6 https://t.co/mdyEHwxmvf'"
+876146163715649536,2017-06-17 18:34:58,b'@borkware 5. Choose \xe2\x80\x9cReferences to address 0x108ddc0\xe2\x80\x9d. Done.'
+876145809103998978,2017-06-17 18:33:33,"b'@borkware 4. Right-click address of string \xe2\x80\x9cFocus system %{public}@"".'"
+876145747279958020,2017-06-17 18:33:18,b'@borkware 3. Open UIKit.framework/UIKit in Hopper. Switch to \xe2\x80\x9cStr\xe2\x80\x9d tab. Search for \xe2\x80\x9cFocus system\xe2\x80\x9d.'
+876145629889802241,2017-06-17 18:32:50,"b""@borkware 2. grep -r -l 'Focus system' . # prints ./UIKit.framework/UIKit"""
+876145535605985280,2017-06-17 18:32:28,b'@borkware 1. cd cd /App*/Xcode-beta.app/C*/D*/P*/iPhoneOS.platform/D*/L*/C*/P*/R*/iOS.simruntime/C*/R*/R*/S*/L*/Frameworks'
+876143759498588162,2017-06-17 18:25:24,"b""@borkware It's printed from -[UIFocusSystem _setEnabled:withAnimationCoordinator:] using _os_log_impl."""
+875866518726299651,2017-06-17 00:03:45,"b'@steipete To enable the Internal menu permanently, run in Terminal:\n    defaults write https://t.co/oMg7rgk5fa.dt.Xcode ShowDVTDebugMenu YES'"
+875157411824365568,2017-06-15 01:06:01,"b""@bhansmeyer How's this? https://t.co/M7YkW0vwLv https://t.co/wGDcnvLMXg"""
+874417969069215744,2017-06-13 00:07:44,"b""@dhartbit @mikeash @Javi We don't want lipstick on the pig. We want the pig to tell us what's happening with our bug reports."""
+873216631022927872,2017-06-09 16:34:03,"b""Me to Apple engineer: How do you safely build/run test projects from Radars?\nHim: That's a really good question.\nHim: *enigmatic stare*"""
+872964787574947840,2017-06-08 23:53:18,"b""@openradar Somebody uploaded a crash report to openradar using number 999999999 and now it's stuck to the top of the list."""
+872941881692311552,2017-06-08 22:22:17,b'@StaS_Bandol Where are my 18446744073709551616 cases\xe2\x80\xbd https://t.co/Gmdxr7bAAi'
+872914368907755520,2017-06-08 20:32:58,"b""@lapcatsoftware It's also the old way. \xf0\x9f\x98\x89"""
+872914185847320576,2017-06-08 20:32:14,b'AppKit/Objective-C: po [[[NSApp keyWindow] contentView] _subtreeDescription]'
+872914034399387648,2017-06-08 20:31:38,"b'AppKit/Swift version: po NSApp.value(forKeyPath: ""keyWindow.contentView._subtreeDescription"")!'"
+872913783538057216,2017-06-08 20:30:38,b'AppKit/Objective-C: po [view _subtreeDescription]'
+872913686863659009,2017-06-08 20:30:15,"b'AppKit/Swift version: po view.value(forKey: ""_subtreeDescription"")!'"
+872913170402230272,2017-06-08 20:28:12,b'Objective-C version: po [view recursiveDescription]'
+872913108611629056,2017-06-08 20:27:57,"b'Objective-C version: po [UIApp valueForKeyPath:@""keyWindow.recursiveDescription""]'"
+872912825789816832,2017-06-08 20:26:50,"b'#WWDC2017 #cocoatip Dump the entire UIWindow hierarchy (Swift): po UIApplication.shared.keyWindow!.value(forKey: ""recursiveDescription"")!'"
+872912581031153665,2017-06-08 20:25:51,"b'#WWDC2017 #cocoatip Dump a UIView hierarchy in lldb when stopped in Swift code: po view.value(forKey: ""recursiveDescription"")!'"
+869942570171772929,2017-05-31 15:44:06,"b""@jckarter @steipete @defer It's objc_boxable and you can add it with a typedef. https://t.co/ihn9nVcz8h"""
+862773275713261568,2017-05-11 20:55:53,"b""@owensd @kapeli's Dash fixes that and some other Apple doc problems. https://t.co/hdHceboBGO"""
+862307527660318724,2017-05-10 14:05:10,"b""@burnflare @mugunthkumar There's no reason to put it in an extension. This works at top-level: prefix func !(a: Boo\xe2\x80\xa6 https://t.co/ns0M5lCisu"""
+859864341453078532,2017-05-03 20:16:49,b'@steipete I see PSPDFMultiDelegateBoolChainingLast in your future.'
+858429087995629570,2017-04-29 21:13:38,b'@IrvinePotok I think I bought that many years ago at a Relax the Back store. This search turns up many similar: https://t.co/ggCfxBO49a'
+858389978375745536,2017-04-29 18:38:13,"b""I spent way too long on this answer but I think it's pretty neat. https://t.co/lNgacSILUx"""
+858267057229631488,2017-04-29 10:29:46,"b""@mikeash I wonder what it's called when the moon goes behind the sun."""
+855267610002194436,2017-04-21 03:51:02,b'RT @harlanhaskins: This operation has freed approximately 2.6GB of disk space. https://t.co/hYH88wvAZC'
+854513345340243975,2017-04-19 01:53:52,b'@daringfireball Good luck getting this fixed anytime soon. https://t.co/Aj8aPRsLod'
+854365726395822082,2017-04-18 16:07:17,"b""@mikeash Looking forward to a Friday Q&amp;A about why you shouldn't comment your code. ;^)"""
+852244121909686273,2017-04-12 19:36:47,"b'RT @steipete: ""Brisk is a macOS app for filing Radars and optionally crossposting them to Open Radar."" \xf0\x9f\x91\x8c https://t.co/pPo1C6ejrJ'"
+851066798325760001,2017-04-09 13:38:31,b'@jordwalke I have updated the file.'
+850828742297563139,2017-04-08 21:52:34,b'@jordwalke What license do you want? What do you want to use it for?'
+849385285645459460,2017-04-04 22:16:47,b'@mikeash https://t.co/K9hBzyTVMn'
+849011392539750400,2017-04-03 21:31:04,b'@benjaminencz `someOptionalBool == true ` gives the same result as your `someOptionalBool.isTrue`.'
+844567927558955011,2017-03-22 15:14:19,"b'@slava_pestov Test what you fly, fly what you test.'"
+840078638544445441,2017-03-10 05:55:29,"b'If Radars elicited this much humanity, would you be more inclined to file them?'"
+840071266841182208,2017-03-10 05:26:12,b'$ man launchd.plist | less +/CAVEATS https://t.co/ZR1MheicWD'
+839702723981365249,2017-03-09 05:01:44,"b'@borkware And so, my fellow programmers: ask not what Apple can do for you\xe2\x80\x94ask what you can do for Apple. Right?'"
+837423157401247745,2017-03-02 22:03:33,b'@kapeli Thanks for fixing that rounded-corner bug in Dash 4. You know the one I mean. \xf0\x9f\x98\x89'
+836703106406678528,2017-02-28 22:22:20,"b""@borkware @lapcatsoftware Honestly I'm not sure this spaghetti casserole of constraints is an improvement over a few lines of code. \xf0\x9f\x98\x89"""
+836664353722007552,2017-02-28 19:48:21,b'@lapcatsoftware https://t.co/3djo4KpCVv'
+836664252517621760,2017-02-28 19:47:56,b'@lapcatsoftware https://t.co/vZeNGqrsqq'
+836653227550584832,2017-02-28 19:04:08,b'@lapcatsoftware Did you try just putting a non-scrollable UITextView inside a (scrollable) UIScrollView?'
+834960555383324672,2017-02-24 02:58:03,b'@borkware https://t.co/WFTWEOnroW'
+834084691980537856,2017-02-21 16:57:41,b'@mugunthkumar Or it could mean used an if statement when you should have sent a message.'
+829345520846004234,2017-02-08 15:05:55,"b""@Jonathan_Blow It's pretty common in shell scripts."""
+828147050655186945,2017-02-05 07:43:37,"b""Three hours to realize OpenGL isn't drawing anything to my offscreen framebuffer because I didn't call glViewport."""
+821853814655483905,2017-01-18 22:56:33,b'@borkware https://t.co/GCHpl8PPQp'
+821543924892336129,2017-01-18 02:25:09,b'@mikeash How do you feel about \xe2\x80\x9cintuitively obvious to the most casual observer\xe2\x80\x9d?'
+820810888512991234,2017-01-16 01:52:20,b'@_upgradefm Why only iTunes links for Upgradies favorite book nominees? Amazon links would be helpful. #askupgrade'
+820176552990310401,2017-01-14 07:51:43,b'Implementing NSKeyedUnarchiverDelegate.unarchiver(_:didDecode:) in Swift? Save yourself a few hours of debugging. https://t.co/4ANh9AHYTz'
+820011226616963082,2017-01-13 20:54:46,"b""@nicklockwood Oh that's a nice idea. I've added it to my gist. https://t.co/h680gokSv5"""
+819960151562158081,2017-01-13 17:31:48,b'@nicklockwood What about something like this? https://t.co/h680gokSv5'
+817633424215339009,2017-01-07 07:26:13,"b""@borkware Why no, Xcode, I didn't need that new tab to fill the window. https://t.co/h7HH5bfoCt"""
+806878274718748672,2016-12-08 15:09:06,b'@steipete @zats Days since Xcode or SourceKit crashed trying to edit Swift code: 0. ...Objective-C code: too many to count.'
+804904210861096961,2016-12-03 04:24:52,b'@borkware *cannae'
+794339976519389184,2016-11-04 00:46:23,"b'Thank you @kapeli for Dash 3.4.0, which undoes a lot of the damage Apple did to their documentation in Xcode 8.'"
+783016034731044864,2016-10-03 18:49:05,"b""@0xced It's terrible for Swift too, in other ways."""
+775909100278452224,2016-09-14 04:08:39,b'@gparker pipe is simpler than socketpair.'
+770280847635193856,2016-08-29 15:23:59,"b'@steipete 5K or bust! I have a Dell UP2715K connected to my iMac 5K, and two of them connected to my Mac Pro.'"
+766680115610693632,2016-08-19 16:55:58,"b'@marcoarment Or even better, -[NSDateFormatter setLocalizedDateFormatFromTemplate:].'"
+766679617935519744,2016-08-19 16:53:59,b'@marcoarment The spell that will slay your Portuguese date formatting dragon is +[NSDateFormatter dateFormatFromTemplate:options:locale:].'
+766671873560248320,2016-08-19 16:23:13,b'@atpfm I need SmartSpeed to play @marcoarment and @caseyliss at 1.3x and @siracusa at 1.0x (maybe 0.9x).'
+766639081044348928,2016-08-19 14:12:55,"b'@jckarter In macOS Sierra, the button in Time Machine will just say ""Re"".'"
+766288485623877632,2016-08-18 14:59:46,b'@steipete Net value of your bug report is higher for Apple than for you. Apple is incented to urge you to file radars.'
+766287953706397696,2016-08-18 14:57:39,"b""@steipete Black hole or not is irrelevant. If (expectedReturn - opportunityCost) of filing a radar &gt; 0, do it. Otherwise, don't."""
+760198486356656128,2016-08-01 19:40:17,"b""@borkware And you can keep the party going by verifying that they're all still broken in beta 4!"""
+755494587523739648,2016-07-19 20:08:40,"b'@Jonathan_Blow ""hadn\xe2\x80\x99t properly saved Event_Manager.h"": Maybe set emacs to save buffers every time it loses focus? https://t.co/pEawN3SHVN'"
+755261142407061504,2016-07-19 04:41:03,b'@niftynei @rsnous https://t.co/7PpfI8mltc'
+754028109624508417,2016-07-15 19:01:25,b'@steipete I want to know what a \xe2\x80\x9cnon-weak zeroing reference\xe2\x80\x9d is.'
+752533725754241024,2016-07-11 16:03:16,b'@borkware So not even the IB team understands isFlipped/geometryFlipped? Time to review https://t.co/Wam7zeoYry'
+752014844711178241,2016-07-10 05:41:25,b'@tewha https://t.co/AnG7Vv4iiD'
+751851687401316353,2016-07-09 18:53:05,"b'@stephentyrone I meant, simplify to just b?'"
+751851337227210752,2016-07-09 18:51:42,"b'@stephentyrone Does Swift perform FP rounding (no excess precision) at each operation in a - (a - b), or is it allowed to simplify to -b?'"
+751490463002091520,2016-07-08 18:57:43,"b""@terhechte Regarding https://t.co/mJfsNRAiXK you can just say Optional(array[2]). You don't have to say Optional.Some(array[2])."""
+747508210899136513,2016-06-27 19:13:40,"b""A succinct and precise definition of Swift's integer remainder operator, from @stephentyrone: https://t.co/evQsNpmJRE"""
+747201103989596160,2016-06-26 22:53:20,b'@0xced Did you try turning it off and on again?'
+747109422288146433,2016-06-26 16:49:01,b'@OtyMartin A surfeit of inaccessible but relevant information. Examples: https://t.co/GrAb3odQbB https://t.co/wJ46xWEGo0'
+746914850169753600,2016-06-26 03:55:51,"b'RT @cocoaphony: At a minimum you should be comfortable reading it. W/o that, you\xe2\x80\x99re cut off from a rich history of articles &amp; code https://\xe2\x80\xa6'"
+746873762616750080,2016-06-26 01:12:35,"b'If you are getting started in iOS development using Swift, the single most productive thing you can do to improve is learn some Objective-C.'"
+745651094848581632,2016-06-22 16:14:09,"b'@borkware No, sorry. The closest I got was the compiled app, here: https://t.co/evb23xQ5v8'"
+745489008168316932,2016-06-22 05:30:04,b'@borkware @wilshipley @dharris https://t.co/e0FGs8gQX7'
+743630859408809985,2016-06-17 02:26:27,"b'@dgregor79 Bicentithread, cf. bicentennial.'"
+742977058263990273,2016-06-15 07:08:29,"b'Pre-recorded chalk talks are up in the #WWDC app &amp; on the web site! CarPlay, Speech Recognition, AirPrint, APNS, HLS, AVCapturePhotoOutput.'"
+742845145112973312,2016-06-14 22:24:18,"b'@markkolb Yes but it doesn\'t show up when you filter on platform ""OS X"". That\'s the joke.'"
+742764415699689472,2016-06-14 17:03:31,"b""Evidence that macOS (OS X) is really dead: Apple says there's  not a single #WWDC session about it. \xf0\x9f\xa4\x94 https://t.co/CNmAJMS1Z0"""
+742573531213357057,2016-06-14 04:25:00,"b'@kapeli response_data starting with x62 x76 x78 is compressed with COMPRESSION_LZFSE. Others are JPEG, PNG, and GIF.'"
+742572785579352065,2016-06-14 04:22:03,"b'@kapeli Docs appear to be in Contents/SharedFrameworks/DNTDocumentationSupport.framework/Versions/A/Resources/external/{map,cache}.db'"
+742556017309802496,2016-06-14 03:15:25,b'@pat_shaughnessy Really miss the density of the prior version. Separate page per method/property = excessive navigation &amp; page load delays.'
+742554009521643520,2016-06-14 03:07:26,"b'@Catfish_Man No, thank you!'"
+742481431343947777,2016-06-13 22:19:02,"b'@steipete All of the ""aPath"" -&gt; ""path"" type changes make it harder to see the material changes \xf0\x9f\x98\x90'"
+742469411479506945,2016-06-13 21:31:16,"b'@Catfish_Man ""If you found that you needed to avoid NSKeyValueObservingOptionInitial [...] you can revisit those decisions."" *wink*'"
+742463708073328640,2016-06-13 21:08:36,"b'@rmayoff Yep, they were. https://t.co/7PdDUdmKjw'"
+742463296507240449,2016-06-13 21:06:58,b'Xcode 8 lets you edit objects in your xib/storyboard while zoomed out or ZOOMED IN! #WWDC2016'
+742457709287460864,2016-06-13 20:44:46,"b'@gparker Over the PA system: ""Siri, tell application Terminal to are em dash are eff star""'"
+741084950191964160,2016-06-10 01:49:55,b'@mristroph Magic.'
+741063865161515008,2016-06-10 00:26:08,"b'Renaming it ""macOS"" to match iOS/watchOS/tvOS would make a lot of sense if it also matched them by having UIKit. #WWDC16'"
+740396044631089152,2016-06-08 04:12:27,b'Is Apple sitting on SE-0086 to avoid revealing secrets before #WWDC? Review ended 3 weeks ago. https://t.co/xKNngTjidz'
+735644255129980928,2016-05-26 01:30:32,"b'@wilshipley I always write it as max(interval.start, min(self, interval.end)) to put the values lexically in order, start \xe2\x89\xa4 self \xe2\x89\xa4 end.'"
+733024692173344768,2016-05-18 20:01:20,b'@gparker @steipete You may end up never transitioning. cf. https://t.co/0yq7RafKlU'
+732081729687552001,2016-05-16 05:34:20,"b""@jckarter Radar 25754629. Swift protocol extension on NSView/UIView breaks IB outlet/action support; ObjC category doesn't."""
+722300359012536321,2016-04-19 05:46:39,b'@jtbandes That is amazing.'
+720097737765699589,2016-04-13 03:54:14,"b""@gparker I'd like to request _TRY_ENABLING_ZOMBIES_TO_SEE_WHY_OBJC_RETAIN_IS_CRASHING_"""
+717898142528577541,2016-04-07 02:13:49,b'@atomicbird @borkware And satisfiable!'
+717069311303520256,2016-04-04 19:20:20,"b'@Jonathan_Blow Better result = less work for the caller. Hash(x) = 0 is the cheapest function, but creates the most work for the caller.'"
+715360392466157568,2016-03-31 02:09:42,b'@gparker find ~ -type d -exec ln -s ../.. ...'
+713472403758665728,2016-03-25 21:07:31,b'@mikeash https://t.co/aIikMzEiby'
+712845117741117441,2016-03-24 03:34:54,"b""@OneSadCookie @gparker Step 4, ignore 50% of what you google up, because you're using view-based and it's about cell-based, or vice versa."""
+707591849729331201,2016-03-09 15:40:18,b'@gparker echo -e \\\\033c'
+705476610133090304,2016-03-03 19:35:05,"b""@borkware Xcode is confused because you're using NSLayoutAnchors but not NSLayoutConstraint.activateConstraints."""
+704525022870654977,2016-03-01 04:33:49,b'Finally figured out how to make cornerRadius animate under UIKit animations\xe2\x80\xa6 Wish Apple would make this easier. https://t.co/MOhFTEzNAR'
+702272888120827904,2016-02-23 23:24:38,b'@Catfish_Man Awesome. Thanks for the workaround. Seems to fix it for me.'
+702270733133574144,2016-02-23 23:16:04,b'@Catfish_Man 10.11.3. Radar is 24802026.'
+702270367843225600,2016-02-23 23:14:37,b'@Catfish_Man Any idea why https://t.co/e68NfX5JvQ is 100x slower under El Capitan than Yosemite?'
+696891279095902208,2016-02-09 03:00:03,b'@borkware Do you even gist?'
+695584872862130177,2016-02-05 12:28:51,b'@gparker Try NSZombiesEnabled=1000000 in case there are lots of zombies.'
+692807701026381825,2016-01-28 20:33:22,"b'@Jonathan_Blow I thought I was avoiding #TheWitness spoilers, but now I feel like having watched your game design talks was a spoiler.'"
+692070877253410816,2016-01-26 19:45:29,b'Does the Baader-Meinhof phenomenon apply to itself?'
+689531775991750656,2016-01-19 19:36:00,"b'@Jonathan_Blow Web site will be back in a few minutes, for a few minutes?'"
+689258614490439680,2016-01-19 01:30:34,"b'RT @borkware: It\'d be kind of nice if the ""dots in the gutter"" reflected reality without having to visit every storyboard and xib. https://\xe2\x80\xa6'"
+687133478098345984,2016-01-13 04:46:02,"b'At long last, Xcode has decent autocompletion for selectors with multiple keywords. https://t.co/uCT4UDdnpd'"
+687004132138287104,2016-01-12 20:12:03,"b""@borkware Don't you recognize a quantum superposition when you see one?"""
+684902582960013312,2016-01-07 01:01:15,"b""@mikeash I've had this problem with a Mac Pro connected to a Dell 5K monitor, and also with a 5K iMac connected to another Dell 5K."""
+678811417483468800,2015-12-21 05:37:08,"b'expr -- scene!.view!.valueForKey(""debugPrint"") #spritekit'"
+674641256891346944,2015-12-09 17:26:24,"b'@DAlooG @mikeash In Swift, the contents of `...` has to be a valid identifier or a reserved word. Spaces are not allowed.'"
+671448086326206464,2015-11-30 21:57:53,"b""Want to use JSExport in a playground? Put your protocol and class in a .swift file in the playground's Sources folder."""
+671352333553541120,2015-11-30 15:37:24,"b""You might look at someone programming and think it's a lot of typing, but it's at least 50% mental."""
+665785139427872768,2015-11-15 06:55:21,b'I finally figured out the meaning of that Presentation setting for NSWindowControllers in storyboards. https://t.co/Lv6auOP4Rs #xcode'
+659782651704922112,2015-10-29 17:23:36,b'@gparker Is this still true? https://t.co/9LdgSrUoCC'
+651952301976846336,2015-10-08 02:48:36,b'@radexp How to create an Xcode group with its own folder: http://t.co/C3gmCOOrPO'
+651946295003770880,2015-10-08 02:24:43,b'Xcode 7 finally lets you edit standalone views in a storyboard. http://t.co/ITxTWsP9W7'
+632289044303474688,2015-08-14 20:33:50,"b""@0xced It's the priority of a constraint autolayout creates for you, if you didn't fully constrain the view's size. http://t.co/hOLsKyNl4P"""
+619345248074928128,2015-07-10 03:19:48,b'@mristroph Tails then tails = 0. Tails then heads = 1. Heads then tails = 2. Heads then heads = take a shot of whiskey and start over.'
+616064093795938304,2015-07-01 02:01:40,b'@NeatherBot I meant these fans [https://t.co/UFekkYBeDR] and these shrouds [https://t.co/nODVYxmJjH]. ;^)'
+616047129178411008,2015-07-01 00:54:15,"b""@NeatherBot I'm about to do your Ultimaker fan upgrade. Did you make any further improvements to your shroud designs?"""
+612822182624821248,2015-06-22 03:19:28,"b'With #swiftlang 2.0, you can call CGPathApply without falling back to C and without *too* much magic. http://t.co/FMoLp9Nf8H'"
+569012515817926656,2015-02-21 05:55:30,b'Next in my apparently ongoing series of overwrought auto layout answers: How to lay out a 3x3 grid. http://t.co/nquWa6rlgs'
+549665249633124352,2014-12-29 20:36:22,b'@gparker That reminder would be more effective if you put it in the NSDateFormatter Class Reference.'
+544896706932776960,2014-12-16 16:47:53,b'@cocoaphony Thanks for the kind words.'
+544896585465737216,2014-12-16 16:47:24,"b'@H2CO3_iOS @cocoaphony @Freerunnering If you would like an explanation, you may post your own question asking for it.'"
+537797799631282176,2014-11-27 02:39:21,b'@Jonathan_Blow *scansnap'
+537796587615821824,2014-11-27 02:34:32,b'@Jonathan_Blow Get a Scanscap. They are fantastic. Duplex scans in one pass.'
+527586101251547136,2014-10-29 22:21:43,b'@ezest You copied a great deal of that post from http://t.co/SRIDf0LBqc without giving the required attribution.'
+526947522099429376,2014-10-28 04:04:14,b'@gparker unless the bug is in the project creation wizard.'
+524281602260492288,2014-10-20 19:30:49,"b'@JericaLurve Or change ""leadingMargin"" to just ""leading"" and adjust the constant.'"
+524281328418553856,2014-10-20 19:29:44,"b'@JericaLurve In Project Navigator, right click storyboard. Open As &gt; Source Code.  Find leadingMargin/trailingMargin; delete the element.'"
+520293197746937856,2014-10-09 19:22:19,b'@r3trosteve My code stores every frame in memory as a bitmap.  E.g. 40k per frame for a 100x100 GIF.  How much memory do you want to use?'
+520245016669614080,2014-10-09 16:10:52,b'@r3trosteve FLAnimatedImage is probably a better idea unless you know your GIFs are tiny.'
+519578379503153153,2014-10-07 20:01:53,b'@bjhomer I tested in a playground which apparently uses a scale of 2...'
+519576067263057920,2014-10-07 19:52:42,b'@bjhomer It rounds to pixel boundaries. http://t.co/nSzIvEiEwy'
+519514188142485504,2014-10-07 15:46:49,b'@yakmoose Yes.  It will turn all your autoresizing masks into constraints behind the scenes.'
+519308485834448899,2014-10-07 02:09:25,b'@gparker Always rebase before merge; then use merge --no-ff liberally.  See also git config --global branch.autosetuprebase always.'
+513092641093722112,2014-09-19 22:29:53,b'Fans of my recent autolayout answer http://t.co/TbBCAeL5Q1 might also enjoy this one: http://t.co/ecJnkNmeZZ'
+509747790352617472,2014-09-10 16:58:38,"b'@klmr @topley True, but LICEcap helps a lot. ;^)'"
+476122712054579200,2014-06-09 22:04:35,"b""@_quincy_ Interested in making articulated models.  Currently using Sketchup Pro but it's not ideal.  Wondered what the pros use."""
+475494394871566336,2014-06-08 04:27:52,b'@_quincy_ What software did you use to create Quin?'
+375021178194112512,2013-09-03 22:23:11,b'@gparker I use: home directory in git; * in .gitignore; git add -f to add files.'
+369665523576864768,2013-08-20 03:41:43,"b""@NSHipster clang doesn't care if the *KeyedSubscript: methods omit NSCopying, even with -Weverything."""
+368505410400972801,2013-08-16 22:51:50,b'@DGHetherington @ParallelsMac In a Terminal: defaults write com.parallels.Parallels\\ Desktop ProductPromo.ForcePromoOff -bool YES'
+365961603633520642,2013-08-09 22:23:40,b'@edelaney05 Put a test project on github that demonstrates the problem.'
+365599056115941376,2013-08-08 22:23:02,b'Laying Out a Scroll View in Interface Builder: http://t.co/QPQwJyF0zd'
+365199429701091328,2013-08-07 19:55:03,b'@nilsou This \xe2\x80\x9cnew\xe2\x80\x9d format is what Xcode 4 already uses for storyboards.'
+363036428927643650,2013-08-01 20:40:04,"b""@0xced Weren't you working on a solution for this? http://t.co/Ih1yIUGumE"""
+360960230798008320,2013-07-27 03:09:59,b'@borkware http://t.co/Zq8uxA5goH http://t.co/HDKgWBKuWS'
+356263677122461697,2013-07-14 04:07:34,b'@mristroph Is that where bibliophiles hang out?'
+355801293077491712,2013-07-12 21:30:13,"b""@vadimshpakovski If your deployment target is 5.1 or earlier and main doesn't create an autorelease pool, you get a runtime warning."""
+349301758109040641,2013-06-24 23:03:23,"b'How to create a new group with its own folder, without leaving Xcode: http://t.co/bmBRrf85Pm'"
+347804288136916992,2013-06-20 19:52:58,b'@MarkVillacampa @zacwhite The Contacts built-in app uses nibs.'
+346885013498888193,2013-06-18 07:00:06,b'How to snatch the error code from the trap frame in Xcode: http://t.co/AS46D6xu7x'
+345617006499860480,2013-06-14 19:01:30,b'Overheard at #WWDC: Xcode 4.6.3 fixes the problem of zombie processes hanging around after you kill apps running under the iOS simulator.'
+345580541279600642,2013-06-14 16:36:36,b'@gparker What conditions are necessary and sufficient for the fast path to be used?'
+340599795162959872,2013-05-31 22:44:53,b'@bbum @mikeash Ouch.'
+329729471194202112,2013-05-01 22:50:06,b'bash completion for Mac OS X open command: https://t.co/7JDyFmvTAQ'
+327156440047423488,2013-04-24 20:25:48,b'@gparker I would not have guessed you were responsible for enabling the WWDC 2013 web site.'
+321131872337920001,2013-04-08 05:26:19,b'@Jonathan_Blow Why not neighbor_dist *= 0.99f?'
+318474682552684547,2013-03-31 21:27:35,b'@gparker File a radar.'
+309552963435773954,2013-03-07 06:35:52,b'@mikeash Probably some U+0391 masquerading as a genuine U+0041.'
+302916576636710912,2013-02-16 23:05:14,b'How to create an animated GIF on iOS: http://t.co/PiJYurOU'
+285859942009823232,2012-12-31 21:28:15,b'@NSHipster You should not use IndieBandNameKey as the key.  You should use &amp; IndieBandNameKey.  The linker makes string constants unique.'
+281251728161120256,2012-12-19 04:16:52,"b""@NSHipster @MartinJNash Use CGRectUnion on your subview's frames to compute your bounds, or your contentSize if you're a scroll view."""
+280885534858035201,2012-12-18 04:01:44,"b'@NSHipster Should really mention CGRectStandardize, since most of the other functions call it.'"
+276766857124524032,2012-12-06 19:15:35,b'-[UIControl setSelected:] is very picky about its input. http://t.co/ZCYylyMQ'
+269532712870752256,2012-11-16 20:09:41,b'@0xced @olemoritz @arepty You can get the first responder reliably by asking UIApplication to send it a message. http://t.co/zmaIEc8w'
+258629210539712513,2012-10-17 18:03:03,"b'@gparker git add -u ""$(git rev-parse --show-cdup)""'"
+255143622733877248,2012-10-08 03:12:34,b'@mikeash C11 final draft can be found here: http://t.co/VedvCPwR'
+255143232705531904,2012-10-08 03:11:01,b'@mikeash C11 \xc2\xa76.5.16 and footnote 111 specify that a read-after-write is permitted but not required.  This was unspecified in C99.'
+248107727027585025,2012-09-18 17:14:26,b'@NSHipster Your \xe2\x80\x9csquashing whitespace\xe2\x80\x9d example has problems.  https://t.co/oe3llb9Y'
+236695199089319936,2012-08-18 05:25:07,b'@gparker @eridius @andy_matuschak @JSpahrSummers This makes objc_msgSend without a cast produce a warning: https://t.co/Y4UgbiNl'
+230188604041875456,2012-07-31 06:30:14,b'@gparker Is it kosher to send an inherited class message to the result of objc_allocateClassPair before calling objc_registerClassPair?'
+221473827312508928,2012-07-07 05:20:49,"b'lldb bug: po [NSString stringWithFormat:@""%f"",.01] on an iOS device (not simulator). Xcode, please stop telling me to ""upgrade"" from gdb.'"
+199689051727609857,2012-05-08 02:35:54,"b'@mikeash It fails as an alias because \'...\' doesn\'t quote $ when \'...\' is inside ""..."".  Put a \\ before the $ to fix.'"

@@ -1,0 +1,102 @@
+twitter_id,date,tweet
+1109532395466719232,2019-03-23 19:08:31,"b'@turbophotos Have you considered using LIMIT and OFFSET? Or just fetch the whole result and store it in a cache, an\xe2\x80\xa6 https://t.co/5BaaK2Tph8'"
+1107995756311400449,2019-03-19 13:22:28,"b'@kurteichenwald ""Trump claims that his business acumen and personal wealth are ample evidence that he\xe2\x80\x99ll be a great\xe2\x80\xa6 https://t.co/5ITfdSNOCO'"
+1107902450567016455,2019-03-19 07:11:42,b'RT @gtconway3d: https://t.co/sDGW8nrEft'
+1107649652390686720,2019-03-18 14:27:10,"b""@JamesSNYC Just a guess, but perhaps KellyAnne made Trump's Twitter account mute or block George Conway, so Trump never sees his tweets."""
+1106243845967077376,2019-03-14 17:21:00,"b'@jeremycole @lisaphillips @asdf @mf @bx ""Let a thousand flowers bloom"" is a fine strategy for a think-tank or a sta\xe2\x80\xa6 https://t.co/rb5ASI53yg'"
+1106233458475491328,2019-03-14 16:39:43,"b'@jeremycole @lisaphillips @asdf @mf @bx IMO, the misdirected engr effort that @jeremycole described shows a failure\xe2\x80\xa6 https://t.co/QVelwJupds'"
+1104835529755942912,2019-03-10 20:04:51,"b""@ethericlights Either JSON data type, or using TEXT data type. It's not the data type that's the problem. The probl\xe2\x80\xa6 https://t.co/vzmoxopdbD"""
+1104817713161990144,2019-03-10 18:54:03,b'I used to think using JSON in a SQL database was a good alternative to avoid the evils of EAV. After seeing how dev\xe2\x80\xa6 https://t.co/YwZRnZfp7K'
+1103463309863346176,2019-03-07 01:12:09,"b'That\'s okay. Trump doesn\'t need to know that we call him the ""Windows Vista"" of US presidents. https://t.co/PSoCrW7c1P'"
+1102807455891783680,2019-03-05 05:46:01,"b'@bigkittenqueen @AOC ""Lee opposed the wording of the AUMF, not the action it represented. She believed that a respo\xe2\x80\xa6 https://t.co/MGVdMqKvQM'"
+1102619745797386240,2019-03-04 17:20:07,"b'@ananiascolon @RoguePOTUSStaff Fair enough, people in PR identify as white on the US census, even if someone like T\xe2\x80\xa6 https://t.co/wyslfbxjlG'"
+1102600791699841025,2019-03-04 16:04:48,"b'@RoguePOTUSStaff Reminder: According the 2010 US Census, Puerto Rico is 75.8% white, while the average across the U\xe2\x80\xa6 https://t.co/ntzygSm3ad'"
+1101533496944689152,2019-03-01 17:23:45,"b'@bernardigiri There may be some uproar, but we\'ve seen before that the Democratic party leaders prefer to ""look for\xe2\x80\xa6 https://t.co/SfD5neVBae'"
+1101515500503261184,2019-03-01 16:12:15,"b""@bernardigiri I admire your optimism, but I don't share it."""
+1101496526348595200,2019-03-01 14:56:51,"b'@bernardigiri Any successor, even Pelosi, might end the investigation of 45 to avoid accusations of politically-mot\xe2\x80\xa6 https://t.co/E5gBcNaVaN'"
+1101484609240350722,2019-03-01 14:09:30,b'@CharlesMBlow The only reason I would delay impeachment and removal from office is that any successor might end the\xe2\x80\xa6 https://t.co/LYBEQHniZD'
+1097920844104232960,2019-02-19 18:08:22,"b'@morgo I thought it was ironic that this error message was so general may have been because it covered other cases,\xe2\x80\xa6 https://t.co/qzrLPBkWLb'"
+1097908408932458496,2019-02-19 17:18:57,"b'Have you been confused by the MySQL error ""The used command is not allowed with this MySQL version""? Please visit\xe2\x80\xa6 https://t.co/feLL2AbNDv'"
+1097637582949646336,2019-02-18 23:22:47,b'Yet another example of unnecessary complexity due to using JSON in MySQL instead of normal tables. https://t.co/05j0hdpkZD'
+1097600715868913664,2019-02-18 20:56:17,b'@GK3 @Nike It was just 5 years ago that I posted his as a joke! https://t.co/xTs7r8tpCm'
+1095851607726510081,2019-02-14 01:05:57,"b""@g3rv4 Looks interesting, thank you! Unfortunately, my employer has restricted the browser extensions we're allowed to install."""
+1095030526916812800,2019-02-11 18:43:16,"b'@SlackHQ Implement an option for the administrator of a Team to disable all threads in a channel, or across all cha\xe2\x80\xa6 https://t.co/hA0onmQOoA'"
+1095030151916617728,2019-02-11 18:41:47,b'@SlackHQ Make the keyboard shortcut that jumps to unread messages (shift-option-downarrow) jump to the next unread\xe2\x80\xa6 https://t.co/VB8a34aCL0'
+1095029649682292736,2019-02-11 18:39:47,"b'@SlackHQ Instead of allowing the poster to choose whether to copy their thread message to the channel, make it a vi\xe2\x80\xa6 https://t.co/s0S3MNVEQC'"
+1095029106972942336,2019-02-11 18:37:38,"b'@SlackHQ ""Bump"" threads to the most recent position in my channel view if there\'s new activity. 4/'"
+1095028622564282368,2019-02-11 18:35:42,b'@SlackHQ Keep the notification red dot active while there are new messages in ANY of my threads. I miss notificatio\xe2\x80\xa6 https://t.co/eJJPWSPvRf'
+1095028175141101568,2019-02-11 18:33:56,"b'@SlackHQ Don\'t open threads in a new window pane. Expand them inline with a ""+"" button (i.e. use the most familiar\xe2\x80\xa6 https://t.co/1lsn1fpzEe'"
+1095027716556972032,2019-02-11 18:32:06,"b""@SlackHQ 2yrs later, threads is still a black mark on the otherwise great UI of Slack. I'll offer my suggestions for improvement. 1/"""
+1093738463344549888,2019-02-08 05:09:04,"b'Mr. Pecker, said de Becker, felt a pang of apoplexy,\nMr. Bezos called the bluff and published emails quite directly. https://t.co/NKsXxpuSvt'"
+1093647723142598656,2019-02-07 23:08:30,"b""Explaining the meaning of 'user@localhost' to a coworker, and wishing MySQL had chosen 'user@socket' to refer to th\xe2\x80\xa6 https://t.co/VpIK4vYfDB"""
+1093583399757918208,2019-02-07 18:52:54,"b'@tedlieu @HouseJudiciary I support the subpoena, but I take issue with implying some kind of conspiracy. Any respon\xe2\x80\xa6 https://t.co/0ShJFhM1Ug'"
+1093548642298777600,2019-02-07 16:34:48,"b'If the US were to adopt the Green New Deal and Medicare for all, it would save so much money, our economy would go into a recession. Ironic.'"
+1092929867358728192,2019-02-05 23:36:00,b'Update: documentation now says CHECK constraints are implemented in 8.0.16: https://t.co/WgR4p3S7ZQ'
+1092540808480284673,2019-02-04 21:50:01,"b""@SenKamalaHarris He's draining the swamp, one lobbyist at a time -- but unfortunately the drain pipe passes right t\xe2\x80\xa6 https://t.co/UbRDQnsT4N"""
+1092186520297955328,2019-02-03 22:22:12,"b'@johnpavlovitz Trump was elected mainly out of contempt for the other side, not actually because anyone can support\xe2\x80\xa6 https://t.co/9SW5eScb0I'"
+1091463276863533056,2019-02-01 22:28:18,"b'As a #Quora Top Writer for 4 years, I participated in their annual Top Writer Sentiment Survey. My feedback: the Qu\xe2\x80\xa6 https://t.co/PwWKc1Bzp4'"
+1091387101814222848,2019-02-01 17:25:36,"b'The top question being, ""there were 500,000 users of Google+?!?""\nClosure of Google+: everything you need to know https://t.co/cFJlYyyT47'"
+1090293587697315840,2019-01-29 17:00:22,b'A bug fix regression in MySQL Workbench 8.0.14 makes it impossible to export from a pre-8.0 instance. https://t.co/qnxFlZPzgY'
+1088479841513422848,2019-01-24 16:53:11,b'RT @datapine: These 16 #books about #SQL will teach your everything you need to know! The list contains books for beginners &amp; advanced user\xe2\x80\xa6'
+1088144318567571457,2019-01-23 18:39:56,b'OMG this is huge \xe2\x80\x94 a 15-year-old feature request for CHECK constraints in MySQL is coming in 8.0.15: https://t.co/mLcvnidhNu'
+1082409686639333376,2019-01-07 22:52:34,"b""@JuliaEAinsley Even if Sarah Sanders' claim had not been a total fabrication -- if hypothetically 4,000 suspected t\xe2\x80\xa6 https://t.co/dySTU7Kprk"""
+1081781719756238848,2019-01-06 05:17:15,"b'@jtlarsen Just wait until someone in Congress realizes that SS and Medicare are funded mostly by payroll taxes, not\xe2\x80\xa6 https://t.co/nXTKliKspN'"
+1080550770586443776,2019-01-02 19:45:54,"b""@lizardbill I feel your pain! Basically you're describing an https://t.co/YPMS0LFB1O \n\nYou can be polite and respec\xe2\x80\xa6 https://t.co/QwEd1HiDl1"""
+1075032123751329792,2018-12-18 14:16:46,"b""I'm going to glue googly eyes on every InternetOfThings device I get. Then I'll know which ones are watching me."""
+1074009636011892736,2018-12-15 18:33:46,"b'@jynus Coastal Mordor (aka the Santa Cruz Yacht Harbor), 2018-12-09. https://t.co/vrPFvQYcFe'"
+1057730042824876032,2018-10-31 20:24:28,b'@CompSciFact Get off my LAN! \n#oldprogrammerjoke'
+1045497598319030273,2018-09-28 02:17:06,b'https://t.co/98WBsxa1Ln'
+1039900869934731264,2018-09-12 15:37:42,"b'@mereghost @gabidavila @shiota Tech industry for 30 years: ""Let\'s see how much we can discourage 50% of the populat\xe2\x80\xa6 https://t.co/NdM9zFKwbM'"
+1034860868566114304,2018-08-29 17:50:32,"b'@JavaScriptDaily @CodeWisdom No matter how well-meaning the moral stance is, trying to disallow ""evil"" people from\xe2\x80\xa6 https://t.co/9b5BQl5zgg'"
+1034090526901854209,2018-08-27 14:49:28,"b""I agree, of course relational is not the only paradigm. But in most cases where I've seen NoSQL used, an RDBMS woul\xe2\x80\xa6 https://t.co/jE3qqPpRfG"""
+1033380762576252929,2018-08-25 15:49:07,b'@PeterZaitsev @walitonull I believe there are many embedded data apps dragging down performance of mobile and IoT d\xe2\x80\xa6 https://t.co/rJTEHjoESm'
+1031661055502512130,2018-08-20 21:55:37,"b""@PeterZaitsev Yes, indeed! That's a classic joke. I found this copy that notes it was formatted in HTML in 1995, so\xe2\x80\xa6 https://t.co/eD0EfhLnLw"""
+1028427123277541376,2018-08-11 23:45:08,"b'@afilina I would add this one: ""I just got an email from the Product Manager..."" \nMany cases of tech debt happen be\xe2\x80\xa6 https://t.co/W9F2RkpErB'"
+1007376549740404736,2018-06-14 21:37:40,"b""I write SQL in all caps, because it looks like I'm shouting. It makes me feel like my code is more important."""
+1005093217870610432,2018-06-08 14:24:31,"b'RT @ThePracticalDev: ""Good documentation requires four layers, each building on the previous layer.\n\n- Getting Started\n- Guides\n- Concepts\xe2\x80\xa6'"
+1004187782837776384,2018-06-06 02:26:38,b'MySQL 8.0 INFORMATION_SCHEMA caches data for 24 hours by default. Who thought that was a good idea? You can set inf\xe2\x80\xa6 https://t.co/LFsZ0w1hvE'
+1003416128201285633,2018-06-03 23:20:22,"b""Points I noticed: systems survive one order of magnitude of growth, and it's harder to bootstrap a culture of docum\xe2\x80\xa6 https://t.co/ofGVK2EhKN"""
+1003399315614601216,2018-06-03 22:13:33,"b'If you develop a software product, and you have to brag about the programming languages (or frameworks, tools, etc.\xe2\x80\xa6 https://t.co/ZvgWVyZg4A'"
+999383731025600512,2018-05-23 20:17:03,b'#ieee754jokes https://t.co/hcQbmmqyct'
+994964587517640705,2018-05-11 15:36:57,b'#ieee754jokes https://t.co/OgYDGj9A0p'
+986841438531891200,2018-04-19 05:38:28,"b'Wife: ""I have a Tom Jones song stuck in my head. I don\'t even own any Tom Jones albums! Isn\'t that weird?""\nMe: ""It\'s not unusual.""'"
+971038848829526023,2018-03-06 15:04:37,b'Data types are important in SQL. Searching for an integer value in a string column cannot use an index. https://t.co/CetG3jo6B7'
+970372593424334848,2018-03-04 18:57:09,"b'Remember to upgrade your #MySQL JDBC driver if you use MySQL 8.0 with any Java app, because a few config options ha\xe2\x80\xa6 https://t.co/gDTmVrceN2'"
+953786018250899456,2018-01-18 00:28:01,"b'RT @AccdtlEngineer: Thank @billkarwin for the perspective on life, love and databases: https://t.co/MumniKFaH3 https://t.co/eiTfoCnx04'"
+949703166764830720,2018-01-06 18:04:14,"b'@Square ""Let me help."" Twelve years or so from now, I believe, a famous novelist will write a classic using that th\xe2\x80\xa6 https://t.co/nJkmUiVefa'"
+941338604323749888,2017-12-14 16:06:27,"b'RT @loresjoberg: We never will, but it\xe2\x80\x99s very important that we be able to. But we won\xe2\x80\x99t. So let us do it. Because we won\xe2\x80\x99t do it. Which is\xe2\x80\xa6'"
+941330417919000576,2017-12-14 15:33:55,"b""RT @g_lebec: Storing trees (e.g. comments) in an RDBMS has many gotchas. For PostgreSQL, if you aren't familiar with: adjacency fk, enumera\xe2\x80\xa6"""
+940377981700075520,2017-12-12 00:29:16,b'RT @sqldaily: \xe2\x80\x9cLet\xe2\x80\x99s get straight to the point; choose an #SQL database for your web application. I think I can\xe2\x80\x99t make my self clearer.\xe2\x80\x9d\xe2\x80\xa6'
+923561331357237249,2017-10-26 14:45:54,b'@sqldaily You might also like the book version of this presentation! https://t.co/R1nUC8jU6n'
+913801163203424257,2017-09-29 16:22:29,"b'For I/O bound workload choosing SATA vs. SAS is like choosing a 3ft ladder and a 6ft ladder, when you need to get to the moon.'"
+912787770187292672,2017-09-26 21:15:37,b'RT @kennybastani: Interesting article on the state of SQL vs NoSQL https://t.co/d0DBgFFvWl'
+899316351201705985,2017-08-20 17:05:01,"b'So annoyed with Microsoft users calling their RDBMS just ""SQL."" If they were to use a text editor, they\'d probably call it ""Word.""'"
+898580094742024192,2017-08-18 16:19:24,b'@gwenshap That joke was invented after I turned 35. &lt;g&gt;'
+892402283568168960,2017-08-01 15:10:59,b'@xaprb That answers 20% of my questions about pronunciation of Xaprb.'
+855914169912053760,2017-04-22 22:40:14,"b""I'm very honored! https://t.co/Kx5irNUh2Y"""
+829338870525235200,2017-02-08 14:39:29,"b'RT @drClondono: ""She was warned. She was given an explanation. Nevertheless, she persisted "" is basically the story of all female progress\xe2\x80\xa6'"
+818967511915986944,2017-01-10 23:47:25,b'A nice review of my book SQL Antipatterns! https://t.co/hxRmU9B9ss'
+817451755826974721,2017-01-06 19:24:20,b'Glad you liked my book Vlad! https://t.co/2mQcxkktaa'
+810898477328855040,2016-12-19 17:23:57,b'Jenganeering: The practice by software developers of removing code bit by bit until their application breaks.'
+809491612434767872,2016-12-15 20:13:34,"b'In Java, 90% of problems are due to the CLASSPATH. The other 10% are due to GC.'"
+717401723946401792,2016-04-05 17:21:14,b'I really hope that the Panama papers reveal that I have a massive offshore tax haven account.'
+676958504104689668,2015-12-16 02:54:19,b'RT @Cloudways: An Very Detailed Interview with Database Architect @billkarwin &gt;&gt;&gt; https://t.co/T3QBxbpljy | @Cloudways https://t.co/lbc7DAJ\xe2\x80\xa6'
+598938610088300544,2015-05-14 19:51:07,b'RT @FractalizeRVld: #PostgreSQL anti-patterns: Unnecessary json or hstore columns #json #databases http://t.co/FaL54oGy4S'
+580140396505739264,2015-03-23 22:53:43,"b'@KimDotcom I disagree. My book was pirated not by people who wanted to read it, but as bulk content to attract eyeballs to view ads.'"
+578710993775255552,2015-03-20 00:13:47,b'RT @amyengineer: Network engineer stuck on deserted island w spade &amp; piece of fiber. Buries the fiber. 24 hours later construction crew com\xe2\x80\xa6'
+571754882165678081,2015-02-28 19:32:41,"b'RT @TheRealNimoy: A life is like a garden. Perfect moments can be had, but not preserved, except in memory.  LLAP'"
+545855452060192769,2014-12-19 08:17:35,"b'@rolandbouman @stewartsmith Yes, NoSQL is a marketing innovation, not a technology innovation. https://t.co/vS00TrOvVY'"
+534765453516619776,2014-11-18 17:49:54,b'What ORMs have taught me: just learn SQL http://t.co/OIwzHRInkV'
+525090678426988544,2014-10-23 01:05:48,"b'When I see people designing EAV tables, I feel like Willy Wonka saying ""Stop. Don\'t. Come back.""'"
+487022360373895169,2014-07-09 23:55:53,"b""Technology doesn't give you performance. Architecture is what gives you performance."""
+352624906569129984,2013-07-04 03:08:23,b'RT @afilina: Falling behind schedule is not a valid reason for keeping devs after hours. Cut on nice-to-haves and rearrange priorities to f\xe2\x80\xa6'
+347561901460447232,2013-06-20 03:49:49,"b""If I had a dime for every time I've seen someone use FLOAT to store currency, I'd have $999.997634. #ieee754jokes"""
+328630075014647809,2013-04-28 22:01:30,"b'RT @YasiraJaan: Muslims view ""Islamic"" terrorists the same way most Christians view the Westboro Baptist Church...'"
+319101283086770176,2013-04-02 14:57:29,b'http://t.co/XZLnQschx4 made me LOL more than any other April Fool I saw yesterday.  Well done #atlassian'
+303203094760652801,2013-02-17 18:03:45,b'Throwing a SELECT DISTINCT into an SQL query to suppress duplicate rows is like painting over mold stains on a wall.'
+200357299817152513,2012-05-09 22:51:17,"b""I wish we didn't live in a world where one is considered politically courageous for supporting equal rights for everyone."""
+172356122257264640,2012-02-22 16:24:36,"b""It's harder to maintain formal, professional business tone with someone whose emails are formatted in Comic Sans."""
+20946962509463552,2010-12-31 20:58:39,"b'Githubris: The belief that just because you share your code as open-source, that makes it good code.'"
+15792477472,2010-06-09 17:55:55,b'SQL Antipatterns: Avoiding the Pitfalls of Database Programming now in print http://bit.ly/9zBQo2 #pragprog'
+10785836470,2010-03-20 19:08:19,"b'My prediction:  eventually, all NoSQL tech will unwittingly reinvent the relational model.'"
+8245733732,2010-01-26 18:42:04,b'SQL Antipatterns Beta reviewed in InfoWorld magazine for IT news. http://is.gd/765pA'

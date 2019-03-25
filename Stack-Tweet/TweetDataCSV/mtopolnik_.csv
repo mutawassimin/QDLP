@@ -1,0 +1,22 @@
+twitter_id,date,tweet
+1108647825242505216,2019-03-21 08:33:33,"b""@RyanWatsonANZ @nasalahe @elonmusk @Tesla Don't forget the huge subsidies and free charging at public parking spots"""
+1028665714285129729,2018-08-12 15:33:12,"b'@B4t4t4boy @John_E_17 @elonmusk @defcon Yes, security through obscurity is a well-known fallacy.'"
+1028557247004270592,2018-08-12 08:22:12,"b'@John_E_17 @elonmusk @defcon MS Windows---closed source, most vulnerable OS in existence. Open source means giving\xe2\x80\xa6 https://t.co/6JgCGzrRPp'"
+968093437118558208,2018-02-26 12:00:36,b'Kotlin coroutines: a production-quality experimental feature everyone should start using today. https://t.co/kbrJN9pVXh'
+922512659437817856,2017-10-23 17:18:52,"b'@aphyr Initially, A = 0.\nThread 1, T = 0s: CAS(A, 0, 1)\nThread 2, T = 1s: r1 = A // reads 0\nJMM says ""OK"", but clearly non-linearizable.'"
+918744740908163072,2017-10-13 07:46:30,"b'@aphyr Also, by Hans Boehm: https://t.co/5v7E4WAFVe'"
+918744045555511298,2017-10-13 07:43:44,b'@aphyr This is my reasoning: https://t.co/g5aoTO6qzA'
+791731461544112129,2016-10-27 20:01:04,b'TIL: Unsafe.compareAndSwapObject makes no guarantees about volatile ordering. It just happens to provide ordering on x86.'
+773899550855757825,2016-09-08 15:03:25,"b'@shajra By #hazelcast you mean ""from the industry, where he gets to say what he wants without consequence."" Correct? https://t.co/3WKWLGD33r'"
+769121949494763520,2016-08-26 10:38:57,b'@jhalt @lukaseder How much more? Typographic standards disagree. https://t.co/G41mdwxRqz'
+745499349774262273,2016-06-22 06:11:10,"b""Does Java's type erasure even deserve its name? https://t.co/BWHFGYQjyl"""
+690279286956298241,2016-01-21 21:06:21,b'@mjpt777 For the poor Pluto this adds insult to injury.'
+671325390581964800,2015-11-30 13:50:20,"b'@TanelPoder ""RAM is the new disk"" is so 2013. ""Disk is the new RAM"" is 2016. #3Dxpoint'"
+670639469658247168,2015-11-28 16:24:44,"b'Our industry will soon have crossed the ""silly names beyond here"" mark on the integer line: 1 quintillion op/s https://t.co/ONjUOLHGBZ'"
+667307850578849792,2015-11-19 11:46:04,"b""@VladimirSitnikv I encountered the term here: https://t.co/jdJ2sdLY5Y but it's far from a general Judy array. I'm not aware of full impl."""
+667297246812073984,2015-11-19 11:03:56,"b'@VladimirSitnikv Judy arrays can be described simplistically as ""256-ary index trees"". Worth a look in any case!'"
+666946109135306752,2015-11-18 11:48:38,"b'.... or how exactly is ""256-ary"" supposed to be pronounced?'"
+666544039760666624,2015-11-17 09:10:57,b'TIL: the coolness of ducentiquinquagintasenary index trees.'
+659660984303398912,2015-10-29 09:20:09,b'Gold medal for cryptic Javadoc goes to... https://t.co/q303RxiW8c'
+640566708181315584,2015-09-06 16:46:19,b'@lukaseder @PeterLawrey @BrianGoetz Trove4j calculates prime modulus on each insert. S-L-O-W. Agrona or fastutil is a smart choice.'
+625731171230568449,2015-07-27 18:15:11,"b'@jerrinot @mjduigou @cl4es More directly stated, such elision is in compliance with the Java Memory Model.'"

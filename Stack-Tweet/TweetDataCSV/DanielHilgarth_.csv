@@ -1,0 +1,27 @@
+twitter_id,date,tweet
+932611273820463104,2017-11-20 14:07:09,"b'@azuresupport #azTechHelp I am trying to delete a Virtual Network (classic) and it says that it is in use, but I am\xe2\x80\xa6 https://t.co/ajEhfG4oR9'"
+834164861143748608,2017-02-21 22:16:15,"b""@AzureSupport Region is West Europe and I didn't do anything now to make it work again. Maybe a hicup in some deployment of a new feature ^2"""
+834164614984302596,2017-02-21 22:15:16,b'@AzureSupport No special steps. Opened web app and chose Custom Domains and it showed that rain cloud immediately. Works now again btw! ^1'
+834159875399761920,2017-02-21 21:56:26,b'@mark_heath @AzureSupport I am using Chrome as well btw'
+834156939416367107,2017-02-21 21:44:46,b'@AzureSupport @mark_heath As I am not the only person seeing these - 1 even in private mode - this must be an issue with you guys :-)'
+834148350559715330,2017-02-21 21:10:39,"b""@AzureSupport No, I don't. It's working in private mode. Good call. A few days ago it worked however."""
+834147027839770626,2017-02-21 21:05:23,b'@AzureSupport Looks like there is a problem with the Custom Domains blade: https://t.co/XwFvhWK9b5'
+515496593597161472,2014-09-26 13:42:20,b'Vote for native #xUnit support in #TeamCity \nhttps://t.co/ggfoA2tgP3'
+446202662141591552,2014-03-19 08:32:59,"b""@SteveErl19 @iKirstenJohnson just don't enter any credentials on this webpage. And if you did, change your Twitter password."""
+438411540912689152,2014-02-25 20:33:51,"b'@MvvmCross haha, you are probably right. Created an issue: https://t.co/kqLpJhJxwe Thanks!'"
+438389468434026496,2014-02-25 19:06:08,"b""@MvvmCross Yeah, that's an entirely different topic I need to think about. Just need to know my options beforehand..."""
+438389256180867072,2014-02-25 19:05:18,b'@MvvmCross Nice.Exists some docu on how to create a binding assembly for MvvmCross or some docu of the current for a jumpstart?'
+438375480677261312,2014-02-25 18:10:33,b'@MvvmCross  so just like there is a Cirrious.MvvmCross.Binding.Droid I would need to create a Cirrious.MvvmCross.Binding.Gtk?'
+438336253009096705,2014-02-25 15:34:41,b'@slodge Any idea on how to use MvvmCross for a Linux / Mono project?'
+406030851823394817,2013-11-28 12:04:33,b'@rbartelink Not even with Resharper?'
+406005609339682816,2013-11-28 10:24:15,"b'@beemstat Another update: ""http://t.co/DM4K7iIsjL"" points 66.175.209.250, but www(dot)http://t.co/DM4K7iIsjL points to 50.116.55.62'"
+405976396620521472,2013-11-28 08:28:10,"b'@beemstat Update: http of schelling works, https redirects to the ""Bee Back Soon"" page'"
+405966520053792768,2013-11-28 07:48:55,b'@beemstat Both http://t.co/DM4K7iIsjL and http://t.co/EZ1xXoA3Ag point to 66.175.209.250 on my end. Is that correct?'
+405965448954404864,2013-11-28 07:44:40,"b'@beemstat http://t.co/EZ1xXoA3Ag redirects to http://t.co/mLEDfOZsIi which says ""Bee Back Soon"" with ""[http://t.co/Yhs9WqostR]"" @ the bottom'"
+405767908573212672,2013-11-27 18:39:42,"b'@rbartelink Aha, so you are talking only about implementing the tests in F#? Because one of my problems: When to use F# and when C#?'"
+405700328693055488,2013-11-27 14:11:10,"b'@rbartelink I really like what I see in presentations about functional languages. I just find it hard to apply, i.e. the mindset shift.'"
+405699008456183808,2013-11-27 14:05:55,"b""@rbartelink Sorry, I haven't had exposure to Foq so far and only dabbled a little bit in F#"""
+391162378953302016,2013-10-18 11:22:33,b'@timcad I find it hard to memorize the names of the heroes and who it belongs to. A small legend would be cool'
+378272486778884096,2013-09-12 21:42:43,b'@ploeh Nice series about DI and events. The final solution has one problem though: NeedyClass no longer can be short-lived. How to solve?'
+359249896115019776,2013-07-22 09:53:44,b'RT @dot_NET_Junkie: Vote for non-nullable reference types: http://t.co/7k2DypLtAG'
+358903807150788609,2013-07-21 10:58:30,b'@xamarinhq I get a 400 Bad Request when accessing http://t.co/asuGdHBhoN with FF with the xamarin-account cookie existing. Known?'

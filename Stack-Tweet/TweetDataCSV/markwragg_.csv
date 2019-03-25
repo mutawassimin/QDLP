@@ -1,0 +1,755 @@
+twitter_id,date,tweet
+1109047188443856896,2019-03-22 11:00:29,"b'RT @samjackmartin: May you have the serenity to accept the things you cannot Terrraform, the courage to Terraform the things you can, and t\xe2\x80\xa6'"
+1108062449373196289,2019-03-19 17:47:29,"b'@GKBeer @gaelcolas @IISResetMe Yes, comes with Windows 10 (altho it\xe2\x80\x99s home edition, but that\xe2\x80\x99s easy to upgrade to P\xe2\x80\xa6 https://t.co/oZtUI4ajfe'"
+1108043486434082822,2019-03-19 16:32:08,"b""@IISResetMe If you don't have 107 Chrome tabs open do you *really* work in IT?"""
+1107627283261595648,2019-03-18 12:58:17,"b""I'm saddened that you can't issue the @HashiCorp #Terraform DESTROY command in capital letters. In lowercase it lac\xe2\x80\xa6 https://t.co/XInT2hJE2L"""
+1100048091498074112,2019-02-25 15:01:17,"b""@gaelcolas @IISResetMe It's probably more portable than you're looking for but i'm pretty pleased with my Huawei Ma\xe2\x80\xa6 https://t.co/EU35O0BkBU"""
+1098164288437604352,2019-02-20 10:15:43,"b'""- Ability to create and utilize PowerShell scripts, CloudFormation, Terraform, and Chef  to automate tasks in Azure."" \xf0\x9f\xa4\xa8'"
+1096033104635092992,2019-02-14 13:07:10,b'Recording is now available here: https://t.co/uTlN5tS6y7'
+1093236717002334209,2019-02-06 19:55:19,"b'@ryanyates1990 @Steve_MSFT ARM templates too, found something  yesterday that can\xe2\x80\x99t be configured with ARM but can\xe2\x80\xa6 https://t.co/kRh06Q8QDR'"
+1092429889612009477,2019-02-04 14:29:16,b'RT @SQLShack: Congrats on being recognized as one of the top 30 #powershell bloggers! https://t.co/f2FwzCIU5T @markwragg @chrisgoosen @lazy\xe2\x80\xa6'
+1092124478069448707,2019-02-03 18:15:40,"b'@seafoamghost They\xe2\x80\x99re a lot bigger than this now, but this was them at their cutest https://t.co/fJSbXqZ1Oi'"
+1090874593118748672,2019-01-31 07:29:05,"b'RT @WindosNZ: This is all to say that ""PoshNotify"" , has now officially been release to the #PowerShell Gallery.\n\nIt\'s a first cut, so plea\xe2\x80\xa6'"
+1087455307050168322,2019-01-21 21:02:03,b'RT @PSPester: Pester 4.6.0 is out with few fixes and a new assertion operator Should -HaveParameter  ! Thanks https://t.co/FTYbvoTZKu @tibe\xe2\x80\xa6'
+1087419136995659776,2019-01-21 18:38:20,b'@CBergmeister @markekraus Get-Help -Fu causes me to hit enter on -Functionality every time when I wanted -Full. Com\xe2\x80\xa6 https://t.co/B7YzEvfk2e'
+1087083881491238914,2019-01-20 20:26:09,"b""RT @TylerLeonhardt: . @film_girl you love AppleScript\xf0\x9f\x8d\x8f here's that #PowerShell module that builds an AppleScript command to toast on macOS!\xe2\x80\xa6"""
+1086199784879337473,2019-01-18 09:53:03,b'Reasons to contribute to open source :) #PowerShell #DSC https://t.co/qtuD1Ld9k5'
+1084771887681548288,2019-01-14 11:19:06,"b""I've added a page to the @PSPester wiki for the new Set-ItResult cmdlet that replaces Set-TestInconclsuive as of Pe\xe2\x80\xa6 https://t.co/3xLFDYw9wI"""
+1084427989369147393,2019-01-13 12:32:35,b'@nohwnd @PSPester I like Should -InvokeMock and agree it would be great to roll this in to Should as I think it wou\xe2\x80\xa6 https://t.co/0BulVe5Uir'
+1084185746540515328,2019-01-12 20:29:59,b'@MattBrowne @psCookieMonster Awesome. I did a session on getting started with Pester at @psdayuk that has just made\xe2\x80\xa6 https://t.co/ziBcWVMWVA'
+1084180650461200390,2019-01-12 20:09:44,b'RT @MattBrowne: Adding a code coverage badge to a PowerShell project from @markwragg https://t.co/ERyXagNzQh https://t.co/Nig66KpZJz'
+1084180528025104384,2019-01-12 20:09:15,b'@MattBrowne That being said if you want to implement a coverage badge without a 3rd party service I think it\xe2\x80\x99s stil\xe2\x80\xa6 https://t.co/ri8vFrTfs5'
+1084179591214841859,2019-01-12 20:05:32,"b'@MattBrowne This was written before @PSPester could do coverage report file output, which it now can\xe2\x80\xa6 https://t.co/EH2w1BcweQ'"
+1083484940556210176,2019-01-10 22:05:14,b'@migreene @HalbaradKenafin @Ctmcisco Oh my Pester tests are already there actually :)'
+1083484472195076097,2019-01-10 22:03:22,b'@HalbaradKenafin @migreene @Ctmcisco No worries. One of my additions to the repo (when I update it) will also be a\xe2\x80\xa6 https://t.co/Lu3NWF874n'
+1083484018526617600,2019-01-10 22:01:34,b'@HalbaradKenafin @migreene @Ctmcisco I have a fork of someone else\xe2\x80\x99s work to do CIS security hardening via DSC actu\xe2\x80\xa6 https://t.co/vjYO5gxanY'
+1083288950406606853,2019-01-10 09:06:26,b'@ADhanyaraj Hi Abraham thanks for your kind words :). The Influx module is dependent on this module for querying TF\xe2\x80\xa6 https://t.co/AKleLKlO79'
+1080762226653495296,2019-01-03 09:46:09,"b'@robinmhdadswell something to potentially include in the @PowerShellOrg #ICYMI post for this week, the videos from\xe2\x80\xa6 https://t.co/2aJTrNB4DM'"
+1078258098882707456,2018-12-27 11:55:38,b'My #hacktoberfest swag arrived as a late Christmas present! \xf0\x9f\x99\x8c\xf0\x9f\x8f\xbb https://t.co/WKO2Az8r9B'
+1074992846204215297,2018-12-18 11:40:41,"b""RT @nohwnd: Join me for #PSPowerHour tomorrow at 18:00 UTC. I'll be showing how to use Assert to write less tests that cover more code. htt\xe2\x80\xa6"""
+1072836812614369280,2018-12-12 12:53:23,"b'@alexverboon @PSPester With using just should? I still get that with It, but should seems happy to execute. Are you\xe2\x80\xa6 https://t.co/uneANAais8'"
+1072833375579357184,2018-12-12 12:39:43,b'@samjackmartin @PSPester \xc2\xac_\xc2\xac'
+1072831623371067393,2018-12-12 12:32:45,"b""I've just realised you can use `Should` in the #PowerShell terminal adhoc to perform a quick @PSPester-esque valida\xe2\x80\xa6 https://t.co/1YhtpBwYVV"""
+1069558573829668865,2018-12-03 11:46:50,"b'Thanks @FoxDeploy for helping me get to the bottom of my #PowerShell DSC ""Convert property value from type string t\xe2\x80\xa6 https://t.co/HkmI5dDzC6'"
+1069182360573419520,2018-12-02 10:51:53,b'@NyanHP @alexandair @code Agree the ISE Theme in VSCode looks great when presenting.'
+1066645627424174081,2018-11-25 10:51:49,b'RT @TylerLeonhardt: Let us know what you think about a xplat notification cmdlet! \xf0\x9f\x91\x8d\n\nSend-PoshNotification\n\n#PowerShell\n\ncc @WindosNZ @stev\xe2\x80\xa6'
+1065357252805177345,2018-11-21 21:32:17,b'RT @TylerLeonhardt: Published my PSNotifySend module to the Gallery!\n\nThis gives you the ability to trigger notification on Linux using #Po\xe2\x80\xa6'
+1063779252095647745,2018-11-17 13:01:52,b'@BrettMiller_IT @dan_franciscus https://t.co/5hbU7DcQG6'
+1062948635644739584,2018-11-15 06:01:18,b'@MrThomasRayner @KevinMarquette https://t.co/eGaOHoKN2E'
+1061185267728613376,2018-11-10 09:14:18,b'@markekraus There was a great article on this last year but the site is down at the moment: https://t.co/rW33Z9UuQI\xe2\x80\xa6 https://t.co/ZzaVgLgtoM'
+1060918263792721920,2018-11-09 15:33:19,b'@TylerLeonhardt @BrettMiller_IT @WindosNZ When I wrote MacNotify I did look at BurntToast to see if I could align o\xe2\x80\xa6 https://t.co/TM31djOflq'
+1060843451451953153,2018-11-09 10:36:03,"b'mock Java { return ""out of memory"" }'"
+1058374818037415938,2018-11-02 15:06:34,"b""Ladies and Gentlemen of the class of '99. \nWrite unit tests. \nIf I could offer you only one tip for the future, unit tests would be it."""
+1058078464027357184,2018-11-01 19:28:58,"b""RT @MsJonesInSydney: Help a girl out? I've set myself a hefty goal to reach 500 responses from women in tech and inform the tech industry o\xe2\x80\xa6"""
+1057680844469481472,2018-10-31 17:08:58,"b""If you'd like an easy way to try out @InfluxDB and @grafana for tracking and visualising metrics, I've written some\xe2\x80\xa6 https://t.co/gCL2xRtnKl"""
+1057666534523449344,2018-10-31 16:12:06,b'@bitfield https://t.co/7sKdOaHYTn'
+1057665640524378112,2018-10-31 16:08:33,"b'RT @Jaykul: Do you know how easy it is to use DPAPI?\n\nDid you know you can encrypt to the machine, so any script running on your computer c\xe2\x80\xa6'"
+1057528890820886528,2018-10-31 07:05:10,b'RT @matthodge: Nice demo from the guys at @OctopusDeploy of my Terraform provider to automate Octopus https://t.co/Ia7uvfiXLZ'
+1056801578454265856,2018-10-29 06:55:05,b'Being able to split windows horizontally and vertically is great for developing #Terraform with Visual Studio @code https://t.co/lRa6uALct9'
+1056595382329847808,2018-10-28 17:15:44,b'RT @bendhalpern: This post wins devOps forever \xf0\x9f\x98\x84\n\nhttps://t.co/CSPR2HwtJS'
+1056593730118053888,2018-10-28 17:09:10,b'RT @vexx32: #PowerShell https://t.co/uzFApF0zDr'
+1056494339017326592,2018-10-28 10:34:13,"b'@Steve_MSFT This is great but FYI on macOS I found you can enable this in general via: echo ""set completion-ignore-case On"" &gt;&gt; ~/.inputrc'"
+1055829955752480769,2018-10-26 14:34:12,"b""Check it out via the PSGallery: `Install-Module Influx` or if you're already using it `Update-Module Influx`. If yo\xe2\x80\xa6 https://t.co/IFrev0ijaF"""
+1055829768158040064,2018-10-26 14:33:27,"b""If you're using my Influx #PowerShell module to send metrics to @InfluxDB I've now added a `-Bulk` switch to `Write\xe2\x80\xa6 https://t.co/S0UYCuXDaP"""
+1054457577201905665,2018-10-22 19:40:51,b'@philippeguarino @InfluxDB I have these socks too and they are great :)'
+1054374529894662145,2018-10-22 14:10:51,b'@BrettMiller_IT @nohwnd @cl @splaxi @GregWojan Oh and something I only noticed recently (after 2 months) with the T\xe2\x80\xa6 https://t.co/epJFz30a3B'
+1054374136913559554,2018-10-22 14:09:18,b'@BrettMiller_IT @nohwnd @cl @splaxi @GregWojan Also if you want to trigger your own MacOS notifications using Power\xe2\x80\xa6 https://t.co/hMSffqecn1'
+1054373882164076544,2018-10-22 14:08:17,b'@BrettMiller_IT @nohwnd @cl @splaxi @GregWojan These were the things I tweaked having recently moved from Windows t\xe2\x80\xa6 https://t.co/LO7Ix3zNDt'
+1054334338517684230,2018-10-22 11:31:09,b'When you have low test coverage. https://t.co/PD7PN7HQ4C'
+1053346917416099840,2018-10-19 18:07:30,"b""RT @jonoble: If you're working with @PSPester, you can get some good tips just from these slides. Bet the #PSConfAsia presentation was grea\xe2\x80\xa6"""
+1053170068270518272,2018-10-19 06:24:45,"b'RT @TylerLeonhardt: . The famous @GlennSarti taking about testing principles in #PowerShell \xe2\x9c\x85\n\n""Every PowerShell script is tested. The ques\xe2\x80\xa6'"
+1052917978172395520,2018-10-18 13:43:02,b'Erm.. what? https://t.co/H5hpbPmaTt'
+1052849734594060289,2018-10-18 09:11:52,"b""@sstranger I just played around and I think this does it, but i'm not an expert in AST: https://t.co/ezOBZKp0eg"""
+1052843426142674944,2018-10-18 08:46:48,b'RT @SinghPrateik: #PowerShell Environment Path and Command discovery\nhttps://t.co/ZCts1Vbf32'
+1052794652879978496,2018-10-18 05:32:59,b'@FoxDeploy Posh-git is great. Weirdly I made this just yesterday as a quick way to open github from within a repo b\xe2\x80\xa6 https://t.co/APueAynpTV'
+1052793424955498497,2018-10-18 05:28:07,"b'@Steve_MSFT Oh god, I had no idea you could do that! Thanks @Steve_MSFT'"
+1052520009124188160,2018-10-17 11:21:39,b'A quick #PowerShell function to open the URL of the current git folder in your browser on Mac or Windows: https://t.co/FXHRgr1jq6'
+1052505470089322496,2018-10-17 10:23:53,b'my github workflow:\n1. Clone someones repo\n2. Realise I should have forked it\n3. Delete my clone\n4. Fork the repo\n5\xe2\x80\xa6 https://t.co/KssOoAZ4gq'
+1052505098176229377,2018-10-17 10:22:24,b'Not sure if I should Fork this so close to Halloween.. https://t.co/sf2Zwog4Hc'
+1052111065755131905,2018-10-16 08:16:40,b'RT @nohwnd: @markwragg @PSPester @psdayuk Very nice. I recently made some progress in testing self-contained scripts. So now it\xe2\x80\x99s possible\xe2\x80\xa6'
+1052110680151736320,2018-10-16 08:15:08,b'@nohwnd @PSPester @psdayuk Thanks Jakub! I came across that issue thread while doing research for the talk and it l\xe2\x80\xa6 https://t.co/6sEOwikXZA'
+1051928040081633286,2018-10-15 20:09:23,b'RT @MattBrowne: How I Implement Module Variables - PowerShell: What A Novel Idea - #PowerShell https://t.co/ZLnauAPZDk'
+1051915612350570496,2018-10-15 19:20:00,b'RT @AndrewPlaTech: Note to self: Work on naming posts better.\nhttps://t.co/YnbUhXlo5F\nThanks to @HalbaradKenafin'
+1051915469022728192,2018-10-15 19:19:26,"b'@AndrewPlaTech @WindosNZ @HalbaradKenafin \xf0\x9f\x98\x82 Don\xe2\x80\x99t do that, I can\xe2\x80\x99t cope with that level of responsibility!'"
+1051902261234999296,2018-10-15 18:26:57,b'@secretGeek https://t.co/iSfVYYa449'
+1051900771653115904,2018-10-15 18:21:01,b'@AndrewPlaTech @WindosNZ @HalbaradKenafin How about \xe2\x80\x9cLearn this one neat trick PowerShell Developers don\xe2\x80\x99t want you to know!\xe2\x80\x9d'
+1051850621538717696,2018-10-15 15:01:45,"b'RT @concentrateddon: Pretty much finalized, and free! \xe2\x80\x9chttps://t.co/9x8P32av1E: History of a Community.\xe2\x80\x9d https://t.co/b48HFO3kk0 Looking to\xe2\x80\xa6'"
+1051198905009000450,2018-10-13 19:52:03,"b'@BrettMiller_IT @sqldbawithbeard @psdayuk Good point, well made \xf0\x9f\x91\x8d\xf0\x9f\x98\x80'"
+1051178386259873793,2018-10-13 18:30:31,b'@sqldbawithbeard Hey @psdayuk why didn\xe2\x80\x99t we get a boat trip? \xf0\x9f\x98\x82'
+1051022213456031745,2018-10-13 08:09:57,"b'@bitfield Client: ""Can we please have 1 x If statement with 98 x Else clauses"".'"
+1050347626242211840,2018-10-11 11:29:23,b'@BrettMiller_IT Thank you!'
+1050347596357754880,2018-10-11 11:29:16,b'RT @BrettMiller_IT: Good session covering pretty much everything you need to get started testing your #powershell code. https://t.co/PX7ZDP\xe2\x80\xa6'
+1050314128273940481,2018-10-11 09:16:16,b'My slides and speaker notes from my Mastering #PowerShell Testing with @PSPester talk from @psdayuk yesterday are n\xe2\x80\xa6 https://t.co/Y052tR97sf'
+1050313833384996865,2018-10-11 09:15:06,"b'RT @HalbaradKenafin: Slides from my talk yesterday at @psdayuk are up on my github along with all my other talks, you can even have a sneak\xe2\x80\xa6'"
+1050078024643878913,2018-10-10 17:38:05,b'@MattBrowne @psdayuk @RSiddaway When I saw that slide first thing and then remembered by talk contained this slide\xe2\x80\xa6 https://t.co/HzBCTA4eKi'
+1050071581492416512,2018-10-10 17:12:29,"b'@SOZDBA @psdayuk Thanks Shane, love a bit of British self-deprecating humour :).'"
+1050071299060617217,2018-10-10 17:11:21,b'If you attended my @PSPester session today at @psdayuk and would like to look again at the code samples I used they\xe2\x80\xa6 https://t.co/KMlV3Br4H5'
+1050070933413728258,2018-10-10 17:09:54,"b'If you attended my @psdayuk session on Pester today and would like to learn more, Jim has shared some @PSPester vid\xe2\x80\xa6 https://t.co/iVKw2t0wuw'"
+1050070622385115137,2018-10-10 17:08:40,"b'RT @MattBrowne: ""Developer - An organism capable of converting caffeine into code"" @markwragg @psdayuk https://t.co/tqSOvtkElf'"
+1050070557511884801,2018-10-10 17:08:24,b'RT @SOZDBA: Up there for most entertaining bio at @psdayuk https://t.co/r4B1q7zjyw'
+1050070522980122625,2018-10-10 17:08:16,b'RT @obilogic: Pester session with @markwragg #FinalSessionOfTheDay @psdayuk https://t.co/TdaeB3jWHZ'
+1049749955890556929,2018-10-09 19:54:27,b'@GKBeer @PSPester @psdayuk Thank you :)'
+1049741747130159104,2018-10-09 19:21:50,"b'@marsontret If you can\xe2\x80\x99t make it, it will probably be recorded.'"
+1049688574826827777,2018-10-09 15:50:33,"b'@psdayuk @IISResetMe @Jaap_Brasser Oh no so sorry to hear that, I was looking forward to meeting one of my StackOve\xe2\x80\xa6 https://t.co/HWqpAoRgpi'"
+1049666995468283910,2018-10-09 14:24:48,b'Really looking forward to presenting on Mastering @PSPester for #PowerShell Testing at @psdayuk London tomorrow! https://t.co/4jPkjfDSU6'
+1049613303633375232,2018-10-09 10:51:27,"b'RT @psdayuk: Less than 24 hours to go until #PSDayUK 2018 (https://t.co/3YCVcxcUXN). Lots of #PowerShell, #DevOps &amp; #Automation content fro\xe2\x80\xa6'"
+1049062008681877506,2018-10-07 22:20:48,b'RT @Dan1el42: #Diversity Matters! It is time to stop talking and start doing. I would like to offer all @WomenInTech who are using #PowerSh\xe2\x80\xa6'
+1048248895355179014,2018-10-05 16:29:46,"b'RT @psdayuk: These guys, @neongreenie @markwragg @andrekamman, are living and breathing #DevOps &amp; #PowerShell #Automation! Join us at #PSDa\xe2\x80\xa6'"
+1047213349572960257,2018-10-02 19:54:53,"b""@WindosNZ It's a pretty simple implementation, it just wraps apple script to generate the notification. But it mean\xe2\x80\xa6 https://t.co/t5B0CAZNMP"""
+1047213085822504965,2018-10-02 19:53:50,"b'@WindosNZ Also inspired by you, this is it running via crontab to notify on new PowerShell StackOverflow questions:\xe2\x80\xa6 https://t.co/rcTDYsZhgM'"
+1047144036287623168,2018-10-02 15:19:27,b'This cmdlet also demonstrates using (what I hope is the correct) new way to Implement dynamic parameter sets with P\xe2\x80\xa6 https://t.co/CB6OnvTeKt'
+1047143155282432001,2018-10-02 15:15:57,"b""I've written a #PowerShell Core cmdlet for triggering basic notifications on MacOS (inspired by the BurntToast modu\xe2\x80\xa6 https://t.co/5HFc6wxhGm"""
+1045256982251352064,2018-09-27 10:20:59,b'@salisbury_matt @PSSouthampton Slides and my speaker notes can also be found here: https://t.co/FUI8BN3q7n'
+1045256796200423426,2018-09-27 10:20:14,b'@salisbury_matt @PSSouthampton This is awesome!'
+1045256766248898560,2018-09-27 10:20:07,"b""RT @salisbury_matt: My sketchnote of @MarkWragg's great talk on Developing and Testing Cross-Platform Compatible Modules with PowerShell Co\xe2\x80\xa6"""
+1044952238777675777,2018-09-26 14:10:02,b'The best way to backup your code is to paste it into StackOverflow somewhere.'
+1044919202254147585,2018-09-26 11:58:46,b'@BrettMiller_IT Last night I spent several minutes trying to turn on cruise control in my car before I remembered m\xe2\x80\xa6 https://t.co/yLxJkTWS6J'
+1044829497231626241,2018-09-26 06:02:18,b'@GKBeer @PSSouthampton Thanks Graham! It was great to meet you too.'
+1044299351915483142,2018-09-24 18:55:42,"b""RT @psdayuk: Learn from and meet PowerShell experts like @andrekamman @napalmgram @markwragg. The UK's only one day PowerShell conference.\xe2\x80\xa6"""
+1043196169411878912,2018-09-21 17:52:03,b'@secretGeek @harriyott then I looked back at your oldest blog posts and saw it was about grammar. We may be soul mates.'
+1043124830315446273,2018-09-21 13:08:34,b'@secretGeek That guy and I share a similar level of OCD.'
+1042364301594517504,2018-09-19 10:46:30,"b""On Windows I feel like I own the hard drive, where as on my Mac I feel like i'm just renting a room."""
+1042330589876178944,2018-09-19 08:32:32,"b'@devblackops FYI I think you can disable this in general for terminals on MacOS by doing: echo ""set completion-igno\xe2\x80\xa6 https://t.co/jS37wvAnPM'"
+1042095236720328704,2018-09-18 16:57:20,b'RT @PSSouthampton: Join us next week Tue 25th Sep when we have @jonathanmedd with a session on Adventures in DevOps and @markwragg with Dev\xe2\x80\xa6'
+1041975934369378305,2018-09-18 09:03:16,"b'If you noticed issues recently publishing your #PowerShell modules via the WMF 5 image of @appveyor, the problem is\xe2\x80\xa6 https://t.co/pMz6QMBjEa'"
+1040490368117211137,2018-09-14 06:40:09,"b'RT @sqldbawithbeard: New PowerShell Gallery And PowerShellGet\n\n""A change to Install-Module and Install-Script to simply install to the curr\xe2\x80\xa6'"
+1040276220603256834,2018-09-13 16:29:13,b'RT @psdayuk: 3 track PowerShell and DevOps one day event. Check the agenda and secure your ticket at https://t.co/YmaitfZYWC #PowerShell #D\xe2\x80\xa6'
+1040226591920467968,2018-09-13 13:12:00,b'@IISResetMe @ServerFault It certainly deserves waaay more upvotes.'
+1040225315434446849,2018-09-13 13:06:56,b'@secretGeek The link to your book at the end of the post is just pointing to your main URL and not to the book dire\xe2\x80\xa6 https://t.co/I7vfRXv4Fg'
+1040117237309497344,2018-09-13 05:57:28,b'RT @concentrateddon: Proof arrived! It\xe2\x80\x99s HUGE. https://t.co/YJ7K8cGtRn'
+1039828943048728576,2018-09-12 10:51:53,"b""RT @psdayuk: Learn from and meet Automation experts like @MattVSTS @markwragg @neongreenie. The UK's only one day PowerShell conference. Se\xe2\x80\xa6"""
+1039798025139494912,2018-09-12 08:49:02,"b'RT @napalmgram: 4 weeks today @psdayuk will be in full flight. The speaker list is top notch and the price is great, so no reason not to ge\xe2\x80\xa6'"
+1039166066419806208,2018-09-10 14:57:51,b'@concentrateddon I have an alarming feeling that I might have only bought this because of how much I liked the cover.'
+1039086138252845056,2018-09-10 09:40:15,b'RT @psdayuk: Thanks to @DevOpsGroup we were able to add a 3rd sessions track to #PSDayUK 2018 (https://t.co/3YCVcxcUXN) focused on #DevOps\xe2\x80\xa6'
+1038030072425467905,2018-09-07 11:43:49,b'RT @PSSouthampton: Join us Tuesday 25th September when we have @jonathanmedd with a session on Adventures in DevOps and @markwragg with Dev\xe2\x80\xa6'
+1038016848036614144,2018-09-07 10:51:16,"b""RT @psdayuk: Interested in PowerShell and DevOps? Join us for the UK's only one day PowerShell conference. Secure your ticket at https://t.\xe2\x80\xa6"""
+1037830664224157696,2018-09-06 22:31:26,b'@CtmCiscotwt @psdayuk @IISResetMe Totally agree. He\xe2\x80\x99s earned it at least 5 times over in StackOverflow PowerShell answers alone :).'
+1037730912966991873,2018-09-06 15:55:04,b'@brangtown Hi Josh that\xe2\x80\x99s tricky as I\xe2\x80\x99m not in the role where I set it up any more. I assume you\xe2\x80\x99re following this\xe2\x80\xa6 https://t.co/06XkRQ31AG'
+1037622478942732288,2018-09-06 08:44:11,b'@jonathanmedd @PSSouthampton Possibly! I\xe2\x80\x99ll DM you to discuss further. Thanks for asking :)'
+1037583526311485440,2018-09-06 06:09:24,"b'RT @thetommymaynard: If you\xe2\x80\x99re not following @planetpshell and you\xe2\x80\x99re in the #PowerShell community, or using and learning PowerShell, then\xe2\x80\xa6'"
+1037356859068375040,2018-09-05 15:08:43,"b'ICYMI: PowerShell Core 6.1 (currently in RC1) brings the ever useful Test-Connection cmdlet to PSCore, which also h\xe2\x80\xa6 https://t.co/A9A3JWzmiU'"
+1037241984937877504,2018-09-05 07:32:14,"b'@secretGeek If a cookie is discarded on a web server and no one was there to see it, was it really discarded?'"
+1037064507934363649,2018-09-04 19:47:01,b'Signs the machines might have already taken over https://t.co/uiz0emEeBA'
+1037034341262602240,2018-09-04 17:47:08,b'Wow 20th! I didn\xe2\x80\x99t expect that!!  Now I feel obliged to blog at least once a month like it seems to think I do \xf0\x9f\x98\x82 https://t.co/9GAamURSiQ'
+1035573065143513089,2018-08-31 17:00:33,b'RT @psdayuk: How do you configure PSScriptAnalyzer to work for you? We have hired the #community maintainer @CBergmeister to tell you all a\xe2\x80\xa6'
+1035406994482573314,2018-08-31 06:00:39,"b""RT @psdayuk: Why use #Pester? If (Get-You -eq 'No Idea') { Invoke-You | Should -Be @psdayuk; Import-Knowledge -From @markwragg -At https://\xe2\x80\xa6"""
+1034908118927527940,2018-08-29 20:58:17,"b'RT @psdayuk: There are a number of ways to design &amp; develop #PowerShell modules but each has its pros and cons. Learn the main approaches,\xe2\x80\xa6'"
+1034840142148710402,2018-08-29 16:28:10,b'RT @psdayuk: #Pester but not as you know it! Take the first steps into #security and #compliance testing &amp; reporting of #Office365 and rela\xe2\x80\xa6'
+1034555416863289349,2018-08-28 21:36:47,b'RT @brianbunke: Linting your PowerCLI at #VMworld with @jpsider https://t.co/aR9ZPLVYXk'
+1034554560562569216,2018-08-28 21:33:22,b'\xf0\x9f\x98\xb1 https://t.co/A51scI752g'
+1034323242151026688,2018-08-28 06:14:12,"b""RT @psdayuk: Are you struggling to understand #Pester? You're invited to join us at #PSDayUK 2018 and learn from @markwragg  how to master\xe2\x80\xa6"""
+1033225119676735489,2018-08-25 05:30:39,"b""RT @cartooninperson: Are you a developer? See how to wow your clients at the U.K.'s only #PowerShell conference! Speakers inc. @virtuEs_IT\xe2\x80\xa6"""
+1033007014224515073,2018-08-24 15:03:59,"b'If you want to learn PowerShell and are a beginner, this is the book you need: https://t.co/ODTzYRjM0w'"
+1032861045038170112,2018-08-24 05:23:57,b'@mikefrobbins @jpsider \xe2\x80\x9cOne author who had never presented before was specifically contacted and invited to speak a\xe2\x80\xa6 https://t.co/wq5gkxFzTK'
+1032860218403823616,2018-08-24 05:20:40,b'RT @mikefrobbins: The #PowerShell Conference Book \xe2\x80\x93 It\xe2\x80\x99s a Wrap! https://t.co/EWjJHzI5aV #PSConfBook'
+1032754946117128193,2018-08-23 22:22:21,b'This will form part of a build pipeline that runs when the static files are changed in source control and will then\xe2\x80\xa6 https://t.co/X2vEPqQsAI'
+1032754183882133505,2018-08-23 22:19:19,b'Having run Pester with -PassThru I also summarize where the failures are at the end by doing: $TestResults.TestResu\xe2\x80\xa6 https://t.co/2KDmwuta6a'
+1032753847981232128,2018-08-23 22:17:59,"b""I'm loving using @PSPester and #PowerShell to check if a large number of static content files contain non-productio\xe2\x80\xa6 https://t.co/WXOFnSD1n3"""
+1032556696114262017,2018-08-23 09:14:34,b'RT @rtpsug: Here is the link to the first #PSPowerHour  Lots of great lightning demos  #PowerShell https://t.co/OztjcnLuLI'
+1032556648240476160,2018-08-23 09:14:23,"b""Protip: Don't stir your coffee and then the last thing you get is a massive hit of sugar (requires: sugar)."""
+1032357464841355264,2018-08-22 20:02:54,b'@dan_franciscus @Steve_MSFT Backspace backspace backspace backspace backspace backspace backspace backspace backspa\xe2\x80\xa6 https://t.co/UvhOmnQlQb'
+1032354967775072261,2018-08-22 19:52:59,b'@julian_dunn Or management that have heard everyone is using Kubernetes.'
+1032354587620126720,2018-08-22 19:51:28,b'@ohlol @julian_dunn @kelseyhightower Your code is probably better than you think.'
+1032352394804383749,2018-08-22 19:42:45,b'@Steve_MSFT Omg this makes me so happy: \xe2\x80\x9cChange parameter order in Get-Help and help in order to get first -Full an\xe2\x80\xa6 https://t.co/umwJWX9bUm'
+1032351290603528194,2018-08-22 19:38:22,"b""RT @barbariankb: 33 Authors, 33 Chapters, 589 pages, 229 copies sold, two full #OnRamp scholarships funded. We're sixty percent of the way\xe2\x80\xa6"""
+1032337319049740290,2018-08-22 18:42:51,"b'I am not a robot and have proven this many times, so quit with all the \xe2\x80\x9cclick all the pictures with storefronts\xe2\x80\x9d already. Beep boop beep.'"
+1031565461069221888,2018-08-20 15:35:46,b'@AndrewPlaTech @psdayuk Love it. \xe2\x80\x9cFlat\xe2\x80\x9d is my favourite. I\xe2\x80\x99m a big fan of setting VSCode to the onedark theme from\xe2\x80\xa6 https://t.co/PjRMwZ7TFW'
+1030866208135032832,2018-08-18 17:17:11,b'RT @BrettMiller_IT: First blog post I was putting off until the switch.\n\nhttps://t.co/ZwYS1yLyH3'
+1030142746282078208,2018-08-16 17:22:24,b'@Mbourgon @sqlpadawan @psdbatools Does the fact that it\xe2\x80\x99s inside a scriptblock maybe make a difference? Tbh I didn\xe2\x80\x99t try it on ps v3.'
+1030087335197794309,2018-08-16 13:42:13,"b""@sqlpadawan @psdbatools Hey FYI you don't need all of those backticks, a pipe at the end of a line is treated as an\xe2\x80\xa6 https://t.co/JOPlq76B1A"""
+1030028099898036224,2018-08-16 09:46:50,b'Paste without formatting on a Mac is Option+Shift+Command+V. I swear there are less fingers involved in a Vulcan mind meld.'
+1030026678016397312,2018-08-16 09:41:11,"b""The amount of mandatory GDPR training I've had to complete is too damn high."""
+1029794286903205888,2018-08-15 18:17:45,b'@mrcoups Unattended laptops should surely be destroyed'
+1029780855277989888,2018-08-15 17:24:22,b'@sql_williamd That would be git pished'
+1029724127584837633,2018-08-15 13:38:58,"b""I'm tempted to just accept that I'm bad at typing and add git pish as an alias."""
+1029463474727002113,2018-08-14 20:23:13,"b'RT @mikefrobbins: We\'ve added a new chapter to The #PowerShell Conference Book: ""#MetaProgramming with PowerShell"" by @unleashthecloud http\xe2\x80\xa6'"
+1029348768666267648,2018-08-14 12:47:25,b'@OtterKring @CBergmeister We have a script that is critical to production that only works if line 128 has trailing\xe2\x80\xa6 https://t.co/aDvOZ6jMx5'
+1028894068632416256,2018-08-13 06:40:36,"b""RT @HalbaradKenafin: If you work with #powershell and don't already own this book then I strongly suggest you pick it up. The content is gr\xe2\x80\xa6"""
+1028633773104095232,2018-08-12 13:26:17,b'@IISResetMe I\xe2\x80\x99m tempted to code a technology centric sensationalist tweet generator that just spits out \xe2\x80\x9cif you don\xe2\x80\xa6 https://t.co/VTGXmBj6OV'
+1027988232682790912,2018-08-10 18:41:08,"b'RT @PSHOrg: What You Missed This Week in PowerShell! - August 10th, 2018 https://t.co/hf5Ia2DBML'"
+1027263300889993217,2018-08-08 18:40:31,"b""New blog post: I've written a Copy-FileHash #PowerShell cmdlet as I needed to sync only changed/new files from a so\xe2\x80\xa6 https://t.co/2zMD24LuqL"""
+1026714427675107328,2018-08-07 06:19:29,b'RT @IrwinStrachan: Honored to be part of this project! https://t.co/xHKedhVxRS'
+1026123892849561600,2018-08-05 15:12:55,b'I\xe2\x80\x99ve had my latest work laptop for about a month and just noticed it has a cdrom drive.'
+1026007900442058752,2018-08-05 07:32:00,"b'RT @MikeShepard70: My chapter of the #PowerShell Conference Book went live yesterday!  A wonderful experience working with @mikefrobbins ,\xe2\x80\xa6'"
+1025734564587757568,2018-08-04 13:25:52,b'@sstranger I\xe2\x80\x99ve just realised this is a bit \xe2\x80\x9csilence of the lambs\xe2\x80\x9d'
+1025710920369156096,2018-08-04 11:51:54,"b""RT @mikefrobbins: I've renamed my Twitter list containing all of the contributors from The PowerShell Conference Book to match the book's h\xe2\x80\xa6"""
+1025710780069695489,2018-08-04 11:51:21,b'@sstranger Pester is so versatile. I might start using it on my kids: it \xe2\x80\x98should have brushed her teeth\xe2\x80\x99 {}'
+1025638456515551233,2018-08-04 07:03:58,b'RT @jansche: I just published \xe2\x80\x9cWhy my job search is pushing me to an edge.\xe2\x80\x9d https://t.co/UIPzfKtfXh'
+1025638377683595264,2018-08-04 07:03:39,b'@jansche Great article. I wonder if you should be less specific on your search though. Find a role close to what yo\xe2\x80\xa6 https://t.co/X3zxXo9ZRQ'
+1025370262253002753,2018-08-03 13:18:15,"b'RT @mikefrobbins: We\'ve added a new chapter to The #PowerShell Conference Book: ""Rethinking PowerShell GUIs"" by @MikeShepard70 https://t.co\xe2\x80\xa6'"
+1025163285480517637,2018-08-02 23:35:48,b'RT @jamesoneill: My blog:  https://t.co/OAvIzIGZXn  On PowerShell Parameters - Good and bad tests before using them and Boolean Vs. Switch.'
+1024716050150109185,2018-08-01 17:58:39,"b'RT @mikefrobbins: We\'ve added yet another new chapter to The #PowerShell Conference Book: ""Parameter Binding Demystified"" by @FredWeinmann\xe2\x80\xa6'"
+1024382073296048129,2018-07-31 19:51:33,"b'RT @mikefrobbins: We\'ve added another new chapter to The #PowerShell Conference Book: ""How We Made Configurable Pester Tests for #SQLServer\xe2\x80\xa6'"
+1024302321050771456,2018-07-31 14:34:38,b'@MVPatrick18 @concentrateddon  https://t.co/91du41hzuI'
+1024177096824954882,2018-07-31 06:17:02,"b'RT @psdayuk: Did you hear that Richard Siddaway, probably the best known UK PowerShell expert is going to be doing the Key Note at #PSDayUK\xe2\x80\xa6'"
+1023592987782270981,2018-07-29 15:36:00,"b'RT @linaryan: If you\xe2\x80\x99re looking for a solid Windows Sysadmin who has a bit of everything, flick me a DM. Willing to relocate for the right\xe2\x80\xa6'"
+1021783078912643073,2018-07-24 15:44:04,b'RT @rjpleau: New Blog post on The PowerShell Conference Book!  My chapter was published today!  I encourage you to checkout the book.  All\xe2\x80\xa6'
+1021527570477719553,2018-07-23 22:48:46,b'RT @rjpleau: Check out my chapter in the PowerShell Conference Book!  If you purchase this book not only are you getting great material fro\xe2\x80\xa6'
+1021439122534215680,2018-07-23 16:57:18,"b'RT @samjackmartin: Finally updated my blog! https://t.co/IjSKEyvwEk Automated Test Kitchen Checks on GitHub Pull Requests using Docker, Tea\xe2\x80\xa6'"
+1021116425191161857,2018-07-22 19:35:01,"b'RT @lowrykoz: Stolen from a co-worker ""Every company has a test environment. Some are lucky enough to also have a production environment.""\xe2\x80\xa6'"
+1020264866903396352,2018-07-20 11:11:14,b'Typo based learning: an educational style where you make a load of typos in your code and then learn lots by trying\xe2\x80\xa6 https://t.co/lb0sofmuSw'
+1020199139676696577,2018-07-20 06:50:03,"b'RT @brianbunke: Another #PSConfBook tweet, now with Simpsons analogies \xf0\x9f\x99\x82\n\nhttps://t.co/EUgJVguiHn'"
+1019628020758401024,2018-07-18 17:00:38,b'@mkellerman I don\xe2\x80\x99t think you\xe2\x80\x99ve reached tacky until you\xe2\x80\x99ve needlessly added a digital clock'
+1019627580843053056,2018-07-18 16:58:53,"b'RT @mkellerman: Made a function to Invoke-Command as SYSTEM, or provided credential, against local/remote computer. Returns PSObjects, hand\xe2\x80\xa6'"
+1019627553752076288,2018-07-18 16:58:47,b'@mkellerman It slices.. it dices..'
+1019291202234060801,2018-07-17 18:42:14,b'RT @concentrateddon: The https://t.co/CUHWz202Wi book just paid for a full-ride #PowerShell #OnRamp scholarship at #PSHSummit 2019. Have yo\xe2\x80\xa6'
+1018162517296795649,2018-07-14 15:57:15,b'RT @JeffHicks: What has been your favorite or useful chapter in the #PowerShell Conference Book so far? #PSConfBook https://t.co/glu98MhBhz'
+1017187273253834753,2018-07-11 23:21:59,"b'RT @ToreGroneng: My chapter in the new book ""The PowerShell Conference Book"" just went live. Short blogpost about the book https://t.co/wY6\xe2\x80\xa6'"
+1016448856647749633,2018-07-09 22:27:46,"b'RT @leanpub: The PowerShell Conference Book https://t.co/ckmhBW5Kqz by Mike F Robbins, Michael T Lombardi, and Jeff Hicks is the featured b\xe2\x80\xa6'"
+1015581043993300992,2018-07-07 12:59:24,b'RT @jpsider: I wish I could take this chapter back in time with me. The examples and explanations are clear and applicable to real code. It\xe2\x80\xa6'
+1015577375617241091,2018-07-07 12:44:49,"b'@jpsider @PSPester That\xe2\x80\x99s really nice of you to say, thank you so much!'"
+1015243871775752192,2018-07-06 14:39:36,b'RT @mikefrobbins: Announcing the #PowerShell Conference Book https://t.co/xY4Et7QW4Z #DevOps #PSHSummit #MVPBuzz'
+1015243063030157312,2018-07-06 14:36:23,b'I have contributed a chapter on @PSPester unit testing to this brand new #PowerShell book out today and as part of\xe2\x80\xa6 https://t.co/jDcldLBlrh'
+1015215039903617024,2018-07-06 12:45:01,"b'@jessemooreuk https://t.co/ifdh4SYAOv, in Bracknell'"
+1014982031602745346,2018-07-05 21:19:08,"b""RT @streetskitchen: We've just had plenty of sandwiches dropped off from a cancelled event (thanks, Dulce!).\n\nIf you work in events, please\xe2\x80\xa6"""
+1014836513702645761,2018-07-05 11:40:54,"b""It's my last day at my company tomorrow and yet i'm still dutifully filing my incoming emails in to folders.."""
+1012788538205786112,2018-06-29 20:02:58,"b'@jsnover @_brycemcdonald Fear is the path to the dark side. Fear leads to anger, anger leads to hate, hate leads to manual changes'"
+1010512567486308353,2018-06-23 13:19:05,b'@CodeSharePaul Looks great on iOS'
+1007760055175909376,2018-06-15 23:01:35,b'TFW you can\xe2\x80\x99t click on the GDPR acknowledgement button of a site because the cookies acknowledgement button is in the way\xf0\x9f\xa4\xa6\xf0\x9f\x8f\xbb\xe2\x80\x8d\xe2\x99\x82\xef\xb8\x8f'
+1007530559474675713,2018-06-15 07:49:39,"b""@CodeSharePaul @YouTube I'm not convinced you were necessarily the person driving youtube when this happened \xf0\x9f\x98\x82"""
+1007529981575094272,2018-06-15 07:47:21,"b'@CPoweredLion Someone shared this code with me the other day and it was ultimately helpful but jeez, did it take a\xe2\x80\xa6 https://t.co/wqaUsNjrtR'"
+1007383874165510144,2018-06-14 22:06:46,b'RT @Steve_MSFT: Checkout a guest blog about PSScriptAnalyzer from @CBergmeister ! https://t.co/02Cs65ap5d'
+1006583540329385984,2018-06-12 17:06:32,b'TFW you write some really simple #PowerShell functions to use to teach people about writing @PSPester Unit Tests on\xe2\x80\xa6 https://t.co/sVOGZmTHN5'
+1005538691736064001,2018-06-09 19:54:40,"b""RT @_brycemcdonald: ICYMI: I'm writing a book https://t.co/E1VoJCQwYN I'm almost through the first chapter that I'm releasing for free! As\xe2\x80\xa6"""
+1003713628812476418,2018-06-04 19:02:31,b'RT @concentrateddon: Please - we need your help. If you\xe2\x80\x99ve ever wondered what you could do to \xe2\x80\x9cgive back\xe2\x80\x9d to a wonderfully giving community\xe2\x80\xa6'
+1002584149176266752,2018-06-01 16:14:22,b'@HerbMartin I usually find Outlook\xe2\x80\x99s search function takes no chances and just returns all my emails'
+1002499594540941312,2018-06-01 10:38:23,b'There is no greater fear than realising the information you need might be somewhere in your Outlook mailbox'
+1002451302331437057,2018-06-01 07:26:29,b'@devblackops @PSPester Thanks for the link :)'
+997150657588203522,2018-05-17 16:23:37,b'@WisdomtreeWOW @samjackmartin @PSPester @github @appveyor There is an open PR to have it added to BuildHelpers by @psCookieMonster'
+995979409365635078,2018-05-14 10:49:30,b'New blog post: How to add a code coverage badge to the https://t.co/WrIBqKKL7T of your @PSPester tested #PowerShell\xe2\x80\xa6 https://t.co/3e9shSX5Px'
+994298615265972226,2018-05-09 19:30:37,b'I sometimes click on Amazon adverts just to understand what the product is being advertised. I\xe2\x80\x99m then bombarded wit\xe2\x80\xa6 https://t.co/yn73OTXcKq'
+994212245159776256,2018-05-09 13:47:25,"b'Sometimes I still double-click top left to close a window, even though it only works about 50% of the time.'"
+993199197447913474,2018-05-06 18:41:56,"b'RT @nohwnd: Pester 4.4.0-beta is out! Please test.\n\nMany small changes, but three are important: \n- Tags can use _like_ wildcards. \n- Bette\xe2\x80\xa6'"
+993183296233275392,2018-05-06 17:38:44,"b'@nohwnd @PSPester I wasn\xe2\x80\x99t aware it did this, I\xe2\x80\x99d be really surprised if anyone was actively using it that way, sem\xe2\x80\xa6 https://t.co/P8fsLcpkWH'"
+992064607991816193,2018-05-03 15:33:28,"b""Hey Windows, if you don't know what program to open a file with, just open it with notepad and 90% of the time you'll be right."""
+991726671404453889,2018-05-02 17:10:38,b'@WindosNZ @BrettMiller_IT Real pros use Notepad+++'
+991725954748833794,2018-05-02 17:07:47,b'@BrettMiller_IT True dat!'
+991724952440201218,2018-05-02 17:03:48,b'@BrettMiller_IT Notepad++ and it\xe2\x80\x99s auto save has saved me from many a bluescreen of death oh shit I didn\xe2\x80\x99t save that note disaster :)'
+984395250704764928,2018-04-12 11:38:11,b'@barbariankb  https://t.co/bMAjZTrYVL'
+984321824539410432,2018-04-12 06:46:25,b'RT @PowerShell_Team: Take 5 minutes and help out the PowerShell Team with a SUPER quick survey: https://t.co/wz6LnAt1Zv /cc @jsnover @Heman\xe2\x80\xa6'
+982322576298053632,2018-04-06 18:22:07,b'@marsontret DM me :)'
+982173764392648704,2018-04-06 08:30:47,b'When using up arrow to retrieve a previous #PowerShell command I often have to page through a lot of repeat command\xe2\x80\xa6 https://t.co/rGh0HkB9Im'
+982172370784870401,2018-04-06 08:25:15,b'@cloudyopspoet The answer is simple. Change your test to | Should Throw :P'
+981831636311474181,2018-04-05 09:51:18,"b""@WindosNZ Yeah i'd expect 10.1.1.2 to be after 10.1.0.2. Casting as [version] works, it just seems a bit.. wrong"""
+981826287793856513,2018-04-05 09:30:03,"b'@WindosNZ Tried that first but it didn\xe2\x80\x99t work, still sorts them as strings'"
+981822132966641665,2018-04-05 09:13:32,b'#PowerShell gurus is there a better way to correctly sort IP addresses other than to cast them as [version]? For ex\xe2\x80\xa6 https://t.co/56Usikhve4'
+981799246302273536,2018-04-05 07:42:35,b'My friend @samjackmartin wrote a one time password/secret transfer tool a while back that is great. It allows you t\xe2\x80\xa6 https://t.co/MjShxW4KUV'
+980337564707180544,2018-04-01 06:54:23,b'The future of #PowerShell is looking pretty exciting! https://t.co/C9kOvZqWWX @jsnover'
+977196699562250241,2018-03-23 14:53:43,"b'@IISResetMe Thank you, that means a lot! :)'"
+977097110620426242,2018-03-23 08:17:59,b'My greatest IT career achievement so far is being able to occasionally write a relatively simple regex without havi\xe2\x80\xa6 https://t.co/j0qNPeUXg5'
+976548294309634048,2018-03-21 19:57:11,b'@Bev_Downie @tsohost I had to trigger a restart manually via the control panel but my site is now back up FYI. Look\xe2\x80\xa6 https://t.co/puFxZJ4pJN'
+976546995857969152,2018-03-21 19:52:01,"b'New blog post: repeat code until it changes with #powershell watch-command, including a controversial use of the pi\xe2\x80\xa6 https://t.co/2tpmlV650Y'"
+976494261532229632,2018-03-21 16:22:28,"b'@tsohost Thanks, its TSC-437-06820 (or it might be 2382814).'"
+976491481933516806,2018-03-21 16:11:26,b'@tsohost your phone support team told me that my Ghost Blog hosted with you is down due to wider problems with your\xe2\x80\xa6 https://t.co/DeZ54EqGXs'
+973958050380992513,2018-03-14 16:24:29,b'@CassieEdSmith RIP'
+972787258125377536,2018-03-11 10:52:10,b'Implementing a workaround https://t.co/77YuL34tmB'
+971292246212595713,2018-03-07 07:51:31,b'@secretGeek How would an opinion license work? \xf0\x9f\x98\x9b'
+971291046364827648,2018-03-07 07:46:45,b'@secretGeek Do you have to pass a test? \xf0\x9f\x98\x82'
+971281462333931521,2018-03-07 07:08:40,b'@secretGeek You need a license to have a dog??'
+971037787838443524,2018-03-06 15:00:24,b'RT @KevinMarquette: New Post: How I test and publish community modules to an internal PSRepository.  \n@Pester Test all the things! #PowerSh\xe2\x80\xa6'
+970790434212646913,2018-03-05 22:37:30,"b""RT @brianbunke: Want to know how to publish a serverless PowerShell REST API in Azure? My blog series is done and available. Let's go make\xe2\x80\xa6"""
+969982210119028736,2018-03-03 17:05:54,b'This is a good post on having empathy for your predecessors. I particularly liked this point: \n\xe2\x80\x9cThe code might be s\xe2\x80\xa6 https://t.co/TYgMjHajKQ'
+969171580420018176,2018-03-01 11:24:45,b'tfw you try and do :wq in vscode'
+968865172818464769,2018-02-28 15:07:12,b'New blog post: A quick tip on managing your #PowerShell Core version with @chocolateynuget https://t.co/tIKsMJ3TRl'
+968561743193673729,2018-02-27 19:01:29,b'@twarrestrial @cl Yw! Definitely recommend poshgit also for adding some git goodness to your PowerShell prompt. The\xe2\x80\xa6 https://t.co/PUBJIpnusL'
+968534443312013312,2018-02-27 17:13:00,b'@twarrestrial @cl I used Github for a few years via desktop clients before really understanding it. Once you do it\xe2\x80\xa6 https://t.co/MHxVC0YY7t'
+968131147250192385,2018-02-26 14:30:27,"b'RT @brianbunke: This week, a new blog series on #Azure and #PowerShell. Part 1: Conviction is fuel.\n\nhttps://t.co/MWdkaelXkt'"
+968086695714443264,2018-02-26 11:33:49,b'I have a sneaking suspicion my phone is playing noughts and crosses with itself https://t.co/HeeE4dODPA'
+967328357254918144,2018-02-24 09:20:27,b'RT @garibaldi_md: @KevinMarquette #Powershell: You need a Get-MyServer function https://t.co/RUBdNiGbBI'
+967179064875339778,2018-02-23 23:27:13,"b'RT @planetpshell: ""How to create a Grafana metrics dashboard via Influx and PowerShell"" https://t.co/C6G9wEZE75 #PowerShell'"
+966645829363789824,2018-02-22 12:08:19,b'@Dawn_French Matter and anti-matter'
+966313801024000000,2018-02-21 14:08:58,b'New blog post: https://t.co/cD5zWlw4kt. How you can use @InfluxDB and @grafana on Windows to create custom metrics\xe2\x80\xa6 https://t.co/NRc9z5cEd3'
+965942197995614209,2018-02-20 13:32:20,b'Unreasonable login requirements https://t.co/aT8NEfbHqP'
+965221055928336384,2018-02-18 13:46:47,b'It \xe2\x80\x98really is..\xe2\x80\x99 {\n   Your-code | Should -Be \xe2\x80\x98Tested By Pester\xe2\x80\x99 -Because \xe2\x80\x9cit\xe2\x80\x99s great\xe2\x80\x9d\n} https://t.co/hehbpuxOhn'
+964563383205982210,2018-02-16 18:13:25,b'@RussWragg @CPoweredLion Not sure but it\xe2\x80\x99s probably best not to look.'
+964550254925373440,2018-02-16 17:21:15,b'@jpruskin Lol'
+964525960988110848,2018-02-16 15:44:43,"b""@CPoweredLion I couldn't figure out what was causing it and changing the test to match a space didn't make it pass,\xe2\x80\xa6 https://t.co/khame53pqq"""
+964519282372759553,2018-02-16 15:18:11,"b""The world's most frustrating #Pester test result\nExpected: {} \nBut was: { }"""
+964161304423555072,2018-02-15 15:35:42,"b""A beginner's guide to git commit messages\ngit commit -m 'bug' &lt;-- minor bug\ngit commit -m 'Bug' &lt;-- major bug\ngit c\xe2\x80\xa6 https://t.co/KiCEmduBWw"""
+963753511270920192,2018-02-14 12:35:17,b'New blog post: https://t.co/JUiew8zQPg looking at #Puppet classes and templates as the final major building blocks\xe2\x80\xa6 https://t.co/A23YR9yztb'
+963084312521396224,2018-02-12 16:16:08,b'The problem with vi is that after using it for half a day you find you start to like it'
+962979244719726592,2018-02-12 09:18:37,"b'""nano: command not found"" -- Mondays, why do you hate me'"
+962376729846255618,2018-02-10 17:24:27,"b'DVD menu gripe #496: when I select \xe2\x80\x9cplay movie\xe2\x80\x9d the movie should play, I shouldn\xe2\x80\x99t be presented with 3 options on h\xe2\x80\xa6 https://t.co/J2c147tvNd'"
+961310461236076544,2018-02-07 18:47:28,b'@PaulMilbank  https://t.co/Wf4kvg92te'
+961287593131495424,2018-02-07 17:16:36,b'@binford2k @puppetize @bitfield @GlennSarti Thanks! And no worries!'
+961212412853710854,2018-02-07 12:17:52,"b'Continuing my ""Fun with Puppet"" series a blog post on using @puppetize Modules: https://t.co/Ovh5gq4nLw. It was act\xe2\x80\xa6 https://t.co/wPRGQWExDo'"
+961204124137254912,2018-02-07 11:44:56,"b""@getch3028 Yeah i'm gonna need you to provide a link to that ASAP thanks :D"""
+961171043296645121,2018-02-07 09:33:29,"b""When was the last time you used telnet.exe for what it is actually for? I'm guessing (like me) probably never."""
+961158540244213760,2018-02-07 08:43:48,b'@CassieEdSmith @aplaceforchange I think it\xe2\x80\x99s meant to be a cookie #biscuitgate'
+960984734095507456,2018-02-06 21:13:09,b'@CassieEdSmith @aplaceforchange \xf0\x9f\x8d\xaa'
+960928361848680449,2018-02-06 17:29:09,"b'@JeremyMcgee73 @paesslerAG You\xe2\x80\x99re very welcome, it\xe2\x80\x99s from a while ago actually, feel free to submit a PR if you hav\xe2\x80\xa6 https://t.co/J9cWBVq6kf'"
+960900899404206080,2018-02-06 15:40:01,"b""'Sharepoint' -Replace 'arepo|n'"""
+960833454991650816,2018-02-06 11:12:01,b'When your company is looking for someone to cover the scrum master role after the scrum master leaves at the end of\xe2\x80\xa6 https://t.co/RwMwnyD75n'
+960566792765804545,2018-02-05 17:32:24,b'@AdamRackis @bitfield https://t.co/xbrjIEc0tg'
+960547200899141633,2018-02-05 16:14:33,"b'.@bitfield I love the brutal honesty of this line in your Puppet book: ""This is the kind of simple, encouraging, un\xe2\x80\xa6 https://t.co/CXXHoLqYZd'"
+960442057742520320,2018-02-05 09:16:45,"b'RT @PSConfAsia: @markwragg Hi @markwragg yes, videos are already online. Enjoy! - PSConf Asia 2017 - Videos online! @PSConfAsia  @PSConfEU\xe2\x80\xa6'"
+960231365789790210,2018-02-04 19:19:32,"b'RT @BryceElder: Okay, so Bitcoin.'"
+960057970439655424,2018-02-04 07:50:31,b'RT @PSHOrg: 2018 Community Lightning Demos https://t.co/wfIaeouobz'
+959759942076026881,2018-02-03 12:06:16,b'@secretGeek Most application architecture issues be like https://t.co/wV0vM4gPoL'
+959359775694782466,2018-02-02 09:36:09,b'@mattstratton The reality is that companies need to find DevOps skills and DevOps skilled engineers need to find re\xe2\x80\xa6 https://t.co/rPlN13pYjL'
+959359323443998720,2018-02-02 09:34:21,"b""@mattstratton I understand that DevOps isn't (exlcusively) a job, it's a culture but this argument feels a little t\xe2\x80\xa6 https://t.co/GKKrpjfl9H"""
+959358893204869120,2018-02-02 09:32:38,b'@mattstratton I think the level of outrage your suffered was a bit disproportionate. That being said I find this ar\xe2\x80\xa6 https://t.co/oxMAa4UotS'
+958796568999624704,2018-01-31 20:18:10,b'.@PSConfAsia any news on when videos of talks from last years conference might be online? I heard from one of the s\xe2\x80\xa6 https://t.co/ec580O4JNS'
+958730178724880384,2018-01-31 15:54:21,b'@concentrateddon I have nominated @IISResetMe for constantly sniping StackOverflow questions with excellent and det\xe2\x80\xa6 https://t.co/mXpRlOkkxu'
+958686760497745922,2018-01-31 13:01:49,"b'@bitfield @puppetize Thanks, simply standing on your shoulders ;)'"
+958682523868934145,2018-01-31 12:44:59,"b""New blog post: https://t.co/LEPhP9cbV8 continuing my learning of @puppetize via @bitfield's great book this post de\xe2\x80\xa6 https://t.co/1HAifLUXfd"""
+958504424590249985,2018-01-31 00:57:17,"b'@bitfield Sorry I\xe2\x80\x99m a bit late to this thread, what did I miss?'"
+958414979765538816,2018-01-30 19:01:52,"b'RT @danaickin: If you\'re so worried about #automation ""stealing"" your job...why don\'t you become the Automator rather than the Automated?!\xe2\x80\xa6'"
+958414488503570433,2018-01-30 18:59:55,b'@danaickin In my experience some people are just set in their ways and a little afraid https://t.co/jUL1h8sLeh'
+958303396351627264,2018-01-30 11:38:28,"b""@bitfield @puppetize @nullfinch Yes that seems to work, as does installing it via the puppet_gem provider. I'm also\xe2\x80\xa6 https://t.co/Q8nnnqOdIC"""
+958060670972518401,2018-01-29 19:33:58,"b'@bitfield @puppetize @nullfinch I found googling it didn\xe2\x80\x99t help much, which I think means I\xe2\x80\x99ve hit what I refer to as \xe2\x80\x9cbloggers gold\xe2\x80\x9d :)'"
+958043483977273344,2018-01-29 18:25:40,"b'@binford2k @bitfield @puppetize @nullfinch Thanks all, I shall have another go later. I did also try to install it\xe2\x80\xa6 https://t.co/RXXWfChr05'"
+957996933397860352,2018-01-29 15:20:42,"b"".@bitfield @puppetize @nullfinch Am I supposed to be able to use r10k on Windows? The Forge doesn't show it as Wind\xe2\x80\xa6 https://t.co/JiQFkBy7vq"""
+957535772759994369,2018-01-28 08:48:13,b'@proxb What was it?'
+956799161839620096,2018-01-26 08:01:11,b'@WindosNZ @FoxDeploy @FedEx There are better ways though. I should have said \xe2\x80\x9cintended to\xe2\x80\x9d.'
+956798985146130433,2018-01-26 08:00:29,b'@WindosNZ @FoxDeploy @FedEx I\xe2\x80\x99d imagine it\xe2\x80\x99s to prevent brute force'
+956788459598991360,2018-01-26 07:18:39,"b'RT @sqldbawithbeard: How to write a PowerShell function to use Confirm, Verbose and WhatIf https://t.co/mRn4hYS5t1 https://t.co/ZDcpP0KLx7'"
+956153639202181122,2018-01-24 13:16:06,b'@bitfield Thank you! :D'
+956145865697185794,2018-01-24 12:45:13,b'New blog post: https://t.co/DXd2tGRP7B Getting Started with #Puppet on #Windows. Heavily inspired by the first few\xe2\x80\xa6 https://t.co/MHi6OicNTT'
+955937479760273409,2018-01-23 22:57:10,b'@idiot_girl @IanYates82 @shanselman Props to you for at least being self-aware'
+955520324224811009,2018-01-22 19:19:32,b'RT @pzerger: A PowerShell Tool Scorecard https://t.co/vs3fOgsAbA #PowerShell'
+954061878476591107,2018-01-18 18:44:12,b'RT @CassieEdSmith: Nine out of ten young people in the UK want careers that will allow them to tackle social issues. What a great stat @_En\xe2\x80\xa6'
+953760641143230464,2018-01-17 22:47:11,b'@MS_dministrator Thank you! :)'
+953725816579481602,2018-01-17 20:28:48,"b'@KevinMarquette Yeah I agree, I did give some thought to writing Pester tests for it actually but figured I\xe2\x80\x99d just\xe2\x80\xa6 https://t.co/naGxBx5Y1o'"
+953725511544528899,2018-01-17 20:27:35,b'@KevinMarquette Thanks! :)'
+953623710606462977,2018-01-17 13:43:04,b'New blog post: If you are relatively new to authoring your own tools/cmdlets with #PowerShell you might find this s\xe2\x80\xa6 https://t.co/JZY7TwvoiC'
+953285884736098304,2018-01-16 15:20:40,b'RT @PSHOrg: Can We Talk About PowerShell Core 6.0? https://t.co/AYFTrNjd7x'
+953196447259906048,2018-01-16 09:25:17,"b'Sometimes I use the ""Download from North America"" link even though i\'m actually in Europe #ITConfessions'"
+952295552460476417,2018-01-13 21:45:27,b'@outofinodes Thanks! :)'
+952271566586425347,2018-01-13 20:10:08,b'@clavecoder Thanks :)'
+952271438974738433,2018-01-13 20:09:38,b'RT @Steve_MSFT: Thoughtful and well written blog on #PSCore6 https://t.co/iRZp2aytvj'
+951531242754920454,2018-01-11 19:08:21,"b'@SterbalRobert @jsnover @Steve_MSFT I\xe2\x80\x99m just sorry for the stupid Trump jokes in that tweet, it was a post-midnight\xe2\x80\xa6 https://t.co/TNdTOHQiYv'"
+951420453079453701,2018-01-11 11:48:07,b'@NatJLevy It looks like Dumbledore just died.'
+951232228922675200,2018-01-10 23:20:11,"b'@dfinke @Steve_MSFT I\xe2\x80\x99m weirdly excited there\xe2\x80\x99s now an official Get-Uptime #poweshell cmdlet, no more net statistics server'"
+951230157335007232,2018-01-10 23:11:57,b'RT @Steve_MSFT: #PSCore6 is final! Thanks to everyone who helped us get here!  Onto 6.1.0! https://t.co/fYQ0DS3m23'
+951229677858885632,2018-01-10 23:10:02,b'RT @r_powershell: https://t.co/LvqEcCME80 #powershell PowerShell Core 6.0: Generally Available (GA) and Supported! via /r/PowerShell'
+951059214134403073,2018-01-10 11:52:41,b'RT @joeyaiello: Really sums up the real world implications of PowerShell Core very nicely. https://t.co/Ae45SU1qpM'
+950834534890819585,2018-01-09 20:59:53,b'RT @micha_anto: Very comprehensive article https://t.co/K5spXqb34C'
+950734491601031169,2018-01-09 14:22:21,b'RT @PSHOrg: PSCore 6 - Jeffrey Snover and the PowerShell Team hosting AMA on 11th Jan 9am PT https://t.co/awkfAWB8Kp'
+950518982938939392,2018-01-09 00:05:59,"b""New blog post: https://t.co/DRrIc9nyny #PowerShell Core is due for GA 10th January. If you haven't yet had a chance\xe2\x80\xa6 https://t.co/iooRKxtdhS"""
+950500179874140160,2018-01-08 22:51:16,b'RT @jsnover: @markwragg @PowershellTeam @powershell https://t.co/trQo1iikmR\n:-)'
+950494758480306176,2018-01-08 22:29:44,b'.@powershellteam @powershell @jsnover is PowerShell Core 6.0 still expected to go GA on the 10th Jan?'
+950303631471005696,2018-01-08 09:50:16,"b""Monday's be like https://t.co/z2XSx9HiPI"""
+950250177914384385,2018-01-08 06:17:51,"b""RT @secretGeek: blogged: I'm .ok you're .ok: introducing folder profiles for bash and powershell.  https://t.co/YhVWBlgBJ1 #powershell #lin\xe2\x80\xa6"""
+950078850641342464,2018-01-07 18:57:04,"b'@secretGeek A primary school I toured recently used a similar concept, called the learning pit. The idea was that m\xe2\x80\xa6 https://t.co/OvnhpRVj4i'"
+950057145097162752,2018-01-07 17:30:49,"b'@railroadmanuk Mine says Alexa, Alexa, Alexa, Alexa, Alexa, Alexa turn the lamp on'"
+949403267179732992,2018-01-05 22:12:32,b'New blog post: https://t.co/LQ8susVZ6d I recently spent several days troubleshooting a weird network issue copying\xe2\x80\xa6 https://t.co/9seusmTWiq'
+949006111851646976,2018-01-04 19:54:23,b'RT @devblackops: Blogged: PowerShell Readability - Why being verbose and explicit is better than clever and obtuse\n\nhttps://t.co/p3Lhq2icmQ'
+949005826651508737,2018-01-04 19:53:15,b'@devblackops Great post. The code was even more horrifying to read on a mobile screen width!'
+948645700849623041,2018-01-03 20:02:14,b'@mlangsworth @troyhunt @Snap462 Hmm this seem just like the sort of accusation a bot would make to cover the fact h\xe2\x80\xa6 https://t.co/QrslViZ0vH'
+948634541295591424,2018-01-03 19:17:54,b'@BrettMiller_IT  https://t.co/H0vOqgyjUi'
+948553683054354437,2018-01-03 13:56:35,b'Loving Visual Studio @code for writing #PowerShell @PSPester tests by having the function file and test file side by side'
+948315350256574465,2018-01-02 22:09:33,"b'@GoateePFE It\xe2\x80\x99s probably true though that many people underestimate the value of those soft skills, hence why this resonates.'"
+947844050798956545,2018-01-01 14:56:46,"b'RT @pcgeek86: In Visual Studio Code, if you want to select ALL instances of text, in the current file, use the CTRL + SHIFT + L keyboard sh\xe2\x80\xa6'"
+947444505975967745,2017-12-31 12:29:07,"b""RT @IISResetMe: You don't need specialized tools and an army of people to enable Windows Firewall in your org. This guy gets it. Be pragmat\xe2\x80\xa6"""
+944630633963442176,2017-12-23 18:07:48,b'@IISResetMe Who are you calling an odd follower ;)'
+943562767172284419,2017-12-20 19:24:28,"b'@robinmalik I\xe2\x80\x99m sure I\xe2\x80\x99m not the first to say it, but corrections should be legally required to be on the same page\xe2\x80\xa6 https://t.co/Pv38u8xQAJ'"
+943201675996749824,2017-12-19 19:29:38,b'RT @parthpsha: Spent the last few days making some big changes to Subscription related commands in ReportingServicesTools GitHub Project. @\xe2\x80\xa6'
+943048881163644928,2017-12-19 09:22:28,"b""@IrwinStrachan Sometimes standing still is the smart thing to do though. For example I've been led to believe it ma\xe2\x80\xa6 https://t.co/T4jltVjz3D"""
+941578700956557312,2017-12-15 08:00:30,b'.@troyhunt interested in your thoughts on this password approach suggested by @OrionsFlame https://t.co/fofo05PuFz'
+940673868653649920,2017-12-12 20:05:01,b'@aChrisSmith @rickasaurus Err yeah except for everyone whose homes got repossessed'
+939807557086056448,2017-12-10 10:42:37,b'@devblackops It has aged well'
+938883317193166854,2017-12-07 21:30:01,b'RT @nohwnd: Test your Pester envirionment validation tests properly. #PSPester #powershell https://t.co/DZRdVTXsbZ https://t.co/4QLUfPq17r'
+938660823324680192,2017-12-07 06:45:54,b'RT @DonovanBrown: Big thank you to @sstranger for using SHiPS to add a @PowerShell Provider to the VSTeam Module for @VSTS. You can now nav\xe2\x80\xa6'
+938321102895505414,2017-12-06 08:15:58,b'@secretGeek Does it include a mint condition original peanut butter jelly time dancing banana?'
+937692242327764992,2017-12-04 14:37:06,"b'RT @CassieEdSmith: We now have \xc2\xa32,292 left to match in less than 24 hours. Deadline is midday tomorrow. Can we do it? With your help #yeswe\xe2\x80\xa6'"
+937645781963681792,2017-12-04 11:32:29,b'@JayHanlon Colloquially known as \xe2\x80\x9cflipping the Vs\xe2\x80\x9d'
+937645664485421056,2017-12-04 11:32:01,b'@JayHanlon In my country the girl in red at the top is giving the finger twice'
+937644811032649730,2017-12-04 11:28:38,b'@IISResetMe It would be nice to discover they have breached IT policy and are disciplined as a result. Probably wishful thinking.'
+937639281455255552,2017-12-04 11:06:39,b'@IISResetMe The arrogance of some of the MPs responses doesn\xe2\x80\x99t help though.'
+937151532037963777,2017-12-03 02:48:31,b'RT @JustinMezzell: I recommend coding if you enjoy aggressively alternating between feeling like the dumbest and the smartest person alive.'
+937150909108445185,2017-12-03 02:46:02,b'RT @troyhunt: This illustrates a fundamental lack of privacy and security education. All the subsequent reasons given for why it\xe2\x80\x99s necessar\xe2\x80\xa6'
+936867633974075395,2017-12-02 08:00:24,b'@KroonenburgRyan @Millanisms @acloudguru When you review the recording: https://t.co/UiDCcdmUyg'
+933647778533789696,2017-11-23 10:45:51,"b""You've not experienced true terror unless you've tried to use Windows 8 through a Virtual Machine console interface\xe2\x80\xa6 https://t.co/1xD54exddV"""
+931554995408957440,2017-11-17 16:09:53,b'@joshduffney :D'
+931458330039607296,2017-11-17 09:45:46,b'I struggle so much to complete captcha checks I sometimes wonder if I am a real boy'
+931260746112962560,2017-11-16 20:40:38,b'My Puppet IQ is 172\xe2\x80\x94that\xe2\x80\x99s better than 63% of my peers! #PluralsightIQ https://t.co/V9WXbaF8lQ'
+931257249544142853,2017-11-16 20:26:44,b'My PowerShell IQ is 232\xe2\x80\x94that\xe2\x80\x99s better than 91% of my peers! #PluralsightIQ https://t.co/tRIyG7oKD7'
+930896725631492096,2017-11-15 20:34:09,b'@nohwnd  https://t.co/MU4n7JHtci'
+930876290663702528,2017-11-15 19:12:57,b'RT @GoatUserStories: As a goat I want to attend conferences in my field so that I can see and learn from different animals--and hear about\xe2\x80\xa6'
+930503625222352896,2017-11-14 18:32:06,b'@IISResetMe Haha! Been there!!'
+930502757311827969,2017-11-14 18:28:39,"b""RT @OrionsFlame: #TuesdayThoughts why don't you put the crispy shell of minstrels on a twirl @CadburyUK #chocolatechimera"""
+930502735010717697,2017-11-14 18:28:34,b'@OrionsFlame @CadburyUK I would eat that'
+928362781962854400,2017-11-08 20:45:10,b'RT @parthpsha: Looking to migrate Mobile Reports between SSRS 2016 servers? Check out https://t.co/ad8DCaD5wK'
+927865779214745600,2017-11-07 11:50:15,b'RT @KevinMarquette: Thank you for adding me to your list. I feel honored to be listed with the community leaders called out in your post. h\xe2\x80\xa6'
+927099250554605570,2017-11-05 09:04:20,b'@PJWoodberry @JayTrain_36 @jessleal7 @JoshPherigo @Oddmast @MailOnline They probably drowned a bag of kittens while not paying him'
+925729323583180802,2017-11-01 14:20:44,b'@craigasaunders When and where?'
+924181196271247361,2017-10-28 07:49:02,b'New blog post on changes I made to the MS SSRS ReportingServicesTools module to meet a need I had for subscriptions: https://t.co/ZaShbbuXCG'
+923475441276674048,2017-10-26 09:04:37,"b'RT @jakerobinson: you are a saint, @samjackmartin \xf0\x9f\x99\x8c https://t.co/pyCtoPfc4k'"
+922900272917213185,2017-10-24 18:59:06,b'@SCAutomation @adbertram Airline -ne Airport :)'
+922894445749600256,2017-10-24 18:35:57,"b'@adbertram You know who has automated? Airports! Check in, luggage drop and passport check were all self service. J\xe2\x80\xa6 https://t.co/KddwVCgT4z'"
+922893832752115712,2017-10-24 18:33:30,"b'RT @CassieEdSmith: This is my fave event. Free to attend. Start the festive season with @PrisonersEd, some wonderful speakers...and a glass\xe2\x80\xa6'"
+922506921705385986,2017-10-23 16:56:04,b'@FoxDeploy To be clear she\xe2\x80\x99s using the adapter dongle to modify old style headphones to lightning to plug them in t\xe2\x80\xa6 https://t.co/QNJiZrWGuX'
+922506509426282497,2017-10-23 16:54:25,b'@FoxDeploy My wife plugged her old iPhone headphones with the lightning adapter into the lightning port of our iPad\xe2\x80\xa6 https://t.co/rLPtvHsbl3'
+922497753896443904,2017-10-23 16:19:38,"b'@FoxDeploy The answer is wireless headphones, although I appreciate some people don\xe2\x80\x99t want to go that route.'"
+920014992509980672,2017-10-16 19:54:01,b'RT @ClaudioESSilva: See you at @psconfasia? I will share with you how we can save tons of time by automating your #SSRS admin tasks! 500x i\xe2\x80\xa6'
+918905895857344512,2017-10-13 18:26:52,b'@jsnover @GamerLivingWill The only difference between beer and a DUI is whether you\xe2\x80\x99re driving'
+918891034947571718,2017-10-13 17:27:49,b'@jsnover I hope it gets added via Build-PowerShellVerb | Deploy-PowerShellVerb #Inception'
+918890552418070528,2017-10-13 17:25:54,b'RT @jsnover: Expanding the set of approved PS verbs. https://t.co/oK9yzxwwdh'
+918557890184654848,2017-10-12 19:24:01,b'@FoxDeploy @ericfoferic Is this some sort of ham as a service system?'
+918492631575023617,2017-10-12 15:04:42,b'@alex_sarafian I went with update in the end.'
+918479904404115456,2017-10-12 14:14:08,b'@alex_sarafian Modify specific properties in an object stored as XML on disk.'
+918204757570965506,2017-10-11 20:00:48,b'RT @PaulMilbank: @markwragg I get a touch of get-verb anxiety when I need to name a new function.'
+918204646598029313,2017-10-11 20:00:21,b'@thetommymaynard Thanks! I use this often I just find some of them so similar it can be tricky to chose between them.'
+918077115681136640,2017-10-11 11:33:36,b'@IISResetMe Updates values in an existing xml file on disk. Went with update- in the end.'
+918046802598940672,2017-10-11 09:33:08,b'@KevinMarquette Invoke-SetPowerShellVerb ?'
+918030420024979457,2017-10-11 08:28:02,"b""First World #PowerShell Problems: Having to decide whether to use Edit-, Update-, Write- or Set- as my new Function's Verb."""
+917659147465822208,2017-10-10 07:52:44,b'@adamrushuk @concentrateddon You almost had a Haiku there:\nOn quest for knowledge\nCertain it will never end\nMore I do not know'
+917404174811312128,2017-10-09 14:59:34,"b""@concentrateddon You've gotta blog like there's nobody reading, code like you'll never create bugs."""
+917403331764551682,2017-10-09 14:56:13,b'NoSQL was harmed in the creation of this SELECT statement'
+917380742912663552,2017-10-09 13:26:27,"b""had a weird bug\nwas due to this\nif ($item = '/') { $item = $null }\ni'm off to wear the cone of shame now"""
+915958912200925187,2017-10-05 15:16:37,"b'@parthpsha @jtarquino Oh really, dam that was supposed to be a separate branch as it affected different files from\xe2\x80\xa6 https://t.co/pC8Ganc3d5'"
+915955286497783809,2017-10-05 15:02:12,b'@jtarquino could you please look at my PR for SRSS: https://t.co/6IVUsJGnru as I have more changes to follow and would like to PR separately'
+915651074782048257,2017-10-04 18:53:22,b'RT @TheShellNut: This is basically about :\n- #PowerShell code quality\n- Introducing PSCodeHealth\nhttps://t.co/z7AnGI3Z1X'
+915581242162204672,2017-10-04 14:15:53,"b""@sqldbawithbeard I've pushed this through to a PR now FYI. Also discussed it with @ClaudioESSilva earlier who was f\xe2\x80\xa6 https://t.co/dMzLXzOIkN"""
+915446726420463616,2017-10-04 05:21:22,b'RT @MikeShepard70: Missing the point with #PowerShell error handling:\nhttps://t.co/X6mz8YDRsX'
+915277077624053760,2017-10-03 18:07:14,b'@sqldbawithbeard Thanks!'
+915272861446701057,2017-10-03 17:50:29,b'@sqldbawithbeard Not sure if there might be smarter ways to do some of this though. Would love to PR this in to the\xe2\x80\xa6 https://t.co/0MW2dE1K7C'
+915272716340666368,2017-10-03 17:49:55,b'@sqldbawithbeard I also added a New-RsSubscription function for creating from scratch and a helper function to gene\xe2\x80\xa6 https://t.co/QZRvF9XH4p'
+915272615622856710,2017-10-03 17:49:31,b'@sqldbawithbeard My main requirement was to save Subscriptions to disk (source control) and import later. Something\xe2\x80\xa6 https://t.co/yaVCnKUziR'
+915272419291668481,2017-10-03 17:48:44,b'.@sqldbawithbeard Have written some additional functions for handling SRSS subcriptions. Could please take a look? https://t.co/uenIxaNgf8'
+915192638269280262,2017-10-03 12:31:43,b'@OrionsFlame @StackOverflow Lol thanks! https://t.co/6BicaNgtlV'
+915185444454830080,2017-10-03 12:03:07,"b""First World @StackOverflow Problems: Found a really helpful answer via Google, couldn't upvote as it was an answer I wrote 6 months ago"""
+914913075492507648,2017-10-02 18:00:50,b'@mjolinor @shanselman Been trying to think of an analogy like \xe2\x80\x9cwhat if everyone in the country had access to..\xe2\x80\x9d but\xe2\x80\xa6 https://t.co/TuZXMJcMic'
+914889525868015616,2017-10-02 16:27:15,"b'@kaimarkaru They both want operational excellence, but one tends to encourage process centric bureaucracy the other\xe2\x80\xa6 https://t.co/luoUxf9LFO'"
+913114283906658304,2017-09-27 18:53:04,b'@mrcoups @puppetize Replace repetition with devops and recollection with ITIL and it still makes sense'
+913113866351054848,2017-09-27 18:51:25,"b'@mrcoups Thanks, it was a play on this quote which I saw in part in some excellent virtual lab training from\xe2\x80\xa6 https://t.co/iMQldRJcpx'"
+913038511837712385,2017-09-27 13:51:59,"b'DevOps and ITIL are the same movement, except in opposite directions.'"
+912300737857716226,2017-09-25 13:00:20,b'RT @IISResetMe: New blog post about accessible client-side LDAP result caching in #powershell and the wonder of hashtables https://t.co/6R9\xe2\x80\xa6'
+912299261496369152,2017-09-25 12:54:28,"b'Now, here you see, it takes all the running you can do, to keep in the same place.'"
+909399658740535296,2017-09-17 12:52:29,b'@sqldbawithbeard In case the plane suddenly descends in to a sinkhole'
+909104508659277824,2017-09-16 17:19:39,b'RT @martin_jib: Scaling Azure Functions with Durable Functions https://t.co/XxA3HEzFSp via @BuildAzure'
+908758115914539010,2017-09-15 18:23:13,"b""RT @aChrisSmith: Dear Twitter, I'll be honest I'm not feeling so great. Lots of sad things in life now. I would appreciate your best bad jo\xe2\x80\xa6"""
+908758063418667008,2017-09-15 18:23:00,b'@aChrisSmith Why did the scarecrow win an award? Because he was out standing in his field.'
+908321942582775815,2017-09-14 13:30:01,b'RT @IISResetMe: @markwragg I made this abomination to satiate your curiosity https://t.co/zoUBR95TB0'
+908321914996891649,2017-09-14 13:29:54,"b""@IISResetMe I just realized you got this working (wasn't at a PC when I saw your tweet originally), that's both brilliant and horrifying :D."""
+908050346693537792,2017-09-13 19:30:48,b'RT @PSPester: For 4.0.7 we have release notes https://t.co/Di6PJpYUMY (also linked from manifest!) and short migration guide https://t.co/h\xe2\x80\xa6'
+908046749465497601,2017-09-13 19:16:30,"b'RT @concentrateddon: Anyone using #PowerShell with #VSTS? If so, could you read/respond to this post? https://t.co/Y6JS0lDldw'"
+907836748075556864,2017-09-13 05:22:02,b'RT @PSPester: Pester 4.0.7 is coming to psgallery choco and nugget in roughly 12 hours. Here is a simple migration guide https://t.co/heSHx\xe2\x80\xa6'
+906919422107045888,2017-09-10 16:36:54,"b'RT @PSPester: Our upcoming release will have minor breaking changes, please get ready. :) And sorry for any inconvenience. https://t.co/V6Y\xe2\x80\xa6'"
+906474162839019525,2017-09-09 11:07:36,"b'RT @Lee_Holmes: Wow! A PowerShell-based wargame to teach you PowerShell, Windows management, and a bit of incident response? Yes! https://t\xe2\x80\xa6'"
+903681564747472896,2017-09-01 18:10:49,b'RT @concentrateddon: Your help spreading the word much appreciated: https://t.co/A9tMhmZ9T3'
+903565227102494720,2017-09-01 10:28:32,"b""If you have encoding problems I feel bad for you son, I got 99 problems but a \xf0\xb9\xb0\x82 ain't one"""
+902967125907824641,2017-08-30 18:51:53,"b'@FoxDeploy I usually get ""I don\'t usually do this, but the company is.."" yeah I\'m sure I\'m the first to feel this special.'"
+902255832104128512,2017-08-28 19:45:28,b'@StevenMurawski @NerdPyle @RunAsRadio The 21st century is weird.'
+902255701866815488,2017-08-28 19:44:57,"b""@StevenMurawski @NerdPyle @RunAsRadio talked a while back about how your work machine used to be the best you'd hav\xe2\x80\xa6 https://t.co/VpD0JBeJdr"""
+902255080216387584,2017-08-28 19:42:28,"b'@apellbob @JeffHicks @MichaelBender @ScriptingGuys There\'s at least a post a day on StackOverflow saying ""I have an\xe2\x80\xa6 https://t.co/mGeMF91kIi'"
+902254567324352513,2017-08-28 19:40:26,b'@MichaelBender Learn PowerShell before you Get-Replaced by someone who has'
+902223761440727042,2017-08-28 17:38:01,"b""RT @jsnover: Prediction: Companies that think this way will beat companies that don't. https://t.co/sLqpPrklHr"""
+901816814816153600,2017-08-27 14:40:58,b'This mirrors my experience of ITIL and my hopes for DevOps https://t.co/zJMwV2s0qc'
+901814114925899776,2017-08-27 14:30:14,b'@PSPester @LogicalDiagram I agree and can see the issue with it conflicting with an existing powershell operator. I\xe2\x80\xa6 https://t.co/jSdZHE7056'
+901812413577777152,2017-08-27 14:23:28,b'@LogicalDiagram @PSPester So many people get confused by the contains operator I say we just deprecate it from the english language.'
+901812232627126273,2017-08-27 14:22:45,"b""@PSPester If/when it's removed will Pester throw an informative error when it's used explaining its deprecated and how to correct?"""
+901124824235479042,2017-08-25 16:51:14,b'@PSPester @joshduffney Yaaaaay... :p'
+901117831185657856,2017-08-25 16:23:27,b'@PSPester @joshduffney Is Should -Be an optional alternative to Should Be or a change in how Pester works going for\xe2\x80\xa6 https://t.co/NPyZy0tiqg'
+901046820612296704,2017-08-25 11:41:17,b'The no. of customers travelling is at its lowest in August so expect:\r- Severe disruption\r- Extremely busy trains\r- Queues at many stations'
+900740968810512384,2017-08-24 15:25:56,"b""BMC Remedy is so bad it should be forced to take the black and live out the rest of it's days guarding the wall."""
+900029627317538816,2017-08-22 16:19:19,b'\xe2\x80\x9cEveryone is not Ops\xe2\x80\x9d by @copyconstruct https://t.co/aDDKTPv0xn'
+897750328673808385,2017-08-16 09:22:12,b'RT @jsnover: Automatically generate PowerShell cmdlets from REST apps?\nYup (with a little help from Swagger)\nhttps://t.co/TTRmGETirt'
+896824964631932928,2017-08-13 20:05:08,b'@jsnover you can replace public speaking with open source and otherwise all still true https://t.co/4FAuXG96Je'
+895404509303799809,2017-08-09 22:00:45,b'@devblackops SharePoint is dark and full of terrors.'
+895324605459464192,2017-08-09 16:43:14,b'RT @migreene: The baselineManagement module converts GPO backups to #PSDSC configuration scripts.  Really! \nhttps://t.co/nvk0u9WPZr'
+895004603791675392,2017-08-08 19:31:40,b'RT @jeffsand: We just released a PowerShell Module Browser. An easy way to search all Microsoft PowerShell modules and cmdlets. https://t.c\xe2\x80\xa6'
+894654186293530626,2017-08-07 20:19:14,"b""RT @PowerShell_Team: Oh? What's this? Our DOCUMENTATION is evolving! PowerShell is now on @docsmsft! https://t.co/rQdNnp8yRE"""
+893555971452162048,2017-08-04 19:35:19,b'RT @shanselman: RT if you have a stack of these and not a damn thing to do with them https://t.co/VsZvupjRmW'
+893171948641034240,2017-08-03 18:09:21,"b'@cl Ask him to rephrase it as an ""As a cat I want ... so that I can ..."" user story'"
+891664269573541888,2017-07-30 14:18:22,"b""ITIL is like religion, it's fundamentally good and well intentioned but terrible things are done in its name."""
+891649654420639744,2017-07-30 13:20:18,b'@FoxDeploy Please let me know how it goes!'
+890211388731400193,2017-07-26 14:05:09,"b'@rawdeal101 Thanks mate, saw this as I came out but fortunately I passed anyway ;)'"
+890128484953186304,2017-07-26 08:35:43,b'Attempting the #AWS Sol Architect Associate exam later today. My brain keeps flailing from quietly confident to you know nothing Jon Snow.'
+889913635379847168,2017-07-25 18:21:59,b'I would love to see numbers on how often people say thank you to Siri/Google/Cortana/Alexa'
+887054977205764097,2017-07-17 21:02:41,b'@autojumbled I discovered recently on the iPhone that if you encrypt your backup it restores the MFA tokens to a ne\xe2\x80\xa6 https://t.co/IjmwDeAo58'
+886311856440320000,2017-07-15 19:49:48,"b'I think a good interview question for a tech role would be: ""How many two factor authentication codes do you have?""'"
+886107007043997697,2017-07-15 06:15:48,"b'@jsnover 0% hashtags, woo I must be the messiah!'"
+885736832281042944,2017-07-14 05:44:51,b'RT @GoateePFE: New Post - Slow Code: Top 5 Ways to Make Your #PowerShell Scripts Run Faster https://t.co/banwBiuxng #mspfe'
+884853261722939393,2017-07-11 19:13:52,b'@fdibot This option should at least be disabled by default in the Pro edition'
+884852801309990912,2017-07-11 19:12:02,b'@Steve_MSFT What no wizard based install process? :p'
+883945584373190656,2017-07-09 07:07:04,b'@FoxDeploy Sign me up!'
+883765415272468482,2017-07-08 19:11:09,b'@KevinMarquette @Microsoft @XboxOne Maybe you need to get a parent or guardian to change it for you :p'
+883407562921607168,2017-07-07 19:29:10,b'@HW2CL @HeliganGardens When we went down there we thought Helligan was much better than the Eden Project (but was still interesting)'
+883341976162246656,2017-07-07 15:08:33,b'@GlennSarti @devblackops Ugh check out this guy doing on premise washing instead of pushing it to the cloud'
+883032461285961729,2017-07-06 18:38:39,b'@FoxDeploy 3000 words is 6 blog posts :p'
+882327826799767557,2017-07-04 19:58:41,"b'RT @jsnover: Me in a meeting until someone mentions ""PowerShell"" https://t.co/Sfs3MVLU9o'"
+882327695446749184,2017-07-04 19:58:10,b'@CPoweredLion So many reasons to be proud. Sounds like they are going to make great life choices :)'
+880872061358538752,2017-06-30 19:33:59,"b""@FoxDeploy I can't help but take this literally"""
+879032366819422210,2017-06-25 17:43:42,"b'RT @jsnover: When an executive decides that they are in a race, they allocate whatever resources are required to win.\nhttps://t.co/lWuMXm1x\xe2\x80\xa6'"
+878705069511901184,2017-06-24 20:03:08,"b""@migreene @adbertram Here's the basic framework you need to write your own: https://t.co/VHdOOaGnRz"""
+878704484582658052,2017-06-24 20:00:49,"b""RT @jsnover: Does your project need more resources?\nThis is how exec's think about allocating resources to projects\nhttps://t.co/mmvkaAalDq"""
+878372283756068864,2017-06-23 22:00:46,"b""@concentrateddon @theJasonHelmick @manning @JeffHicks If you don't mind me asking, how will it differ from the Toolmaking book?"""
+878329164297715713,2017-06-23 19:09:25,"b'RT @planetpshell: ""TILFMOL #4 - PowerShell Jobs"" https://t.co/M8JvVDNrtG #PowerShell'"
+877222716654440449,2017-06-20 17:52:48,"b'RT @concentrateddon: So Long, and Congratulations, Mark Minasi\xc2\xa0(@mminasi) https://t.co/62yzlJt0O0'"
+876938002349477888,2017-06-19 23:01:27,"b'I finally wrote the last part of my series based on #PowerShell in a month of lunches, Things I learnt about Jobs: https://t.co/KcvCJkbWB4.'"
+876395690708135936,2017-06-18 11:06:29,"b""@IISResetMe @Stranger_Things @netflix 'Tis better to have had Stranger Things and finished Stranger Things than nev\xe2\x80\xa6 https://t.co/RVseXSjeyn"""
+874624566836047873,2017-06-13 13:48:41,"b""RT @FoxDeploy: My daughter pointed at a seashell on the beach 'daddy, look at all of the PowerShells.' \n\nOK maybe I talk about PowerShell t\xe2\x80\xa6"""
+874387111490748417,2017-06-12 22:05:07,"b""@adbertram Well I'm convinced, I was pretty hit and miss to begin with but often used it just to be explicit. Had n\xe2\x80\xa6 https://t.co/5hk00eafyG"""
+872500972932792320,2017-06-07 17:10:16,"b""@StevenMurawski TFW you leave a job and they don't bother replacing you \xf0\x9f\x98\xb3"""
+871827080731910145,2017-06-05 20:32:28,b'@samjackmartin Quite the pick up line!'
+871826795728916482,2017-06-05 20:31:20,b'@mattifestation @kennyvhh How do I block people who ask how to block PowerShell?'
+871707768012644353,2017-06-05 12:38:22,b'@OrionsFlame Objects are easily manipulated with PowerShell'
+871705796907864065,2017-06-05 12:30:32,b'@DonovanBrown @jsnover @StevenMurawski  https://t.co/GmWF7m2I6w'
+870358313199960064,2017-06-01 19:16:06,"b""@samjackmartin @awscloud I'm quite impressed with the ongoing UI overhaul in general, I think it's making a lot of things clearer."""
+868839238787358722,2017-05-28 14:39:51,"b'RT @KevinMarquette: Building a #Powershell Module, one microstep at a time. Understand why we build modules the way we do. https://t.co/9SY\xe2\x80\xa6'"
+867464942240321536,2017-05-24 19:38:53,"b'RT @brianbunke: My solution for making #Jekyll and #Win10 play nice. If you have a #GitHubPages blog, local previews help...a lot. https://\xe2\x80\xa6'"
+864546523320811520,2017-05-16 18:22:08,"b""@IISResetMe That's really cool."""
+864046504230752256,2017-05-15 09:15:14,"b""@CodeV4Veronica If youre searching for a Medium, don't recommend Uri Gellar"""
+863531774613364737,2017-05-13 23:09:53,"b'@KevinMarquette As is ""help"" I believe :)'"
+863077796779831296,2017-05-12 17:05:56,"b""@troyhunt NHS in England hit by 'cyber-attack' - BBC News\nhttps://t.co/6T4c7fD7tI"""
+863009241875066880,2017-05-12 12:33:31,"b""@sqlslack @ssisjoost in case it's of interest and you weren't already aware."""
+863002387929280519,2017-05-12 12:06:17,"b'RT @PicardTips: Picard management tip: Know your audience. Display strength to Klingons, logic to Vulcans, and opportunity to Ferengi.'"
+862433562175385604,2017-05-10 22:25:59,b'@dfinke Did something similar a little while ago https://t.co/pVmXt2ntGG'
+862433510199525376,2017-05-10 22:25:46,"b'RT @dfinke: blogged: ""Use Serverless #PowerShell to Extend Slack"" #AzureFunctions FTW! https://t.co/UXy8RJZlF4'"
+862419687765835778,2017-05-10 21:30:51,"b'@troyhunt While playing this video my Echo told me the time you asked for, scared the shit out of me'"
+862376935908933632,2017-05-10 18:40:58,"b""@adbertram Oh dammit, I'm not. Brackets right, word wrong.."""
+862376623852720128,2017-05-10 18:39:43,"b'@adbertram [Pscmdletbinding()], I struggle to remember which brackets go where. Am I right this time?'"
+862376192015577089,2017-05-10 18:38:01,"b'RT @brianbunke: GitHub Issues. Become an official ""open source software contributor"" just by submitting a helpdesk ticket!\nhttps://t.co/93T\xe2\x80\xa6'"
+862375541403463684,2017-05-10 18:35:25,b'@brianbunke Thanks for the ack :)'
+862375458729590787,2017-05-10 18:35:06,"b""RT @brianbunke: Day 2: Let's learn how to talk the talk by demystifying all these silly Git terms. https://t.co/Fan3T5KIeR"""
+862023733220868096,2017-05-09 19:17:28,"b'RT @pprakash: #Amazon #CloudFront adds new Edge Locations in Tokyo, Japan and Dallas/Fort Worth, Texas making it 76 POPs\n\nhttps://t.co/gCMZ\xe2\x80\xa6'"
+861658145462132738,2017-05-08 19:04:45,b'RT @brianbunke: Learn how to GitHub! A week of posts on how you can start contributing to the #PowerShell OSS ecosystem. Today: Why? https:\xe2\x80\xa6'
+861205596460240897,2017-05-07 13:06:29,b'When someone from Switzerland corrects your English on @StackOverflow https://t.co/5dw74VQXNz'
+860777736184492032,2017-05-06 08:46:19,b'RT @ThePracticalDev: Building todometer: a meter-based to-do list\n{ author: @cassidoo }\nhttps://t.co/J1IqkjPlk5'
+860591012053479428,2017-05-05 20:24:20,b'@troyhunt Sucks to be you'
+860589067662241795,2017-05-05 20:16:37,"b'Good book, can confirm: https://t.co/YLNdPqdDcz https://t.co/b7mEKZsZEl'"
+860579543043670024,2017-05-05 19:38:46,b'@StevenMurawski @ryanyates1990 I did the StackOverflow developer survey and as a powershell script writer I felt li\xe2\x80\xa6 https://t.co/hUfagwYOUh'
+860369486804865024,2017-05-05 05:44:05,b'RT @jsnover: Hilarious! https://t.co/lQ5uKjHIoj'
+859494959824744448,2017-05-02 19:49:01,b'@brianbunke Yeah as a newbie it was confusing to have pull request and pull the repo be kind of the opposite of each other'
+859487200832098304,2017-05-02 19:18:11,b'RT @BellLabs: BASIC computer language is 53 years old today. Retweet if BASIC was your first computer language? #ThisDayinSTEM https://t.co\xe2\x80\xa6'
+859484649764081669,2017-05-02 19:08:03,b'@brianbunke And of course you have to make sure you include this https://t.co/DRjT3E80R1'
+859484223450828801,2017-05-02 19:06:21,b'@brianbunke The two different uses of pull always confused me. That and make sure they star all my repos obvs https://t.co/DB3UbwT1PH'
+858966147177340928,2017-05-01 08:47:42,b'RT @PRJSeal: Just finished writing the first draft of my hangman bot tutorial to build a bot like this https://t.co/AP6ya399IA #node #nodej\xe2\x80\xa6'
+858944335009677312,2017-05-01 07:21:02,"b'RT @KevinMarquette: #Powershell: Advanced Gherkin Features in Pester 4.0, the missing documentation  https://t.co/Z2hxR1gbBg'"
+858283886828277760,2017-04-29 11:36:39,b'@dfinke Get-Service https://t.co/kaV3Wqbu5z'
+858283786441773056,2017-04-29 11:36:15,b'@migreene Get-Service https://t.co/t996j7HaKm'
+857652732496404481,2017-04-27 17:48:40,"b'RT @adbertram: We can now create presentation pipelines. \xf0\x9f\x98\x9dMarkdown Presentations For Developers on GitHub, GitLab and Bitbucket https://t.c\xe2\x80\xa6'"
+857544120906199041,2017-04-27 10:37:05,"b""@alex_sarafian @PSPester Isn't that what Mocking is for? Your use case feels weirdly similar to this: https://t.co/jDfYQDpTPr"""
+857543572027047936,2017-04-27 10:34:54,b'RT @nixcraft: Http status code cheat sheet for sysadmin and developers \xf0\x9f\x98\x82\xf0\x9f\x91\x8d https://t.co/kCeJaFQdZI'
+857470923053690880,2017-04-27 05:46:13,"b""@mcnabbmh @PlayStation You'd think this would be Xbox right?!"""
+857302635384274944,2017-04-26 18:37:30,b'@shanselman I wish I still had some of the text based adventure games I wrote in QBasic when I was 13 or so'
+857301734695325699,2017-04-26 18:33:56,b'@moebius_strip Lol 100% say fill your boots'
+857161287167553536,2017-04-26 09:15:50,b'How to use a cmdlet that you are also Mocking with @PSPester and #PowerShell https://t.co/1Weonxq6dh'
+857106882665877504,2017-04-26 05:39:39,b'RT @KevinMarquette: Here is a new blog to add to your list by David Christian. https://t.co/s0bmUdjd5S Working with Plaster  https://t.co/c\xe2\x80\xa6'
+856957511840256000,2017-04-25 19:46:06,b'@jsnover @PowerShell_Team Will you pay for my flights? \xf0\x9f\x99\x8f'
+856957234160521220,2017-04-25 19:45:00,b'RT @sarahjeong: Maybe the hardest problem in security is getting people to stop clicking on bad URLs https://t.co/2hV1wWxTuW'
+856878564154724353,2017-04-25 14:32:24,b'.@FoxDeploy you worked too hard on this one too :P https://t.co/c43qk0Fy1v'
+855833903264935941,2017-04-22 17:21:17,b'@KevinMarquette @adbertram I get it. Like how it takes Trump to make you appreciate Obama.'
+855831614475128832,2017-04-22 17:12:12,b'@adbertram @KevinMarquette Thanks. Per my other reply I personally find write-verbose and write-debug more useful than breakpoints.'
+855831173418942464,2017-04-22 17:10:26,b'@KevinMarquette @adbertram Makes sense. Tbh adding verbose messages always made more sense to me. I like also that\xe2\x80\xa6 https://t.co/BcuP0YptTx'
+855827670344577025,2017-04-22 16:56:31,"b""@KevinMarquette @adbertram What do you guys specifically mean? I obviously debug when it's not working but you seem\xe2\x80\xa6 https://t.co/bBp4zamBNe"""
+855083103710216192,2017-04-20 15:37:53,b'RT @psCookieMonster: @daviwil @adbertram @markwragg @texmandie Some discussion on OS / PSEdition compatibility analysis here as well https:\xe2\x80\xa6'
+855059670557499392,2017-04-20 14:04:46,"b""@daviwil @adbertram @texmandie It was @psCookieMonster's pipeline that did PowerShell downversion testing: https://t.co/hnI02IvBi4"""
+855058447670423556,2017-04-20 13:59:54,b'@daviwil @adbertram @texmandie In a similar vein I did see a CI via Appveyor that ran powershell downversioned as part of the Pester tests'
+855058267529252865,2017-04-20 13:59:11,"b""@daviwil @adbertram @texmandie I guess the obvious thing would be cmdlets that aren't available, such as convertto-\xe2\x80\xa6 https://t.co/uNg8DvEwvn"""
+855057075965186049,2017-04-20 13:54:27,b'RT @TXJennieK: Man. I wish someone taught me version control. Had to learn that as an intern. https://t.co/mrGpT1bJVR @0xmchow doing all co\xe2\x80\xa6'
+855033581365862400,2017-04-20 12:21:06,"b'@SinghPrateik @sstranger @_feedspot I like it, my blog isn\'t rubbish, isn\'t ""exclusive""'"
+855033005282394119,2017-04-20 12:18:48,b'@SinghPrateik @_feedspot Can I be #52 after @sstranger'
+855027670014414849,2017-04-20 11:57:36,b'.@jsnover I just earnt my Bronze PowerShell badge on @StackOverflow. Does this qualify me entry into an exclusive lounge or other benefits?'
+854810360712450052,2017-04-19 21:34:06,"b'RT @jsnover: If you are skipping DevOps, you will become the next generation of ""Cobol"" programmers:\nValuable but to an ever shirking group\xe2\x80\xa6'"
+854678835887042560,2017-04-19 12:51:28,b'RT @CarolineLucas: Just urged the Prime Ministers to give 16/17 year olds a vote on June 8th. @AngusRobertson agreed. RT if you do too. htt\xe2\x80\xa6'
+854410846600138753,2017-04-18 19:06:34,"b""@brianbunke @appveyor I also just use the appveyor build job number as the version number, as I think it's nice to\xe2\x80\xa6 https://t.co/q4o0uhlwNf"""
+854410482018635777,2017-04-18 19:05:07,"b""@brianbunke @appveyor Very similar to my process, except I don't commit back to Git because only the module manifes\xe2\x80\xa6 https://t.co/TO7xVEyW9F"""
+854033129400619009,2017-04-17 18:05:39,b'@IISResetMe Not sure if this helps more than defining an array but I think you can query $PSCmdlet.MyInvocation.Bou\xe2\x80\xa6 https://t.co/e17700pBYk'
+853377535006179328,2017-04-15 22:40:33,b'RT @_brycemcdonald: Added a post yesterday on #Pester with #Powershell - feel free to give it a read here: https://t.co/S4J6hxOKYe'
+853327580484837378,2017-04-15 19:22:03,"b'@mick_pletcher Not another, the original!'"
+853127496421842944,2017-04-15 06:07:00,"b""@The_Chirishman @psCookieMonster @SlackHQ I think it's maybe less about the API being legacy and more about the aut\xe2\x80\xa6 https://t.co/Hva1TLXV4P"""
+853126283290697730,2017-04-15 06:02:10,"b""@The_Chirishman @psCookieMonster @SlackHQ The docs are a bit confusing on the topic I agree, but I don't think legacy = deprecated."""
+853016886753275907,2017-04-14 22:47:28,"b""@The_Chirishman @psCookieMonster Are you sure about that? I've not seen any mention of the web API being deprecated\xe2\x80\xa6 https://t.co/e825VdFHUJ"""
+853007605731667969,2017-04-14 22:10:35,b'@The_Chirishman https://t.co/P0B6bivwqZ https://t.co/XQp3D66Zoe'
+853005808552075268,2017-04-14 22:03:27,"b""@The_Chirishman You can't, you have to fall back to the web api. Have a look at the PSSlack module from\xe2\x80\xa6 https://t.co/UGkSQ5NMgu"""
+852051637040545792,2017-04-12 06:51:55,b'Jeffrey Snover #PowerShell #PSHSummit AMA: https://t.co/yyDCz8fB5U thanks for writing it up @brianbunke and for the answers @jsnover'
+851809956428992513,2017-04-11 14:51:34,"b'RT @FoxDeploy: What would be the Django equivalent for a MS / PowerShell stack, coz Django looks very cool'"
+851460381671378944,2017-04-10 15:42:29,b'RT @samjackmartin: Create your own #PowerShell Repository with @sonatype Nexus 3 https://t.co/v5qreKpQdl'
+850751711887200257,2017-04-08 16:46:28,b'RT @Sh1bumi: Backups.. https://t.co/x8r8GfA34j'
+849006995978022912,2017-04-03 21:13:36,b'@troyhunt @plex @MySafeVPNcom I assumed they got their mailing list from the Plex security leak a while back. That happened right?'
+848424655467810816,2017-04-02 06:39:35,"b'@CodeV4Veronica Anger, fear, aggression. The dark side are they. Once you start down the dark path, forever will it dominate your destiny.'"
+847547355134124034,2017-03-30 20:33:30,"b'@FoxDeploy Great write up, hope it got you your Switch :)'"
+847542362071068673,2017-03-30 20:13:40,"b'@troyhunt @Florent_ATo Attacking @troyhunt seems a bit brave, he probably owns all your PI data 10 times over :p'"
+847541463206563840,2017-03-30 20:10:06,b'@CodeV4Veronica  https://t.co/Rxm3EdEh2U'
+847540564849504257,2017-03-30 20:06:31,"b'@Lee_Holmes Long story short, stop using Edge :p'"
+847540522860384256,2017-03-30 20:06:21,"b""@Lee_Holmes I don't see them on Safari on my phone, even when requesting the desktop site."""
+847540391058583552,2017-03-30 20:05:50,"b'@Lee_Holmes Which makes me wonder, is edge inserting ads or is google sabotaging edge?'"
+847540305796759552,2017-03-30 20:05:30,b'@Lee_Holmes Weirdly I see them with Edge but not with chrome (no ad blockers running on either)'
+847539613380083713,2017-03-30 20:02:45,"b""@Lee_Holmes This doesn't seem to be case for me, is it possible you have some spyware injecting ads in to your search results?"""
+846090621525938177,2017-03-26 20:04:58,"b""RT @dmcclelland1138: Not sure if @concentrateddon ever tweeted this, but it's pure gold from his blog. https://t.co/FNkZ2mGvIa"""
+845351363597025281,2017-03-24 19:07:25,b'@Dawn_French looking great tonight!'
+845021382454988801,2017-03-23 21:16:11,"b'@PSPester I love how accessible the powershell community is, thank you!'"
+845009243568779265,2017-03-23 20:27:57,b'.@PSPester Where to put Pester Variables? https://t.co/8BRpm3ekxO'
+844675974818140160,2017-03-22 22:23:40,"b""RT @MrBrendanCox: The person who did this wants us to be fearful and divided- let's show them that we are neither #DefeatTerrorTogether htt\xe2\x80\xa6"""
+844352887094415360,2017-03-22 00:59:50,b'@samjackmartin check for other evidence that you might be in an evil mirror universe. E.g. Do people you know suddenly have goatees?'
+843555789918887936,2017-03-19 20:12:27,b'RT @lzybkr: PowerShell moved into the top 20. https://t.co/G8OhoDP0hy'
+843110237079064576,2017-03-18 14:41:59,b'RT @samjackmartin: Yay! New release of https://t.co/wOBT6YFyoo addnig running-total comments to the OFX and @appveyor builds!'
+842725516209770496,2017-03-17 13:13:14,"b'RT @planetpshell: ""TILFMOL #3 - PowerShell Remoting"" https://t.co/GeB7x6jT5c #PowerShell'"
+840565316216336388,2017-03-11 14:09:22,b'@CodeV4Veronica for example..? :p'
+840289835197878273,2017-03-10 19:54:43,b'@samjackmartin @awscloud have you tried turning AWS off and on again?'
+840095797211422720,2017-03-10 07:03:40,b'@mick_pletcher was sure this was going to be a link to a picture of a pen'
+839108879308972033,2017-03-07 13:42:01,"b'.@4c74356b41 ""well, the IP HAS CHANGED. what do you expect???"" \xf0\x9f\x98\x82, you seem to be finding all of @StackOverflow\'s finest today :)'"
+838302195456040960,2017-03-05 08:16:32,b'RT @ThePracticalDev: How Not to Screw Up Your DevOps Interview\n{ author: @georgeoffley }\nhttps://t.co/YNBEeOsmwQ'
+837929297134436352,2017-03-04 07:34:47,"b""@manelrodero @concentrateddon @JeffHicks you're welcome \xf0\x9f\x98\x89"""
+837454045413519364,2017-03-03 00:06:18,b'RT @goretsky: Summary of the Amazon S3 Service Disruption in the Northern Virginia (US-EAST-1) Region https://t.co/E42uR2stfh via @awscloud'
+836859314455384066,2017-03-01 08:43:03,b'@samjackmartin @hunal0 did they get the job Sam?'
+834028650152488960,2017-02-21 13:15:00,"b'RT @codinghorror: There are two hard things in computer science: cache invalidation, naming things, and off-by-one errors.'"
+832591255297220609,2017-02-17 14:03:18,b'@Nick_Craver @StackStatus I briefly saw an exception on the profile page but it seems to be loading ok now.'
+832328861891309569,2017-02-16 20:40:39,"b'@scottiperri @timminchin @Groundhogdaybwy you should retweet this once a day, every day'"
+832326490738016256,2017-02-16 20:31:13,"b'@mcnabbmh @KevinMarquette but that suggests they are executable, where as JSON does not.'"
+830694164694188032,2017-02-12 08:24:57,b'@KevinMarquette @devblackops ..which is more full featured where is mine is more of a demo of the basic concept for people to build on.'
+830693870065352704,2017-02-12 08:23:46,"b""@KevinMarquette you're welcome :) previously I couldn't find a #powershell one but now there's also https://t.co/DyZwCyAASX by @devblackops"""
+829720781093486592,2017-02-09 15:57:04,b'@JanEgilRing looks good!'
+829403535418736642,2017-02-08 18:56:27,b'@JanEgilRing I think your burger button might be broken on IOS. The links work in landscape tho.'
+829399587651776512,2017-02-08 18:40:45,b'RT @GoateePFE: #PowerShell tip: $IsGUIServer = (Get-WindowsFeature -Name Server-Gui-Shell).Installed'
+828902037123379200,2017-02-07 09:43:40,b'RT @reddit_DevOps: DevOps Stack Exchange proposal moved to commitment phase https://t.co/HPnMyAxI4u #DevOps #reddit https://t.co/mIdrSAVhnF'
+828363463885996032,2017-02-05 22:03:34,b'@astroneergame https://t.co/FYkVi61Tpy'
+825992246717718530,2017-01-30 09:01:12,"b""@kventil you're just sore because you got eaten by a grue :P"""
+825422737170653186,2017-01-28 19:18:10,b'RT @UniversalORL: A touching moment at #HPCelebration to remember actor John Hurt. https://t.co/aKORuau81q'
+825059156344315904,2017-01-27 19:13:26,b'@r_prust congratulations! Beware new-borns support -whatif but not -confirm however most of the time you can just pipe them to grandparents.'
+824313315967041542,2017-01-25 17:49:44,b'@ITAdder @adbertram @CodeV4Veronica I would also like to offer to help and am in your time zone I think.'
+824278355696553984,2017-01-25 15:30:49,"b""@rawdeal101 @PSHOrg it's baked in to Windows! Doesn't get more mainstream than that :)"""
+823823527799357440,2017-01-24 09:23:29,b'Do you remember when using Windows was like going on a D&amp;D adventure? https://t.co/TPDxDExtMp'
+823249873684275200,2017-01-22 19:23:59,"b""@scottiperri if you don't follow this account, you should :) https://t.co/BHO4eaSmMD"""
+822768131236044800,2017-01-21 11:29:43,"b""RT @PSPester: In v4RC Should Be consumes whole arrays and compares them, 1,2,3|Should Be 3 won't pass anymore. https://t.co/PuClaA8Yjq"""
+822516113368109056,2017-01-20 18:48:17,"b'RT @thetommymaynard: Stop Looking Forward, My Thoughts (on a Don Jones post) https://t.co/vX7uj13jG2 #PowerShell'"
+822440886545960960,2017-01-20 13:49:22,b'@appveyor currently has a minor bug with displaying @PSPester test results. See here for issue and workaround: https://t.co/AI0aTnrwpw'
+822157297627648001,2017-01-19 19:02:29,b'@kelseyhightower @b6n it will probably go serverless &gt; keyboardless &gt; jobless &gt; worshipping our robot overlords'
+822114624212467713,2017-01-19 16:12:55,b'RT @PSPester: Pester v4 RC is available for download from PowerShell gallery. Please run it and report back! More info: https://t.co/PuClaA\xe2\x80\xa6'
+821814594956103681,2017-01-18 20:20:42,b'@adbertram you forgot the @'
+821811911864053760,2017-01-18 20:10:02,"b'A blog post of #Powershell, Parameter Sets and @xkcd (but not romance, sarcasm or math) https://t.co/B9un5mUgZl'"
+821668237318488064,2017-01-18 10:39:08,b'RT @railroadmanuk: My colleague this week after his first #PowerShell experience https://t.co/oORwZYRcSO'
+821668029134213120,2017-01-18 10:38:18,b'@railroadmanuk weirdly I wrote this yesterday https://t.co/9bc33R5asI'
+821005275285061632,2017-01-16 14:44:45,"b""RT @MooseAllain: Pretend you\xe2\x80\x99re a character in a thriller by choosing a password that's easy to guess on the third attempt."""
+820935484339875842,2017-01-16 10:07:26,b'RT @SBSimonsen: @KevinMarquette #Powershell: Everything you wanted to know about variable substitution in strings https://t.co/iU9YVS7ikd'
+820175983529590784,2017-01-14 07:49:27,b'RT @PSHOrg: DevOps:  A Career Changer https://t.co/Jr3rhlcfyk'
+819942750086987776,2017-01-13 16:22:40,b'RT @PSPester: Pester 3.4.6 is out! The version 3.4.5 is broken so skip it. The summary now has commas in it. cc @r_keith_hill @LogicalDiagr\xe2\x80\xa6'
+819942625532923905,2017-01-13 16:22:10,b'RT @githubstatus: We are currently experiencing major service outages.'
+819661628891394049,2017-01-12 21:45:35,"b""@PSPester it will probably upset someone, but I'd appreciate it, am always reading that line wrong!"""
+819628976163475461,2017-01-12 19:35:50,"b'RT @PSPester: Pester 3.4.5 is out. With the ability to filter output, new BeIn assertion for arrays and other fixes. Thanks to all contribu\xe2\x80\xa6'"
+819529791137312768,2017-01-12 13:01:42,"b""RT @EltonStoneman: Updated my #PowerShell aliases for #Docker - now use `dip &lt;id&gt;` to get a container's IP address. Saves hours. https://t.\xe2\x80\xa6"""
+819230174378160128,2017-01-11 17:11:08,"b""@HareeshJampani thanks, that's really nice to know :)"""
+817753245095489538,2017-01-07 15:22:21,b'@mikefrobbins @MSPSUG A pester test along similar lines: https://t.co/vcF9qOAkE2'
+817427370311294976,2017-01-06 17:47:26,"b""@juneb_get_help if you google powershell try catch i'm the 7th result but despite that it still made me think. Thanks for the fun puzzle :)"""
+817415472387936256,2017-01-06 17:00:10,b'@juneb_get_help because in the catch block $_ contains the exception?'
+817302900561080320,2017-01-06 09:32:50,"b""@troyhunt It's pretty cold here atm. I suggest you arrive in the pouch of a kangaroo."""
+816722582544285697,2017-01-04 19:06:52,"b""RT @WinOpsLDN: The first #WinOps meetup of 2017 will be at @Worldremit offices on Weds 25th Jan! There'll be a talk from @avharms https://t\xe2\x80\xa6"""
+816323059263143936,2017-01-03 16:39:18,b'Anyone interested in a #PowerShell Slack Bot that uses the Real Time Messaging API?: https://t.co/TkgZ3IOJME @SlackHQ #slackbot'
+806846265573175296,2016-12-08 13:01:54,b'.@adbertram I wrote about write-progress a while ago https://t.co/uRg8hntkkO and I made this useless thing: https://t.co/bXqQ91iBm9'
+801324286988394497,2016-11-23 07:19:32,b'No more self-signed cert workarounds in #powershell \xf0\x9f\x98\xae https://t.co/VpWGYbMN3N thanks @jsnover'
+800013630574133253,2016-11-19 16:31:27,b'My first attempt at a #Slack slash-command driven by the new #Azure #Powershell Functions @SlackHQ @Azure https://t.co/pVmXt2ntGG'
+798189958481612800,2016-11-14 15:44:50,"b"".@jsnover happy anniversary! I wonder what Powershell's awkward teenager years are going to be like :) #PowerShell10Year"""
+797349039750647808,2016-11-12 08:03:19,"b""@SqlChow @Xbox you can have it update automatically when it's in sleep mode. Or just play more often :p"""
+797171414608580609,2016-11-11 20:17:30,b'A relatively useless (but fun to write) #Powershell cmdlet for querying a glossary https://t.co/uqsumA88uF'
+793566273133244418,2016-11-01 21:31:57,"b""RT @samjackmartin: I've been running @PSPester tests on my Win @teamcity agents remotely for test-driven infrastructure. https://t.co/5D5Ar\xe2\x80\xa6"""
+790088204795904004,2016-10-23 07:11:21,b'RT @dscottraynsford: Continuously Testing your Infrastructure with #PowerShell #OVF and Microsoft Operations Management Suite #OMS: https:/\xe2\x80\xa6'
+789346624044752900,2016-10-21 06:04:35,b'RT @KevinMarquette: The Pester Pipeline https://t.co/WfHI8X4OLg'
+788820773972668417,2016-10-19 19:15:02,b'Using #PowerShell and @PSPester to operationally validate @Symantec Endpoint Protection https://t.co/vcF9qOAkE2'
+783965295132176384,2016-10-06 09:41:06,b'RT @IrwinStrachan: Add Members to Group \xe2\x80\x93 a different\xc2\xa0approach https://t.co/1ws7v7hJCK'
+781718330767994880,2016-09-30 04:52:28,"b'@pprakash ah sorry, just making a silly racial stereotype joke that is perhaps only common to the UK and US: https://t.co/X7N6pesRNZ'"
+781546800746491904,2016-09-29 17:30:52,b'RT @aChrisSmith: I wrote a blog post about all the cool stuff my team and I have cooking at Google! https://t.co/62zECENqmn #ShamelessSelfP\xe2\x80\xa6'
+781540234609758208,2016-09-29 17:04:46,b'@pprakash I heard that instead of terminating EC2 instances you can order them to surrender'
+781540004476645377,2016-09-29 17:03:52,"b'@michaelhedgpeth I did, but while writing this tweet it turned in to a Starbucks'"
+781225145046339584,2016-09-28 20:12:43,"b""RT @jsnover: The only free ride you'll ever get from Oracle :-) https://t.co/remftxsPGI"""
+779421063335796736,2016-09-23 20:43:57,b'@paesslerAG thanks so much!'
+779420928979722240,2016-09-23 20:43:25,b'RT @paesslerAG: [Blog recommendation] Cleaning up paused devices from #PRTG with #Powershell.\nhttps://t.co/yfPRCuPPdm'
+779041603910504449,2016-09-22 19:36:06,b'RT @nirmsk: Awesome use of Azure Functions!  https://t.co/Jt9aWIkLAJ'
+778886615825514496,2016-09-22 09:20:14,b'@sqldbawithbeard @PowerTip I think generally measure-command is a better way to do this but for fun I made functions https://t.co/jm9RQl60G2'
+775029736884039680,2016-09-11 17:54:23,"b""Another #Powershell script for @paesslerAG's PRTG plus an excuse to play with developing better cmdlet functions https://t.co/XnRg76Gwbe"""
+774113921758220288,2016-09-09 05:15:15,b'@ksylor @logging_ON https://t.co/1cjq4X7zPD'
+774023530958684160,2016-09-08 23:16:05,b'RT @codinghorror: Does writing code matter? https://t.co/ZXl3AVCzfk'
+773988457937047552,2016-09-08 20:56:43,b'Have been experimenting with Test-NetConnection as a way to do network tests with added #Powershell objecty goodness https://t.co/AGgstrMeLX'
+773987247997718528,2016-09-08 20:51:54,"b""@jsnover https://t.co/YqLPuubsN9 says that there is a -diagnoserouting switch for Test-NetConnection in Win10/2016 but I can't find it?"""
+773978445336502272,2016-09-08 20:16:55,"b""@oising It doesn't accept this shorter alternative: \n(Get-Culture).TextInfo.ToTitleCase($i) \nIs CodeGolf perhaps not running Powershell 5?"""
+772884963242934272,2016-09-05 19:51:49,b'My writing has progressed to writing about write-progress #Powershell https://t.co/uRg8hntkkO'
+771448185470513152,2016-09-01 20:42:34,b'Querying multiple PRTG Transaction Sensors with #PowerShell to audit the URL steps and other settings https://t.co/k1Rw2J7UUf @paesslerAG'
+771401631984410625,2016-09-01 17:37:35,"b""RT @samjackmartin: I'm looking for someone with a bit of hosting experience to join a DevOps team in central London and learn about CI/CD,\xe2\x80\xa6"""
+770584084552843265,2016-08-30 11:28:57,"b""If you've worked somewhere long enough to be able to reuse your original password, it may be time to leave #passwordhistoryhumour"""
+770210325937418240,2016-08-29 10:43:46,b'Windows servers with high uptime is probably a badge of shame. Find them with #powershell : https://t.co/jLR7mk1QZE'
+769459201382965248,2016-08-27 08:59:04,b'Mind blown! https://t.co/kDW0tSfIxj'
+769042650859184128,2016-08-26 05:23:50,b'RT @jsnover: Windows Server 2016 supports 24TB of physical memory! https://t.co/LAGLhtlgM3\n\n#MicDrop!'
+762239184899825664,2016-08-07 10:49:18,b'Checkout Assistant\nIce Steward\nMicrosoft Engineer\nTrainee Teacher\nSr Hosting Engineer\nCloud Ops Team Lead\nCloud Ops Manager\n#firstsevenjobs'
+758215426438488064,2016-07-27 08:20:19,b'RT @alex_sarafian: Introducing #ISHDeploy #PowerShell  #automation  module for @SDLKnowledge center.\nhttps://t.co/KG1q157YU1'
+758005381771788288,2016-07-26 18:25:40,b'RT @IrwinStrachan: SMB shares Operational\xc2\xa0readiness https://t.co/9mX1Uejrdi https://t.co/331olPNdon'
+754031928337203201,2016-07-15 19:16:35,"b""RT @PicardTips: Picard management tip: Make it so the crew has real time monitoring of your enterprise's critical systems."""
+752227832940654592,2016-07-10 19:47:45,"b'RT @JeffHicks: ""Monthly #PowerShell reminder:use full cmdlet &amp; parameter names in your scripts. Plz, no aliases. Think of the next guy - co\xe2\x80\xa6'"
+751384407798415360,2016-07-08 11:56:17,b'Using @chef to synchronise Git repositories https://t.co/gO9M5mboSv'
+748288703546671104,2016-06-29 22:55:04,b'Puppet presentation at #winops. Why you should automation all the things @puppetize https://t.co/HzyQJXYJmS'
+744255779830628352,2016-06-18 19:49:40,b'RT @sqldbawithbeard: Pester Blog Posts https://t.co/jbRuE44ZBB by @mikefrobbins #SQLSatDublin #links'
+742646473238708224,2016-06-14 09:14:51,"b'#Powershell equivalent of a First World Problem: My script prints ""true"" to the console and i\'m not sure why..'"
+742597694301065216,2016-06-14 06:01:01,"b""RT @PicardTips: Picard management tip: If you're on red alert every day, then red alert means nothing."""
+742597476516040704,2016-06-14 06:00:09,b'If you leave a two meter thermal exhaust port exposed on your Death Star you should expect it to get blown up #DeathStarTips'
+742269539694567424,2016-06-13 08:17:03,"b""Building on @IrwinStrachan's work, use @PSPester to validate @ActiveDirectory, also leveraging legacy cmd tools: https://t.co/CiNm3SlUff"""
+739073886936018949,2016-06-04 12:38:40,b'A blog post about how and why we send notifications from our #PowerShell automations to @HipChat : https://t.co/A1GEQEaPA4 #ChatOps'
+736654035055476736,2016-05-28 20:23:02,b'RT @rspruijt: Engineer ... \xf0\x9f\x91\x8d https://t.co/vO29M4iW6E'
+736250714217975808,2016-05-27 17:40:23,"b'RT @bridgetkromhout: \xe2\x80\x9cIf you can\xe2\x80\x99t envision the outcome, you\xe2\x80\x99ll have a very difficult time making that change.\xe2\x80\x9d @DrewNienaber #devopsdays h\xe2\x80\xa6'"
+735744645473308672,2016-05-26 08:09:27,b'RT @samjackmartin: #WinOps London #2 in review https://t.co/JXyM6Mpaj2 Huge thanks to everyone in the @WinOpsLDN crew for organising this a\xe2\x80\xa6'
+735580759512260608,2016-05-25 21:18:14,b'https://t.co/KesPaWgn6L Proof that you can combine Star Wars with a summary of the Powershell Try Catch construct.'
+735151230461349889,2016-05-24 16:51:26,"b'@cdcame great thanks, some really interesting talks. We have lots to do!'"
+735129910721777664,2016-05-24 15:26:43,b'@avharms really interesting panel talk @WinOpsLDN particularly about getting rid of CAB. Thanks!'
+735097830046633984,2016-05-24 13:19:14,b'@jsnover doing a shadow puppet duck this morning during his keynote speech @WinOpsLDN https://t.co/5UZUvelCZ0'
+735097194290761728,2016-05-24 13:16:43,b'RT @jsnover: @migreene gave a fantastic #WinOps talk about the deployment pipeline. It was worth traveling to London just to hear that.'
+735023356580401153,2016-05-24 08:23:18,b'RT @ScriptingGuys: @jsnover woohoo... Speaking at @WinOpsLDN https://t.co/RD1PKUs8fy'
+735023309398638592,2016-05-24 08:23:07,"b""RT @WinOpsLDN: 'Windows Server 2016 is architected to make DevOps easy' @jsnover #winops https://t.co/sfNqG0rb1p"""
+734827117712642048,2016-05-23 19:23:31,b'RT @jsnover: MOMENTUM! The PowerShell DSC Resource Kit now has 302 resources in 63 modules and growing!\nhttps://t.co/lpSD3WFsXa'
+734827047177080832,2016-05-23 19:23:15,"b'RT @daviwil: The May release of VS @Code is going to be pretty awesome, might finally enable a PowerShell interactive console :) https://t.\xe2\x80\xa6'"
+734447281399828480,2016-05-22 18:14:11,b'@ChrisAnnODell @WinOpsLDN I think the future looks good thanks to some of the features of Server 2016 such as containers and bash.'
+733363557945987077,2016-05-19 18:27:52,b'RT @windowsserver: #NanoServer now supports Node.js! Read about it in our blog now: https://t.co/Wj7kgs99GJ'
+731912115833995264,2016-05-15 18:20:21,b'RT @dfinke: blogged: Paste #JSON as a #PowerShell Class in Visual Studio @Code https://t.co/tVjtC6jmFE'
+731893654424588288,2016-05-15 17:06:59,b'RT @samjackmartin: I spent the weekend learning #Go in order to be able to export OFX files from @getmondo into @ynab https://t.co/je0QX0J6\xe2\x80\xa6'
+731829301071515649,2016-05-15 12:51:16,"b'@samjackmartin Oh nothing exciting, just increasing Reserved Instance limits. I just like to think of AWS as humanless (illusion shattered).'"
+731809737092829184,2016-05-15 11:33:32,b'Having to deal with a human at AWS feels weird and wrong.'
+731223812210069505,2016-05-13 20:45:16,b'RT @LogicalDiagram: Poshspec makes writing and maintaining infrastructure tests with Pester easier. What functions would you add? https://t\xe2\x80\xa6'
+730990770107211776,2016-05-13 05:19:15,b'RT @jsnover: Downloading Container images in WS2016 TP5\noooooooooooooooo\nhttps://t.co/wq25838ke2 https://t.co/30lukfqZI1'
+730370126525116416,2016-05-11 12:13:02,b'@samjackmartin better than the real thing ;P'
+730370085999808512,2016-05-11 12:12:52,"b'@samjackmartin no way, we love it!'"
+730089935068397568,2016-05-10 17:39:39,"b'@pizzaops @docker good point, well made.'"
+730087721893498880,2016-05-10 17:30:51,"b""@pizzaops @docker maybe for some people this isn't the start of the conversation."""
+729951093527072768,2016-05-10 08:27:57,b'@pizzaops @docker It probably has something to do with containers improving the pipeline between Dev and Ops.'
+729950458400411648,2016-05-10 08:25:25,"b""RT @jsnover: If you don't like the PowerShell documentation - change it. https://t.co/i5fR21OEvV"""
+729809068320231424,2016-05-09 23:03:35,b'My first rant https://t.co/jUL1h8sLeh'
+729731119839612928,2016-05-09 17:53:51,"b'@jenshutebenson @SoftwareTestTT I would think org size was irrelevant, but team size would matter. Do Netflix count as a large org?'"
+729409793069305856,2016-05-08 20:37:01,b'RT @cyb3rops: Security questions and dogs - still one of my favorites https://t.co/ujkGXu3c3O'
+728993374695510016,2016-05-07 17:02:19,b'My experience of getting started with Hyper-V Containers in Windows Server 2016 TP5: https://t.co/eHpxkyjnf0 @docker @windowsserver'
+728947493971603457,2016-05-07 14:00:00,b'RT @LazyWinAdm: PowerShell Location Bookmark for Easy and Faster Navigation https://t.co/LYRYEy7BXD #PowerShell powershellmag'
+728823413540786176,2016-05-07 05:46:57,"b'RT @BrucePayette: Very, very cool article: Writing Windows Services in PowerShell https://t.co/K23x8Lmsgd'"
+728666343021674496,2016-05-06 19:22:48,"b'RT @clipperhouse: Burnout isn\xe2\x80\x99t too much work, it\xe2\x80\x99s a too-low ratio of work to satisfaction. https://t.co/deFXesyWTP'"
+728666236486291458,2016-05-06 19:22:23,b'RT @RunAsRadio: DevOps is a Career Bet \xe2\x80\x93 Are You Willing to take it? https://t.co/UYKr3MRJPP'
+728658008801218561,2016-05-06 18:49:41,b'My second experience installing Windows Server 2016: https://t.co/jHHywPjnjn'
+728589018196287488,2016-05-06 14:15:33,"b'RT @Ryan_Frantz: Next time you hesitate to ask for help, consider this: others may want to participate in your work. Their help is collabor\xe2\x80\xa6'"
+728330705235804160,2016-05-05 21:09:06,b'My first experience installing Windows Server 2016: https://t.co/jJt9rgw1Hp'
+728126279053017088,2016-05-05 07:36:47,"b'RT @RichRogersHDS: ""Reminder: systems design has three categories; hard, very hard and distributed."" - @kantrn'"
+727784622256443392,2016-05-04 08:59:10,b'RT @Malwarebytes: Process Explorer: An introduction | Malwarebytes Labs  https://t.co/Pi8G7inP9n via @MetallicaMVP'
+727776825703804929,2016-05-04 08:28:11,b'Good article on a more holistic view of Ops https://t.co/9CGEpchSii'
+727623430426767360,2016-05-03 22:18:39,"b'RT @jsnover: Powell: ""Don\'t let adverse facts stand in the way of a good decision""\nBad things WILL happen. Do it anyway. #Devops https://t.\xe2\x80\xa6'"
+727621102323826688,2016-05-03 22:09:23,b'@StevenMurawski @jkc137 @jsnover @MSFTReactor. Never mind. Gonna see the big man at #WinOps conference later this month :)'
+727620390953029632,2016-05-03 22:06:34,"b""@jkc137 @StevenMurawski @jsnover @MSFTReactor I'm 5000 miles away sadly. Any chance of a recording?"""
+727586702122962944,2016-05-03 19:52:42,b'@proxb not sure if this is flattery or shameless self promotion https://t.co/jm9RQl60G2'
+726749540347465728,2016-05-01 12:26:07,"b'RT @jpetazzo: ""This is the curse of the experienced ops person. We see the flaw in all things."" via @lusis https://t.co/8tr4XBi9xs'"
+726449094961541120,2016-04-30 16:32:15,b'RT @kventil: Docker. https://t.co/43yvyT8A14'
+726360750059610112,2016-04-30 10:41:12,"b""@samjackmartin sod that I'll do it with powershell"""
+726351640077426688,2016-04-30 10:05:00,"b'@samjackmartin all the servers are displaying this today, should we be concerned? https://t.co/bpprsCFlKd'"
+726286032338051072,2016-04-30 05:44:18,b'RT @PicardTips: Picard management tip: Gain a realistic understanding of what your ship can and cannot do.'
+726285944815554560,2016-04-30 05:43:57,"b'RT @ValaAfshar: People are not afraid of failure, they are afraid of being blamed.\n\nA culture of innovation is about experimentation and di\xe2\x80\xa6'"
+726285887861051392,2016-04-30 05:43:44,b'RT @jumadepee: Windows 95 on Apple watch @asymco @gruber  https://t.co/Lw7y1NQxVx'
+632978788763238400,2015-08-16 18:14:38,b'@LEGOLANDWindsor big thanks to the 3pm pirate that rescued our infant daughters drink bottle from the water at the end of the pirate show :)'
+607591854998192128,2015-06-07 16:56:01,"b'@TESOnline thank you for letting me know. Feel free to turn them on early, my disc arrived already :)'"
+607280213639184387,2015-06-06 20:17:40,"b'@TESOnline thank you for letting me know. Feel free to turn them on early, my disc arrived already :)'"
+607212381064843265,2015-06-06 15:48:07,b'@TESOnline when will the console servers go live?'
+535575913006915584,2014-11-20 23:30:22,b'@DaveGorman very entertaining. Sorry about all the coughing :) &lt;-- this should appear as colon bracket http://t.co/8fiTv3hhYR'
+468860432644857856,2014-05-20 21:06:52,"b'@StephenDrew72 well done, really inspiring and it looks to have made a real difference to some great characters :)'"
+408681387517284352,2013-12-05 19:36:50,"b'@plexapp good job on your iphone app update, looks awesome! :)'"
+332245857149779968,2013-05-08 21:29:19,b'@BBC_HaveYourSay Best conversation about the #ukmeteor #meteor on Twitter: http://t.co/uFx9R3Uia1'
+332242792455733249,2013-05-08 21:17:09,"b'@SillyBeardy It was too quick to photo, but if it helps, it looked just like this: http://t.co/RqmlTSQlFG'"
+332242496186888193,2013-05-08 21:15:58,"b'@BBC_HaveYourSay I saw it from Newbury, Berkshire. Glowing blue at front, no pic but looked like this: http://t.co/RqmlTSQlFG'"
+332241543077449729,2013-05-08 21:12:11,"b'@knutton11 @liamdutton @bassetnormand I saw it from Newbury Berkshire. Far too quick to film, but it looked like this http://t.co/RqmlTSQlFG'"
+332241020324548608,2013-05-08 21:10:06,"b""@CatMcCloud I saw it too! Was it glowing blue at the front? I'm in Newbury, Berkshire."""
+332240930927153152,2013-05-08 21:09:45,"b'@Joolz4bzz I did, from near Newbury, Berkshire. It was super cool!'"
+332240643357290497,2013-05-08 21:08:36,b'@gfjc Me too! Was it glowing blue at the front?'
+332240562314940416,2013-05-08 21:08:17,"b""@ellamalindixox Me too! Didn't hear a bang though, so assumedly it fully burnt up in the atmosphere. Cool though wasn't it :D"""
+332240384073801728,2013-05-08 21:07:34,"b'@tonyrmay I think I just saw the same from Newbury, Berkshire. Was it glowing blue at the front?'"
+325198662668021761,2013-04-19 10:46:17,b'See Peri. See Peri Run. Run Peri Run. http://t.co/lIYHTz2yxy @JustGiving #LondonMarathon'
+306890931544666112,2013-02-27 22:17:54,"b'@BBC thanks for bringing back Child of our Time, it was incredible as always.'"
+292960988658028544,2013-01-20 11:45:17,"b'@timminchin well done on Matilda, we loved it :)'"
+257172845585653760,2012-10-13 17:35:59,"b""@GeekZilla9000 I remember when a hash tag was a name you'd spray paint on a wall while high"""
+257149128226787328,2012-10-13 16:01:44,"b'@GeekZilla9000 Err, no sorry. Thanks for alerting me to the situation but no house for you.'"
+215684537651441664,2012-06-21 05:56:15,"b'@OrionsFlame Aw, his first hack'"
+79646950298886146,2011-06-11 20:31:27,"b'RT @PeriEdmiston: huh, the word bed really does look like a bed. Amazing'"
+6889104757,2009-12-21 09:41:31,"b'@stephenfry I hope your flight goes well. Try not to think about how improbable it is that 400,000lb of metal could fly.'"
+6888889392,2009-12-21 09:27:35,b'@simonpegg Good morning Mr Pegg.'
+5677855229,2009-11-13 12:12:24,"b'@ahj Dom and I have similar dance styles. Also if anyone ever suggests @ChrisDJMoyles is too old for Radio 1, show them this video.'"
+5677803944,2009-11-13 12:09:26,b'@PeriEdmiston Happy 11 month Anniversary! :0 &lt;3 &lt;3 x'
+5677671074,2009-11-13 12:01:27,b'Finding out why I hear Twitter mentioned every other day.'

@@ -1,0 +1,668 @@
+twitter_id,date,tweet
+1108338948605202434,2019-03-20 12:06:11,"b'RT @gkotfis: Zapraszam do najnowszego odcinka w kt\xc3\xb3rym moim go\xc5\x9bciem jest @tnurkiewicz. Tomek bardzo Ci dzi\xc4\x99kuje, \xc5\xbce znalaz\xc5\x82e\xc5\x9b czas i ch\xc4\x99\xc4\x87 p\xe2\x80\xa6'"
+1107555972241915904,2019-03-18 08:14:55,"b'RT @java: "" I don\xe2\x80\x99t often explain a single method in JDK, but when I do, it\xe2\x80\x99s about Map.merge(). "" @tnurkiewicz \n\n#Java #OpenJDK \n\nhttps://\xe2\x80\xa6'"
+1106869696878596096,2019-03-16 10:47:55,"b'Slides from my talk at #SegFaultConf: CharBusters: 10 #Unicode myths: https://t.co/Z9HqwTGDXH (\xf0\x9f\x93\xb8 @PawelWlodarski),\xe2\x80\xa6 https://t.co/umrkQnp6OA'"
+1103210880794329088,2019-03-06 08:29:05,b'RT @odrotbohm: Brilliant talk by @tnurkiewicz on reactive and what to look for in great codebases / code design in general. \xf0\x9f\x91\x8f https://t.co/\xe2\x80\xa6'
+1102496556056485888,2019-03-04 09:10:37,b'Map.merge() - One method to rule them all #Java  https://t.co/BEx7C5yqW5'
+1100779896803115008,2019-02-27 15:29:13,b'RT @collibra: We loved hosting the 10 year anniversary celebration of @WroclawJUG yesterday at our development center in Poland. We were ho\xe2\x80\xa6'
+1100484856809734144,2019-02-26 19:56:50,b'RT @koziolek: @tnurkiewicz na @WroclawJUG i w\xc4\x85tki od podstaw https://t.co/pjzu3nQkOp'
+1100162115149549568,2019-02-25 22:34:22,b'Designing Data-Intensive Applications by @martinkl: my favourite book of last year | https://t.co/wS1DwPLsOx'
+1099021813152124928,2019-02-22 19:03:13,b'I had a problem so I thought to use #Reactor. Now I have a Flux&lt;Problem&gt; / (fixed typo) https://t.co/Jz9VmSAzyB'
+1099001776966123522,2019-02-22 17:43:36,b'I had a problem so I thought to use #Reactor. Now I have a Flux&lt;Problem&gt; https://t.co/tt1QCIyzvE'
+1093804912872488962,2019-02-08 09:33:07,b'RT @WroclawJUG: Ju\xc5\xbc nied\xc5\x82ugo 10 lat @WroclawJUG Z tej okazji zapraszamy na \xc5\x9bwi\xc4\x99towanie https://t.co/6OitTtGOXI i wycieczk\xc4\x99 po wsp\xc3\xb3\xc5\x82bie\xc5\xbcno\xc5\x9bc\xe2\x80\xa6'
+1093641396991471616,2019-02-07 22:43:22,b'#RxJava vs #Reactor https://t.co/Btlur1ULn0'
+1089256669085949952,2019-01-26 20:20:01,"b'RT @SegFaultConf: Je\xc5\x9bli kiedykolwiek u\xc5\xbcyli\xc5\x9bcie metody String.length() do policzenia d\xc5\x82ugo\xc5\x9bci stringa i wydaje si\xc4\x99 Wam, \xc5\xbce zwraca ona liczb\xc4\x99\xe2\x80\xa6'"
+1084869061236875264,2019-01-14 17:45:14,"b""RT @TratifTech: The best explanation of the #CompletableFuture abstraction in Java 8 by @tnurkiewicz. Some articles just don't age and this\xe2\x80\xa6"""
+1075953637178798080,2018-12-21 03:18:32,b'RT @GeeCON: Welcome aboard @tnurkiewicz! #geecon https://t.co/GKWy7rihUz https://t.co/MTu2XbQCFw'
+1064092264002134017,2018-11-18 09:45:40,b'RT @SegFaultConf: Subskrybujecie kana\xc5\x82 @SegFaultConf na YouTube? \xf0\x9f\x91\x80 Koniecznie zobaczcie kolejn\xc4\x85 prezentacj\xc4\x99 z wroc\xc5\x82awskiej edycji \xf0\x9f\x91\x89 @tnurki\xe2\x80\xa6'
+1060826347495477249,2018-11-09 09:28:05,b'RT @JakubPilimon: Please RT. It has been 8 years since my father was diagnosed with Parkinson\xe2\x80\x99s disease. People with Parkinson\xe2\x80\x99s disease ha\xe2\x80\xa6'
+1059875787703234564,2018-11-06 18:30:53,"b'RT @arosucojocaru: Great tour on concurrency in Java ecosystem (Java, Groovy, Scala, Clojure) delivered by @tnurkiewicz at @bucharest_jug.\xe2\x80\xa6'"
+1057942212946915328,2018-11-01 10:27:33,b'Small #IntelliJ #IDEA (and other @jetbrains products) tip:\n1. Enable: Settings -&gt; Editor -&gt; General -&gt; Smart Keys -\xe2\x80\xa6 https://t.co/fR9OLAsl5p'
+1054645950101286912,2018-10-23 08:09:23,"b'RT @rednaxelafx: Monday fun with JIT compilers: a while ago I did some experiments with code generation in Spark SQL, and tried out a few c\xe2\x80\xa6'"
+1054387802647994374,2018-10-22 15:03:36,"b""On November 6th I'll give 'Tour around concurrency in #Java' talk at @bucharest_jug: https://t.co/3ZKA2fHhj3 Waitli\xe2\x80\xa6 https://t.co/vChaOS6d34"""
+1051764140111552513,2018-10-15 09:18:06,"b'RT @andrewgdotcom: If #Bitcoin were to cease trading tomorrow, 0.5% of the world\xe2\x80\x99s electricity demand would simply disappear \xe2\x80\x93 which would\xe2\x80\xa6'"
+1049732145713954817,2018-10-09 18:43:41,b'RT @RadoslawSzulgo: Nurkiewicz\xe2\x80\x99s curse : may you support interesting codebase.\n#JDD2018 \xe2\x81\xa6@JDD_Krakow\xe2\x81\xa9 https://t.co/wQ9tstefp9'
+1049678164669210624,2018-10-09 15:09:11,b'RT @dmydlarz: @tnurkiewicz rants reactive programming \xf0\x9f\x98\x85 great talk! https://t.co/IRTUWUurSb'
+1049678113402212353,2018-10-09 15:08:58,"b'RT @fromJuniorDevTo: The #JDD  leave the best for the end. Great presentation @tnurkiewicz about ""#Reactive programming - lesson learned"",\xe2\x80\xa6'"
+1045026149556981767,2018-09-26 19:03:44,b'Brute-forcing a seemingly simple number puzzle https://t.co/CoTMiijXkV https://t.co/cswJIKIrd6'
+1039255583415787522,2018-09-10 20:53:34,b'RT @ramtwits: @tnurkiewicz Your completable future in java 8 was something i believe everyone should watch. Great way to go through that to\xe2\x80\xa6'
+1039034391513714688,2018-09-10 06:14:37,b'Thread pool self-induced deadlocks https://t.co/lilXo1azxY. Also: celebrating 10 years of my blog! (and 200+ articles since 2008)'
+1038533929077301250,2018-09-08 21:05:58,"b'RT @GawedaTomasz: One of the best explanations of functor, monad, etc from \n@tnurkiewicz\n - so from practitioner point of view, not only pu\xe2\x80\xa6'"
+1037715064378335232,2018-09-06 14:52:05,"b'RT @allegrotech: Is char enough to represent a letter? \xf0\x9f\xa4\x94 ""10 myths about Unicode"" by \xe2\x81\xa6@tnurkiewicz\xe2\x81\xa9 #atm11 https://t.co/nqmlWgFPiX'"
+1032556525011775490,2018-08-23 09:13:54,"b'RT @qrush: ""how many layers of agile are you on?""\n""like maybe 5 or 6 right now, we use trello, do standup""\n""you are like a little baby, wat\xe2\x80\xa6'"
+1032518306899652608,2018-08-23 06:42:02,"b'If human body was designed in a way that most #microservices architectures are, a broken ankle would always result\xe2\x80\xa6 https://t.co/mibG1e02vd'"
+1031666275066564608,2018-08-20 22:16:22,"b""Wycieczka po wsp\xc3\xb3\xc5\x82bie\xc5\xbcno\xc5\x9bci w Javie - moja prezentacja z Hackin' Gliwice, \xf0\x9f\x87\xb5\xf0\x9f\x87\xb1: https://t.co/VXM11UpRsg"""
+1030386809983971329,2018-08-17 09:32:13,"b'RT @JDD_Krakow: Meet #JDD2018 keynote #speaker:\n\n\xf0\x9f\x94\xa5current #Java champion, Tomek Nurkiewicz \xf0\x9f\x94\xa5\n\nHe spent half of his life on programming, for\xe2\x80\xa6'"
+1027648226592219137,2018-08-09 20:10:04,b'Verifying myself: I am nurkiewicz on https://t.co/2mwn84NKgK. YbFoxiBeWQDogpv6242eiENCgsZVt53jE8fm / https://t.co/RPyf2uzx2K'
+1027194372356497410,2018-08-08 14:06:37,"b'RT @JakubWincewicz: Mam ogromn\xc4\x85 przyjemno\xc5\x9b\xc4\x87 poleci\xc4\x87 podcast z @tnurkiewicz, na kt\xc3\xb3ry dzi\xc5\x9b si\xc4\x99 natkn\xc4\x85\xc5\x82em. Niby o `Reactive Programming`, ale\xe2\x80\xa6'"
+1023913467416330241,2018-07-30 12:49:28,b'RT @bITconf_pl: #prelegent @bITconf_pl !\n\nTomasz Nurkiewicz ( @tnurkiewicz ) - od 10 lat w okolicach Javy. Rozczarowany jako\xc5\x9bci\xc4\x85 tworzonego\xe2\x80\xa6'
+1018756465023123456,2018-07-16 07:17:23,b'RT @SegFaultConf: Czas na prezentacj\xc4\x99 kolejnego prelegenta @SegFaultConf we Wroc\xc5\x82awiu! \xf0\x9f\x91\x8d @tnurkiewicz  podzieli si\xc4\x99 w\xc5\x82asnymi do\xc5\x9bwiadczeniam\xe2\x80\xa6'
+1018533038131679233,2018-07-15 16:29:34,b'@hamen I hope you (and your dog) enjoyed it ;-) https://t.co/nYHBnurE7E'
+1017123510290927616,2018-07-11 19:08:36,"b'Video of my talk: #Reactive programming: lessons learned, from @ReactSphere: https://t.co/vQL1uuG2nX'"
+999280080194015232,2018-05-23 13:25:11,"b""@shibbow @prondzyn Slides from my talk at #infoShare about #reactive programming: https://t.co/Zn9V4jZAR7, I'll let\xe2\x80\xa6 https://t.co/bZEywxjOZA"""
+998942819132870656,2018-05-22 15:05:02,b'RT @prondzyn: Listening how @tnurkiewicz is sharing his experience with #reactive programming.\n\n#infoShare #infoShare2018 https://t.co/pGsv\xe2\x80\xa6'
+997572886197137408,2018-05-18 20:21:24,"b""#Bitcoin uses 20% more energy every month, or 900% (1.2^12) every year. By 2021 it will consume all the world's ele\xe2\x80\xa6 https://t.co/dKz3nRPqrv"""
+994347752564944896,2018-05-09 22:45:52,b'@Java_Champions @theNeomatrix369 @saturnism @juliendubois @noctarius2k @ivan_stefanov @manicode @jfarcand\xe2\x80\xa6 https://t.co/R7ZG7MoLNY'
+993610413106520064,2018-05-07 21:55:57,b'RT @Java_Champions: We are delighted to welcome new Java Champions \n@theNeomatrix369 \n@saturnism \n@juliendubois\n@noctarius2k\n@ivan_stefanov\xe2\x80\xa6'
+993390146409107456,2018-05-07 07:20:41,"b'RT @mariofusco: ""a library that makes those stupid tests for you"" is probably one of the best definition of what a statically typed languag\xe2\x80\xa6'"
+989885459621916673,2018-04-27 15:14:19,b'RT @adamwarski: Event sourcing using @apachekafka https://t.co/HLZMShNrYS #eventsourcing #kafka'
+989180924402298881,2018-04-25 16:34:45,b'RT @JakubPilimon: Gosh! My first article published at https://t.co/UJTmGrcR8a! If you want to read about tackling software with @springclou\xe2\x80\xa6'
+987233019059752960,2018-04-20 07:34:28,b'Sneak peek at spring-cloud-function #serverless project https://t.co/dIWT5befeo'
+986731792173592576,2018-04-18 22:22:46,"b'@adamwarski @ReactSphere The talk was about using reactive approach only when necessary, not about verbose syntax.\xe2\x80\xa6 https://t.co/bUti1yQ7dM'"
+986166101615824897,2018-04-17 08:54:55,"b'Slides from my @ReactSphere keynote ""#Reactive programming: Lessons learned"" https://t.co/2slkHVFWZg'"
+986164529490026496,2018-04-17 08:48:40,b'RT @ReactSphere: What we have learned about #reactiveprogramming keynote of @tnurkiewicz #reactive #ReactSphere https://t.co/gt6PhYg99M'
+981161616019369985,2018-04-03 13:28:53,b'RT @b0rk: an amazing directory: /proc https://t.co/717UPpvami'
+980741730051002368,2018-04-02 09:40:24,"b'Slides from my talk ""Tour around concurrency in #Java"" at #HackinGliwice | https://t.co/YGBH3XNDvC'"
+978218104986750976,2018-03-26 10:32:25,b'RT @JakubPilimon: I am thrillered to announce that today is my first day as Spring Developer Advocate @Pivotal! Can\xe2\x80\x99t wait for the upcoming\xe2\x80\xa6'
+971144334203637762,2018-03-06 22:03:46,b'RT @TorunJUG: Przypominamy prezentacj\xc4\x99 @tnurkiewicz kt\xc3\xb3ry startuje w plebistycie na #PrelegentRoku2017 Toru\xc5\x84 JUG:\n\nhttps://t.co/Sgu3bpPCZV\xe2\x80\xa6'
+970658440161976320,2018-03-05 13:53:00,b'RT @ReactSphere: Our next Keynote Speaker is @tnurkiewicz. Find out more about his #ReactiveProgramming experiences https://t.co/Bo12p2CTw8\xe2\x80\xa6'
+964826973695565824,2018-02-17 11:40:50,"b'RT @infosharepl: In 2018 we\xe2\x80\x99ll have 3 tech stages with 8 theme blocks \xe2\x80\x93 Security, Java, Front-end, Blockchain, DevOps, Cloud, Machine learn\xe2\x80\xa6'"
+964423575347187712,2018-02-16 08:57:53,b'RT @Sygyzmundovych: Next #HackinGliwice hosted by @SAPHybris is coming to the town on Mar 15th and it will be all about #GoLang and #Java t\xe2\x80\xa6'
+961019754847850497,2018-02-06 23:32:19,b'#Reactive #emoji tracker with #WebClient and #Reactor: aggregating data https://t.co/iqBSVoymvU'
+959754450150838274,2018-02-03 11:44:26,"b'RT @pragmatists: Developers (mis)understanding, not expert knowledge gets deployed to production @ziobrando https://t.co/zjTpeDVk6c'"
+959218099089272832,2018-02-02 00:13:10,b'Reactive #emoji tracker with #WebClient and #Reactor: consuming #SSE https://t.co/qzC36m5N6h CC @emojitracker'
+956300534910275585,2018-01-24 22:59:49,"b'#Spring #Boot 2: Fluxes, from #Elasticsearch to controller https://t.co/JvEu2NyNqg'"
+955508315869663233,2018-01-22 18:31:49,b'#Spring #Boot 2: Migrating from #Dropwizard metrics to #Micrometer https://t.co/kbGuYamhyz'
+953051984516575232,2018-01-15 23:51:14,b'Monitoring and measuring reactive application with Dropwizard Metrics https://t.co/5Uk2sea25f'
+952250296549412864,2018-01-13 18:45:37,b'Chcesz pom\xc3\xb3c w leczeniu noworodk\xc3\xb3w i przy okazji nauczy\xc4\x87 si\xc4\x99 czego\xc5\x9b po\xc5\xbcytecznego? W tym roku mam zaszczyt wspom\xc3\xb3c\xe2\x80\xa6 https://t.co/sGWR1yYwMI'
+952239139587534848,2018-01-13 18:01:17,"b""RT @kprzygudzki: It's been a real pleasure to learn about #RxJava from @tnurkiewicz at the @AllegroTechBlog Workshop\nThanks so much, guys!\xe2\x80\xa6"""
+952217854778146816,2018-01-13 16:36:42,"b'RT @AllegroTechBlog: What is the best way to learn RxJava? We know the answer! All you need is experienced tutor, good company and great at\xe2\x80\xa6'"
+951698081652854784,2018-01-12 06:11:19,"b'#Spring, #Reactor and #ElasticSearch: bechmarking with fake test data https://t.co/0o8IgHYMdq'"
+950879898956173312,2018-01-10 00:00:09,"b'#Spring, #Reactor and #ElasticSearch: from callbacks to reactive streams https://t.co/VUJDaXn8ZH'"
+940977223909150720,2017-12-13 16:10:27,b'RT @ReactSphere: Meet @tnurkiewicz He is an #rxjava author who loves back-end and #data visualization. Can\xe2\x80\x99t wait for his talk @ReactSphere\xe2\x80\xa6'
+938417968530239488,2017-12-06 14:40:53,"b'RT @JavaDayUA: #JavaDayUA2017: Asynchronous by default, synchronous when ne\xd1\x81essary @tnurkiewicz https://t.co/16Mkk51K4I'"
+936360403973615617,2017-11-30 22:24:51,b'RT @richardadalton: When developers write novels.\n\nChapter 1 - Characters\nChapter 2 - Locations\nChapter 3 - Vehicles\nChapter 4 - Relationsh\xe2\x80\xa6'
+934560516109979648,2017-11-25 23:12:44,b'S\xc5\x82owniczek angielsko \xf0\x9f\x87\xac\xf0\x9f\x87\xa7 - polski \xf0\x9f\x87\xb5\xf0\x9f\x87\xb1 dla programist\xc3\xb3w: https://t.co/dnxjBIVOFm'
+932332426625462276,2017-11-19 19:39:07,"b'Thank you @heinzkabutz and @AllegroTechBlog for three days of Extreme #Java - Concurrency Performance workshop, I learnt a lot!'"
+930488476914548736,2017-11-14 17:31:55,b'RT @JavaDayUA: We are happy to publish Top Rated #JavaDayUA2017 talks https://t.co/xNLFWboZuj'
+926773725562851328,2017-11-04 11:30:49,b'RT @buzzlers: @tnurkiewicz Really great presentation! \nhttps://t.co/zhAlakpnTj'
+926773618239041536,2017-11-04 11:30:23,"b'RT @smcvbeelen: Checkin out @tnurkiewicz his talk @ #JavaDayUA2017; very interesting, including a mention of @axon_iq its EventStore! https\xe2\x80\xa6'"
+923459226592260097,2017-10-26 08:00:11,b'RT @avadhootComp: @tnurkiewicz thanks for the Live training on RxJava. I learned a lot!'
+920260495365562368,2017-10-17 12:09:34,"b'RT @JakubPilimon: I\'m honoured to announce that I will be speaking about reactive events with Mr. ""Cloud Native"" @kennybastani at @s1p http\xe2\x80\xa6'"
+915337392403357696,2017-10-03 22:06:55,b'RT @tmatyashovsky: @tnurkiewicz speaks about pitfalls of distributed systems at #javaone https://t.co/OSE5GXWZVv'
+914582169108062208,2017-10-01 20:05:55,"b'My session at #JavaOne2017 about event sourcing is on Tuesday, feel free to catch me during the conference!'"
+908241665554608128,2017-09-14 08:11:02,b'Idiomatic concurrency: flatMap() vs. parallel() - #RxJava FAQ https://t.co/godXRdH280'
+907143247008555008,2017-09-11 07:26:18,b'Detecting and testing stalled stream - #RxJava FAQ https://t.co/3c5LXJLK4I'
+905714517182750720,2017-09-07 08:49:02,b'Fixed-rate vs. fixed-delay - #RxJava FAQ https://t.co/nB7HQJOXIt'
+905369281772347392,2017-09-06 09:57:12,"b'RT @TorunJUG: Toru\xc5\x84 JUG #32 - ""Asynchronous by default, synchronous when necessary"" - Tomasz Nurkiewicz (@tnurkiewicz) https://t.co/NWV0ZW6\xe2\x80\xa6'"
+905345552912719874,2017-09-06 08:22:54,"b'RT @Hibernate: Meet Jakub Kubry\xc5\x84ski ( @jkubrynski ), software developer, blogger, conference speaker, and @Hibernate aficionado.\n\nhttps://t\xe2\x80\xa6'"
+904597357077164032,2017-09-04 06:49:51,b'Streaming large JSON file with Jackson - #RxJava FAQ https://t.co/RAfwZCSXT5'
+903341576356802563,2017-08-31 19:39:49,b'Loading files with backpressure - #RxJava FAQ | https://t.co/oJc9gSrtxb'
+900997747200884736,2017-08-25 08:26:17,"b""RT @ryan0x44: I can't help but look at Bitcoin mines and find myself disgusted at how wasteful and pointless the whole thing seems https://\xe2\x80\xa6"""
+898288138958667776,2017-08-17 20:59:16,b'Generating backpressure-aware streams with Flowable.generate() - #RxJava FAQ https://t.co/PHmG0Ay9lR'
+897196402866040834,2017-08-14 20:41:06,b'1.x to 2.x migration: Observable vs. Observable: #RxJava FAQ https://t.co/btAlGNCCep'
+894459160032681984,2017-08-07 07:24:16,b'flatMap() and the order of events - #RxJava FAQ https://t.co/bUsuDJUrnk'
+893237144654938112,2017-08-03 22:28:25,b'flatMap() vs. concatMap() vs. concatMapEager() - #RxJava FAQ | https://t.co/VCbBi2Vtnx'
+892098232276398080,2017-07-31 19:02:47,b'Eager subscription - #RxJava FAQ | https://t.co/VSmUUQREeF'
+892078569551167488,2017-07-31 17:44:39,b'RT @medtek: This is quite good.  #homeopathy http://t.co/S55ghJIbba'
+889593740020658176,2017-07-24 21:10:50,"b'Amazing @JCreteUnconf with @psciezka, enlightened by @cliff_click, @mjpt777, @kcpeppe, @benevans, @kittylyst,\xe2\x80\xa6 https://t.co/6oD2Uu2Nbn'"
+887782884911742981,2017-07-19 21:15:08,"b""I'll speak about event sourcing at #JavaOne this year. Great news while I'm at @JCreteUnconf |\xe2\x80\xa6 https://t.co/kYeWgxsII4"""
+884178825621516288,2017-07-09 22:33:53,b'RT @ntsakas: Who would have thought that a reactive HTTP server with RxJava takes so few lines of code?  https://t.co/QzwEVgjaK0 by @tnurki\xe2\x80\xa6'
+877467112289091584,2017-06-21 10:03:56,b'RT @eduardsi: Great presentation! Dependency inversion at the architecture level. Thanks @tnurkiewicz https://t.co/A0O0z4iPUU'
+877212579373993985,2017-06-20 17:12:31,"b'Video of my talk ""Asynchronous by default, synchronous when necessary"" from #infoShare https://t.co/nYHBnurE7E'"
+875632859427389441,2017-06-16 08:35:16,"b""RT @cjcrompton: How to make your tables less terrible - in a gif.  I have no idea who made this (thank you), but it's brilliantly handy. ht\xe2\x80\xa6"""
+872697303303426050,2017-06-08 06:10:25,b'RT @zeroturnaround: So much #Java expertise in one place at the @GeekOutEE speakers dinner! #GeekOutEE https://t.co/m57cW3559B'
+865486834872098816,2017-05-19 08:38:36,"b""RT @mariofusco: As a\n\nsoftware developer,\n\nI want to\n\nthrow away user stories and all other Agile bullshits\n\nso that\n\nI'll have time to get\xe2\x80\xa6"""
+865116603658141699,2017-05-18 08:07:26,b'Sources from my live coding session at #infoShare yesterday: https://t.co/iR8YEmounE See you today at Tech Stage at\xe2\x80\xa6 https://t.co/gNj68w51RN'
+864901316073709569,2017-05-17 17:51:57,b'RT @kgoleb: Great introduction to RxJava by @tnurkiewicz at #infoshare https://t.co/vQb8bB9atr'
+862801279206248449,2017-05-11 22:47:09,b'RT @lidderupk: @tnurkiewicz thanks for all the great info on #rxjava on @safari. Really helped me get started on reactive programming !'
+857731512745119744,2017-04-27 23:01:43,"b'Official #Korean translation of our #RxJava book is out, thanks to Intae Kim. More languages to come! https://t.co/KAxZTstfUw'"
+853302629505667072,2017-04-15 17:42:55,b'RT @TorunJUG: 32. spotkanie #TorunJUG ju\xc5\xbc 26.04.2017 - https://t.co/LcYnYb9Gm6 Wyst\xc4\x85pi\xc4\x85: @marstrzelecki @tnurkiewicz #bigdata #spark #async\xe2\x80\xa6'
+849383631978213376,2017-04-04 22:10:13,b'RT @ABuckman32: @tnurkiewicz great session today @OReillyMedia conference! Excellent model &amp; thought-provoking. Can WWW work this way? SHOU\xe2\x80\xa6'
+849383611941957632,2017-04-04 22:10:08,b'RT @jtdeane: Incredible talk by @tnurkiewicz on the advantages of asynchronous event-driven architecture @OReillySACon'
+848834580169752576,2017-04-03 09:48:29,"b'RT @maniserowicz: Nowy @devtalkpl, EP53: @maniserowicz z @tnurkiewicz o #reactive programming!\n\nhttps://t.co/dwkSLSZ8KQ\n\n#devtalk #devstyle\xe2\x80\xa6'"
+848521840414908416,2017-04-02 13:05:46,"b'RT @ragunathjawahar: Getting started with #RxJava? Look no further, get this book #AndroidDev. Good work @tnurkiewicz &amp; @benjchristensen ht\xe2\x80\xa6'"
+844278289388781569,2017-03-21 20:03:24,b'Would #Heartbleed and #Cloudbleed have ever happened if they had been run in managed environment like #JVM or #CLR?'
+841948262974275584,2017-03-15 09:44:43,"b'RT @WarszawaJUG: Podsumowanie prelegent\xc3\xb3w dwustu spotka\xc5\x84 WJUG-a, @jaceklaskowski @tnurkiewicz @jkubrynski @jnabrdalik @szimano @koziolek ht\xe2\x80\xa6'"
+841940871889223681,2017-03-15 09:15:21,"b""RT @tomaszrykala: Finished the book! Absolutely fantastic, one of best I've read. Congrats @tnurkiewicz \xf0\x9f\x91\x8f https://t.co/QwUrcuAQbi"""
+841202685567258624,2017-03-13 08:22:03,b'Beware of slow transaction callbacks in #Spring https://t.co/zR1IWJd858'
+838822715557572608,2017-03-06 18:44:54,"b'RT @AllegroTechBlog: 200th @WarszawaJUG meetup: @tnurkiewicz on stage: \xe2\x80\x9cAsynchronous by default, synchronous when necessary\xe2\x80\x9c https://t.co/S\xe2\x80\xa6'"
+838821994963558400,2017-03-06 18:42:02,b'RT @wololock: Next @Java_Champions (I hope!) @tnurkiewicz about distributed applications #WarszawaJUG #java #rxjava #microservices https://\xe2\x80\xa6'
+836614269500329985,2017-02-28 16:29:20,b'RT @WarszawaJUG: Na naszym jubileuszowym spotkaniu numer 200 b\xc4\x99dzie mo\xc5\xbcna zdoby\xc4\x87 jedn\xc4\x85 z ksi\xc4\x85\xc5\xbcek naszych prelegent\xc3\xb3w @KevlinHenney oraz @tn\xe2\x80\xa6'
+836556128762884096,2017-02-28 12:38:18,b'RT @wendigo: #rxjava 2 workshops @AllegroTechBlog by @tnurkiewicz https://t.co/NLTrHUQZV9'
+834737422697189376,2017-02-23 12:11:24,b'RT @mpidev: My short review of Reactive Programming with RxJava by @tnurkiewicz and @benjchristensen \nReally liked this book. \nhttps://t.co\xe2\x80\xa6'
+834176730357235712,2017-02-21 23:03:25,"b'RT @WarszawaJUG: \xc5\x9awi\xc4\x99tujemy nasze spotkanie nr #200, Zobacz @KevlinHenney, @tnurkiewicz, @maniserowicz @gosubpl na jednej scenie! https://t\xe2\x80\xa6'"
+830526948170407936,2017-02-11 21:20:29,"b'RT @thomasnield9727: New @OReillyMedia @safari webcast ""Beginning @RxJava"" by @tnurkiewicz. https://t.co/q6cJm6K6pk'"
+830450153094004736,2017-02-11 16:15:20,b'RT @rpattabi: @tnurkiewicz Started reading ur RxJava book. A relief to finally find a wonderfully written book on this complex topic. Thank\xe2\x80\xa6'
+827072914595930113,2017-02-02 08:35:23,"b'Thank you @mjpt777 and @AllegroTechBlog for 3 days of intensive low-level #Java performance workshop, I learned a lot!'"
+824619016224440320,2017-01-26 14:04:28,"b""RT @sprzedwojski: Very inspiring meetup yesterday at @AllegroTechBlog's new awesome HQ. Thank you @tnurkiewicz and @mjpt777 for great talks!"""
+824618979792674816,2017-01-26 14:04:20,"b""RT @mkolodziejski: @AllegroTechBlog @tnurkiewicz Thank You for the speech at yesterday's Meetup. What an inspiration!"""
+822023216805847040,2017-01-19 10:09:41,"b'RT @infosharepl: Tomasz Nurkiewicz, @tnurkiewicz - Java top notch expert will speak at infoShare 2017. See you in @gdansk, book the date: 1\xe2\x80\xa6'"
+820326020427423744,2017-01-14 17:45:38,b'RT @lukaszbyjos: \xc5\x9awietna prezka!! @tnurkiewicz dzi\xc4\x99kI! Dowiedzia\xc5\x82em si\xc4\x99 nowych rzeczy!:) https://t.co/Qkr18tDFHE'
+820281647958343680,2017-01-14 14:49:19,b'RT @thomasnield9727: Pretty sure this book has the only thorough @RxJava coverage on backpressure. Well done @tnurkiewicz https://t.co/zJtU\xe2\x80\xa6'
+820035887941767170,2017-01-13 22:32:45,b'Thoughts after #JCrete unconference https://t.co/EDDAH8Sh5P'
+820009524505546752,2017-01-13 20:48:00,"b'RT @AllegroTechBlog: Come and join us: first Allegro Tech Talks meetup in new office - Q22, Warsaw:\nhttps://t.co/NlKpY7xtYB https://t.co/Eq\xe2\x80\xa6'"
+816230602886287360,2017-01-03 10:31:55,"b'RT @nofluffjobs: Software Engineer @allegrotechblog\nWarsaw, Pozna\xc5\x84, Krak\xc3\xb3w, Poland\n8.0k-14.0k PLN / Month\nhttps://t.co/PY3vwhWiKQ'"
+813767595014967296,2016-12-27 15:24:48,"b""I will give 'Asynchronous by Default, Synchronous When Necessary' talk at #OReillySACon this April in #NewYork | https://t.co/pvrjJvEDzX"""
+810885434029015040,2016-12-19 16:32:07,b'RT @bartczakt: Our case study - my article on using deep learning in image processing https://t.co/kwatbuHQf2 @AllegroTechBlog'
+810459124395888641,2016-12-18 12:18:07,"b""RT @rekurencja: Best article I've seen explaining monads without sitting on a high horse of abstract theory https://t.co/cdrotUQbUB przez @\xe2\x80\xa6"""
+809813854943399936,2016-12-16 17:34:03,"b""RT @AndriiRodionov: 'Functional Programming in Pure Java: Functor and Monad' https://t.co/ymuWIO7Zsq \nWill definitely read @tnurkiewicz boo\xe2\x80\xa6"""
+806297029060206592,2016-12-07 00:39:26,b'Unedited feedback after my #RxJava workshop at #QConSF https://t.co/mW1f0oJlCx'
+806292017257086976,2016-12-07 00:19:31,b'I got very good feedback after my #RxJava talk at #DevTernity. Thank you @eduardsi for inviting me! https://t.co/NhKnkjVwqC'
+804426161899962368,2016-12-01 20:45:17,b'@AlbertVilaCalvo @benjchristensen I removed it from book... and published on my blog: https://t.co/bcblCjfKae'
+804360754581409792,2016-12-01 16:25:22,b'Source code from my #RxJava live-coding session at #devternity: https://t.co/impE8UMSeg'
+804302473812905984,2016-12-01 12:33:47,"b'RT @j_u_s_h: The book has already helped me a lot, I bet having access to the examples directly  is gonna be super useful https://t.co/yOvQ\xe2\x80\xa6'"
+804246883208151040,2016-12-01 08:52:53,b'Due to a popular demand I published all examples from our #RxJava book: https://t.co/myoDrA6Vhj - 6000+ lines of code!'
+804090392333479936,2016-11-30 22:31:03,b'@jnabrdalik @WarszawaJUG Thank you! Source code written during this session: https://t.co/Gli7fuXHR6'
+803878241870221312,2016-11-30 08:28:02,b'RT @t_kopczynski: Great talk yesterday by @tnurkiewicz on @WarszawaJUG Learned a lot from this 2-hour long live coding session #RxJava'
+801479702733000704,2016-11-23 17:37:06,b'RT @AllegroTechBlog: On Nov. 29th @tnurkiewicz will speak at @WarszawaJUG and demonstrate how to apply #RxJava to existing apps. Live codin\xe2\x80\xa6'
+799924644346265600,2016-11-19 10:37:51,b'Source code from my #RxJava live-coding session at #jetconf in Minsk: https://t.co/ziX8pjqFll'
+799923483501326336,2016-11-19 10:33:14,b'RT @xeraa: rxjava with @tnurkiewicz at @jetconf - so much fancy stuff \xf0\x9f\x98\x89 https://t.co/Th30rxjzjM'
+799318204170600448,2016-11-17 18:28:05,b'RT @dastefanski: https://t.co/Y8FF77f3za - highly recommended #RxJava live coding by @tnurkiewicz. Examples with Camel are great.'
+794217518936326145,2016-11-03 16:39:47,b'RT @jhusain: Great new book by @tnurkiewicz and my former colleague and developer of RxJava @benjchristensen. Nice work guys! https://t.co/\xe2\x80\xa6'
+793224438875582465,2016-10-31 22:53:38,"b'RT @ntsakas: I read 3 other books and got 0 knowledge,just marbles.this is THE ONE book to get you from 0 to 1 in RxJava.It will become cla\xe2\x80\xa6'"
+792254030890369024,2016-10-29 06:37:34,b'RT @praveergupta: @tnurkiewicz - it is a great book with very good examples... Thanks'
+791950303809511424,2016-10-28 10:30:40,b'Reactive Programming with #RxJava book published https://t.co/d42P8FIwYH'
+790654417670443016,2016-10-24 20:41:17,b'@nksaroj The #RxJava book covers 1.x version. Keep in mind that 2.x is not yet released. Moreover 90% of the material is still applicable'
+790207187205382144,2016-10-23 15:04:09,b'RT @benjchristensen: \xe2\x80\x9cReactive Programming with RxJava\xe2\x80\x9d by @tnurkiewicz with @OReillyMedia https://t.co/djpVK71mWV https://t.co/j3qcntAPFH'
+789897636459544576,2016-10-22 18:34:06,b'RT @JakubPilimon: Event sourcing with CQRS sample revisited https://t.co/QDFlKfiSKx'
+787911738842832896,2016-10-17 07:02:51,"b'RT @devternity: Welcome \xf0\x9f\x87\xb5\xf0\x9f\x87\xb1 Tomasz Nurkiewicz with his practical, reactive live-coding session! #rxjava #reactive @tnurkiewicz https://t.co/\xe2\x80\xa6'"
+786683721944592385,2016-10-13 21:43:09,"b'RT @maneo: King of live coding on stage - @tnurkiewicz in action, for the first time in @AllegroTechBlog T-shirt :-) #jugtoberfest #poznanj\xe2\x80\xa6'"
+786623556293537792,2016-10-13 17:44:05,b'Small scale stream processing kata. Part 2: #RxJava 1.x/2.x https://t.co/qwypD5IrFK'
+785843667139432448,2016-10-11 14:05:05,b'Small scale stream processing kata. Part 1: thread pools https://t.co/19kYEjbK7N'
+785835385033228292,2016-10-11 13:32:10,"b'My #RxJava workshop at #QConSF sold out very quickly, thus it will be repeated the next day. See you there! https://t.co/ZP4BdtSrSq'"
+783642673047633921,2016-10-05 12:19:07,b'RT @GFT_Polska: See you in \xc5\x81\xc3\xb3d\xc5\xba tomorrow; next week: #JUGtoberfest Poznan with @poznanjug &amp; GFT! Starring Krystian Nowak @mmatloka @j_palka\xe2\x80\xa6'
+781463278794964993,2016-09-29 11:58:59,"b'""Don\'t Build a Distributed Monolith"" by @benjchristensen, great talk about mistakes in microservice architectures https://t.co/jtfNSeNUiA'"
+779235847107477504,2016-09-23 08:27:58,b'RT @BartoszWalacik: Our biggest publication so far: Performance and Availability pitfalls in the Microservices Architecture \xe2\x80\x94 CQK Top 10 ht\xe2\x80\xa6'
+776299512411357184,2016-09-15 06:00:01,"b'RT @bijukunjummen: @tnurkiewicz @benjchristensen-thought I knew a lot about #rxjava, learning so much more from your ""Rx Programming with R\xe2\x80\xa6'"
+774262709667893248,2016-09-09 15:06:29,"b'Code I wrote during my session at #GeeCON #Reactive: https://t.co/flciPs3GI0, all my talks available at https://t.co/DTgejDIoGo'"
+774261272540016640,2016-09-09 15:00:47,"b'Code I wrote during my ""#RxJava in legacy projects"" talk at #JavaZone: https://t.co/SfjO7Q0jWp as well as recording: https://t.co/E5pxx20rs9'"
+774228156752486400,2016-09-09 12:49:11,b'RT @akarnokd: Great talk about using RxJava and even no mention of create()! https://t.co/S1azDTJo4Z'
+774227335193190401,2016-09-09 12:45:55,"b'RT @michalgruca: fun but very educative talk by @tnurkiewicz on #geecon On one go we are covering best practices of #reactive , thread pool\xe2\x80\xa6'"
+774227176963137537,2016-09-09 12:45:18,b'RT @supach: @tnurkiewicz had 1 slide. Rest is live coding. Awesome! #geecon #reactive https://t.co/4QMUBXl74R'
+774225629977993216,2016-09-09 12:39:09,b'RT @arekczarny: Been waiting 4 this #coding #session #rxJava  at @GeeCON #reactive by @tnurkiewicz https://t.co/qAMQb9PIcq'
+774225417838428160,2016-09-09 12:38:18,"b'RT @michalgruca: As usual, @tnurkiewicz rocks on stage with live coding #geecon #reactive #rxJava'"
+773859480861806592,2016-09-08 12:24:12,"b'RT @DJCordhose: Outstanding talk at #JavaZone by @tnurkiewicz, also available as a book https://t.co/VJVuVGu7rq https://t.co/0uzwiriK2M'"
+773859160735752192,2016-09-08 12:22:56,"b'RT @nachkonvention: You actually wrote 200+ loc live in your RxJava talk. Mind blown, I salute you @tnurkiewicz #JavaZone'"
+770893396890222592,2016-08-31 07:58:02,"b""RT @jkubrynski: My #JPA talk has been rated the best talk at @confiturapl 2016. Thanks! Glad that @tnurkiewicz wasn't speaking this year :)\xe2\x80\xa6"""
+766304076392980480,2016-08-18 16:01:43,"b""I will give 'Beginning #RxJava' workshop at #QConSF. See you in San Francisco! Thanks @ktosopl for recommending me | https://t.co/rW0EwwuFbs"""
+765537648073203712,2016-08-16 13:16:12,"b""I quit answering on #StackOverflow 3 yrs ago with 100K rep. Now it's 200K doing nothing. Top reply? IDE shortcut...  https://t.co/SnpMcMxJk0"""
+764957872551763968,2016-08-14 22:52:23,b'RT @DZone: Guide to Time and Date in Java (Part One) via #MVB @tnurkiewicz https://t.co/iM4cuTZkpJ #Java #applications https://t.co/9fuaSst\xe2\x80\xa6'
+761487045961347072,2016-08-05 09:00:34,b'Guide to time and date in #Java | https://t.co/Vy45hgKT8y'
+760800977511407617,2016-08-03 11:34:22,"b'Almost whole #RxJava book (350+ pages) available. New material covers: #Camel, #Android, #MongoDB, #Hystrix and more https://t.co/8x4G7s5IeM'"
+760043825624649729,2016-08-01 09:25:43,"b'RT @heinzkabutz: RxJava, Vert.x, Reactive Systems, Reactive Programming, Functional Reactive, very cool!!! @tnurkiewicz #jcrete #java https\xe2\x80\xa6'"
+751112859522830336,2016-07-07 17:57:15,"b'I was voted best speaker at #confiturapl 2015 conference, thx! Awarded talk (in Polish): https://t.co/RVTnWrNYeS https://t.co/Xl8TK34Mkx'"
+750067970714533889,2016-07-04 20:45:14,"b'6 out of 9 chapters of our #RxJava book available, covering fully reactive stacks with #RxNetty and backpressure: https://t.co/8x4G7s5IeM'"
+748220110792425472,2016-06-29 18:22:30,b'RT @se_thinking: FP in Pure Java: Functor and Monad Examples - https://t.co/nIvC09DQfy -A great read for the functional-curious - Thank you\xe2\x80\xa6'
+746943129463496704,2016-06-26 05:48:14,"b""RT @bradurani: Best monad tutorial I've read (and I've read a lot). No burritos \n\xf0\x9f\x8c\xaf\n\nFunctors and Monads in plain Java\nhttps://t.co/jZCf23xk\xe2\x80\xa6"""
+746087420052013056,2016-06-23 21:07:57,b'Functor and monad examples in plain #Java | https://t.co/bcblCjxlyO'
+744871429057949696,2016-06-20 12:36:02,b'RT @GeeCON: Join @graham_jp @ktosopl @smaldini @tnurkiewicz at GeeCON #Reactive in Sopot 9th Sept! Registration: https://t.co/c476jtbDD1'
+740469516170317824,2016-06-08 09:04:24,"b""I'm speaking at #JavaZone this year. Expect an hour of live coding with #RxJava in the context of legacy systems. See you in Oslo!"""
+733401297706082304,2016-05-19 20:57:49,b'RT @ldziedziul: @tnurkiewicz presentation mentioned as the best one about Completable Future @spring_io #springio16 https://t.co/ez3CHNoHdA'
+729424596416516096,2016-05-08 21:35:50,"b'Thx @gregyoung and @4financeIT for 3 days of awesome training on #CQRS and event sourcing. Motto: push data by default, pull when justified'"
+728629459235045376,2016-05-06 16:56:15,"b'Early release of our #RxJava book is out: https://t.co/8x4G7s5IeM. First 4 chapters, meanwhile 7/8 already written, will be published soon'"
+727127116886724608,2016-05-02 13:26:28,b'RT @dgomesbr: CompletableFuture presentation https://t.co/WMRiy4QSl7 by @tnurkiewicz #jokerconf'
+724719999202504704,2016-04-25 22:01:27,"b'30 years ago #Chernobyl disaster occurred due to unrealistic deadlines, going live without safety features and testing on production'"
+724125386938978304,2016-04-24 06:38:40,b'RT @JakubPilimon: a few words about domain events publishing https://t.co/VPJJG0AJvk'
+723234378982252544,2016-04-21 19:38:07,"b""@jponge Thank you, I'm glad you liked it. Source code written during my #mixit16 session: https://t.co/FqD9IZqMCv #RxJava"""
+718750103629119488,2016-04-09 10:39:13,b'RT @PawelWlodarski: Java 8 workshop by @tnurkiewicz @juglodz https://t.co/AZxQW1JFZv'
+716629050534526977,2016-04-03 14:10:54,b'Going through technical review of our #RxJava book from @venkat_s and @akarnokd. In-depth comments make me feel really humble. Thank you!'
+712251764196708352,2016-03-22 12:17:08,b'RT @CezaryDraus: @tnurkiewicz will perform #java8 workshops on 9 April at @juglodz meeting. Looking forward to be there!'
+703307972550778880,2016-02-26 19:57:42,b'RT @charlesweird: Nice read! Introduction to writing custom collectors in Java 8 by @tnurkiewicz  https://t.co/BgRM7e9zrC #JavaStream #Java\xe2\x80\xa6'
+701884826178207744,2016-02-22 21:42:37,"b""Remarkable talk about history, politics and #NASA's space exploration by @carverstephen from #gotober | https://t.co/5fkQvQYLto"""
+697394500143030272,2016-02-10 12:19:40,"b'RT @whichrich: Nice guide! ""Automated bug finding with git bisect and mvn test"" @tnurkiewicz https://t.co/WkMBJo5sG7'"
+696760033670008832,2016-02-08 18:18:31,b'Undeniably writing is faster in dynamic languages. Static ones are easier to read and reason. We spend most time reading code. Do the math'
+695012029019643905,2016-02-03 22:32:35,b'RT @edwardjbeckett: Nice... gotta get a hold of ... anything @tnurkiewicz writes...  https://t.co/Fj2MfoQpNZ'
+694978158718795776,2016-02-03 20:17:59,b'Early release of our #RxJava book in a month or two: https://t.co/8x4G7s5IeM. And @headinthebox will write foreword! https://t.co/xrGoGBjOzL'
+694198252917366784,2016-02-01 16:38:55,"b""RT @jmbroad: Never attribute to stupidity that which can be adequately explained by your own ignorance of another's decision-making context."""
+693407637967376384,2016-01-30 12:17:18,b'@ddd_eu is over. I enjoyed talk by @cyriux and workshop led by @yreynhout about projections the most. Thank you @4financeIT'
+690654614824357890,2016-01-22 21:57:46,"b'Proud to be voted best speaker of 2015 at @juglodz, thank you! https://t.co/rND7td4PfT'"
+688020081712967683,2016-01-15 15:29:04,"b""I'm going to @JCreteUnconf this year, thank you @heinzkabutz and @jkost7 for an invitation."""
+686348992880447488,2016-01-11 00:48:46,"b'RT @nipafx: ""Which thread executes CompletableFuture\'s tasks and callbacks?"" by @tnurkiewicz\nExcellent as usual.\nhttps://t.co/uJ64KQVS6Y'"
+686328781389299712,2016-01-10 23:28:27,b'RT @juglodz: Najelpszym prelegentem 2015 na juglodz @tnurkiewicz! Gratulujemy'
+685209052310274048,2016-01-07 21:19:03,b'I bought fake 100\xe2\x82\xac ticket from a fraud via @Ticketbis. I got full refund from them with help from @TicketproPolska and @Agencja_GoAhead Thx!'
+679561410322534400,2015-12-23 07:17:20,"b""RT @steve_objectify: One day I'm going to google Java-related and not find the answer on @tnurkiewicz's blog.\n\nBut not this day."""
+671237601794400256,2015-11-30 08:01:29,"b""Which thread executes #CompletableFuture's tasks and callbacks? | https://t.co/Id2d7AlGOC"""
+670246687131181056,2015-11-27 14:23:57,b'RT @plamere: @tnurkiewicz  thanks for your nifty Definitive guide to CompletableFuture. Helped me get up to speed after being away from Jav\xe2\x80\xa6'
+664702096491593728,2015-11-12 07:11:44,"b'@cbeust On #YouTube Use K for pause, J and L for 10 seconds backward/forward and F for fullscreen. Also digits 1-9 to quickly jump'"
+664445433297641473,2015-11-11 14:11:50,b'#Linux unable to boot in #SKM train in #Warsaw | https://t.co/i1AlXYiVst'
+663114760607670272,2015-11-07 22:04:13,"b'My talk about #Hystrix was voted 5th best at #jokerconf, right after @starbuxman, @shipilev, @venkat_s and @jekaborisov. Thx for having me!'"
+662659994140192769,2015-11-06 15:57:08,"b""RT @MGrzejszczak: I'm really happy to announce that I'm joining @pivotal at @SpringCloudOSS !!! :) @david_syer @spencerbgibb @starbuxman @b\xe2\x80\xa6"""
+661810611467239424,2015-11-04 07:42:00,"b""Moja prezentacja 'Czego Javowiec nauczy si\xc4\x99 od Haskella?' z #Confiturapl 2015 | https://t.co/RVTnWrNYeS, wg uczestnik\xc3\xb3w najlepsza w tym roku"""
+658965536341172224,2015-10-27 11:16:41,b'#GeeCON programming contest answers | https://t.co/6KM47FaDiV | CC @4financeIT'
+655041021433282560,2015-10-16 15:22:04,b'RT @igotsideburns: @tnurkiewicz that was awesome! Great format: concise and clear.'
+655019237627580416,2015-10-16 13:55:30,b'RT @ivanenok: there are different points of view on CompletableFuture by @tnurkiewicz #jokerconf http://t.co/b9z02X6cFs'
+655019189296611328,2015-10-16 13:55:19,b'RT @JUGru: Live coding by @tnurkiewicz! #jokerconf #java http://t.co/7i0K6hcxE2'
+655019174490673152,2015-10-16 13:55:15,b'RT @igotsideburns: #jokerconf @tnurkiewicz no slides! Just code! http://t.co/DuT1yRuPDf'
+654565948138110977,2015-10-15 07:54:17,b'Flying to Saint Petersburg to give two talks tomorrow at #JokerConf: about #CompletableFuture and #Hystrix. See you there!'
+653808899791945728,2015-10-13 05:46:03,b'Concurrency on the #JVM: Beyond Thread.start() | https://t.co/yONAjLzL5K'
+653616822818877440,2015-10-12 17:02:48,"b""I'm writing a book on #RxJava with @benjchristensen for @OReillyMedia, targeting summer next year. Any ideas are welcome!"""
+653445874194993152,2015-10-12 05:43:31,b'RT @starbuxman: interesting post from 2013 by @tnurkiewicz \non synchronizing transactions with asynchronous events in Spring\n\nhttp://t.co/U\xe2\x80\xa6'
+653272345868652544,2015-10-11 18:13:59,"b'RT @dawidkublik: Curious how #springboot registers ds, txMngr and entityMngr beans behind the curtains?\nCheck http://t.co/mUPvh2fpjs'"
+652203877916364800,2015-10-08 19:28:16,b'#Spock VW: writing custom #SpockFramework extensions | http://t.co/Iz29T0UxnY'
+651837578484838400,2015-10-07 19:12:43,"b'I just noticed that my talk was voted best at #GeekOutEE this year, thank you! | http://t.co/BoZ2lFlspJ | https://t.co/lk1GE5yDpn'"
+650348289334886404,2015-10-03 16:34:49,"b'RT @juglodz: Nagranie prezentacji ""CompletableFuture i nie tylko \xe2\x80\x93 programowanie reaktywne w Javie"" https://t.co/XIXU1SRRTm @tnurkiewicz'"
+649693930447986689,2015-10-01 21:14:38,b'RT @PawelWlodarski: Reactive Java by @tnurkiewicz @juglodz http://t.co/XIgKsMHLfL'
+646385639995363328,2015-09-22 18:08:40,"b'RT @juglodz: On october 1st  @tnurkiewicz will present ""CompletableFuture - asynchronous programming in Java"" -  : http://t.co/M09rQ88Gch'"
+643403986251423744,2015-09-14 12:40:38,"b'RT @trzmiel: Googling for async timeouts with CompletableFuture, of course the first result is from @tnurkiewicz. Great job! http://t.co/v2\xe2\x80\xa6'"
+642795738536275969,2015-09-12 20:23:41,"b""I didn't go to #JavaZone but my blog was there, during @fredriv's talk (42:30): https://t.co/UazT2cF7bM :-). Thx @ulagrochowska for spotting"""
+639532297985892352,2015-09-03 20:15:56,"b'RT @baeldung: There is cool, and then there is cool. And this is just plain cool: http://t.co/jLh5dxgPLd - by @tnurkiewicz'"
+638835714935799809,2015-09-01 22:07:58,b'Displaying progress of #Spring application startup in web browser | http://t.co/8mr5aJdfZz'
+638405235921289216,2015-08-31 17:37:23,b'Dependency injection: syntax sugar over function composition | http://t.co/PZHriggjAR'
+633873836283400192,2015-08-19 05:31:14,"b'RT @clemensv: For systems made of dozens of microservices, stringing call chains across those w/o temporal decoupling is reliability/availa\xe2\x80\xa6'"
+628819264884097024,2015-08-05 06:46:10,"b'""the best introduction to macros I\'ve ever read, and the reasoning and syntax is finally starting to make sense"" | http://t.co/fBZ3XvwSaX'"
+628464078617464832,2015-08-04 07:14:47,b'Testing server faults with #Wiremock | http://t.co/7X9upZnXs9 | via @allegrotechblog'
+626647971950628864,2015-07-30 06:58:13,b'RT @gregyoung: This is the worst article I have read this year https://t.co/iBUk3qneyz its just wow in its misunderstandings of things.'
+626513155645116417,2015-07-29 22:02:31,b'Server-sent events with #RxJava and SseEmitter | http://t.co/bHOaT6AZ9d | #Spring #SSE'
+626123724564131841,2015-07-28 20:15:03,b'Memory leak on my blog fixed. @GooglePlus comments turned off: from 500 to 85 MiB and much faster page load time | http://t.co/8pLHW8Hga7'
+625752805232504832,2015-07-27 19:41:09,b'Notes after GOTO Amsterdam (@GOTOamst) |  http://t.co/WMNgy5nLlw | courtesy of @4FinanceIT'
+624469220496162816,2015-07-24 06:40:38,"b""@mostruszka No plans for follow-up yet. But I'd love to hear other people's experiences. And no, #SOAP is not an alternative, @jzadrag :-)"""
+624344416422133761,2015-07-23 22:24:43,b'RESTful considered harmful | http://t.co/hVyQNJfGrY'
+623596026881024000,2015-07-21 20:50:53,b'RT @tmdp76: Nice article by @tnurkiewicz http://t.co/g4waO7uphi'
+623398070307438592,2015-07-21 07:44:16,b'RT @0r81t: @tnurkiewicz it was really great talk. Thanks for that!'
+623232914432622592,2015-07-20 20:48:00,"b'""What #Java devs can learn from #Haskell"" voted best talk at #confiturapl. I\'m a best speaker for the 2nd time. Thx! http://t.co/kikpiztycG'"
+621385551338467329,2015-07-15 18:27:14,b'Consuming java.util.concurrent.BlockingQueue as rx.Observable #RxJava | http://t.co/LqZy0ec7Gb'
+621220213187563520,2015-07-15 07:30:15,"b'@talios This plugin for @intellijidea is ""Presentation Assistant"". Thanks for watching!'"
+619256196525096960,2015-07-09 21:25:57,"b'Video of my ""#Hystrix: managing failures in distributed systems"" talk from @Atmosphereconf | https://t.co/KCFIrVMHhX'"
+618894699810586624,2015-07-08 21:29:29,"b'Writing a download server. Part VI (last): Describe what you send (Content-type, et.al.) | http://t.co/pnr4Y4jKim'"
+618842528222183424,2015-07-08 18:02:10,"b'RT @programistamag: #Hazelcast w aktualnym wydaniu ""@programistamag @tnurkiewicz #java http://t.co/Tz2kxlxze4 http://t.co/VgQGxkgQNo'"
+618114076745564160,2015-07-06 17:47:34,b'Writing a download server. Part V: Throttle download speed http://t.co/pcysGLKsKt'
+617772358150004736,2015-07-05 19:09:42,b'RT @DBacinski: @wendigo @ktosopl @tnurkiewicz \xc5\x9bwietne prezentacje na @confiturapl !'
+617630117259554816,2015-07-05 09:44:29,"b'Slajdy z mojej prezentacji ""Czego Javowiec nauczy si\xc4\x99\nod Haskella?"" na #confiturapl | http://t.co/2qV7BFoCrc'"
+617622183251156992,2015-07-05 09:12:58,b'RT @MarcinStachniuk: Thanks @confiturapl for conference. Best talk made @tnurkiewicz'
+617435742223118336,2015-07-04 20:52:07,"b'RT @andrzej_bobak: A serious warning from @tnurkiewicz ""everytime you use a dot in your code you\'re risking a null pointer exception"" :) #c\xe2\x80\xa6'"
+617435683683192833,2015-07-04 20:51:53,b'RT @bartekzdanowski: @tnurkiewicz on stage. #confiturapl http://t.co/EbzY8D688n'
+616723473730281472,2015-07-02 21:41:48,b'Writing a download server. Part IV: Implement HEAD operation (efficiently) | http://t.co/RQQKNtlX0P'
+616671340280586240,2015-07-02 18:14:39,"b'I got ""Easiest Person to Work With"" award, voted by other @4financeIT employees - and Apple Watch gift. Thank you! http://t.co/Rkh5CPWOd3'"
+616537750217564160,2015-07-02 09:23:49,b'RT @kszdev: Released micro-infra-spring v. 0.9.0 https://t.co/QPq6fyO46X // cc @4financeIT'
+616487836573937664,2015-07-02 06:05:28,b'Nagranie z mojej prezentacji o #Hystrix na @WarszawaJUG | https://t.co/8aQpbWOJ0s'
+616283680210857985,2015-07-01 16:34:14,b'RT @yfain: @tnurkiewicz Great job on explaining a complex subject in a simple way!'
+616160014240235520,2015-07-01 08:22:49,b'Video of my talk about #CompletableFuture in #Java8 at #GeekOutEE 2015: https://t.co/rnHEowgBma'
+615622750170939394,2015-06-29 20:47:56,b'Writing a download server. Part III: headers: Content-length and Range | http://t.co/TekKbuiqQf'
+613830413929328640,2015-06-24 22:05:49,"b'Writing a download server. Part II: headers: Last-Modified, ETag and If-None-Match | http://t.co/A92SqNodYT'"
+613336328642654208,2015-06-23 13:22:30,"b'Functional programming by @gregyoung - talk everyone else wishes to give. Best one on #DevoxxPL, no matter who talks tomorrow. Breathtaking'"
+613284306979524608,2015-06-23 09:55:47,b'RT @michalgruca: Only on #DevoxxPL @tnurkiewicz coding like a boss with one hand with mic in the other one'
+613284284846211073,2015-06-23 09:55:42,b'RT @pfeiffer_d_: @tnurkiewicz demoing #hystrix at #DevoxxPL . You do not want to ddos your own infrastructure utilizing your users.'
+613284271776768000,2015-06-23 09:55:39,b'RT @pawelstawicki: Very informative presentation about hystrix by @tnurkiewicz Pure code #DevoxxPL'
+613106266844626944,2015-06-22 22:08:19,"b'Writing a download server. Part I: Always stream, never keep fully in memory http://t.co/VB1IHHFPrp'"
+612588725667790848,2015-06-21 11:51:48,"b""Got feedback after my CompletableFuture session at #GeekOutEE. It was an amazing event, I'm so happy I was part of it http://t.co/Xq0jNCY2R2"""
+610029393767985152,2015-06-14 10:21:55,b'RT @AndriiRodionov: @tnurkiewicz talking about #Hystrix http://t.co/WbbrPwRqGP'
+609995590634708992,2015-06-14 08:07:36,b'RT @jessitron: Step 1 to writing good code: recognize there is no such thing as universally Good Code.\nStep 2: write boring code.\n~ @searls'
+609641744486002688,2015-06-13 08:41:33,b'RT @_nighthacking: All the #NightHacking @GeekOutEE interviews are up on the website in record time!  http://t.co/FyyeDMALO6'
+609401574436290560,2015-06-12 16:47:12,b'RT @_nighthacking: Tomasz Nurkiewicz (@tnurkiewicz) on Asynchronous Processing @GeekOutEE http://t.co/QvINM8yOQ5 http://t.co/nzVEfk8ZGR'
+609353852299685888,2015-06-12 13:37:34,b'RT @ktosopl: .@_nighthacking with @tnurkiewicz http://t.co/3wDcg1D8aH'
+609344783602032640,2015-06-12 13:01:32,b'RT @_nighthacking: LIVE interview with @tnurkiewicz on asynchronous processing with Java at @GeekOutEE: http://t.co/UNfbpPm8cS http://t.co/\xe2\x80\xa6'
+609294803101216768,2015-06-12 09:42:55,"b""RT @antonarhipov: There's @tnurkiewicz talking about CompletableFuture at #GeekOutEE http://t.co/eShfN2YQ86"""
+609294715482148864,2015-06-12 09:42:34,b'RT @shelajev: Asynchronous processing done right. A great session about CompletableFutures by @tnurkiewicz at @GeekOutEE http://t.co/al82RK\xe2\x80\xa6'
+608546798655787008,2015-06-10 08:10:37,b'RT @SolidSoftBlog: Nice blog post about stack traces and a cost of creating exceptions by @tnurkiewicz http://t.co/1FuuWKK2fJ'
+608169570361331712,2015-06-09 07:11:39,b'RT @alenkacz: @tnurkiewicz great presentation today. We are experimenting with Hystrix too :-) awesome library!'
+606793673750290432,2015-06-05 12:04:20,"b'RT @WarszawaJUG: Zapraszamy na 161. WJUG, ""Hystrix-Managing failures in distributed systems"" Tomasz Nurkiewicz @tnurkiewicz http://t.co/EVK\xe2\x80\xa6'"
+606209854911463425,2015-06-03 21:24:26,b'How LongAccumulator and DoubleAccumulator classes work? | http://t.co/vuDFw6wPrM | #Java8'
+605402018954493952,2015-06-01 15:54:23,"b""RT @cbuleandra: One week left until the next #czjug event in Prague: #microservices &amp; #hystrix with @MGrzejszczak and @tnurkiewicz. It's go\xe2\x80\xa6"""
+605015632757813249,2015-05-31 14:19:02,b'Notes after #Spring.IO Barcelona conference | http://t.co/CJFRE2wiUZ | Thanks to @4financeIT'
+604696687223971841,2015-05-30 17:11:39,b'Got a gift from @bartekzdanowski from @TouK_pl and finally had time to play. Thank you! http://t.co/3qn20L3y9x'
+599178413912502274,2015-05-15 11:44:00,b'RT @jacek_bilski: #hystrix presentation at #GeeCON by @tnurkiewicz - very good choice'
+599178395528888321,2015-05-15 11:43:56,"b'RT @trzmiel: As usual @tnurkiewicz did an excellent job, this time on #Hystrix. #GeeCON'"
+599178369700372480,2015-05-15 11:43:50,b'RT @ilopmar: Amazing presentation about #Hystrix by @tnurkiewicz. Very well done! Now I need to try it! #GeeCon'
+599178198983782400,2015-05-15 11:43:09,b'RT @cbuleandra: @tnurkiewicz is doing a great job on explaining how #Hystrix works at #GeeCON. http://t.co/4qlwuTwSqq'
+599178172068982784,2015-05-15 11:43:03,b'RT @ioanasaysgo: #Hystrix demo by @tnurkiewicz is AWESOME! #GeeCON http://t.co/rZw76ChPbA'
+599178082998693888,2015-05-15 11:42:41,b'RT @tkaczanowski: Hystrix rules in room 5 @GeeCON great presentation by @tnurkiewicz'
+599178003470524416,2015-05-15 11:42:22,"b""RT @ilopmar: The next talk it's about #Hystrix. The whole presentation is live code. Love it! @tnurkiewicz http://t.co/QP93vu2jye"""
+598455519221800960,2015-05-13 11:51:29,b'RT @Atmosphereconf: .@tnurkiewicz will speak at #AtmosphereConf about #Hystrix. Is there any reason to NOT to attend? :) http://t.co/FvSglf\xe2\x80\xa6'
+590275885858717697,2015-04-20 22:08:32,"b'#Spring: injecting lists, maps, optionals and getBeansOfType() pitfalls | http://t.co/DLUY9ZYN8C | #Java'"
+584779663400116224,2015-04-05 18:08:31,"b'Biological computer simulation of selfish genes http://t.co/c8yZZ504TR | Inspired by ""The Selfish Gene"" by @RichardDawkins'"
+583017623857831936,2015-03-31 21:26:48,"b'I will be talking about #Hystrix (""managing failures in distributed systems"") at #Devoxx PL. No slides, just code! http://t.co/btnNgNi5g8'"
+580069318710456321,2015-03-23 18:11:17,"b""CompletableFuture can't be interrupted | http://t.co/VjIdOYBWtU"""
+578471391823077376,2015-03-19 08:21:41,"b'RT @jessitron: ""We\'re moving out of this system soon, so let\'s just do quick hacks"" ... for years...\n#runAway'"
+578036158699036672,2015-03-18 03:32:14,"b'RT @will_sargent: Rereading the ""Clean Code, Clean Logs"" series and wanting to highfive @tnurkiewicz http://t.co/y9getsYEm8'"
+571624808791855105,2015-02-28 10:55:49,"b""@sdeleuze @mixIT_lyon Sorry, can't make it this time :-(. Thank you for an invitation though!"""
+569775525490786304,2015-02-23 08:27:25,b'Journey to idempotency and temporal decoupling | http://t.co/BBAut7X2pX | #HTTP #REST #Spring'
+568881064070012928,2015-02-20 21:13:09,b'RT @jkubrynski: CompletableFuture tricks by @tnurkiewicz at @4financeIT workshop http://t.co/s07ckC0jEN'
+564922048133496832,2015-02-09 23:01:26,b'Retry-After #HTTP header in practice | http://t.co/Yx12RtAwgZ'
+563816713473753089,2015-02-06 21:49:14,b'RT @java: Congratulations New Java Champion: Jacek Laskowski @jaceklaskowski http://t.co/YVznpgJgaS'
+562334671460392961,2015-02-02 19:40:08,b'Storing months of historical metrics from #Hystrix in #Graphite | http://t.co/mCtEQR3bmi'
+559628775965859841,2015-01-26 08:27:52,"b""RT @jkubrynski: This Tuesday @iNikem at #wjug about off-heap techniques. Can't miss!"""
+557957799687512065,2015-01-21 17:48:00,b'RT @4financeIT: Check out our open source microservices tools library https://t.co/Q5dURGGCyt'
+556963420369854465,2015-01-18 23:56:41,"b'#chamberconf was really unique, mostly due to unusual venue. Look what I found at @MosznaZamek! http://t.co/26XUPAQpDA'"
+556232104200396800,2015-01-16 23:30:42,"b'RT @GeekOut_ee: Wlcm 2015 speakers 1/2:@z_oleg,@jgenender,@edburns,@tnurkiewicz,@aalmiray,@headius,@svenpet,@NoamTenne http://t.co/yj0WryUX\xe2\x80\xa6'"
+555456811273555970,2015-01-14 20:09:58,"b""RT @xaerxess: @jkubrynski Congrats for being featured in @DZone's Dev of the Week http://t.co/XWUNFmRf7h!"""
+552944050085826560,2015-01-07 21:45:09,b'I will do a live coding session about CompletableFuture in #Java8 at #GeekOut_ee this June in Tallinn. See you there! http://t.co/SSJTY4EmBs'
+552461815477993473,2015-01-06 13:48:55,"b'@EchoSqueeze Yes, https://t.co/fcKTORIdnS is available in #Maven central here: http://t.co/tDKCZlBE67|'"
+551666532439584768,2015-01-04 09:08:45,b'@natpryce CanBuildFrom typeclass does the trick: http://t.co/V7HCrHSmrC #scala'
+550777691340034048,2015-01-01 22:16:49,b'W ostatnim numerze @programistamag m.in. m\xc3\xb3j artyku\xc5\x82 o #Hystrix. Polecam! http://t.co/Np5HcBSMjv'
+548952826559201280,2014-12-27 21:25:27,b'Asynchronous timeouts with CompletableFuture | http://t.co/q0EqGf4wjc | #Java8'
+545680293559296001,2014-12-18 20:41:34,b'RT @joewalnes: Postgres 9.4 final is out with awesome JSON support. Combine that V8 JS and there really is no reason to use MongoDB. Ever. \xe2\x80\xa6'
+544593046382206976,2014-12-15 20:41:14,b'#Hazelcast member discovery using #Curator and #ZooKeeper | http://t.co/fuw8WFQ9fy'
+544201437241434112,2014-12-14 18:45:08,"b'In #IntelliJIDEA Ctrl+E in editor shows recently opened files. TIL: focus on Find toolbox (Alt+3), where Ctrl+E shows recent search terms'"
+542082959432364032,2014-12-08 22:27:03,"b""Accessing #Meetup 's streaming API with #RxNetty | http://t.co/qlChmglJwd | #RxJava, #Netty and #JSON parsing done right"""
+540638604209303552,2014-12-04 22:47:42,b'Enabling #JMX in #Jetty 9 under #SpringBoot | https://t.co/gff6GU9AQm | Lambda style!'
+540626202453487616,2014-12-04 21:58:25,b'Benchmarking impact of batching in #Hystrix | http://t.co/AJSbil6vf4'
+540579437616824321,2014-12-04 18:52:36,b'RT @hhariri: New plugin I\xe2\x80\x99ve been working on\xe2\x80\xa6Still in prototype stages... http://t.co/NJ6orOw40Z'
+537390385627426817,2014-11-25 23:40:26,"b""@heathborders InterruptedIOException is only thrown from PipedInputStream/Reader and ProgressMonitorInputStream so it's almost absent in JDK"""
+536997876128153601,2014-11-24 21:40:45,b'Published: Converting between Completablefuture and Observable | http://t.co/olHJb0awYH | #java8 #rxjava'
+535522112090292224,2014-11-20 19:56:35,b'Published: ExecutorService - 10 tips and tricks | http://t.co/ypktBzweTY | #Java'
+533040505517797376,2014-11-13 23:35:34,"b'RT @nofluffjobs: Senior Software Developer @ 4Finance\nLocation: Warsaw, Poland\nhttps://t.co/2dAw5ez0wZ'"
+529187095013634049,2014-11-03 08:23:29,b'Published: Batching (collapsing) requests in #Hystrix | http://t.co/mngF60VEgf'
+528868178223722496,2014-11-02 11:16:14,"b'What\'s the problem? Today it\'s called ""microservices architecture"" http://t.co/1nPMRQN7Ev'"
+527100543232397312,2014-10-28 14:12:17,"b'RT @antonarhipov: @tnurkiewicz very good talk, thx!'"
+526813202299252736,2014-10-27 19:10:29,b'Video from my #GeeCON live coding session about CompletableFuture in #Java8 is available: http://t.co/ZS1mfwI1ZB'
+525001649606369281,2014-10-22 19:12:02,b'RT @springcentral: Introducing Spring Sync - for efficient comms &amp; data synch between clients and Spring-based servers http://t.co/Qy3zehQQ\xe2\x80\xa6'
+522872181521260544,2014-10-16 22:10:17,"b""@LAFK_pl Nothing that comes to my mind. Of course one could always argue some topics aren't covered enough, but I really enjoyed this book"""
+522809843468365824,2014-10-16 18:02:34,b'Published: #Java Performance: The Definitive Guide - review | http://t.co/vyvr1856Ky'
+520702938755653632,2014-10-10 22:30:29,b'My first contribution to #Clojure language got merged! https://t.co/5XB76YlXjK - fixing: http://t.co/N0ZFkHdQsK'
+520696051162832897,2014-10-10 22:03:07,"b""@bartczakt 'Cockroaches' was really good, but 'Police' IMHO outperforms it both from intrigue and storytelling mastery perspective"""
+516169832048656384,2014-09-28 10:17:32,"b""'Police' by @RealMrJoNesbo is one of the best, most frightening, violent and surprising crime novels I read, ever. Strongly recommended."""
+514151823360262144,2014-09-22 20:38:41,b'Published: #Hazelcast MapLoader pitfalls | http://t.co/OWqwZp19FS'
+512897937148362752,2014-09-19 09:36:12,b'Published: Property-based testing with #ScalaCheck - custom generators in #Scala | http://t.co/7InByEVCnw'
+512537808255197184,2014-09-18 09:45:10,b'Published: Property-based testing with #Spock and #Groovy | http://t.co/zRMSPBKRGb'
+506927280636325891,2014-09-02 22:10:56,"b'Got my @ScalaTimes sticker, thanks @jaceklaskowski and @softwaremill! #scala http://t.co/CnpPnSiy1g'"
+503619019296239616,2014-08-24 19:05:05,"b'@shelajev You are right, well spotted. Fixed, thank you!'"
+503292330263060480,2014-08-23 21:26:56,b'Published: URL shortener service in 42 lines of code in... #Java (?!) | #Spring Boot + #Redis | http://t.co/cfgSFMw6Mk | CC: @LeviNotik'
+499135002706063360,2014-08-12 10:07:12,b'RT @raboofje: Nice post by @tnurkiewicz on request/response patterns in #scala #akka: http://t.co/LQgyETmKBP'
+491295116716285952,2014-07-21 18:54:18,b'Published: Testing code for excessively large inputs | http://t.co/vqu9DtXZvW'
+491275258633023488,2014-07-21 17:35:23,b'Published: Building extremely large in-memory InputStream for testing purposes | http://t.co/bVyU1oU7Tc'
+489883395174825984,2014-07-17 21:24:37,"b'Published: Grouping, sampling and batching - custom collectors in #Java8 (with tests in #Spock) | http://t.co/qu8tQfvuUy'"
+489817880826228736,2014-07-17 17:04:17,"b'RT @warsjawa: We\'ve another great mentor: Tomasz Nurkiewicz @tnurkiewicz will lead: ""Advanced concurrency in Java""! http://t.co/hpFojC8N4Q'"
+489530805887467520,2014-07-16 22:03:33,"b'Me, live coding at #GeeCON this year. Final future? | https://t.co/U0f5d1CRK8'"
+489464643115839489,2014-07-16 17:40:39,"b'@akarazniewicz You are right, collectors are pretty much encapsulated folds. I updated my article with more examples'"
+489169765437427712,2014-07-15 22:08:55,b'Published: Introduction to writing custom collectors in #Java8 | http://t.co/sgHDkSZOFZ'
+486940432463835137,2014-07-09 18:30:20,"b'If ""Hello world"" example appears first in chapter 9, it must be a book about purely functional language | http://t.co/ZJiejHhZQr | #Haskell'"
+486211266038345728,2014-07-07 18:12:53,b'Published: Turning recursive file system traversal into Stream&lt;Path&gt; | http://t.co/VlrS9V0Mwl | #Java8'
+485531214565347328,2014-07-05 21:10:36,"b'Best speaker at #confiturapl last year award I received today, thank you! And in Threee-dee! http://t.co/q0oQyVholm'"
+485520883537436672,2014-07-05 20:29:33,b'RT @erbetowski: #warsjawa t-shirts at #confiturapl http://t.co/IgmCZAskCP'
+485090340987105283,2014-07-04 15:58:44,b'RT @travisbrown: New blog post about folds and the name `Foldable` (in response to @tnurkiewicz): http://t.co/FeV8JDioSI #critcode #scala #\xe2\x80\xa6'
+483363168148652032,2014-06-29 21:35:34,b'Published: #Clojure for Machine Learning book review | http://t.co/td8w1SoWn9'
+482999901409009664,2014-06-28 21:32:04,b'#Java puzzle: what will be printed? https://t.co/FXsDRKydzP'
+481169931413630976,2014-06-23 20:20:26,b'Published: Option.fold() considered unreadable | http://t.co/QT2mbkPrYH | about #Scala and #Haskell'
+478947909023854592,2014-06-17 17:10:54,b'My #Spring Data #JDBC repository (https://t.co/Vlh2pBWK1Z) library is now available in #Maven Central. Enjoy! | http://t.co/s6mXVL62OJ'
+476345341768650752,2014-06-10 12:49:14,"b""RT @xaerxess: @tnurkiewicz Thanks for the talk, enjoyed examples, tempo and topic, very nice session, although I don't think I'll use Saiku\xe2\x80\xa6"""
+476331064106168320,2014-06-10 11:52:30,b'Slides from my talk at #33rdDegree conference about #Saiku and #OLAP: http://t.co/erHYKMycXe | Thanks for coming!'
+476270897393709056,2014-06-10 07:53:25,"b'RT @ktosopl: Something great is coming to Prague later this year, be a part of it! http://t.co/F9nchQDWmG #GeeCON'"
+476258655609028609,2014-06-10 07:04:46,"b""RT @lukaseder: Modern relational OLAP databases? I'm sold for the talk by @tnurkiewicz: http://t.co/QJOPlyoWHB #33rdDegree"""
+476030664538877952,2014-06-09 15:58:49,"b'""Don\'t use setter injection, even when you are alone. Use constructors instead"" by @starbuxman at #33rdDegree.'"
+472669611708923904,2014-05-31 09:23:11,"b'My async-retry library (https://t.co/epUHjqMPAL) for #Java 8 is published to #Maven central (http://t.co/CKHWggmM0Z), more to come. Enjoy!'"
+472437912672669697,2014-05-30 18:02:30,"b""@paulszulc Yes, the story and code is real. App is not yet rewritten to #Akka, but it's in progress. We can talk about the details in person"""
+472125734048129024,2014-05-29 21:22:01,b'Published: Simplifying trading system with #Akka (in #Java) | http://t.co/an4fHmlvWD'
+471708329341751296,2014-05-28 17:43:24,b'Published: InterruptedException and interrupting threads in #Java explained | http://t.co/LhS6B31TVM'
+471698718606237696,2014-05-28 17:05:12,b'Slides from my talk about monitoring #Java applications at @WarszawaJUG are available at http://t.co/UywlI9PUHi'
+470987787857326080,2014-05-26 18:00:13,"b""- Our code coverage increased by 15%\n- Not possible, it was just 20% a week ago!\n- Indeed, now it's 23.\n/Lies, damned lies, and statistics/"""
+470537575758061568,2014-05-25 12:11:14,"b'RT @WarszawaJUG: Zapraszamy na 15. spotkanie Jinkubatora, Tomasz Nurkiewicz opowie o Monitorowaniu aplikacji http://t.co/X8MyNbg5Fl'"
+467749836637614080,2014-05-17 19:33:46,b'Source code from my coding session at #GeeCON conference this year about CompletableFuture in #Java 8: https://t.co/MSAvgLNqyY'
+467212111874359296,2014-05-16 07:57:02,b'@jkubrynski just built a REST microservice from scratch using #Spring boot during his talk at #geecon. In 5 minutes. Amazing.'
+466947657450389506,2014-05-15 14:26:11,"b""RT @oficjalny: 'CompletableFuture in Java8' by @tnurkiewicz - best lecture on #geecon so far."""
+466947452957118464,2014-05-15 14:25:22,b'RT @miciek: Great live coding session by @tnurkiewicz at #geecon about CompletableFuture :) thanks! http://t.co/RdQi3kQYGH'
+466947432132395008,2014-05-15 14:25:17,b'RT @LukaszWiktor: @tnurkiewicz great talk about CompletableFeature!'
+466947375836438528,2014-05-15 14:25:04,b'RT @wololock: The one of my favorite speakers started his talk - @tnurkiewicz about CompletableFuture in java 8 #geecon http://t.co/e3eR31a\xe2\x80\xa6'
+461256351541628928,2014-04-29 21:30:58,b'RT @SolidSoftBlog: Blogged: Using #AssertJ and #Awaitility together thanks to #Java8 and #lambdas http://t.co/9TdVJ30IOb'
+458710821124599809,2014-04-22 20:55:56,b'Published: HashMap performance improvements in #Java8 | http://t.co/iGjcYwEJXJ'
+458707818577555457,2014-04-22 20:44:01,b'W marcowym numerze Magazynu Programista (http://t.co/pygk5EyLz4) tym razem m\xc3\xb3j 8-stronicowy artyku\xc5\x82 o #Akka http://t.co/MKkGS86yb0'
+458325848169652224,2014-04-21 19:26:12,"b""Tomorrow during @WarszawaJUG #Java8 flash-talks I'll be talking about java.time, *.atomic and HashMap improvements | http://t.co/Q4C7OjiCxW"""
+453648161764958208,2014-04-08 21:38:44,b'@hanxue Unfortunately talks at #ScalarConf were not recorded. Thanks for #Reddit link!'
+452585887399174144,2014-04-05 23:17:38,b'RT @liveweird: [BLOG POST] #ScalarConf - the first #Scala conference in Poland (from a .NET dude perspective) http://t.co/6BerAK80nS'
+452509801017520128,2014-04-05 18:15:18,"b""Slides from my 'Dark Side of #Scala' talk: http://t.co/o4fT9NrUd0 at #scalarconf"""
+452498595745640449,2014-04-05 17:30:46,"b'RT @mgrzechocinski: Great talks about #scala inconsistency by @tnurkiewicz and #akka persistence by @ktosopl So far, very enlightening time\xe2\x80\xa6'"
+452498334532796416,2014-04-05 17:29:44,"b'RT @mostruszka: As always, great talk by @tnurkiewicz about dark sides of #scala at #scalarconf'"
+452498302861594624,2014-04-05 17:29:37,"b""RT @travisbrown: One thing I can agree with from @tnurkiewicz's @scalarconf talk: pattern matching on types is bad news."""
+451811819855032321,2014-04-03 20:01:46,"b'RT @noahlz: TIL: Logback provides ""root cause first"" exception logging - since 0.9.3 http://t.co/dlpDJYgOLX - why don\'t you people tell me \xe2\x80\xa6'"
+451104118095224832,2014-04-01 21:09:37,b'Eating your own dog food? #Subversion developers migrate to #git | http://t.co/x6WKAAqnSF'
+448212021159284736,2014-03-24 21:37:27,b'Published: Automated bug finding with #git bisect and #mvn test | http://t.co/qfcdvaRFUP'
+448171544247021568,2014-03-24 18:56:37,"b""I'll be speaking at @33rdDegreeConf this June about #Saiku | http://t.co/VhkTIJGCXE"""
+445995322121408513,2014-03-18 18:49:05,"b""To all disbelievers: it's official, #Java 8 was just released! | http://t.co/6R2E89Gvja"""
+445654892456062977,2014-03-17 20:16:20,b'Published: Simplifying ReadWriteLock with #Java 8 and lambdas | http://t.co/TW52IKohla'
+445159548014170113,2014-03-16 11:28:01,"b'IntelliJ IDEA 13.1 RC Introduces #SublimeText Style Multiple Selections, check the demo! | http://t.co/VDCZtHdrbg via @jetbrains'"
+444235446793424896,2014-03-13 22:15:58,b'W lutowym numerze Magazynu Programista (http://t.co/pygk5EyLz4) znajdziecie m\xc3\xb3j obszerny artyku\xc5\x82 o Javie 8. Polecam! http://t.co/eAtn3c6WuO'
+443090718937325568,2014-03-10 18:27:14,"b""I'll attend #TEDxWarsaw conference this Thursday, see you there!"""
+440950607004704768,2014-03-04 20:43:11,"b'I will be talking about CompletableFuture from #Java8 on #GeeCON this year. Coding only session, see you there! | http://t.co/bB2xB7xjTn'"
+437323129958830081,2014-02-22 20:28:53,b'Published: Custom #Spring namespaces made easier with #JAXB | http://t.co/xZU2cu0Eaw'
+434439690213543936,2014-02-14 21:31:08,"b'I will give ""The Dark Side of #Scala"" talk at @scalarconf this April, see you there!'"
+428989980518518784,2014-01-30 20:35:56,b'Thank you @jetbrains and @WarszawaJUG for @intellijidea Ultimate license. Started using IDEA in 2009 and never looked back.'
+421052725745287168,2014-01-08 22:56:07,"b'@cvsekhar You are absolutely right. Fixed, thanks!'"
+421028787455655936,2014-01-08 21:20:59,b'Published: Three flavours of request-response pattern in #Akka | http://t.co/mQgXVC6mDO | #Scala'
+420216217635258368,2014-01-06 15:32:08,b'Published: Turning #Twitter4J into @RxJava Observable | http://t.co/mjkgJ7FCtT'
+419817798852825088,2014-01-05 13:08:57,"b'Getting started with @intellijidea from @Packt is out: http://t.co/a5xb9qE8L2 and I was one of the reviewers, enjoy! http://t.co/3FQPEHStLn'"
+416267353811206144,2013-12-26 18:00:45,"b'Finally finished reactive programming course with 70/70 total score. Thanks @headinthebox, @odersky and @rolandkuhn for fantastic material'"
+415178511259688960,2013-12-23 17:54:05,"b""Published: Proxies done right with #Guava 's AbstractInvocationHandler | http://t.co/00jBywtlje | #Java"""
+414839170352156672,2013-12-22 19:25:40,b'Published: Promises and CompletableFuture | http://t.co/maPEdBLQvF | #java8'
+413773875760361472,2013-12-19 20:52:34,"b""RT @flatmaposlo: We're thrilled to announce our first flatMap(Oslo) 2014 speaker. Martin Odersky is coming to Oslo! @odersky http://t.co/kB\xe2\x80\xa6"""
+412336267477532672,2013-12-15 21:40:01,b'Published: Playing with #Scala futures | http://t.co/PAPBYKlez9'
+408013156791771136,2013-12-03 23:21:31,"b""I intentionally avoided them :-) RT @grzkubiak Great talk! It's amazing how you managed not to use words like 'functional' or 'monad' ;-)"""
+407992211272261634,2013-12-03 21:58:17,b'RT @mgrzechocinski: Another awesome talk by @tnurkiewicz at @WarszawaJUG today! Fell in love with @RxJava library for reactive programming \xe2\x80\xa6'
+407615862175064064,2013-12-02 21:02:49,"b""Tomorrow I'll be talking about functional reactive programming in #Java (CompletableFuture and @RxJava) at @WarszawaJUG, see you there!"""
+403293619299155968,2013-11-20 22:47:46,b'@TomaszDziurko Comments are enabled on my blog but @Blogger is not displaying them most of the time. I blame #GooglePlus integration :-('
+396310576835469312,2013-11-01 16:19:39,b'Published: #brainfuck in #Clojure. Part II: compiler | http://t.co/DbdQYb6OT4'
+394600575402143744,2013-10-27 23:04:43,b'Published: #brainfuck in #Clojure. Part I: interpreter | http://t.co/EsCfcIhdrx'
+393480098893950976,2013-10-24 20:52:20,"b'Published: ""Beginning #JavaEE 7"" by @agoncal review | http://t.co/YZ1PemInno'"
+390555957056393216,2013-10-16 19:12:51,b'Video of my @confiturapl 2013 talk about time in #Java (voted best according to attendees): http://t.co/u2aZgC0GO8 (in Polish)'
+389484503674396672,2013-10-13 20:15:16,"b'RT @scalarconf: Scalar, #Scala Conference in Central Europe officially announced!\n\nFor more info read https://t.co/4TfwM7WTlS\n\n#scalarconf'"
+389450881605062657,2013-10-13 18:01:40,b'RT @cetnar: @tnurkiewicz @33rdDegreeConf  Great talk! Thx'
+388017716289744897,2013-10-09 19:06:47,b'I will be speaking at 33rd Degree 4 charity conference this Sunday in Krak\xc3\xb3w | http://t.co/KRWGjrS07A #33degree'
+387643230566633472,2013-10-08 18:18:42,"b'There is one seat left for my #Java8 workshop (Polish) at #warsjawa in #Warsaw this Saturday, let me know if you are interested'"
+382625918537056256,2013-09-24 22:01:42,b'Published: instanceof operator and Visitor pattern replacement in #Java 8 http://t.co/b3tiZgY26V'
+369470980072038401,2013-08-19 14:48:40,b'Published: Optional in #Java8 cheat sheet | http://t.co/KObLThWHXg'
+369217321534910465,2013-08-18 22:00:43,"b'Great event by @skillsmatter: #Spring Exchange in #London with @springjuergen, @olivergierke, et al.: http://t.co/KJGNx5CFIl  | #Springx'"
+365781050552623104,2013-08-09 10:26:13,"b'@majson Put #JDBC driver with &lt;scope&gt;runtime&lt;/scope&gt; in #Maven so that MySQL classes are not accessible during compilation, only at runtime'"
+365449179352403968,2013-08-08 12:27:28,b'RT @kingsfleet: Very pleasing asynchronous retry library for #jdk8 from @tnurkiewicz http://t.co/FHcXVzdAWv'
+364385894150569984,2013-08-05 14:02:21,b'RT @bartekzdanowski: @tnurkiewicz najlepszym prelegentem Confitury 2013! Brawa! http://t.co/RGvbwBWu8h #confiturapl'
+362104852731527168,2013-07-30 06:58:19,"b'@eldermael CompletableFuture.isCompletedExceptionally() was added in build 98 (http://t.co/h7l0nycp7T()) of #JDK8, I use build 100'"
+361567043532750848,2013-07-28 19:21:15,b'Today #Java 7 turns 2 years old. Some people are still developing without generics while lambdas are around the corner.'
+359965382372626433,2013-07-24 09:16:49,b'RT @grzkubiak: @tnurkiewicz Great! We need something like that in different projects so often :)'
+359920710241615872,2013-07-24 06:19:18,"b""RT @DouglasCAyers: @tnurkiewicz Very nice! I'm working on a Java app that needs some retry support for unreliable web services it hits. Tha\xe2\x80\xa6"""
+359745074990559232,2013-07-23 18:41:24,b'Blogged: Asynchronous retry pattern | http://t.co/KFzB64w95s | #Java 8 and #Spring supported'
+359057390244605952,2013-07-21 21:08:47,"b'@Profpatsch Apparently @DZone breaks formatting when republishing my articles (same here: http://t.co/8GAxtZ3uLR), luckily source is linked'"
+357543874379517953,2013-07-17 16:54:37,b'Blogged: Managing congested actors in #Akka and #Scala | http://t.co/tttL8Cxnl7'
+356817180190441472,2013-07-15 16:46:59,b'Blogged: Fake system clock pattern in #Scala with implicit parameters | http://t.co/89HSOA5BJC'
+355931400232382464,2013-07-13 06:07:13,"b'""comparing / a data structure / to another / that is cache friendly from an abstract Big-O POV is just pointless"" | http://t.co/3cCbPJf3HT'"
+354643096954343424,2013-07-09 16:47:57,b'Slides from my #confiturapl talk: http://t.co/CZh16znDeM / http://t.co/p7Pu78nzGn. English: http://t.co/nbWjWn2oYp / http://t.co/8zLsxlxY3L'
+354243829878099969,2013-07-08 14:21:25,"b""RT @kamilkubacki: I really enjoyed this year's #confiturapl :) @tnurkiewicz gave great speech about time in java :)"""
+353499805558898688,2013-07-06 13:04:56,b'RT @michalgruca: Prezentacja @tnurkiewicz najlepsza jak do tej pory na #confiturapl'
+352104590096859137,2013-07-02 16:40:50,b'Blogged: Macro lifecycle in #Clojure | http://t.co/d8E3bGs8v1'
+351938934181339138,2013-07-02 05:42:35,b'RT @VidyaLLC: Outstanding post by @tnurkiewicz on using the power of #Scala to create a DSL for tests anyone can understand http://t.co/iOp\xe2\x80\xa6'
+351282881584308224,2013-06-30 10:15:40,b'Blogged: su and sudo in #Spring Security applications | http://t.co/BNO7x1fMXG'
+350341317450149888,2013-06-27 19:54:13,"b'RT @sascha_d: People, stop it with your screencasts. When I need to know how to do something, I want to read it in 10 seconds, not watch a \xe2\x80\xa6'"
+348394927622868992,2013-06-22 10:59:58,"b'""Beware of bugs in the above code; I have only unit tested it, not tried it.""'"
+345882967056449537,2013-06-15 12:38:20,b'@trzmiel Try #jqGrid in inline editing mode: http://t.co/dmFjqT6eJM'
+345657698852958208,2013-06-14 21:43:12,"b'Thanks @stuarthalloway for great talk today in #Oslo about https://t.co/VNJ7Ze117c, #Datomic and #Clojure'"
+343842477389787140,2013-06-09 21:30:09,b'Blogged: #Clojure macros for beginners | http://t.co/aZYcqe52FA'
+343809340840493056,2013-06-09 19:18:29,b'I will be speaking at #confiturapl about handling times and dates in software systems. More enjoyable than it sounds ;-). See you in #Warsaw'
+341298853909237760,2013-06-02 21:02:42,b'Blogged: Mapping enums done right with @Convert in #JPA 2.1 | http://t.co/XcNUfP0zM4 | #Java #JavaEE'
+339704399540670464,2013-05-29 11:26:54,b'@mgrzechocinski This syntax in #Java is called Double Brace Initialization and is sometimes considered bad practice | http://t.co/sefDeyiViT'
+339098637617475585,2013-05-27 19:19:50,b'Blogged: Null safety in #Kotlin | http://t.co/dcy1xdTeIG'
+334295517444075520,2013-05-14 13:13:56,"b""@viktorklang Have a look at 2nd part of this article (http://t.co/SYcL2eJW2d) where I explain why it's broken (but the idea is still useful)"""
+334047859232104448,2013-05-13 20:49:50,b'Publishing lazy sequences implementation for #Java8 | http://t.co/eY7OzOMQN6 | heavily inspired by #Scala streams and #Clojure'
+333691830761832448,2013-05-12 21:15:06,b'Blogged: #Java8: CompletableFuture in action | http://t.co/OIoaerg5Fg | first part: http://t.co/pKpNZ9qZu2'
+332743586535845888,2013-05-10 06:27:07,"b""RT @DouglasCAyers: @tnurkiewicz thanks! I'm learning Scala on http://t.co/6XhwXME9jJ and about to start streams lesson. Nice intro for me ;)"""
+332588767565205506,2013-05-09 20:11:56,b'Blogged: #Java8: Definitive guide to CompletableFuture | http://t.co/pKpNZ9qZu2'
+332254589141254144,2013-05-08 22:04:01,"b'RT @ceki: Remove ""build"" and your statement would still be true!'"
+332250842809896960,2013-05-08 21:49:08,b'#Scala build tools use Scala as DSL\n#Groovy build tools use Groovy as DSL\n#Clojure build tools use Clojure as DSL\n#Java build tools use XML'
+331461887688593410,2013-05-06 17:34:06,b'Blogged: Synchronising Multithreaded Integration Tests revisited | http://t.co/coWDYJkJcv | ...and first look at #Java8 with @intellijidea'
+330622249793114112,2013-05-04 09:57:41,"b'Blogged: Lazy sequences in #Scala and #Clojure | http://t.co/tyCTvHaVZV | testing #Cron expressions, again'"
+326428990074126336,2013-04-22 20:15:10,"b'@mariofusco ""Beginners will do it for free. Professionals will do it for money. Masters won\'t do it, even for money.""'"
+326421185363595264,2013-04-22 19:44:09,"b'My simple #Scalatron bot in #Scala: https://t.co/JUPIQPfBPZ - not sure how good/bad it is, anyone to compare?'"
+324858057505005569,2013-04-18 12:12:51,"b'@majson @aslakknutsen Hundreds of teen girls are screaming outside my office now, I work next to the Thief Hotel where @justinbieber stays'"
+323401977675517952,2013-04-14 11:46:54,b'Blogged: SiftingAppender: logging different threads to different log files | http://t.co/toJI9AagbJ | #Logback'
+321340499506110464,2013-04-08 19:15:19,b'Blogged: WatchService combined with #Akka actors | http://t.co/p6Qdkj7aiJ | #Scala and #Java'
+321167132576608256,2013-04-08 07:46:26,"b'RT @jboner: ""Don\'t communicate by sharing memory, share memory by communicating."" - Rob Pike (http://t.co/kJSP71N4iu)'"
+320977251724312576,2013-04-07 19:11:54,"b'@johncromartie Thx, your code is more compact, but is using vec and @ more idiomatic? Just learning. PS you must log in to comment on @DZone'"
+320258316741787648,2013-04-05 19:35:07,"b""@sourcedelica Thanks for #rxjava tip, I'll have a look. Also I missed CompletableFuture from JSR166 so I guess my 'Future' series isn't done"""
+319550147052859392,2013-04-03 20:41:06,b'Blogged: #Scala traits implementation and interoperability. Part II: Traits linearization | http://t.co/u2xTslaGeK'
+318834597616033793,2013-04-01 21:17:46,b'Blogged: #Scala traits implementation and interoperability. Part I: Basics | http://t.co/NeAU2bsLL1'
+318663686472466433,2013-04-01 09:58:37,b'Thank you! RT @DouglasCAyers Great article! Easy to read and I appreciated the clear and thorough instructions. Thanks for sharing...'
+317604281236721664,2013-03-29 11:48:56,b'Blogged: Synchronizing transactions with asynchronous events in #Spring | http://t.co/Yhc1hVN7no'
+317599279504044032,2013-03-29 11:29:03,b'@jarrod_dixon I added support for #grep and #wget for starters: http://t.co/gmkTUh3JKh'
+317314867361112064,2013-03-28 16:38:54,b'Blogged: #FitNesse your #ScalaTest with custom #Scala #DSL | http://t.co/OSRJRwceKS'
+315772954170511362,2013-03-24 10:31:53,b'Blogged: Promises and futures in #Clojure | http://t.co/LNDHHqMTyA'
+315417079664738305,2013-03-23 10:57:46,"b'By @zef: ""build amazing apps [..] with the most boring technology, [..] (that) has been in production for years"" | http://t.co/IInX3rf5l2'"
+311186784799318016,2013-03-11 18:48:05,b'Blogged: Promises and Deferred objects in #jQuery and #AngularJS | http://t.co/1lv4FDAAOn | Futures in #JavaScript this time'
+310839326550396929,2013-03-10 19:47:25,b'@fernandommota @SaikuAnalytics Any chances for open-sourcing this great feature? I was actually considering writing it myself one day...'
+309720366815797249,2013-03-07 17:41:04,b'Blogged: Futures in #Akka with #Scala | http://t.co/UO8hR6rPMS'
+309420947042078720,2013-03-06 21:51:17,"b'@corvindun dzi\xc4\x99ki, mi\xc5\x82o mi! Pisz\xc4\x99, bo lubi\xc4\x99, ale nie planuj\xc4\x99 nic wi\xc4\x99kszego. PS: a o Future&lt;T&gt; nie powiedzia\xc5\x82em jeszcze ostatniego s\xc5\x82owa ;-)'"
+309417837028585473,2013-03-06 21:38:55,b'Just released v0.3 of my #Spring Data #JDBC repository. #Oracle and querying by a set of primary keys support https://t.co/Vlh2pBWbFp #Java'
+308624628211912704,2013-03-04 17:06:59,b'Blogged: DeferredResult - asynchronous processing in #Spring MVC | http://t.co/erd6adudMi | #Java'
+307537017292595200,2013-03-01 17:05:13,b'Is Your Code Structured Like This? | http://t.co/Kepd8b8Xcd | interesting analysis by @EdmundKirwan of #JUnit design evolution'
+307258116087619585,2013-02-28 22:36:58,b'Blogged: Advanced ListenableFuture capabilities | http://t.co/TovHsaeccF | #Java and #Guava'
+306171435360088065,2013-02-25 22:38:53,b'Blogged: ListenableFuture in #Guava | http://t.co/859WS3eddv | #Java'
+305613386660585472,2013-02-24 09:41:24,b'RT @nicolaiarocci: Backbone.js vs Angular.js : Demystifying the myths http://t.co/om7cmwe3qW'
+305059439713607682,2013-02-22 21:00:12,b'Blogged: ExecutorCompletionService in practice | http://t.co/4fqv4ICass | #Java'
+304353295667970048,2013-02-20 22:14:15,"b'Gifts from #stackoverflow arrived few days ago. Still not sure what it is, but looks cool ;-). Thanks! http://t.co/wLJDIC6StG'"
+304314741952770050,2013-02-20 19:41:03,b'Blogged: Implementing custom Future&lt;T&gt; | http://t.co/a9EmA3pO | #Java and #JMS'
+303907057814364160,2013-02-19 16:41:03,"b'@mateuszszulc thx! Good timing, I just reached 100K rep. on #stackoverflow and decided to focus on other challenges http://t.co/qjq2TFNq'"
+303106346587414529,2013-02-17 11:39:19,"b'@springrod in http://t.co/7rE20pb9: ""(We) overinvested in #dmServer (#OSGi) for 2 yrs seduced by technology in search of a problem"" (0:37)'"
+302850648012115970,2013-02-16 18:43:15,b'Blogged: java.util.concurrent.Future basics | http://t.co/6n0WMWBa | #Java'
+300374534119378944,2013-02-09 22:44:04,"b""Blogged: Don't rely on unit tests alone | http://t.co/yiGoEW17 | #Java #TDD"""
+297823561987526657,2013-02-02 21:47:25,b'Breaking build is not a crime: http://t.co/98h9KQxg | effective continuous integration with #git and #Atlassian #Bamboo'
+296919884347105280,2013-01-31 09:56:31,"b'RT @Jfokus: We welcome Konrad Malawski @ktosopl to #Jfokus 2013 with the talk: ""Scala your Android"" #scala #android #mobile'"
+296707557886660609,2013-01-30 19:52:49,b'Just got my #DZGoodies package from @DZone. I especially enjoy printed Refcard on #WebSockets. Thanks! http://t.co/WFpudt2M'
+296352201805283328,2013-01-29 20:20:45,b'Dangerous key collisions in #Spring caching abstraction: http://t.co/2XrWz2NS by  @ethlo - bug?'
+295640971528503296,2013-01-27 21:14:35,b'Blogged: How aggressive is method inlining in #JVM? http://t.co/5RlhWNJI | #Java'
+294511733324804096,2013-01-24 18:27:23,b'My #Spring Data #JDBC repository now supports #MSSQL Server 2008/2012. Thanks @thomasdarimont for this contribution! https://t.co/hbHViNZF'
+293044205369036800,2013-01-20 17:15:57,b'Announcing #Spring Data #JDBC generic DAO implementation: https://t.co/hbHViNZF | http://t.co/ZJQbsmuC | Yet another #Java #ORM?! Not quite'
+292349255371341824,2013-01-18 19:14:28,"b""@TomaszDziurko @MichalBartyzel ja s\xc5\x82ysza\xc5\x82em: 'testy jednostkowe - wrzucamy na produkcj\xc4\x99 bez test\xc3\xb3w i modlimy si\xc4\x99 przez jednostk\xc4\x99 czasu' ;-)"""
+290908246808596480,2013-01-14 19:48:25,"b'Terrific #Netty tutorial: http://t.co/I0WhNyix, followed by part 2: http://t.co/CkDKwBk6 | #Java'"
+290569457431093249,2013-01-13 21:22:11,"b'Blogged: @Cacheable overhead in #Spring | http://t.co/uYU2gSzh | #Java, #performance'"
+289085367037091840,2013-01-09 19:04:57,b'Blogged: #Probability distribution for programmers http://t.co/plAyo7XN'
+289072853834403841,2013-01-09 18:15:13,"b""RT @jaceklaskowski: @tnurkiewicz Congrats! I'm impressed."""
+288716407053639681,2013-01-08 18:38:50,"b'""Learning #Highcharts"" book is out: http://t.co/BbHrt1an and I was a technical reviewer. #JavaScript developers-enjoy! http://t.co/FvJAr60j'"
+281662796448550912,2012-12-20 07:30:18,b'Any #nginx experts out there? Looking for some help... | http://t.co/b1uOr7N6'
+280294062131650560,2012-12-16 12:51:26,b'Great slides for both #Scala and #Android enthusiast: RT @ktosopl: I just published my #krakdroid slides. [...] http://t.co/T2eKl1em'
+279514997464391680,2012-12-14 09:15:43,b'Iterations Considered Harmful | http://t.co/V9WCvnIi | Critical take on #Scrum by @kief'
+273477618253320192,2012-11-27 17:25:19,"b'Coming out, joining \'Not Only Mocks\' movement, RT  @agoncal I\'m officially launching the ""NoMock Movement"": http://t.co/ye9dn2wL'"
+273131542912593921,2012-11-26 18:30:09,b'Blogged: Forcing #Tomcat to log through #SLF4J/#Logback | http://t.co/WaujILQi'
+272806907079700480,2012-11-25 21:00:09,"b""I'm impressed how easy it was to setup continuous integration for my @github hosted #Java project on @travisci | https://t.co/jXqZzqdU"""
+272470034016763904,2012-11-24 22:41:33,b'@ags313 @TomaszDziurko We use jdeb (https://t.co/UVrfuusg by @tcurdt) #Maven plugin to build #Debian packages. Does what you want.'
+272463392235728896,2012-11-24 22:15:09,b'Blogged: Standalone web application with executable #Tomcat | http://t.co/22hpA1Kq | using #Maven plugin'
+270786170613538816,2012-11-20 07:10:28,"b""RT @jTed_smith: We've got multi-core CPUs, so why not make use of them? Check this great #Java #Parallelization article by @tnurkiewicz  ..."""
+270240297097781248,2012-11-18 19:01:22,b'Blogged: Parallelization of a simple use case explained | http://t.co/6a0JlNsd | in #Java and a little bit of #Spring'
+268412633458282496,2012-11-13 17:58:53,b'Great #progfun #Scala course by @odersky at @coursera is over. Now waiting for a similar one about #Clojure. Anyone?'
+268368741610442752,2012-11-13 15:04:28,b'RT @FrVaBe: Enabling load balancing and failover in Apache #CXF by @tnurkiewicz http://t.co/KgHTRxYi &lt; Thanks - could be useful to kn ...'
+267719177303900162,2012-11-11 20:03:20,b'76 great slides: RT: And here are the slides of my #Google #Guava intro for @smarchive http://t.co/EsDoo3ef by @joschi83'
+267348077168427008,2012-11-10 19:28:43,b'Blogged: Remote actors - discovering #Akka http://t.co/rURQ2N7q | for the time being - last part #Scala'
+265872555548753920,2012-11-06 17:45:31,"b'Non-blocking I/O - discovering #Akka http://t.co/S43gXHLN #Scala, #netty powered'"
+265553036561235968,2012-11-05 20:35:52,"b'@rolandkuhn thanks for pointing it out, I clarified that bit.'"
+265525351910866944,2012-11-05 18:45:51,b'Blogged: become/unbecome - discovering #Akka http://t.co/52Lmbmla #Scala'
+265208707065999360,2012-11-04 21:47:37,"b'Quite interesting collection of #Spring, #Maven and #Java best practices: http://t.co/T3I2kmgt by @gdickens'"
+264789271884484608,2012-11-03 18:00:56,b'My comment about #StackOverflow quoted by New York Times: http://t.co/7FCsE9SG author @kevincarey1. How awesome!'
+264772538855469056,2012-11-03 16:54:27,"b'RT @alexkorotkikh: @tnurkiewicz thx to you for the great article :) actually, it was translated by @surg. We both maintains http://t.co/ ...'"
+264759751315963906,2012-11-03 16:03:38,"b""#Russian translation of my 'Where do the stack traces come from?' post (http://t.co/y6l3Z2te) by @alexkorotkikh: http://t.co/9VeYKrTV - thx!"""
+264450127182307328,2012-11-02 19:33:18,b'Blogged: Two actors - discovering #Akka | http://t.co/EcZuzyGn #Scala'
+264300897746694144,2012-11-02 09:40:19,"b""RT @trzmiel: Saved by @tnurkiewicz again - testing Quartz cron expressions. Keep 'em coming! http://t.co/kXenWqWj"""
+263716820811382784,2012-10-31 18:59:24,b'Blogged: Request and response - discovering #Akka | http://t.co/Ns8cUDrJ #Scala'
+263187510514032641,2012-10-30 07:56:06,"b'Blogged: Your first message - discovering #Akka | http://t.co/YUA9kDYe, #Scala'"
+262668378941038592,2012-10-28 21:33:16,"b'Blogged: #Java features applicability - which features to use on a daily basis, which occasionally and which... never | http://t.co/Gmd0X3Ph'"
+261219222150062080,2012-10-24 21:34:50,b'Double #Java misunderstanding: objects are garbage collected when they are no longer referenced by any other object'
+261218091567046656,2012-10-24 21:30:20,"b'RT @howardtayler: This has made me happy all day: ""Not my problem"" in Polish is ""nie moj cyrk, nie moje malpy."" Literally ""not my circus ...'"
+260277906025086976,2012-10-22 07:14:23,"b""whitespace? what's that? https://t.co/zkBAiIOL by @kevinb9n"""
+260056534518730753,2012-10-21 16:34:44,b'Effective #Scala - VERY comprehensive and pragmatic guide by @marius from @twitter'
+259713278559784960,2012-10-20 17:50:45,b'Blogged: Testing #Quartz Cron expressions http://t.co/Qum2JMzc'
+258993586723500032,2012-10-18 18:10:57,b'Blogged: #Java Coding Conventions considered harmful | http://t.co/URv3RdFE'
+258874113530159104,2012-10-18 10:16:12,b'RT @trzmiel: Saved again by @tnurkiewicz - Which Java thread consumes my CPU? http://t.co/80NV2qsu'
+258834319924158464,2012-10-18 07:38:05,b'Yet another reason to hate #Java/#XML couple - http://t.co/4EF1frIs'
+255661132612788225,2012-10-09 13:28:58,b'Traditional Offices Kill Creativity | Javalobby: http://t.co/sW9ll0fV'
+255039113516957696,2012-10-07 20:17:17,"b'""It took me hours to discover what the issue was"" - it took @intellijidea less than a second to mark potential bug... http://t.co/EiAIFxsc'"
+254653369233317888,2012-10-06 18:44:29,"b'RT @etiennestuder: Without the invention of the mouse, there would be no #EclipseIDE - without the invention of the keyboard, there woul ...'"
+254527384445931520,2012-10-06 10:23:52,b'Blogged: Where do the stack traces come from? http://t.co/hdOThrlX | #Java #performance'
+253941365875032065,2012-10-04 19:35:14,"b'#JMX/jconsole in browser with #Jolokia, #JavaScript/#jquery: http://t.co/YAYbeWCW | See also: http://t.co/A9h7sUKI and http://t.co/JTIoG4yy'"
+253936628123455488,2012-10-04 19:16:24,"b""Every #Java release is like #Apple product premi\xc3\xa8re: everyone's excited about features that competition has for ages //waiting for lambdas"""
+252690332452528128,2012-10-01 08:44:04,b'@Typesafe brings @SpringSource co-founder Rod Johnson\xc2\xa0(@springrod) aboard http://t.co/OdRBdruL'
+252523250037436417,2012-09-30 21:40:09,b'Blogged: RateLimiter - discovering #Google #Guava: http://t.co/0capW773 - lots of samples and use-cases | #Java'
+252364515797237761,2012-09-30 11:09:23,b'RT @roy: http://t.co/up1j788f is awesome. Record your terminal and playback in your browser. No video: plain text with JavaScript!! #rub ...'
+252320099590094849,2012-09-30 08:12:54,"b'RT @toyg: Great Knuth quote on #pyconuk poster: ""programming is the art of telling another human what one wants the computer to do""'"
+251635639706087425,2012-09-28 10:53:06,b'My tiny #bugfix of #Hazelcast: https://t.co/SPpnxGIS - I love the way #GitHub encourages developers to submit pull requests | #Java #Git'
+250703816582893569,2012-09-25 21:10:22,b'Dzi\xc4\x99kuj\xc4\x99 uczestnikom #confiturapl za oddane g\xc5\x82osy i cenne uwagi - drugi najlepszy wyk\xc5\x82ad konferencji (!) | http://t.co/oxh0lKHy'
+250290124284375040,2012-09-24 17:46:30,"b""#Google Spanner's Most Surprising Revelation: #NoSQL is Out and #NewSQL is\xc2\xa0In http://t.co/BQ3h0pT6"""
+249896833592201216,2012-09-23 15:43:42,"b""@mostruszka Just check out HTML of #endomondo - it's full of #wicket references"""
+243246494566723584,2012-09-05 07:17:38,b'FEST Assertions 2.0 brings some pretty exciting new features! https://t.co/nuDGSXYu #Java #JUnit'
+242673417491476480,2012-09-03 17:20:26,"b'Nagranie mojej prezentacji \'Uwolni\xc4\x87 si\xc4\x99 od ""if""\' z #confiturapl: http://t.co/3QgoAPNt lub http://t.co/vOvDWNQQ'"
+242015715022999552,2012-09-01 21:46:57,b'Hilarious nitpicking on #Ruby and #JavaScript: http://t.co/pkJd7BcW via @garybernhardt'
+242009229416873984,2012-09-01 21:21:11,b'Blogged: Accessing clipboard in #Linux terminal - http://t.co/VWgO2DXK | #Ubuntu #XML #JSON'
+241472375105937408,2012-08-31 09:47:55,b'RT @hekonsek: @tnurkiewicz After closer look - I agree :) .'
+241263198601359360,2012-08-30 19:56:43,b'Invoke Interface Optimisations - great benchmark and discussion about method inlining in #Java | http://t.co/FLtlbza7 by @mjpt777'
+240467160240119808,2012-08-28 15:13:33,"b""RT @ellnestam: Every time you return 'null' from a function, Nickelback release a new album."""
+240203926320848899,2012-08-27 21:47:33,"b""@hekonsek You pasted your password in some random web site? It's cracked already if you ask me ;-) | http://t.co/wzHZwutF"""
+239843961236254720,2012-08-26 21:57:11,b'RT @lizardbill: I think this http://t.co/w9aJ7iMD thing could really take off.  Great documentation!'
+239725925346983936,2012-08-26 14:08:09,"b""'Everything I Ever Learned about #JVM Performance Tuning @twitter' - insightful talk by @asz about GC in #Java: http://t.co/2aQKW85a"""
+239365060064051200,2012-08-25 14:14:12,b'Half of #StackOverflow questions could be avoided if authors read the source of problematic library | http://t.co/yKSJMRos by @codinghorror'
+239309616297697280,2012-08-25 10:33:53,"b'Which #Java thread consumes my CPU? - \nhttp://t.co/65Rhd2Sz - using #grep, #top and #jstack'"
+238944953047326720,2012-08-24 10:24:50,"b""Having #PayPal 'Donate' button on your blog? Are you sure you are charity organization? http://t.co/vAbPTSg1 via @ThinkDevGrow"""
+238721543365070850,2012-08-23 19:37:05,"b""@hekonsek IMHO it's terrible. If you remove all screenshots with #maven output, you get ~50 pages of content. Only basics of #SOAP and #REST"""
+238334124895649793,2012-08-22 17:57:38,"b'""What additional features do #JavaEE 6 have to move from #SpringFramework?"" http://t.co/Ho6EJoTC'"
+238303028002844672,2012-08-22 15:54:03,b'RT @bunsenhoneydew: If you look at code you wrote six months ago and aren\xe2\x80\x99t slightly embarrassed then you should be embarrassed by how l ...'
+238181907240734721,2012-08-22 07:52:46,"b""@michal_warecki that's what #CEP system are for, I hope #Drools can handle it. I'll put a project on #GitHub soon and let you know | #Java"""
+238181210235486208,2012-08-22 07:50:00,"b'@michal_warecki Silly me, I meant ever-growing *OldGen* (which will eventually break). If you have a leak, objects eventually fill-up OldGen'"
+238023966642544640,2012-08-21 21:25:10,b'@hekonsek Actually I was thinking about real-time monitoring of several JVMs and forwarding observations so #Camel is not such a bad idea!'
+238003315328307200,2012-08-21 20:03:06,b'@michal_warecki Ever-growing PermGen -&gt; leak. A lot of full GCs -&gt; inc. young (oversimpl.) #Drools Fusion to define such rules in #DSL #Java'
+238003206179913728,2012-08-21 20:02:40,"b'RT @michal_warecki: @tnurkiewicz Interesting. Only GC logs? How do you detect memory leaks without heap dump? Hmmm, misconf. is up to th ...'"
+237996470979137536,2012-08-21 19:35:55,"b'Planning to write GC log analyzer and assistant based on #Drools Fusion, suggesting leaks and GC misconfigurations. Anyone interested? #Java'"
+237986207689224192,2012-08-21 18:55:08,b'RT @jamesiry: Pro tip: always do expensive processing on the main UI thread. Non-responsiveness gives users confidence that the computer ...'
+237658825522556928,2012-08-20 21:14:14,"b""@hedonistchander Not really, books I've learnt #SpringFramework from are outdated, however #Amazon search reveals at least 6 from 2012"""
+237578329014808576,2012-08-20 15:54:22,b'Just become a 5th proud owner of #SpringFramework gold badge on #StackOverflow. http://t.co/WZGDIlQx'
+237577273799213056,2012-08-20 15:50:10,"b'RT @gnejs: Wanna build an event-driven game server?We need more developers (V\xc3\xa4xj\xc3\xb6/Sthlm, Sweden)! DM me for more info! #akka #camel #osg ...'"
+237284011528044544,2012-08-19 20:24:51,"b'RT @damienkatz: A machine dispensing udp packets had a sign saying ""Out of Order"" (the great thing about udp jokes is I don\'t care if yo ...'"
+236903996202307584,2012-08-18 19:14:48,b'RT @Amnesty_Norge: Ane Bonde Tusvik: I Russland er det lettere \xc3\xa5 bli fengslet for \xc3\xa5 synge en sang enn for \xc3\xa5 drepe en journalist. #FreePu ...'
+236842334346686464,2012-08-18 15:09:47,"b'""the binary, which represents the entire #Facebook application, is [...] 1.5GB in size"": http://t.co/6ZFrC0Cp - and deployed via #BitTorrent'"
+236223761437827072,2012-08-16 22:11:48,b'RT @guardianeco: Norwegian driver hits bear while trying to avoid moose http://t.co/ujT6XRJQ'
+235801848454475776,2012-08-15 18:15:16,"b""Learning @netty_project (https://t.co/1HUvRMoU), can't wait to integrate it with #akka in any way"""
+235437433628528640,2012-08-14 18:07:13,b'#Facebook Compiling #PHP to Run on the #JVM? | http://t.co/i8eIYxbX'
+235408546597048321,2012-08-14 16:12:25,b'Test Heuristics #CheatSheet http://t.co/jy1D6x9n - for #UnitTesting and integration #testing'
+235064127909945344,2012-08-13 17:23:50,b'RT @tkaczanowski: my mindmap of code reviews http://t.co/2xgLDQwK'
+231000600391864320,2012-08-02 12:16:49,"b""@tombujok Don't forget 'Best Practices for Speeding Up Your Web Site' by #Yahoo: http://t.co/7a29kLF5 #cdn #css #javascript #http"""
+230920421929779200,2012-08-02 06:58:13,b'#Google #Guava for Cleaner Code: http://t.co/qsV6mHuu - slides with short wrap-up'
+230699122624172033,2012-08-01 16:18:51,"b'RT @gamsjo: Oslo city turned upside down today, because US embassy had forgotten a training bomb under a car! #fail'"
+230373395634716673,2012-07-31 18:44:32,"b""RT @mandubian: Java concurrent.Future should have been called blocking.Failure considering it doesn't even provide a callback!!!!!"""
+230372902946615296,2012-07-31 18:42:34,b'Marvellous talk about immutable data structures in #Scala and how they relate to modern CPU architecture by @djspiewak: http://t.co/IxVE0whM'
+230286698641240065,2012-07-31 13:00:02,"b""In case you haven't noticed, #Vagrant is awesome"""
+230220824093814785,2012-07-31 08:38:16,b'RT @niebezpiecznik: Ciekawe og\xc5\x82oszenie o prac\xc4\x99 w security w Inteligo (widzicie to co my?): http://t.co/5x7vJ4wQ'
+230212847035088897,2012-07-31 08:06:34,"b'RT @cquinn: I think we should open source the government. All laws in guthub, accepting pull requests. Then delete most of them.'"
+229551992983408640,2012-07-29 12:20:34,"b'RT @ymasory: ScalaKata has awesome potential for exchanging ""runnable gists"". Never deal with an uncompilable gist again. https://t.co/X ...'"
+229276669041598465,2012-07-28 18:06:32,b'RT @ptrbojko: @tnurkiewicz nice post :)'
+229271396994392064,2012-07-28 17:45:35,b'Blogged: String memory internals in #Java http://t.co/rFZ7P5LH'
+228789859953815552,2012-07-27 09:52:07,b'@jaceklis Ctrl + Z in #Opera'
+228764426222845952,2012-07-27 08:11:04,b'Use Boolean.valueOf() method vs autoboxing to create Boolean objects in #Java http://t.co/JlMTB7p0 (on #StackOverflow)'
+228740828741394433,2012-07-27 06:37:18,b'@gitHater #git Simply explained: http://t.co/NXSMZLYx'
+228611564360593410,2012-07-26 22:03:38,b'RT @codinghorror: Dolph Lundgren is an inhuman monster! http://t.co/OQ5F2xNT'
+228552450817261568,2012-07-26 18:08:45,b'RT @mongodb: Edda: a log visualizer for MongoDB http://t.co/iIh4DFNd'
+228379832604585984,2012-07-26 06:42:49,"b'canPlayType() in #html5 (#JavaScript media API) return values: ""probably"", ""maybe"" or empty string... https://t.co/tTUjdq2p'"
+227810444017012736,2012-07-24 17:00:17,b'RT @jboner: Latency numbers every programmer should know: https://t.co/DOKot9jH'
+227807076825583617,2012-07-24 16:46:54,b'Is there any way of imitating OR in Java Generics http://t.co/XVVPb489'
+227764571069358080,2012-07-24 13:58:00,"b'RT @PeterGriffiin: I need a 6 month vacation, twice a year.'"
+227454072574320640,2012-07-23 17:24:11,b'RT @mfeathers: How the Norwegians Reacted to Terrorism http://t.co/7MZsO3et'
+227031060335173632,2012-07-22 13:23:17,b'My most upvoted question on #stackoverflow so far: Rebasing a branch including all its children (in #git) http://t.co/W5mAGZBt'
+226966287191011328,2012-07-22 09:05:54,b'RT @MiriamElder: Anthony Kiedis in a Pussy Riot t-shirt (Red Hot Chili Peppers play Moscow this weekend) http://t.co/5K4EXWH8 via @xenia ...'
+226434618323267584,2012-07-20 21:53:14,"b""RT @codinghorror: Today's meal: New Programming Jargon, with a side dish of deletionism. http://t.co/0QZoIpki"""
+226422905033084928,2012-07-20 21:06:41,b'RT @debasishg: Scala job trends seem to be skyrocketing .. http://t.co/jblvnorZ'
+226271061900152833,2012-07-20 11:03:19,"b'@koziolek ""s == null || s.trim().isEmpty()"" is not only simpler, but also better explains the intent and maps directly to method name'"
+226270394527666176,2012-07-20 11:00:40,"b""RT @jamie_gaskins: @_solnic_ Clearly, 1/2 LOC = 1/2 complexity, just like driving 2x as fast is safer because you're on the road 1/2 the ..."""
+226206312499904512,2012-07-20 06:46:02,"b'RT @madeupstats: Last year, the rate of statistical inaccuracies on the Internet doubled from 23% to 33%.'"
+226205269368115202,2012-07-20 06:41:53,"b'RT @spolsky: Best practices for implementing ""forgot password"" feature securely: http://t.co/PUQwPtQH (thanks @dpthanki)'"
+226204899107536896,2012-07-20 06:40:25,"b'RT @etorreborre: Axa looking for #scala #akka #scalaz developers (yes, you read #scalaz!) http://t.co/lkX7SKXe'"
+226051453754675202,2012-07-19 20:30:41,"b""RT @_solnic_: With a CI server all my tests can be slow as hell because I won't have to run them #loltdd"""
+225314785137410048,2012-07-17 19:43:25,b'RT @mreinhold: Project Jigsaw: Late for the train: http://t.co/uElK1apK #java8 #java9'
+224520123648708608,2012-07-15 15:05:43,"b'Just finished reading ""Pro Java EE 5 Performance Management and Optimization"" http://t.co/qccrbEaM - very comprehensive and in-depth!'"
+223739159855104000,2012-07-13 11:22:27,b'RT @intellijidea: [scala blog] Format and convert http://t.co/TBX3XuTK'
+223739031891083264,2012-07-13 11:21:56,b'RT @tkaczanowski: looking for #Scala devs in Krakow http://t.co/NhS5oh8z'
+223455372097232896,2012-07-12 16:34:46,b'RT @intellijidea: Winner of the JAX Innovation Awards http://t.co/imSLHcCY'
+222967707996393472,2012-07-11 08:16:58,b'@troyhunt See: http://t.co/SrO58a8K - how #facebook practices continuous deployment'
+222775943889027074,2012-07-10 19:34:58,b'RT @rit: Absolutely stellar overview (with lots of juicy detail) of Scala 2.10 from @dcsobral - http://t.co/3rrwp8dt'
+222664673395343360,2012-07-10 12:12:49,"b'#junit: ""expected: java.lang.String&lt;274&gt; but was: java.lang.String&lt;274&gt;"" -&gt; ""Click to see difference"" -&gt; ""Contents are identical""'"
+222360953608601602,2012-07-09 16:05:57,b'RT @SpringSource: Spring Framework 3.1.2 Released http://t.co/eu9J7HL8 Grab the bits from Maven Central or http://t.co/EKCfTGdI #SpringF ...'
+221890740056375296,2012-07-08 08:57:29,"b'RT @gitHater: if ping was designed by the git people: net-ping host --no=dns,bind --proto=TCP,rfc:492 eth0@ipv4::http://t.co/UIcBl2MN-AD ...'"
+221573619237654529,2012-07-07 11:57:22,"b'Kilka mi\xc5\x82ych s\xc5\x82\xc3\xb3w od @jaceklaskowski nt. mojej prezentacji na #confiturapl i ca\xc5\x82ej konferencji, dzi\xc4\x99ki! http://t.co/3v1l3r7B'"
+221569419078402049,2012-07-07 11:40:40,"b'RT @p_nowicki: #Spring uses #CGLib to create dynamic class (not interface) proxies. What does #JavaEE server use? I mean #CDI, #EJB no-i ...'"
+219755908400545792,2012-07-02 11:34:26,"b'Slajdy z mojego wyk\xc5\x82adu ""Uwolni\xc4\x87 si\xc4\x99 od \'if\'"" z konferencji #confiturapl: http://t.co/V1ZFyt9S'"
+219734756894584832,2012-07-02 10:10:23,"b""RT @jaceklaskowski: Listening to Tomek Nurkiewicz's talk about no-if development. Intro very engaging. Monads again! #confiturapl"""
+219721389572243456,2012-07-02 09:17:16,"b""RT @michal_warecki: Jak pozbywac sie 'if'. Swietna prezentacja i swietny prelegent. #confiturapl"""
+219720045717229568,2012-07-02 09:11:55,b'RT @ScalaPL: Wspania\xc5\x82a prezentacja Tomasza Nurkiewicza #confiturapl @tnurkiewicz'
+218345534593826816,2012-06-28 14:10:06,"b'""Compilation is automatically triggered [...] Global error highlighting without explicit compilation"" in @intellijidea http://t.co/HjOTBJN4'"
+217221528247480321,2012-06-25 11:43:42,b'@AdamBien and what about injecting EntityManager to servlets and singleton beans (without container synchronization)? http://t.co/iH6oYnjf'
+216201570528927744,2012-06-22 16:10:45,"b'RT @ptrbojko: #craftware, fathers of #craftforge has just released raw dev preview of booki.to - reservation system in Poland. #in http: ...'"
+215893853906018304,2012-06-21 19:48:00,b'RT @p_nowicki: Thank you captain javadoc-obvious!\n\n/**\n * Returns true or false\n */\npublic boolean isAvailable() {\n\treturn isAvailable(s ...'
+214046683305226240,2012-06-16 17:28:00,"b'Surprisingly, EntityManager is thread-safe in #SpringFramework, but not in #cdi / #ejb : http://t.co/wmfaiEVj #stackoverflow #jpa'"
+211217467530428416,2012-06-08 22:05:43,"b""RT @rmz: Lisbeth Salander's  shocking SQL revealed! http://t.co/Ci8m0Io4"""
+211000653961637889,2012-06-08 07:44:10,"b'I will be speaking at @confiturapl about avoiding ""ifs"" in code, see you there! http://t.co/fOBzhtWw'"
+209389633493143552,2012-06-03 21:02:33,b'#Google Bot now crawls arbitrary #Javascript sites (?) http://t.co/rCtgYPPo'
+206867649806864389,2012-05-27 22:01:05,b'#Oslo #coderetreat summer 2012 - in #Scala with @jhannes - http://t.co/lQIW5I3H'
+206862519309058048,2012-05-27 21:40:42,"b""@jhannes def d(c:Char){val r=c-'A';(-r to r)foreach{y=&gt;(-r to r)foreach{x=&gt;print(if(x.abs+y.abs==r)('A'+x.abs).toChar else ' ')};println()}}"""
+203124295407378433,2012-05-17 14:06:20,"b'RT @pawelwrzeszcz: ""Tests are probably the only type of documentation that is up to day"" @tkaczanowski #geecon'"
+202504776901079041,2012-05-15 21:04:35,"b'#JavaScript dynamic language support in #SpringFramework http://t.co/De6k3WS4 - old, but still unresolved, see: https://t.co/P9eR6D0q'"
+201710981389365249,2012-05-13 16:30:20,b'Integrating with #reCAPTCHA using... #SpringIntegration (#spring) http://t.co/XaGSwpJr'
+201404153283616768,2012-05-12 20:11:06,b'#servlet startAsync() limited usefulness - bug or a feature in #Tomcat and #Jetty? http://t.co/WJl2XfUF'
+201404019330121728,2012-05-12 20:10:34,b'RT @splattne: \xe2\x80\x9cDear StackExchange: Thank You\xe2\x80\x9d http://t.co/YBqvHAku (+1)'
+199940601486114816,2012-05-08 19:15:28,"b'Smarter lookup-method in #SpringFramework, discuss and vote: https://t.co/fecBMNZZ'"
+199182871674621952,2012-05-06 17:04:31,b'#mongodb and recording appenders for #logback - check out http://t.co/gLTREbZl and vote for http://t.co/vXjbthsq and http://t.co/ufsFIgBH'
+199173785381908480,2012-05-06 16:28:25,"b""RT @PhilosophersSay: One of the symptoms of an approaching nervous breakdown is the belief that one's work is terribly important. - Bert ..."""
+189705849965514753,2012-04-10 13:26:13,b'eta-expansion (internals) in #scala explained: http://t.co/Il9UbFQj'
+189344796337377281,2012-04-09 13:31:31,b'Secret powers of foldLeft() in #scala http://t.co/BOoFtv8I'
+189025997918715905,2012-04-08 16:24:44,b'@quartzscheduler misfire instructions explained http://t.co/t6vIfdif'
+187872562804555776,2012-04-05 12:01:24,b'@quartzscheduler plugins - hidden treasure: http://t.co/2WUIuIcL'
+187872318654128128,2012-04-05 12:00:25,b'Configuring @quartzscheduler with JDBCJobStore in #SpringFramework: http://t.co/ebowFXnT'
+181145562966528000,2012-03-17 22:30:42,b'Filtering irrelevant stack trace lines while #logging: http://t.co/76gY6pu8 in #logback'
+138376207027814400,2011-11-20 22:00:33,"b'@TomaszDziurko Just check ""Surround selection on typing quote or brace"" in #Intellij #Idea settings - even simpler!'"

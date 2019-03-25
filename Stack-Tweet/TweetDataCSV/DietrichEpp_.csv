@@ -1,0 +1,818 @@
+twitter_id,date,tweet
+1109862982299848711,2019-03-24 17:02:09,b'Hello there https://t.co/iQMBGGwVZq'
+1109692864341180417,2019-03-24 05:46:10,"b'For some reason I bought a 60% keyboard. To justify this sunk cost, I\xe2\x80\x99m learning to navigate without arrow keys. This feels WEIRD.'"
+1109221111319937024,2019-03-22 22:31:35,b'@tehCanape @DUSKdev It\xe2\x80\x99s Guns of Navarone versus the Borg.'
+1109176921055772678,2019-03-22 19:36:00,b'@McFunkypants I miss when game jam games were a steaming mess of C++ and SDL. I felt like every game I played was a surprise.'
+1108182200900562946,2019-03-20 01:43:20,"b'Why does Henwen have a \xe2\x80\x9cnotice me, sempai!\xe2\x80\x9d face? #blackcauldron https://t.co/IfPm1NYwad'"
+1108129217206804480,2019-03-19 22:12:48,b'@voxel @AlakajamBang bigger than what? https://t.co/qu3CWtqxbP'
+1108033473669971968,2019-03-19 15:52:21,b'@voxel @AlakajamBang giant robots'
+1107625287242735616,2019-03-18 12:50:21,"b'@mm_jj_nn @gillianmsmith The coffee packet is better than some of the other literature APA puts in their hotels, I\xe2\x80\xa6 https://t.co/Q6W5vfNST7'"
+1107594874302410755,2019-03-18 10:49:30,b'@LiamLimeGames @voxel Or maybe ACK/FIN.'
+1106945004671373312,2019-03-16 15:47:09,"b'@nullterm If you removed the number \xe2\x80\x9c7\xe2\x80\x9d from pi, it would still be infinite and non-repeating. We don\xe2\x80\x99t know if eve\xe2\x80\xa6 https://t.co/nKCr62hTBg'"
+1106784570362327044,2019-03-16 05:09:39,b'@grumpygiant Can it receive faxes?'
+1106589541765242880,2019-03-15 16:14:40,"b'@FlohOfWoe @Mario_Vilas @ArvidGerstmann As a bonus, sometimes you can write fairly naive, obviously correct code an\xe2\x80\xa6 https://t.co/Hk6io8qJnA'"
+1106589218078220288,2019-03-15 16:13:23,b'@FlohOfWoe @Mario_Vilas @ArvidGerstmann Maybe your experiences are different. But \xe2\x80\x9cmagic\xe2\x80\x9d optimizations are often r\xe2\x80\xa6 https://t.co/wDkyCva1dT'
+1106588673888313344,2019-03-15 16:11:13,"b'@FlohOfWoe @Mario_Vilas @ArvidGerstmann There are pathological cases for sure, but my experiences with e.g. stream\xe2\x80\xa6 https://t.co/pWd9WtLrjd'"
+1106502595806289922,2019-03-15 10:29:11,b'@ArvidGerstmann This is beyond absurd. I don\xe2\x80\x99t need a compiler at all\xe2\x80\x94I could just use an assembler. But I can get\xe2\x80\xa6 https://t.co/UXzOsDo9kq'
+1106389940525391872,2019-03-15 03:01:32,b'@grumpygiant That\xe2\x80\x99s fair. I think we shouldn\xe2\x80\x99t use precomposed characters.'
+1106378198076383233,2019-03-15 02:14:52,"b'@GTElephant @docsquiddy Well, same studio :)'"
+1106375760791498752,2019-03-15 02:05:11,b'@GTElephant @docsquiddy The Marathon trilogy technically couldn\xe2\x80\x99t do hitscan. If you set the projectile speed too h\xe2\x80\xa6 https://t.co/lFCrWdVarx'
+1106373373615964160,2019-03-15 01:55:42,"b'@mikekasprzak My Geocities has a Free Kevin banner on it. Somehow I re-downloaded it, except for on gif, and now ho\xe2\x80\xa6 https://t.co/xpd7nqUNT8'"
+1106372904910880768,2019-03-15 01:53:50,"b'@mikekasprzak Is it in reocities? Of course, that might be the same thing as https://t.co/0bXOHtohJ6. What\xe2\x80\x99s the URL?'"
+1106366305102254082,2019-03-15 01:27:37,b'@docsquiddy The pen and paper RPG community has a bunch of opinions on this that are good to mine. 1: Don\xe2\x80\x99t test sk\xe2\x80\xa6 https://t.co/Z9yOx35iBV'
+1106347937364242432,2019-03-15 00:14:37,"b'@grumpygiant What, in particular? I\xe2\x80\x99d say most of the broken parts were there for backward compatibility, right from the start.'"
+1105174191601520640,2019-03-11 18:30:35,"b'@Foone And WORM lives on in the LTO standard, athough it\xe2\x80\x99s enforced by hardware and not by properties of the underlying medium.'"
+1105119970424438784,2019-03-11 14:55:07,b'@jmsdnns @andy_kelley I wouldn\xe2\x80\x99t have guessed that finance ran on macOS.'
+1104831797358182400,2019-03-10 19:50:01,"b""@jmsdnns @andy_kelley Today libc fstat is just a syscall, was there some point when it wasn't?"""
+1104529903788150785,2019-03-09 23:50:24,b'@PiggyNukka I relate and yet it\xe2\x80\x99s very hard to do well at work after you work yourself to death.'
+1104495565893586945,2019-03-09 21:33:58,b'@andy_kelley @pskocik HFS+ has second resolution. The fstat can\xe2\x80\x99t give you data which isn\xe2\x80\x99t recorded by the fs. If\xe2\x80\xa6 https://t.co/bh2L14W3Up'
+1104495018809667585,2019-03-09 21:31:47,b'@jmsdnns @andy_kelley libc gives you whatever is provided by the kernel/fs'
+1104243591826817029,2019-03-09 04:52:42,"b'@FuturistTeletex no joke I kind of like it neat, and that\xe2\x80\x99s the way I tried it first time I had it'"
+1103716738741489667,2019-03-07 17:59:11,"b'@McFunkypants Switched from cross products to exterior products, bivectors, and multivectors. In my experience, thi\xe2\x80\xa6 https://t.co/2Og4tPIYM5'"
+1103083033987608576,2019-03-06 00:01:04,b'@Foone \xe2\x80\x9cGAY\xe2\x99\xa5\xef\xb8\x8f and having a stroke\xe2\x80\x9d'
+1102988147456204802,2019-03-05 17:44:01,b'90% of discussions about discrimination involve different definitions of \xe2\x80\x9cdiscrimination\xe2\x80\x9d. Some derivative of the \xe2\x80\x9c\xe2\x80\xa6 https://t.co/hksHGBbwI4'
+1102476220292390912,2019-03-04 07:49:48,b'('
+1101882660895510528,2019-03-02 16:31:13,"b'@teknotus Does it use OpenGL? I feel like this happens to me all the time, when I don\xe2\x80\x99t test on AMD/Nvidia/Intel.'"
+1100548018418401280,2019-02-27 00:07:49,"b'@McFunkypants What I love is that you can tesselate a hyperbolic plane with anything. Triangles, squares, pentagons\xe2\x80\xa6 https://t.co/pywzNfewWY'"
+1100406439942578177,2019-02-26 14:45:14,"b'@Foone The battery is for running an RTC which can by synced to GPS when the antenna is on, since GPS signals provi\xe2\x80\xa6 https://t.co/NLEdRTiw1a'"
+1100211387937288193,2019-02-26 01:50:10,b'@McFunkypants Personal experience is that caffeine can alleviate migraines temporarily (same day) but make them wor\xe2\x80\xa6 https://t.co/QCPApCkNCm'
+1100207900205690880,2019-02-26 01:36:18,b'@teknotus @jessfraz Not gonna happen. Too many e.g. web devs running homebrew. Maybe they\xe2\x80\x99ll make you jump through\xe2\x80\xa6 https://t.co/KTXBdlaceM'
+1099145043917574144,2019-02-23 03:12:54,b'@Toadsanime Super Maze Wars'
+1098223900733902853,2019-02-20 14:12:36,"b'RT @IvyKungu: @ people who don\xe2\x80\x99t like pineapple on pizza, grow up. https://t.co/qCqs87N9g7'"
+1098221862478319617,2019-02-20 14:04:30,b'@photonstorm It\xe2\x80\x99s often because the web site has multiple authentication flows. Can\xe2\x80\x99t always avoid it.'
+1097891574560759809,2019-02-19 16:12:03,"b'Lunatic is so close! Go, back it now, 53 hours left! https://t.co/ZKN2QEIny2'"
+1097597625749200898,2019-02-18 20:44:01,"b'@0xC05 So charts like these have, what I think, a negative impact on newcomers to the community. I stand by that.'"
+1097597356382539776,2019-02-18 20:42:56,"b'@0xC05 Tu quoque aside, I teach people programming sometimes. I encounter plenty of people who think they don\xe2\x80\x99t \xe2\x80\x9cme\xe2\x80\xa6 https://t.co/W7yxzNnMPE'"
+1097597013376598016,2019-02-18 20:41:35,b'@0xC05 I identify as a basic bitch because I don\xe2\x80\x99t think it\xe2\x80\x99s wrong to like popular things\xe2\x80\x94the term \xe2\x80\x9cbasic bitch\xe2\x80\x9d i\xe2\x80\xa6 https://t.co/Ne96IIXOHn'
+1097585313961136128,2019-02-18 19:55:05,"b'@0xC05 Making fun of people for technology they use. Meme or not, it\xe2\x80\x99s toxic.'"
+1097582284176265216,2019-02-18 19:43:03,b'@0xC05 Gatekeeping at its finest. This is why people think Linux users are toxic.'
+1097580151246864384,2019-02-18 19:34:34,b'@teknotus Trust that feeling of guilt.'
+1097203032712978437,2019-02-17 18:36:02,b'RT @johanvinet: LUNARK needs YOU!\n\n\xf0\x9f\xa4\xaf LAST 4 DAYS / 83% \n\xe2\x9e\xa1\xef\xb8\x8f Kickstarter &gt;&gt;&gt; https://t.co/fDGG84p1S5 \xe2\xad\x90\xef\xb8\x8f\n\xf0\x9f\x8e\xae For SWITCH &amp; PC/Mac\n\xe2\x9d\xa4\xef\xb8\x8f RT highly ap\xe2\x80\xa6'
+1096625009965973504,2019-02-16 04:19:11,"b'@grumpygiant Python wants to embed your app in Python, not the other way around. I wonder how Blender did it.'"
+1096490900740603905,2019-02-15 19:26:17,b'https://t.co/7xRJ8ucofA'
+1096183668312289280,2019-02-14 23:05:27,b'@ann_arcana @ComradeEevee @Foone Having used the C# version I can say it\xe2\x80\x99s actually pretty awesome.'
+1096118571028099073,2019-02-14 18:46:46,b'There is a war on in my body. 38.5\xc2\xb0C uggggggggghhhhhhhh https://t.co/IQoc3W8CuH'
+1095141618917801984,2019-02-12 02:04:43,"b'@ZachWeiner Voting rights amendment! No gerrymandering, popular vote, ranked choice.'"
+1095141450776489985,2019-02-12 02:04:03,b'https://t.co/pCUDtpEcoq'
+1095103111759187968,2019-02-11 23:31:42,b'@Cavalorn @sparklebliss Isn\xe2\x80\x99t mathematics in exactly the same position?'
+1095101287136456704,2019-02-11 23:24:27,b'@ZachWeiner Note that there are a great many things that are \xe2\x80\x9cobviously true\xe2\x80\x9d in general mathematics but cannot be\xe2\x80\xa6 https://t.co/HLoUm5TWKp'
+1095099865103773696,2019-02-11 23:18:48,b'@ZachWeiner Constructive proofs are the foundation for proving correctness of computer programs. The \xe2\x80\x9cCurry-Howard\xe2\x80\xa6 https://t.co/95LC3qpqOy'
+1093182735089311745,2019-02-06 16:20:49,"b'Forgive me, for I have sinned. I ran a public-facing service in tmux on a VPS rather daemonize it.'"
+1093180813934505984,2019-02-06 16:13:11,"b""I've complained about systemd in the past, and I am still sore about some of the changes, but by comparison I hated\xe2\x80\xa6 https://t.co/ziFKWPGcY5"""
+1093179839383777282,2019-02-06 16:09:18,b'The tragedy of systemd... good presentation from a BSD developer on systemd. I think more than anything else I hate\xe2\x80\xa6 https://t.co/hN3T6Rk5CD'
+1091568856584409088,2019-02-02 05:27:50,b'https://t.co/vls8KXZKUD'
+1091563326960746496,2019-02-02 05:05:52,b'@GuyFieri Dragon\xe2\x80\x99s Breath Chili\xe2\x80\xa6 first time I\xe2\x80\x99ve made chili from scratch that I really liked!'
+1091380022965874689,2019-02-01 16:57:28,b'@McFunkypants Most games are tested on Ubuntu if they\xe2\x80\x99re tested at all. Arch is a higher maintenance burden for peo\xe2\x80\xa6 https://t.co/UWmrTQqGhW'
+1090989696258330624,2019-01-31 15:06:27,b'@pplux @Vannaheim I answer questions on Stack Overflow and regularly see other people post high-quality answers.'
+1090680181822492673,2019-01-30 18:36:33,b'This makes me downright giddy\xe2\x80\xa6 this is how you end up with weird local traditions. https://t.co/uTLuqgIo8K'
+1090670785277112320,2019-01-30 17:59:13,"b'@decafjedi @greenadder I had some extra space lying around, feel free to use it. https://t.co/dbkwPwAiil'"
+1090662287982149632,2019-01-30 17:25:27,"b'@randomnine @lorenschmidt True for games, but variable timestep is very common elsewhere. In games we value consist\xe2\x80\xa6 https://t.co/SieeqwEY4t'"
+1090615371579748352,2019-01-30 14:19:01,"b'@castpixel Are these people equally upset at glasses, LASIK, piercings, tattoos, artificial hip joints, and colosto\xe2\x80\xa6 https://t.co/BkGTYSUcWn'"
+1090614456621645827,2019-01-30 14:15:23,"b'@artbymh @Priz @AttractMode To be fair, a lot of people at IBM had backed the idea. It was clear that computing wou\xe2\x80\xa6 https://t.co/qpzJt6Q61k'"
+1090605090879217664,2019-01-30 13:38:10,"b'@markpapadakis Despite the ambiguity, the GDPR makes assumptions about technology which are already false. Whoops!'"
+1090604660161986560,2019-01-30 13:36:28,"b'@markpapadakis Intentional due to the complexity of European politics, sure, but that\xe2\x80\x99s an explanation rather than\xe2\x80\xa6 https://t.co/o2nlg5HiWr'"
+1090517843081342976,2019-01-30 07:51:29,b'@markpapadakis After weeks of study you say you had problems with ambiguity? To me this strikes me as \xe2\x80\x9cpoorly worded\xe2\x80\x9d.'
+1090492710266568704,2019-01-30 06:11:37,b'@markpapadakis This is literally the first time I have heard anyone make the claim that the GDPR is easy to underst\xe2\x80\xa6 https://t.co/EdyhIQoFBJ'
+1090410092271493120,2019-01-30 00:43:19,"b""As much as I think that GDPR is a poorly-worded mess, I think it's time for the hammer of law to come down in the U\xe2\x80\xa6 https://t.co/r2UWjZfTNp"""
+1090409476841185281,2019-01-30 00:40:52,"b""@StephenKing Davy Crocket has the left, right, and the wild front ear. That's how I heard it."""
+1090409293025820674,2019-01-30 00:40:08,"b'To be clear, ""installing a new root certificate"" and tunneling traffic over a VPN (which is what Facebook did) is t\xe2\x80\xa6 https://t.co/ZSZkIOm4uj'"
+1090408220861042690,2019-01-30 00:35:53,"b""I miss the good old days of 2015 when I didn't think that Facebook was morally bankrupt. I'm sure there are tons of\xe2\x80\xa6 https://t.co/ZLAFeiTCPd"""
+1090367792711430145,2019-01-29 21:55:14,"b'@mikekasprzak $20 will get you about 150 hours of preemptible time on an Nvidia K80 on GCE, CPU sold separately\xe2\x80\xa6 ho\xe2\x80\xa6 https://t.co/vnl3oK1jYy'"
+1090283690452750336,2019-01-29 16:21:02,"b'@KeksosDerGrosse There are tools for creating impulse responses to capture those sounds, so if you love one of your\xe2\x80\xa6 https://t.co/GPgOzNie3m'"
+1088273364123373573,2019-01-24 03:12:43,b'So was that the final #StevenUniverse episode or what?'
+1088231563140235265,2019-01-24 00:26:37,b'@dosnostalgic Iron Helix! For more nostalgia\xe2\x80\xa6 the videos on the Iron Helix CD are named in such a way to reduce see\xe2\x80\xa6 https://t.co/iLmjR2RbJE'
+1087574260808339456,2019-01-22 04:54:44,"b'A special shout-out to Graham, not that I\xe2\x80\x99ll hear you if you respond, sorry buddy. https://t.co/R6tiioQIQJ'"
+1087378221698633728,2019-01-21 15:55:45,"b'@PuppetCombo Another way to get the same effect is by performing the perspective division in the vertex shader, and\xe2\x80\xa6 https://t.co/A2Z8mBb3G4'"
+1087377646030336005,2019-01-21 15:53:27,"b'@PuppetCombo Turn off perspective-correct texture coordinate interpolation! In OpenGL you can do this by adding ""no\xe2\x80\xa6 https://t.co/iyNrdNwylt'"
+1087223090336141313,2019-01-21 05:39:19,b'@waxpancake https://t.co/9kMtKxvOjf'
+1087220650803191808,2019-01-21 05:29:37,"b""What's with all the transphobia in my feed today? Are people tweeting on Ambien again? Is there something in the water?"""
+1087208983855878144,2019-01-21 04:43:15,b'Facebook Messenger is such an awful piece of trash don\xe2\x80\x99t get me started.'
+1087189723280539653,2019-01-21 03:26:43,"b""Why is it that I can type in the exact name of an application into the start menu and it doesn't show up? When did\xe2\x80\xa6 https://t.co/fhF8W6xwe4"""
+1087125006017093632,2019-01-20 23:09:33,b'@mikekasprzak Hang in there. Sometimes being unhappy is a healthy reaction to the things happening around you.'
+1087090367583924235,2019-01-20 20:51:55,"b'Today, I\n\xe2\x9d\x8c Meditated for 25 minutes\n\xe2\x9c\x85 Fell asleep in an uncomfortable sitting position'"
+1085656255337619456,2019-01-16 21:53:16,b'@yohosiefgc I would rather pay to unlock all the Smash characters instead of unlocking them through the gameplay as it exists.'
+1084195392810598400,2019-01-12 21:08:19,b'The character unlock system is also the worst I have ever seen in a game that wasn\xe2\x80\x99t free-to-play.'
+1084193464693284864,2019-01-12 21:00:39,b'The new Smash does a really bad job of teaching new players how to actually play the game. I feel if you aren\xe2\x80\x99t alr\xe2\x80\xa6 https://t.co/YYneigXfa6'
+1083877689654685696,2019-01-12 00:05:53,"b'@bombsfall @mtrc Well, depends on whether you count Free Enterprise as a separate game.'"
+1083820595274567680,2019-01-11 20:19:00,b'\xe2\x80\x9cA professor posted a completely incorrect formula on their website\xe2\x80\x9d turns out to be today\xe2\x80\x99s reason I wasted severa\xe2\x80\xa6 https://t.co/x53jVzfhoS'
+1083567948978098187,2019-01-11 03:35:05,"b'@McFunkypants I wish you could press keys on the keyboard harder to capitalize them, and if you pressed MORE HARDER YOU GOT BIGGER LETTERS.'"
+1083045940137730048,2019-01-09 17:00:48,"b'@Designstuff5 @codinghorror I\xe2\x80\x99m not convinced that you \xe2\x80\x9cneed\xe2\x80\x9d these things, based on my experiences demonstrating the effect.'"
+1082924430693675008,2019-01-09 08:57:58,"b'@codinghorror If you want one now, just buy a magnet and get a length of copper tubing from your local hardware store. DONE.'"
+1082924127890165760,2019-01-09 08:56:46,b'@codinghorror I remember these being much thinner? Why is the metal so thick?'
+1082334986911576064,2019-01-07 17:55:44,"b'@Foone Compare to the NES controller, which is basically a shift register in a plastic case.'"
+1082332703301742594,2019-01-07 17:46:39,b'How would you react if I told you Julian Assange once lived in a cupboard and does not use cutlery?'
+1082147624122224640,2019-01-07 05:31:13,"b'Meditation is an essential technique for people who write JavaScript code especially. All things are impermanent, e\xe2\x80\xa6 https://t.co/VSayxROisO'"
+1082057148241190912,2019-01-06 23:31:42,b'Writing any code that actually runs inside Node (never mind both Node and the browser) feels like being transported\xe2\x80\xa6 https://t.co/OMViOREnQN'
+1082057147326844928,2019-01-06 23:31:42,"b'Just getting ""import/export"" working in a way that satisfies people is a pain. Rollup (and plugins) + dev server +\xe2\x80\xa6 https://t.co/aDXqwlB8Xn'"
+1082057146618077184,2019-01-06 23:31:42,b'Working on a JavaScript side project with some folks... all of us with different amounts of experience with the Jav\xe2\x80\xa6 https://t.co/L1ZQi5ifDK'
+1082052423756197888,2019-01-06 23:12:56,"b'@mtrc ""Write every email as if it were going to end up in the New York Times"" -- something that multiple employers\xe2\x80\xa6 https://t.co/osCOKtbpMJ'"
+1081941215485022208,2019-01-06 15:51:01,"b'RT @mekkaokereke: Everyone loves SpaceX, and thinks of Elon as the genius founder that invents new types of rockets that are cheaper, faste\xe2\x80\xa6'"
+1081321006038507521,2019-01-04 22:46:32,"b""It's straight-up priority inversion, that's what it is! I know it's only 4 minutes (I checked uptime) but it just s\xe2\x80\xa6 https://t.co/L7803ZEzTP"""
+1081320361143267329,2019-01-04 22:43:58,"b""I love how on Debian, I can't install a package after starting the computer because of a cron job holding the apt l\xe2\x80\xa6 https://t.co/YsFns5ZBhY"""
+1081038866285555712,2019-01-04 04:05:25,"b'@aacooper @ZachWeiner For the axiom of infinity to be useful it is true that X and X\xe2\x88\xaa{X} must be distinct, but this\xe2\x80\xa6 https://t.co/Ol01Y7WeeJ'"
+1081014799801204736,2019-01-04 02:29:47,b'@CursedArchitect I know this one\xe2\x80\xa6 it\xe2\x80\x99s to prevent people from getting crushed by crowds.'
+1080755486918656000,2019-01-03 09:19:22,b'I see this quote in a book and my first thought is that I\xe2\x80\x99m finally gonna build tree farms. 2 nutrients per forest\xe2\x80\xa6 https://t.co/8GXRCS23GG'
+1080741428165308416,2019-01-03 08:23:30,b'QOTD \xe2\x80\x9cYour kids are Smart Things too.\xe2\x80\x9d'
+1080740710343737344,2019-01-03 08:20:39,b'New year resolutions: 1) automatic backups 2) make a non-jam game 3) communicate more at work 4) write a few articl\xe2\x80\xa6 https://t.co/q7MBM3PLnv'
+1080729156864933888,2019-01-03 07:34:44,"b'I would love to see a world where phones were designed to last 20+ years. But I suspect that in this ideal world, y\xe2\x80\xa6 https://t.co/d5y1Hs85Cq'"
+1080729155770241024,2019-01-03 07:34:44,b'It\xe2\x80\x99s not like the capacitors in old tube amps were really \xe2\x80\x9cuser serviceable\xe2\x80\x9d in any meaningful way in the first pla\xe2\x80\xa6 https://t.co/xEitYPCWYQ'
+1080729154553856000,2019-01-03 07:34:44,"b'In a sense, the fact that it\xe2\x80\x99s only a battery that you need to swap out in your iPhone, which you might be using fo\xe2\x80\xa6 https://t.co/grjhjh5ZLm'"
+1080729153467547648,2019-01-03 07:34:43,b'And then there\xe2\x80\x99s old tube amplifiers. Built to be extremely reliable and easy to service. And yet their performance\xe2\x80\xa6 https://t.co/GTM8sdk05z'
+1080729152150491136,2019-01-03 07:34:43,"b'I remember the first PC I built. After years of service, the clock rate at which it was stable got lower and lower.\xe2\x80\xa6 https://t.co/GFRJ1QBlz7'"
+1080729149046734848,2019-01-03 07:34:42,b'The iPhone battery issue has got to be the stupidest controversy. Lithium battery performance degrades over time. I\xe2\x80\xa6 https://t.co/xuFixoRbZo'
+1080351048785485824,2019-01-02 06:32:16,"b'@mikekasprzak Right, and when I used the realtime kernel I remember that I had to go through a number of steps to c\xe2\x80\xa6 https://t.co/DBnmb2nYTV'"
+1080349110979514368,2019-01-02 06:24:34,b'@mikekasprzak This image may be a bit old now but it still seems relevant. Pulse Audio used to be \xe2\x80\x9cthe thing that y\xe2\x80\xa6 https://t.co/BWgcstMOU3'
+1080346762211139584,2019-01-02 06:15:14,b'@mikekasprzak Agree 100%. I love the programming environment and Linux is my primary development OS for personal an\xe2\x80\xa6 https://t.co/KmOuukghb8'
+1079858632647475200,2018-12-31 21:55:35,b'@voxel don\xe2\x80\x99t spoil it for me i haven\xe2\x80\x99t gotten that far yet'
+1077977317832413184,2018-12-26 17:19:55,"b'@annevk Ok, I didn\xe2\x80\x99t feel understood.'"
+1077328800726335488,2018-12-24 22:22:56,"b'RT @PavelASamsonov: It\'s actually only ""Helvetica"" if it comes from the Helvetia region of Europe. Otherwise you have to call it ""sparkling\xe2\x80\xa6'"
+1077259056530812930,2018-12-24 17:45:48,"b'@annevk For examples of APIs that seem to handle this pretty well, Python\xe2\x80\x99s urllib and Go\xe2\x80\x99s net/url library. Both l\xe2\x80\xa6 https://t.co/khFt47cb9A'"
+1077258834748624896,2018-12-24 17:44:55,"b'@annevk I must not have expressed the problem clearly\xe2\x80\xa6\n\nlet u = new URL(""http://garbage/path"");\nu.hostname = ""examp\xe2\x80\xa6 https://t.co/h1PKf8fjsR'"
+1077253225651281920,2018-12-24 17:22:38,b'@annevk String concatenation is only ergonomic if you don\xe2\x80\x99t care about correctness.'
+1076840510688497666,2018-12-23 14:02:39,"b'@annevk Construct a URL from host, port, path, and scheme.'"
+1076644523160289280,2018-12-23 01:03:52,"b'I guess I just,\n\nconst u = new URL(""http://garbage/"");\nu.hostname = ""actual.value.i.want"";\n\nIs it really necessary\xe2\x80\xa6 https://t.co/D2dzKdDJUm'"
+1076644108582744067,2018-12-23 01:02:13,"b'Okay, so we have the WhatWG URL API, and it has no way to construct a URL object except by parsing a string? And no\xe2\x80\xa6 https://t.co/rhyvJ5beG8'"
+1076552610566623233,2018-12-22 18:58:38,"b'@mike_cullingham @tehPHEN Multicast is impossible with TCP. You can build a reliable system on top of UDP, but you\xe2\x80\xa6 https://t.co/zwrPlzKfvs'"
+1075878322763128832,2018-12-20 22:19:15,b'I am unhappy about std::vector&lt;bool&gt; at this particular moment in time. I wonder how many hours were lost to that design flaw?'
+1075542813029400581,2018-12-20 00:06:03,"b'Poking around in analytics for an old Ludum Dare game, I see that Googlebot has been playing my game. Which means G\xe2\x80\xa6 https://t.co/52bjUwZoXK'"
+1075429297408696322,2018-12-19 16:34:59,"b'Dunning-Kruger lies exposed! So many people think that Dunning-Kruger means that, at some point, you get LESS confi\xe2\x80\xa6 https://t.co/a5vlgEBthm'"
+1073797976869531648,2018-12-15 04:32:42,"b'@ryanflorence @codinghorror There are full stack cooks. Go to a farm, meet someone who planted the crops, harvested\xe2\x80\xa6 https://t.co/hzVgngxVGB'"
+1073790075111202816,2018-12-15 04:01:18,"b'Doubly stupid, since I know SATA connectors are only rated for something like 500 mating cycles anyway. I wonder how many I\xe2\x80\x99m rated for?'"
+1073789787780337664,2018-12-15 04:00:10,"b'Some years ago I decided to buy one HD enclosure, and then swap drives. This worked well for saving a few bucks, bu\xe2\x80\xa6 https://t.co/xaTF3J7xVW'"
+1073774983829184513,2018-12-15 03:01:20,"b'Honestly, why do browsers even include an option to let websites send you notifications? For every one app where it\xe2\x80\xa6 https://t.co/Rp5hp28u0D'"
+1073693304330555392,2018-12-14 21:36:46,"b'Mirror, mirror on the wall. Who is the chief-of-staffest of them all?'"
+1073692726951116802,2018-12-14 21:34:29,"b'@ZachWeiner Properties of a determinant: It\xe2\x80\x99s multilinear\xe2\x80\x94if you scale any row or column, you scale the determinant\xe2\x80\xa6 https://t.co/T9js9rZ2vv'"
+1073657701534711808,2018-12-14 19:15:18,b'Yesterday I quit Just Cause 4 for the first time. I hesitated before pressing Alt-F4. \xe2\x80\x9cWill this even work?\xe2\x80\x9d I thou\xe2\x80\xa6 https://t.co/ClcVbF5E8j'
+1073379154815533057,2018-12-14 00:48:27,b'Found an easier way to do Christmas shopping. Spoilers. https://t.co/QbjTpT7DFx'
+1073229248331161601,2018-12-13 14:52:47,b'@grumpygiant I remember on macOS you could change a preferences setting to add a \xe2\x80\x9cQuit\xe2\x80\x9d menu item to the Finder. It\xe2\x80\xa6 https://t.co/ROXMSghkj9'
+1072956069641637888,2018-12-12 20:47:16,b'@70sscifiart These rockets look like Toad from Mario.\n\nSorry not sorry.'
+1072915338709426176,2018-12-12 18:05:25,b'When did Twitter add back the \xe2\x80\x9cshow latest tweets first\xe2\x80\x9d feature? How new is this? Have I just missed this button?'
+1072874433566728192,2018-12-12 15:22:52,b'@gravislizard These are great points. Duke got so much right and so much wrong.'
+1072586816925167616,2018-12-11 20:19:59,"b'@MattRix It depends on the kind of problem you are solving. Sometimes flowcharts, even though they seem old-school,\xe2\x80\xa6 https://t.co/74REk7GL9L'"
+1071624071362854912,2018-12-09 04:34:23,b'RT @EliasToufexis: I\xe2\x80\x99m at a friend\xe2\x80\x99s who refuses to turn the \xe2\x80\x9cmotion smoothing\xe2\x80\x9d off on his TV and now I have to burn his house down.'
+1070835817571078145,2018-12-07 00:22:08,"b'Check out Diaball, an impressively polished video game by @Sahaqiel for #LDJAM 43. Video review! https://t.co/OSVcrrsoVy'"
+1070823915365298177,2018-12-06 23:34:51,"b'Watch out, this is my 666th tweet on this account so it might have lingering satanic energy.'"
+1070823543787655168,2018-12-06 23:33:22,"b'Check out Z Trail, a video game by oxrock for #LDJAM 43. Oregon Trail with zombies, but without Oregon\xe2\x80\xa6 video revie\xe2\x80\xa6 https://t.co/zPv94mkBiQ'"
+1070628976438190080,2018-12-06 10:40:13,"b'@DarkestKale (Desk Set is actually in color, though.)'"
+1070627660236292096,2018-12-06 10:35:00,"b'@DarkestKale Desk Set! It\xe2\x80\x99s a Christmas movie too, so now\xe2\x80\x99s the time to watch it, if Christmas movies are your thing.'"
+1070565977006452737,2018-12-06 06:29:53,"b'@Foone This episode has heritage in medieval morality plays, it\xe2\x80\x99s definitely one of my favorite Voyager episodes. https://t.co/ocdGG3RxsN'"
+1070561618407383040,2018-12-06 06:12:34,"b'Check out The Treachery, a video game by wheatleyscience and Tosunami for #LDJAM 43. Video review! https://t.co/LEYZ6yiXVq'"
+1070501021435260928,2018-12-06 02:11:47,b'@ArvidGerstmann Two. I flipped through the Dietel &amp; Dietel book a couple times around 2000. Used a reference book on the STL heavily.'
+1070282882768359424,2018-12-05 11:44:58,"b'@teknotus There are a lot of things that went wrong with Tumblr and I\xe2\x80\x99m not sure much of it can be pinned on Verizon, specifically.'"
+1070154918667931648,2018-12-05 03:16:29,b'Liking \xe2\x80\x9cThe Office\xe2\x80\x9d is not a personality trait.'
+1070096839041536000,2018-12-04 23:25:42,b'@screw_dog @ZachWeiner Do you not have a finite number of children?'
+1070094765327376384,2018-12-04 23:17:28,b'I want to play some of the recent #LDJAM games but I also want to play JC4 which I just learned came out today. Pla\xe2\x80\xa6 https://t.co/mkLfkKrYoE'
+1069742167185334272,2018-12-03 23:56:22,b'This magnet\xe2\x80\x99s font looks digital AF? https://t.co/JemRJCiRtQ'
+1069708981583654912,2018-12-03 21:44:30,"b'@McFunkypants Yes! If I like something you wrote or something you made, I want to see your web page where you have it organized.'"
+1069437697687719937,2018-12-03 03:46:30,"b'@teknotus Escape from New York uses a physical model for the computer wireframe map of New York, because real compu\xe2\x80\xa6 https://t.co/lNvXQrfKpR'"
+1069435048812863488,2018-12-03 03:35:59,"b'@ZachWeiner This is an interesting question, but if you remove the conservation of momentum, it\xe2\x80\x99s unclear which oth\xe2\x80\xa6 https://t.co/OPRhE9pLZ7'"
+1068656497704517633,2018-12-01 00:02:18,b'I\xe2\x80\x99m having one of those days when I\xe2\x80\x99m sick and tired and keep missing the end of a Bob\xe2\x80\x99s Burgers episode because I fell asleep AGAIN.'
+1068621340423393280,2018-11-30 21:42:36,"b'If the Nintendo Switch had a smell then games would use all five senses. Get on it, devs!'"
+1068618575236251648,2018-11-30 21:31:36,"b'@Foone Well you don\xe2\x80\x99t want fixed-pitch, do you? What\xe2\x80\x99s the alternative?'"
+1068008034503483392,2018-11-29 05:05:32,b'This USB cable (an \xe2\x80\x9cA\xe2\x80\x9d to \xe2\x80\x9cA\xe2\x80\x9d) should not exist and I\xe2\x80\x99m actually kind of angry that a product I bought uses it. Thi\xe2\x80\xa6 https://t.co/UAPwcCo3ud'
+1067812968153395201,2018-11-28 16:10:25,b'\xe2\x80\x9cWhy is SPJ always wearing the same red sweater?\xe2\x80\x9d https://t.co/R2vNMuHs0r'
+1067812187933208579,2018-11-28 16:07:19,b'@McFunkypants nil'
+1067808954711982080,2018-11-28 15:54:28,"b'@pskocik @ArvidGerstmann Just because X is faster than Y does not mean that Y is slow. Also, let\xe2\x80\x99s try not to move the goalposts.'"
+1067633837742665728,2018-11-28 04:18:37,"b'\xe2\x80\x9cFlicker-free\xe2\x80\x9d lights, everyone. https://t.co/xFNDxmw1VW'"
+1065005517213437954,2018-11-20 22:14:36,"b'Sometimes I think I want a monitor with high refresh to play with, but no way I\xe2\x80\x99m getting a proprietary G-SYNC monitor.'"
+1064996302608576512,2018-11-20 21:37:59,"b'@GameDescientist This is how I do game balance for turn-based RPGs. Run a million battles, get a spreadsheet.'"
+1064916215271952386,2018-11-20 16:19:45,"b'@McFunkypants If you can manage stress, it\xe2\x80\x99s easier to do high priority work and time management becomes easier too.'"
+1064897588753764352,2018-11-20 15:05:44,"b'@mtrc From what I heard, something that can cause this is if your IP was used to access Google by bots. Can happen\xe2\x80\xa6 https://t.co/6AvnZhmBWJ'"
+1064895602872512514,2018-11-20 14:57:51,b'@ThunderJew1775 @Czhorat @chris_emerson @ZachWeiner It\xe2\x80\x99s not really under dispute these days. We like to have uniqu\xe2\x80\xa6 https://t.co/m2gg2PkQaG'
+1064677233380466688,2018-11-20 00:30:07,b'@beeman_nl To be honest I see a lot of negativity in this comment. https://t.co/iTtUnEUidg If I were going to make\xe2\x80\xa6 https://t.co/LE45LiXsK6'
+1063963487100125184,2018-11-18 01:13:57,b'RT @70sscifiart: Bob Eggleton https://t.co/eAF2SzF8Uz https://t.co/lDnx1fUQjC'
+1060314722627608576,2018-11-07 23:35:04,"b'@gsnedders @domenic @codinghorror Depending on how you count, because x86 32-bit and 64-bit are not compatible with\xe2\x80\xa6 https://t.co/eVoAhEnOAL'"
+1060223135109210112,2018-11-07 17:31:08,b'I get mad every time I go to @WholeFoods because they sell snake oil like oscillococcinum right next to bona fide m\xe2\x80\xa6 https://t.co/gnz3lWccsP'
+1059561591354474496,2018-11-05 21:42:23,b'My absentee ballot arrived just in time for me to fill it out and mail it back. I got to vote! @NYSBOE'
+1058448060064325632,2018-11-02 19:57:37,b'@marctenbosch @Jonathan_Blow And by \xe2\x80\x9cremove\xe2\x80\x9d we apparently mean \xe2\x80\x9cconstruct an isomorphic algebra by renaming the basis vectors.\xe2\x80\x9d'
+1057676089856876544,2018-10-31 16:50:05,b'I think Tom Hanks as David S. Pumpkins is probably the best thing I\xe2\x80\x99ve seen this month https://t.co/Ywh0OF2VK6 via @YouTube'
+1056385002148188161,2018-10-28 03:19:45,b'Why do they call it grapefruit grape IS a fruit'
+1052026660432818176,2018-10-16 02:41:16,b'(This is the discussion: https://t.co/9plla597bo)'
+1052026562202296320,2018-10-16 02:40:52,"b""So, GDM will automatically try to suspend after 20 minutes of inactivity, and I can't change that from the Gnome UI\xe2\x80\xa6 https://t.co/dKSkXOaqj6"""
+1052017972900974593,2018-10-16 02:06:44,b'@fasterthanlime GC is really eco-friendly memory recycling.'
+1052017664409899008,2018-10-16 02:05:31,b'I just realized that my Mac still has an \xe2\x80\x9ceject\xe2\x80\x9d key on the keyboard. I haven\xe2\x80\x99t had any kind of thing that ejects o\xe2\x80\xa6 https://t.co/69JUhxWdV9'
+1051559125455437824,2018-10-14 19:43:27,"b'@McFunkypants My experience is that two people cannot edit the same scene or prefab at the same time, only code is\xe2\x80\xa6 https://t.co/IgCdG507Le'"
+1051494384389287936,2018-10-14 15:26:11,"b'@voxel Your game runs on one core, and after one second, the temperature rises enough and turbo boost turns off. If\xe2\x80\xa6 https://t.co/lnp15cI1CJ'"
+1050157124616155136,2018-10-10 22:52:24,b'Someone at @facebook: I have a great idea! Let\xe2\x80\x99s spam people using Facebook Messenger notifications. Maybe if we ar\xe2\x80\xa6 https://t.co/NeTXZMlF22'
+1050155802378608640,2018-10-10 22:47:08,b'The @facebook messenger \xe2\x80\x9cyou and X are celebrating 3 years of being friends\xe2\x80\x9d\xe2\x80\xa6 seriously terrible. Dear friends: I\xe2\x80\x99v\xe2\x80\xa6 https://t.co/o8tP4wHkzG'
+1049678769215197184,2018-10-09 15:11:35,"b'@McFunkypants @tha_rami The speed of light is generous\xe2\x80\xa6 for 10ms RTT you can put something almost 1,500 km away. Th\xe2\x80\xa6 https://t.co/VIfR5CV6nu'"
+1048363607854129152,2018-10-06 00:05:36,b'@mtrc Personally it fixed a lot of issues that caused me regular pain and 2to3 worked pretty well.'
+1048309955588231170,2018-10-05 20:32:24,b'@teknotus @Raj_Samani @skry I have some hardware with randomized passwords printed on a sticker on the bottom. As l\xe2\x80\xa6 https://t.co/EiWpM6WxTU'
+1047257751703969793,2018-10-02 22:51:19,"b""RT @SMAC_Quotes: It is every citizen's final duty to go into the tanks and become one with all the people."""
+1045403298503819270,2018-09-27 20:02:23,b'Lol if it\xe2\x80\x99s not on my calendar it didn\xe2\x80\x99t happen k'
+1044679480768442368,2018-09-25 20:06:12,"b'I want to create a new account on a website, tired of using Keychain to generate passwords so I grab APG, home page\xe2\x80\xa6 https://t.co/IV25O45u5E'"
+1044587832940081153,2018-09-25 14:02:01,b'@mikekasprzak @timbeaudet Yes! https://t.co/ZOtSTa8vzJ'
+1044024428911349763,2018-09-24 00:43:15,b'Best part of Octopath Traveler so far\xe2\x80\xa6 having a random \xe2\x80\x9celderly woman\xe2\x80\x9d from one of the towns land four shots and th\xe2\x80\xa6 https://t.co/vY5YObJ8F6'
+1043531589232152577,2018-09-22 16:04:53,b'@GamepIay @Doormat23 Where\xe2\x80\x99s Daggerfall?'
+1042788460497649665,2018-09-20 14:51:57,b'Just beat Quartz by @youfoundderwin  - great game! https://t.co/AWsvD0Z9rM'
+1041342451405991938,2018-09-16 15:06:02,b'RT @davywtf: Retweet this is you used to play with one of these when you were a kid! https://t.co/bIl5xrzzG3'
+1040724510880788480,2018-09-14 22:10:33,b'@McFunkypants I can say that I did this for JS13K and then tried to make sure that all level coordinates are positi\xe2\x80\xa6 https://t.co/rXx0LoQuVl'
+1040720491663814663,2018-09-14 21:54:35,"b'So @TechCrunch if I scroll down to the bottom of your article, it redirects me to your front page, but I can\xe2\x80\x99t scro\xe2\x80\xa6 https://t.co/xkV5PsEGgT'"
+1040452121756348417,2018-09-14 04:08:11,b'it\xe2\x80\x99s September 14 on the east coast why isn\xe2\x80\x99t @BoJackHorseman out yet'
+1040410721077678080,2018-09-14 01:23:40,"b'So, you can vote in New York? But they just give you a ballot? Just names on it? No voter information guide? And yo\xe2\x80\xa6 https://t.co/QnUyL7V7vt'"
+1040071654871851009,2018-09-13 02:56:20,"b""I made a thing for #JS13K and it's a first-person shooter. But it's incomplete. I had fun working on it. So many id\xe2\x80\xa6 https://t.co/b9zuL45A8X"""
+1039579159469727745,2018-09-11 18:19:20,"b'@dark_kirb @FartCrab @atomicthumbs @internetofshit @DasGrog For the same cost, stripe across multiple computers rat\xe2\x80\xa6 https://t.co/0rR6YVzy7j'"
+1039557305170374657,2018-09-11 16:52:30,b'@DasGrog @FartCrab @atomicthumbs @internetofshit @dark_kirb I have no problems with spinning disks. I just don\xe2\x80\x99t se\xe2\x80\xa6 https://t.co/01UwcUfoxJ'
+1039556342267236353,2018-09-11 16:48:40,b'@dark_kirb @FartCrab @atomicthumbs @internetofshit @DasGrog If they\xe2\x80\x99re in the same enclosure and connected to the s\xe2\x80\xa6 https://t.co/mHU3UDqbV5'
+1039544449238552581,2018-09-11 16:01:25,b'@FartCrab @atomicthumbs @internetofshit @DasGrog @dark_kirb RAID6 is fun right up to the point you actually have to\xe2\x80\xa6 https://t.co/QzUNJgxOf2'
+1039542838994845696,2018-09-11 15:55:01,b'@internetofshit Would you rather have everything on online hard drives where pssh rm can wipe it all out in a singl\xe2\x80\xa6 https://t.co/cRPBCERuLy'
+1039538476457316352,2018-09-11 15:37:41,"b'@McFunkypants I\xe2\x80\x99m hoping for traditional art. Watercolor, markers, pencil, paint, scanned and digitized and manipulated for animations.'"
+1039537639412649984,2018-09-11 15:34:21,b'@schteppe It\xe2\x80\x99s what happens when you spend too much time in the Windows ecosystem. A bunch of Windows tools assume\xe2\x80\xa6 https://t.co/eF9LmXqGrD'
+1035676382112690176,2018-08-31 23:51:06,b'Paid with NFC for the first time today. More convenient than I expected.'
+1033301984663744512,2018-08-25 10:36:05,"b'So in summary, @GetSpectrum knows about the redirect loop, and it\xe2\x80\x99s a \xe2\x80\x9cknown, recurring problem\xe2\x80\x9d which has been goi\xe2\x80\xa6 https://t.co/fui4o9GsAp'"
+1033291104735703041,2018-08-25 09:52:51,"b'@GetSpectrum Your account login page is a redirect loop, which\xe2\x80\xa6 brings me back to the login page without displaying\xe2\x80\xa6 https://t.co/D7SXlC3M9i'"
+1033226925198782464,2018-08-25 05:37:50,b'@___discovery Having the planet become sentient and send mind worms to wipe out your cities if you do to much ecolo\xe2\x80\xa6 https://t.co/Z5YDk8e9FC'
+1033051078206599170,2018-08-24 17:59:04,b'Good to know https://t.co/R7Hm6BQ2UI'
+1032995396610650112,2018-08-24 14:17:49,b'@McFunkypants @js13kGames Will do!'
+1032992948399562752,2018-08-24 14:08:05,"b'@McFunkypants @js13kGames I\xe2\x80\x99ll write a blog post and post code next month, probably, with all the gory details.'"
+1032992377840037888,2018-08-24 14:05:49,"b'@McFunkypants @js13kGames Phone samples are basically the core of it, and there\xe2\x80\x99s a lot of work to segment and glue things together.'"
+1032777637796700160,2018-08-23 23:52:31,"b""I can fit 3.62 seconds of speech into 1060 compressed bytes... that's 2.3 kbit/s. Lots of room for improvement, I t\xe2\x80\xa6 https://t.co/ZizHN3PGvc"""
+1028036356155604992,2018-08-10 21:52:21,b'@McFunkypants DO NOT FORGET THE PYRAMID. THE PYRAMID DOES NOT FORGET YOU.'
+1022246199716446210,2018-07-25 22:24:21,"b""My OAuth tokens are all broken because they're marked as expired 3 hours ago... truth is they are supposed to last\xe2\x80\xa6 https://t.co/Waha87jGXn"""
+1020868045143765002,2018-07-22 03:08:03,b'If you\xe2\x80\x99re guilty of love \xe2\x80\x9cin the first degree\xe2\x80\x9d how can it be a crime of passion? Wouldn\xe2\x80\x99t that be second degree lov\xe2\x80\xa6 https://t.co/byjTaEK2uT'
+1013608996660502529,2018-07-02 02:23:11,"b'I thought @NJTRANSIT wouldn\xe2\x80\x99t be as bad as everyone says, but it is. Still waiting for a train that was supposed to\xe2\x80\xa6 https://t.co/kHrU3Z7PuL'"
+1010334309272752135,2018-06-23 01:30:45,b'Just hit 4000 commits.'
+1008902011738353664,2018-06-19 02:39:18,b'These #TrumpConcentrationCamps are a fucking crime against humanity.'
+1008821149831180288,2018-06-18 21:17:59,b'Hahaha https://t.co/c2nJfCunNn'
+1006785734899093504,2018-06-13 06:29:59,"b'@GetSpectrum: Your MITM attacks should be illegal. They are unethical, for certain.'"
+1006785335785938945,2018-06-13 06:28:23,"b'@GetSpectrum Stop hijacking my web browsing with MITM attacks. You are supposed to be an ISP, but you are behaving like hacker.'"
+993183407260696576,2018-05-06 17:39:11,b'#america https://t.co/pX1Z7yNQ4r'
+990407407468797952,2018-04-29 01:48:21,b'Ugh time to read the GPG manual again because I have to do something simple with it and heaven forbid anything in GPG ever be intuitive.'
+987503597645697025,2018-04-21 01:29:39,b'Doki Doki\xe2\x98\x85Space Commander: Planetary Assault Love Academy #LDJAM'
+987496273728110593,2018-04-21 01:00:33,b'Happy with this. #LDJAM https://t.co/vI3y7hG3MA'
+987464039348490240,2018-04-20 22:52:27,"b'@DaFluffyPotato Documentation on the right, code on the left.'"
+987461344638132224,2018-04-20 22:41:45,b'@DaFluffyPotato  https://t.co/P8YhUcD0hE'
+983879389862645760,2018-04-11 01:28:20,b'Cross-platform dependency management is the name of my new death metal band.'
+982068380206358530,2018-04-06 01:32:02,b'Seems like I throw everything I know about project management out the window when it comes to my side projects.'
+982064042901553152,2018-04-06 01:14:48,b'@cabel @ja2ke I love how powerful ES2 is but damn programming it is a chore. I never made more than a few patches for it.'
+979760836251148293,2018-03-30 16:42:41,"b""@q3k That's the only picture people should use when doing anything with BGP."""
+979163297751629824,2018-03-29 01:08:16,b'Why does typing the exact name of an installed application in the Windows start menu not show that application in the results?'
+978626523535167491,2018-03-27 13:35:19,"b""Oxy's Mindhole | Bees In Videogames | #NotGDC https://t.co/LR1LoympFW via @YouTube"""
+978483813331464193,2018-03-27 04:08:15,"b'Starting to write up #nes #homebrew game development. Day 1 is up, both the writeup and the source code.\xe2\x80\xa6 https://t.co/I8Q4p7PYbG'"
+978116639244914688,2018-03-26 03:49:13,b'Willie Nelson is a gift from the universe.'
+975956688728621056,2018-03-20 04:46:21,b'I just want to know what attributes to put in my &lt;img&gt; tag is that so hard?'
+975858784353574913,2018-03-19 22:17:19,"b'@livenation your spam emails do not have a working \xe2\x80\x9cunsubscribe\xe2\x80\x9d link, this violates the CAN SPAM act.'"
+975371445881790464,2018-03-18 14:00:48,b'@LiveNation Who brings a desktop computer to a concert?'
+975171204851040257,2018-03-18 00:45:07,b'@LiveNation your \xe2\x80\x9cview tickets\xe2\x80\x9d button in the email is stupid and doesn\xe2\x80\x99t work'
+969459452331069441,2018-03-02 06:28:39,b'@ToffieBoey Do it! I\xe2\x80\x99ve paid money for worse games than yours.'
+969458556310343681,2018-03-02 06:25:06,b'You should play the amazing action puzzle platformer \xe2\x80\x9cRoom Swap\xe2\x80\x9d by @toffieboey for the @AlakajamBang game jam! The\xe2\x80\xa6 https://t.co/IltpB803Ny'
+969374667957002240,2018-03-02 00:51:45,b'Play this seriously good game \xe2\x80\x9cMoonlight\xe2\x80\x9d made by Raindrinker for the @AlakajamBang game jam. It took me about 25 m\xe2\x80\xa6 https://t.co/FhXkC3okz8'
+969281999528701952,2018-03-01 18:43:31,"b""RT @x_rxi: Autotile test using @ADAMATOMIC's excellent free tileset\n#love2d https://t.co/e7E4RdpuFi"""
+962015054127222785,2018-02-09 17:27:16,"b'@BonneBonrath @GameDescientist What about paperclips, where you\xe2\x80\x99re just clicking on \xe2\x80\x9cmake paper clip\xe2\x80\x9d but then late\xe2\x80\xa6 https://t.co/F4a5goGdaL'"
+961816554819043328,2018-02-09 04:18:31,"b'Hey @Apple why can\xe2\x80\x99t Siri do this, specifically? I can ask \xe2\x80\x9cremind me to charge the thing that is a computer\xe2\x80\x9d but \xe2\x80\x9c\xe2\x80\xa6 https://t.co/n4L9ZxputN'"
+961812887202181120,2018-02-09 04:03:56,b'@RealMichaelTang @nyuniversity @DSofides @koloquials Don\xe2\x80\x99t forget to post the source code!'
+960020147191865344,2018-02-04 05:20:14,b'@q3k More NeXT?'
+958610283106394112,2018-01-31 07:57:56,b'Saw comments I wrote in 2010 and WANT TO DELETE THEM'
+958559966473932800,2018-01-31 04:37:59,"b'""Signal""... the game we made for #GGJ18 #GGJ2018. And yes, the puzzles are opaque and ridiculous to solve unless yo\xe2\x80\xa6 https://t.co/vuLSC2B7VJ'"
+957028653090648064,2018-01-26 23:13:06,b'Pumped for #GGJ2018 at NYU! Actually made it here on time for the keynote\xe2\x80\xa6 maybe I shouldn\xe2\x80\x99t cut it so close'
+956196682424901632,2018-01-24 16:07:09,"b'It has been resolved, but talking about UX problems is educational. https://t.co/6viCbkiCVH'"
+956192789699719168,2018-01-24 15:51:40,b'And I can understand how this stuff happens\xe2\x80\xa6 different kinds of devices that connect to different services. Team A\xe2\x80\xa6 https://t.co/GtvO4N56n1'
+956192408445882370,2018-01-24 15:50:10,b'The thing that blew my mind\xe2\x80\xa6 if four Amazon support representatives and one supervisor can\xe2\x80\x99t figure out how to show\xe2\x80\xa6 https://t.co/P4IGIHIuCQ'
+956191756181262336,2018-01-24 15:47:34,"b'Lessons in bad UI design from @amazon, after 3 chat conversations with support, 45 minutes on the phone, and 6 refu\xe2\x80\xa6 https://t.co/nxzIRxbf11'"
+955886168624844802,2018-01-23 19:33:16,b'Amazon: Thank you for being a Prime member.\n\nMe: You realize that I\xe2\x80\x99m talking to support for the third time this mo\xe2\x80\xa6 https://t.co/I7YwwOLAZg'
+955666491432632321,2018-01-23 05:00:21,"b'Do I actually want to put content on the web, or do I want to spend another week of free time working on some static blog engine?'"
+955666384146587653,2018-01-23 04:59:56,"b""I'm beginning to think that my &gt;7k LOC project to manage my static web site is ill advised and I should just use something off the shelf."""
+955604526404423680,2018-01-23 00:54:08,b'git remote add self .\ngit push -u self master:upstream\nWhy not?'
+955553148877332480,2018-01-22 21:29:58,"b""Finally got around to watching some of the @handmade_hero streams. It's so nice to see other developer's thought pr\xe2\x80\xa6 https://t.co/izZTP4bcZj"""
+953481255735234560,2018-01-17 04:17:00,"b""Today I can't look at pixel art without counting the palettes #nesdev"""
+953480957373370369,2018-01-17 04:15:49,b'My homebrew #nes game has a level loader! Sort of. The Python code for converting PNG and TMX files is 2x the line\xe2\x80\xa6 https://t.co/57lEhOHItb'
+952965141519314945,2018-01-15 18:06:09,"b'Hey, keeping that bucket list properly sorted is a good thing. https://t.co/q71sMWZiKd'"
+952911322630500353,2018-01-15 14:32:18,"b""It's not much, but it's mine and it's running on a NES emulator. https://t.co/AKIJjRtz4C"""
+948949086199312384,2018-01-04 16:07:47,"b'You know I always thought, \xe2\x80\x9cDamn, speculative execution on modern CPUs must be an incredible technical challenge to\xe2\x80\xa6 https://t.co/oJUXKt4BhT'"
+948012073342193664,2018-01-02 02:04:26,"b'Here\xe2\x80\x99s to 2018, and continuing to over-engineer my personal projects!'"
+942896733696258048,2017-12-18 23:17:54,b'I just want to be able to grep /etc to find configuration files. Is that too much to ask?'
+942896545845993477,2017-12-18 23:17:09,"b'Turns out systemd config files are not in /etc. Long story short my certbot renew hook was not running, taking my w\xe2\x80\xa6 https://t.co/8IjkkVFhWe'"
+935661930127208448,2017-11-29 00:09:22,"b'Just realized the reason all Go package documentation starts with ""Package X ..."" is so you can Ctrl+F the package\xe2\x80\xa6 https://t.co/ZAo6Hg9UEn'"
+928505850846744577,2017-11-09 06:13:40,"b'The human centipede is technically a millipede, count the limbs per segment.'"
+917229302118219776,2017-10-09 03:24:41,"b""@doandaniel If you're tired you're probably getting it wrong. BRB gonna get a good night's sleep."""
+915032866907738112,2017-10-03 01:56:50,"b""Uninstalled Facebook once it started telling me how many days in a row I was posting. I'm 13% happier now. #gamification"""
+913093486651613188,2017-09-27 17:30:26,"b'@McFunkypants Terminus on normal screens, Menlo or Consolas on high DPI screens.'"
+911049679625965568,2017-09-22 02:09:04,"b'Some dude is singing ""Battle Hymn of the Republic"" right now at karaoke. Awesome.'"
+909967825347006464,2017-09-19 02:30:10,"b'Facebook\'s ""You\'ve shared N days in a row!"" message is what finally convinced me to uninstall the damn thing.'"
+907755328351207424,2017-09-12 23:58:30,b'My next project is code-named \xe2\x80\x9cearthshot\xe2\x80\x9d. Literally the opposite direction from a moonshot\xe2\x80\x94a project I can definitely finish.'
+907752333949460480,2017-09-12 23:46:36,"b""I'm done with the idea that someone can't be intelligent if they're not also cynical."""
+906606418513428480,2017-09-09 19:53:08,"b'Congrats @photonstorm on the MOSS grant! Phaser always has such great documentation, too.'"
+904630247525564418,2017-09-04 09:00:32,b'Photos are up! https://t.co/kJDTi67cf3 https://t.co/AsPBNVVm9I'
+904630200520122368,2017-09-04 09:00:21,b'Photos are up! https://t.co/kJDTi6oNDD https://t.co/1l9X8f5yJs'
+904630137345495040,2017-09-04 09:00:06,b'Photos are up! https://t.co/kJDTi6oNDD https://t.co/1NgLQQmRG2'
+904602006052069376,2017-09-04 07:08:19,"b""@nvidia: I'm seriously impressed with how much faith I've lost in you with this required login for GeForce Experience. I can't trust you."""
+904601755459178497,2017-09-04 07:07:19,"b""@nvidia Can't use GeForce Experience without logging in? Wow, you guys are real assholes. I don't throw that word around."""
+903358940808916992,2017-08-31 20:48:49,b'@Ask_Spectrum Just fix your website.'
+903358899058860034,2017-08-31 20:48:39,"b'@Ask_Spectrum The problem is because my username was autofilled, my password was rejected. Plus the error message was wrong.'"
+903354594805387270,2017-08-31 20:31:33,"b'@Ask_Spectrum Worse yet, this dubious behavior makes me suspicious that the website was designed for security theat\xe2\x80\xa6 https://t.co/IuKjDNRnBp'"
+903354149290610688,2017-08-31 20:29:47,"b'@Ask_Spectrum It doesn\xe2\x80\x99t actually make the website more secure, it\xe2\x80\x99s just a big waste of time. All I want to do is pay my bill.'"
+903353876102991872,2017-08-31 20:28:42,"b'@Ask_Spectrum: Spectrum website says invalid password if I use autofill, have to type manually like dark ages. Spent 20m on phone for that.'"
+902403228251205632,2017-08-29 05:31:10,b'Scanning them in now\xe2\x80\xa6 it will take another few days to post them. https://t.co/1NgLQQ5ghs'
+901517688433852417,2017-08-26 18:52:20,b'Developing film again\xe2\x80\xa6 wondering if I should get a densitometer.'
+901316982238203904,2017-08-26 05:34:48,"b""Ugh somehow I can't find my 1 gal jug for fixer."""
+901313398931156992,2017-08-26 05:20:34,"b'Damn good tent, @outbacklogic'"
+900785778438963200,2017-08-24 18:24:00,"b""Certbot cron job doesn't restart nginx\xe2\x80\xa6"""
+898290752492421121,2017-08-17 21:09:39,b'Guess how many hours per mile traffic is going #oregoneclipse'
+896880882144862209,2017-08-13 23:47:20,b'@Delta Thanks for helping me rebook my flight home a few days ago!'
+893182923142291456,2017-08-03 18:52:58,"b""Huh, somehow I missed this #ldjam. But I was moving into a new apartment, so it wouldn't have worked. :-/"""
+889279881447690240,2017-07-24 00:23:40,b'RT @q3k: You vs. the guy she told you to not worry about. https://t.co/Of1JIojAxx'
+879169598620413956,2017-06-26 02:49:01,b'Trying to figure out if I should just ditch the workstation / laptop and do all my development in a cloud VM.'
+876562775493029888,2017-06-18 22:10:26,b'@70sscifiart One punch!!!!!'
+876562590998171648,2017-06-18 22:09:42,"b""It's amazing what it feels like to have a near-empty TODO list when the weekend comes around. Haven't felt this way in a long time."""
+869439350232293376,2017-05-30 06:24:29,"b""Why do I still have this? I don't have a CD-ROM drive, never mind a floppy drive. https://t.co/cqZxKvVThW"""
+865673645619691520,2017-05-19 21:00:55,b'Shout-out to @letsencrypt for making TLS so easy'
+865673318623436800,2017-05-19 20:59:37,"b'Personal website is now HTTP/2, redirects to https, cache-control: immutable, all shiny :-)'"
+861998354535985152,2017-05-09 17:36:37,b'On HN some people are talking about how they can make music production more like using VIM and how awesome that would be\xe2\x80\xa6 no.'
+861364874898792454,2017-05-07 23:39:24,b'65-35 :-)'
+856297751063277568,2017-04-24 00:04:27,"b""Send me your #LDJAM game and I'l do a video review!"""
+855837760153845761,2017-04-22 17:36:37,"b""Instead of #LDJAM this round I'm going to write an article."""
+855626930590240769,2017-04-22 03:38:51,"b'RT @grumpygiant: ""I know, we\'ll define a list of all the pictures people might want to embed in text, and they can just pick from our list""\xe2\x80\xa6'"
+855479435570675712,2017-04-21 17:52:46,b'As usual I failed to complete any meaningful #ldjam prep work besides changing the strings on my guitar.'
+854059530484953089,2017-04-17 19:50:34,b'Google maps is 3D instead of Mercator when you zoom out now. Nice!'
+853402358604320769,2017-04-16 00:19:12,b'OMG baritoan has all the toan https://t.co/LZftGmBA3b'
+853063200753037312,2017-04-15 01:51:30,b'RT @rocketswamp: more pixel drifting #pixelart https://t.co/FLMGFcPVut'
+852663131339935745,2017-04-13 23:21:46,"b'I wonder if I should get business cards that just say ""Git surgeon"" on them.'"
+851922652465958912,2017-04-11 22:19:22,"b'Gonna try vertical for a while, maybe stop twisting so much. https://t.co/PEX19x1V2z'"
+850564870374400001,2017-04-08 04:24:02,"b'Ugh it turns out that an empty entry in $PYTHONPATH means ""current directory"".'"
+850562830675959808,2017-04-08 04:15:56,"b'#Mercurial is not happy about being run in a directory containing a file named ""site.py"" with Python 3 syntax...'"
+849283374753738752,2017-04-04 15:31:50,b'RT @McFunkypants: Happy 15th Anniversary Ludum Dare! https://t.co/pcsYXyyaMx #LDJAM #gamedev https://t.co/c4fdk2Xk9P'
+848268309564936193,2017-04-01 20:18:19,b'@tehPHEN std::copy only works if the source and destination ranges are the same size.'
+848268171022880769,2017-04-01 20:17:46,b'The _GNU_SOURCE macro is one of the most awful mistakes that ever made it into a standard library.'
+848245864997036033,2017-04-01 18:49:08,"b'C++ standard library, why do you gotta be missing so many simple things?  No adjust_heap, no way to replace a range in a vector.'"
+847164997146939396,2017-03-29 19:14:09,"b'@GameDescientist also make sure you can change the colors, use shapes, or otherwise make it accessible to colorblind players.'"
+847162093774258178,2017-03-29 19:02:37,b'Queued'
+846255548706279424,2017-03-27 07:00:20,b'This year I got to move the clocks forward twice. Yay.'
+843505222966300674,2017-03-19 16:51:31,"b'""ITEMS ARE ELECTRONICALLY MONITORED FOR THEFT"" (so says the sticker on my $1 candy bar)'"
+843389514542407680,2017-03-19 09:11:44,"b'Also love how some companies (banks, etc) are totally cool with making websites that are broken if you block popups (which is now default!)'"
+843389211260731392,2017-03-19 09:10:32,"b""It's been a long time since I've really gotten angry at a person.  Angry at software, though\xe2\x80\xa6"""
+843388975062683649,2017-03-19 09:09:35,"b'Viewing a PDF in Chrome.  ""Save"" doesn\'t work, giving me a ""network error"".  WTF.  I absolutely need to download this PDF.'"
+843298581721370624,2017-03-19 03:10:24,b'RT @waneella_: https://t.co/hJbijhLTm7'
+842953956385062913,2017-03-18 04:20:59,"b""For nd a #booksonthesubway. Will put it back when I'm done. https://t.co/pYchm4ZZzp"""
+840384205225885696,2017-03-11 02:09:42,"b'I think ""there is an extent to which"" has got to be the clumsiest phrase that I hear often.'"
+839578460066574348,2017-03-08 20:47:58,"b""Finally sent my Seattle Filmworks film out to be developed.  Yes, I've been hanging on to those rolls for a while."""
+839003432677752833,2017-03-07 06:43:00,b'Why do people send six-digit confirmation codes from six-digit numbers?'
+836856383580614656,2017-03-01 08:31:24,"b""I don't want to live in a world where curl | sh is the recommended way to install things.  I'm looking at you, Rust."""
+835286155218186240,2017-02-25 00:31:52,"b""Oh no, SHA-1 collision.  Let's check it into our repo as unit test to be safe.  https://t.co/v0g2Rf5RpH"""
+835279586594168832,2017-02-25 00:05:46,b'What kind of weak-ass president bans the press from White House briefings?'
+833440951037227009,2017-02-19 22:19:41,"b'Using an external hard drive on Linux ""Transport endpoint is not connected.""  Like, wtf?'"
+832111240667332609,2017-02-16 06:15:54,"b""Huh.  The iPhone health app assumes that you're 30 years old as of the day you first open it (it fills in your birthday with a guess)"""
+831527244799606786,2017-02-14 15:35:18,b'Congrats @StackOverflow on new look. I like it.'
+828468183648632832,2017-02-06 04:59:41,"b""Starting to write more C# again.  It's nice."""
+825941818139361280,2017-01-30 05:40:49,b'@McFunkypants I know the feeling!'
+824442146409345024,2017-01-26 02:21:39,b'The problem of making backups easy is not really solved yet.'
+824420963253096448,2017-01-26 00:57:29,"b'@grumpygamer I seriously doubt that this is a legal requirement, the president can appoint whomever and the rest is procedural.'"
+824414774494691329,2017-01-26 00:32:53,"b""@teknotus There's a book that describes how to build civilization from scratch to mid-20th century levels.  Can't remember the name."""
+824413939673010177,2017-01-26 00:29:34,"b'I mean at a reasonable ~$100-ish price tag, I know that you can get decent routers if you spend enough $$$.'"
+824413729802649601,2017-01-26 00:28:44,"b""Can't we agree that somebody should make a WiFi router that isn't missing some essential feature?"""
+823913134196977664,2017-01-24 15:19:33,"b""I'll eventually figure out how to live in New York. Brb, playing Tetris with my clothes so I have enough space to sleep."""
+823201794205618176,2017-01-22 16:12:56,"b'I love how Unity uses radians and some place and degrees in other places, so you constantly have to convert between the two.'"
+822857458448289792,2017-01-21 17:24:40,b'How is this the default? https://t.co/05L1t4VwWE'
+822584660131770377,2017-01-20 23:20:40,b'Place is packed! #MSPlay17 #GGJ2017'
+822120429372473344,2017-01-19 16:35:59,"b""@Kalishir it's not actually that bad\xe2\x80\xa6 2D + some cool effects can be done in a Ludum Dare weekend."""
+821925495214325761,2017-01-19 03:41:23,"b'Wow, new Logic interface gets rid of a bunch of the skeumorphic bits.  I like it.'"
+821580315638595584,2017-01-18 04:49:46,"b""1. Bake cookies. 2. Eat cookies until you can't look at them without feeling sick. 3. Give the cookies away."""
+821539673659080705,2017-01-18 02:08:16,b'@empress_effects Digging the compressor\xe2\x80\x94but had to go to the guitar section to buy it :-) https://t.co/twPZPtw0QS'
+821536552929161216,2017-01-18 01:55:52,b'Is owning 9 cookie sheets too many for a single guy in a tiny apartment?'
+821526059627794436,2017-01-18 01:14:10,b'RT @REALpunknews: Conspiracy Theorist Starting To Connect Dots In Coloring Book https://t.co/jiDZlY2sjL'
+821525903272542208,2017-01-18 01:13:33,"b""If I'm serious about #1GAM this month I really ought to use Unity instead of C++ &amp; OpenGL."""
+821519822236303360,2017-01-18 00:49:23,"b""I think I've heard enough stories of people making too much spaghetti that I somehow ended up making one serving when I wanted leftovers."""
+821511502259691520,2017-01-18 00:16:19,"b""Today, yet again, I curse at @NETGEAR for selling me a router that doesn't do its job."""
+821508994384674817,2017-01-18 00:06:21,"b'@NETGEAR Thanks, you gave me a link so I could view our Twitter conversation.  What I just want is for my router to work correctly.'"
+820392732027916288,2017-01-14 22:10:44,"b'@q3k yup, and math with strlen is less safe than people think.'"
+820363889078628353,2017-01-14 20:16:07,b'2017 should be the year I start blogging.'
+820363676616192001,2017-01-14 20:15:16,"b""Where's a good FAQ page explaining why strncat is not a safer version of strcat?  Seems to come up a lot."""
+820157552893825026,2017-01-14 06:36:13,b'I have mixed feelings about a world where I can watch Rick and Morty at the touch of a button without getting out of bed.'
+820081460497551361,2017-01-14 01:33:51,"b'""I want coverage for pre-existing conditions, but no mandate, no single payer, and low premiums."" a.k.a. I don\'t understand economics.'"
+820059818585165824,2017-01-14 00:07:51,"b'Picked up a tube screamer\xe2\x80\x94used to be skeptical of pedals, but love that mid emphasis. :-)'"
+820058576513368065,2017-01-14 00:02:55,"b'Migrating email providers\xe2\x80\x94oh, I just LOVE setting up SPF, DKIM, and DMARC.  Especially when I forget to drop the TTLs.'"
+819766256135831552,2017-01-13 04:41:20,"b""I'm upset and angry at @NETGEAR for the poor quality of the router I'm using.  I can't access LAN devices from WiFi."""
+818679486891827205,2017-01-10 04:42:54,b'My kind of PoE injector https://t.co/2lZvkrCstn'
+816231520935493632,2017-01-03 10:35:34,"b'This year, gonna do longer projects like #1GAM instead of #LDJAM'"
+815669934722256896,2017-01-01 21:24:01,"b""New year's resolution: kiss a bunch of frogs.  Metaphorically speaking."""
+810730211755036673,2016-12-19 06:15:19,"b'Why do people use the phrase ""irrationally angry"" to describe how they feel when they have a good reason to be mad?'"
+808258238974226432,2016-12-12 10:32:35,b'Ugh scope killed my #ldjam'
+808131062002053121,2016-12-12 02:07:14,b'@Ansjh You still have an hour.'
+808035095772889088,2016-12-11 19:45:54,b'...probably going to go for the 72 hour version of #LDJAM.'
+807952762487107585,2016-12-11 14:18:44,"b""I feel like I'm not panicking nearly enough for #ldjam."""
+807926471515930625,2016-12-11 12:34:16,b'The Crew of the U.S.C. Expensive Undertaking is reporting in! #LDJAM Random generation seems to be going well. https://t.co/vVwg4BBRS9'
+807879074442018817,2016-12-11 09:25:55,b'Drawin some faces.  Am I behind on my #LDJAM? Yes. https://t.co/yx73cHPFFo'
+807809366476881920,2016-12-11 04:48:55,"b'So, Unity has ""Color"" (not ""Colour"") but ""Behaviour"" (not ""Behavior"")? A transatlantic API for the masses. #LDJAM'"
+807780623700152320,2016-12-11 02:54:43,b'A space ship interior in 3D for #LDJAM https://t.co/5jos6f2YzV'
+807722210437763072,2016-12-10 23:02:36,"b""I wish there was an easier way to remove video results when I'm searching for Blender tutorials. #LDJAM"""
+807721517048102912,2016-12-10 22:59:51,"b'Ah, the familiar Google search ""blender mesh editing tutorial"". I\'m always starting from scratch. #LDJAM'"
+807712250358272000,2016-12-10 22:23:01,"b""Switching my #LDJAM to Unity.  Maybe I'll do bare JavaScript+WebGL next time."""
+807696097800048640,2016-12-10 21:18:50,b'Published 3 weeks ago and the repository is already a 404.'
+807695431287373826,2016-12-10 21:16:11,"b""I'm constantly amazed by how much just *doesn't work* when you're trying to use JavaScript."""
+807443874805334016,2016-12-10 04:36:35,b'Working on a space ship for #LDJAM https://t.co/eLoeSuvMQd'
+807353648791621632,2016-12-09 22:38:04,b'Upgraded to dual 1440p in time for #LDJAM :-) https://t.co/OxNeAHG41K'
+807279074372685824,2016-12-09 17:41:44,b'Got enough sleep last night and ready for #LDJAM today!'
+806373280059887620,2016-12-07 05:42:26,"b'I guess it makes sense. I saw a table in the Git source code and thought, ""I need a tool that generates that table.""'"
+806373095091081217,2016-12-07 05:41:42,b'Huh.  Someone put my code in the Git build system.'
+806230303723388928,2016-12-06 20:14:18,b'RT @cartoonnetwork: Which Pearl describes your mood today? https://t.co/GOPXWMpwNr'
+806213720586207233,2016-12-06 19:08:24,b'Come on and share this #ldjam with me!'
+800041867517669376,2016-11-19 18:23:39,"b""So, systemd kills your tmux session when you log out.  That's far more user-hostile than I expected."""
+798728355612860416,2016-11-16 03:24:14,b'Preparing to install updates 0%'
+798013731741384704,2016-11-14 04:04:34,"b'Okay, villains have both ""evil queen"" and ""evil witch"" those are not two different people.  Gonna go with princesses then.'"
+798012946546733056,2016-11-14 04:01:27,"b'Ordering checks, do I get Disney Princess or Villain? Ugh I am not prepared for this choice. Princess costs extra. No Belle or Maleficent.'"
+793111855627702272,2016-10-31 15:26:16,"b""Go's time.Format makes me sad."""
+792480406708813826,2016-10-29 21:37:07,"b""C runs on some truly horrifying systems.  That doesn't mean that your code has to run on those systems just because it's written in C."""
+792480242745090048,2016-10-29 21:36:28,"b""So what if your program won't work if integers have padding bits, or if CHAR_BIT is 9, or if you can make arrays bigger than PTRDIFF_MAX?"""
+792479744994443269,2016-10-29 21:34:29,"b""The C standard is the programmer's version of the Necronomicon.  Reading it makes you insane."""
+790651170008236032,2016-10-24 20:28:23,"b""It's okay to not want what someone else can't have."""
+790235316951085056,2016-10-23 16:55:56,"b""Dance like your crush is watching.  Clean like your parents are coming over.  Imagine you're naked when you give a speech."""
+787524753900830721,2016-10-16 05:25:07,b'curl | sh makes me want to vomit'
+786952597718573057,2016-10-14 15:31:34,b'https://t.co/2t4944BlHT'
+783550443792269313,2016-10-05 06:12:38,"b""Gahdhhhhghghh @RokuPlayer can't connect to iPhone when Roku is connected to the SAME NETWORK with ethernet.  Fail."""
+782984239906189312,2016-10-03 16:42:44,"b'According to a JavaScript developer survey, 2% of developers have never heard of JavaScript. https://t.co/bGWN8yYyEu'"
+781621155795009536,2016-09-29 22:26:20,b'Feeling the itch to DM again. I need to find a group.'
+780636084086661120,2016-09-27 05:12:00,"b'@NETGEAR Honestly, other routers do not have this problem.  SOP is to give same SSID to 2.5 GHz and 5 GHz, let devi\xe2\x80\xa6 https://t.co/CAnisaHW8y'"
+780635757878841344,2016-09-27 05:10:42,"b""@NETGEAR I'm going to tweet at you every time your broken software makes my life more painful.  I can only hope you understand my pain."""
+780635568396984320,2016-09-27 05:09:57,b'@NETGEAR It really sucks that you have to give 2.5 GHz and 5 GHz networks different SSIDs.  This is an outdated way of configuring WiFi.'
+780626835038240768,2016-09-27 04:35:15,"b'Found a bug in Gnome... it\'s nice that it\'s already in the tracker and marked ""grave"", but the fix hasn\'t landed yet.'"
+780626593177894912,2016-09-27 04:34:17,b'@kenvogel I guess the lesson is to use tethering.'
+777991977296068608,2016-09-19 22:05:16,"b'Take a moment to appreciate that ""link error: undefined reference to vtable"" means go add braces to your destructor and we don\'t bat an eye.'"
+777792089941762048,2016-09-19 08:50:59,b'I still hate .rar files.  Stop using them.'
+777760211687862272,2016-09-19 06:44:19,b'RAR files suck.  Stop using them.'
+775640980779335680,2016-09-13 10:23:15,"b""I'm not giving up on #js13k, I'm just switching to #1GAM and making a very small game."""
+774764579905761280,2016-09-11 00:20:44,"b'Dear Universe,\nThank you for avocados.\nSincerely, Dietrich'"
+773596845243334656,2016-09-07 19:00:35,b'@grumpygamer Canada is pretty safe.'
+773536554052620288,2016-09-07 15:01:00,"b'Edge, Chrome, and Firefox are going to be my targets. Destructuring, classes, let, const, arrow functions, for (\xe2\x80\xa6 of \xe2\x80\xa6) #js13k'"
+773534900997779456,2016-09-07 14:54:26,"b'So I guess ""ES6"" is really ""ES2015"".  Confusing, but at least it\'s not ""ES Me"".'"
+773533699979771905,2016-09-07 14:49:40,b'RT @marcoffernandes: Looks cool but how on earth will I squeeze this effect on my #js13k game? https://t.co/vNEtcUBWyY'
+773533533893713920,2016-09-07 14:49:00,"b'Shout-out to rollup.js, makes it easy to try experiments but keep code size down. #js13k'"
+773533067222941697,2016-09-07 14:47:09,b'Targeting ES6 in the browser makes #js13k much more fun.'
+773292917301673984,2016-09-06 22:52:53,b'I have accepted that my .emacs must be large and full of code.'
+771870185108234240,2016-09-03 00:39:27,b'Seriously? The way I disable automatic reboots is by editing group policy?'
+771869073898606592,2016-09-03 00:35:02,"b""I'm constantly surprised by how hostile Windows is to users.  This is why I don't use Windows to get real work done."""
+771863278058409984,2016-09-03 00:12:00,b'Blunderbuss by Steven Miller... wins prize for best reload mechanic ever.  Play it! #LDJAM https://t.co/LCnbHOiDPe'
+770889387819294724,2016-08-31 07:42:07,"b'Go play @rjhelms #ldjam ""Super Egyptian UFO Cat Pyramid Overlord 2000 BC"" game, oh yes, it\'s fun. https://t.co/E4NHCQwdZ8'"
+770071006417457153,2016-08-29 01:30:09,b'SPOILER ALERT: The splash screen shows things that never made it into my #ldjam game.  Such as movable crates.'
+770070741047996416,2016-08-29 01:29:06,b'This is it... #ldjam https://t.co/eK88SAuduL'
+770070560722345986,2016-08-29 01:28:23,b'#ldjam tired as hell but I published the game: https://t.co/3FlyI8DIAg'
+769877377686044672,2016-08-28 12:40:45,b'Will this become a game? #ldjam progress https://t.co/K9VKh80zGc'
+769335147850268673,2016-08-27 00:46:07,b'I had one problem. So I solved it with a multithreaded program.  two probNow Ilems have'
+769311545792798721,2016-08-26 23:12:20,"b""Someone at Facebook is having a bad day today.  At least it's still business hours PDT."""
+769297789029351424,2016-08-26 22:17:40,b'Getting ready to use #phaser for #ldjam'
+769256544210972677,2016-08-26 19:33:46,b'What do you do to prepare for #ldjam? Change guitar strings'
+769226816007659520,2016-08-26 17:35:39,"b'Love it when ""cd $PWD"" fixes everything.'"
+769213922058629120,2016-08-26 16:44:24,"b'Now that I live in EDT, I get an extra three hours after work before #ldjam :-)'"
+768232527001743361,2016-08-23 23:44:42,"b'Windows update re-enabled the ""fast startup"" a.k.a. ""we hate Linux users"" mode.  Why am I not surprised, Windows update is a trainwreck.'"
+767796572675604481,2016-08-22 18:52:22,b'Ugh the .py tld means Python file names get converted to links when I paste them'
+767739814238101504,2016-08-22 15:06:50,"b'@grumpygiant Re: ""Ill-advised C++"" template &lt;class T, size_t N&gt; constexpr size_t countof(const T (&amp;x)[N]) { return N; } \xe2\x80\x94 safer than a macro'"
+766298542684114944,2016-08-18 15:39:44,b'https://t.co/x8LPU3QG1R'
+760652604980469760,2016-08-03 01:44:47,"b""Yay for curtains! Now randos won't be looking into my bedroom all hours of the night and I can throw away the paper I taped over the windows"""
+760216598284206081,2016-08-01 20:52:15,b'Living in New York is like having your clock set back to 2006. Everything is so inefficient here.'
+760183955421298688,2016-08-01 18:42:33,"b""Okay... address form uses a drop down.  Select zip code, select street, select number, select apartment number.  My apartment isn't listed."""
+759645643744870400,2016-07-31 07:03:29,b'@StarkillBand Awesome set on Friday!'
+759644877718188033,2016-07-31 07:00:27,"b""Season 3 of Bojack is up? Well, I didn't need to sleep tonight anyway."""
+759535453905252352,2016-07-30 23:45:38,"b""Ugh why can't C++ just have a function for hashing byte string in the standard library."""
+758738385993240576,2016-07-28 18:58:22,"b'@NETGEAR ""The SSID is duplicate, please change to another one.""  Nooo! How do I override this, or do I just have to exchange my router?'"
+758691308659732480,2016-07-28 15:51:18,"b""@danctheduck Great article. Played too many frustrating indie games, then talk to devs, they don't use metrics at all."""
+758680543693246464,2016-07-28 15:08:31,"b'Hey @EarthLink, why did you cancel my installation without notice? I stayed home from work waiting, then find out you dropped the ball.'"
+758049096208883712,2016-07-26 21:19:23,"b'Haha @github I\'m so glad for ""threaded view"" in my email client.'"
+757473685427085312,2016-07-25 07:12:54,b'Huh\xe2\x80\xa6 testing code to generate finite state transducers\xe2\x80\xa6 and debugging it triggers CPU load alerts on my VPS.  Time to optimize the code.'
+756897443887931392,2016-07-23 17:03:07,b'RT @castpixel: Undisclosed 1-bit thing for undisclosed 1-bit game. #gamedev #pixelart https://t.co/4Yg0upbZ4G'
+756654089962921984,2016-07-23 00:56:07,"b""@ATTCares Oh my god it's like you're not even reading my messages. You are SENDING spam to me. You. AT&amp;T. Not somebody else. Stop it."""
+756653406094262272,2016-07-23 00:53:24,"b'RT @kinucakes: I drew up something I see a lot in game animation loops, where the loop is really obvious. Remember followthrough! https://t\xe2\x80\xa6'"
+756649370829881344,2016-07-23 00:37:22,b'@ATTCares Maybe I can explain with pictures. I have clicked unsubscribe many times in the last month. Stop spamming. https://t.co/sy51jnEM8K'
+756648404382543872,2016-07-23 00:33:32,"b'@ATTCares There seems to be a misunderstanding here: I am receiving spam FROM AT&amp;T. As in, AT&amp;T is spamming me with emails.'"
+756632399392407552,2016-07-22 23:29:56,"b""@ATT How many times do I have to click unsubscribe before you stop spamming me? It's been a few weeks and you still spam me all the time."""
+755491954469765124,2016-07-19 19:58:12,"b'Telnet works over IPv6. This is the internet of the future here, folks!'"
+754537109080383488,2016-07-17 04:44:00,"b""Newegg -&gt; Wireless Routers -&gt; Sort by rating -&gt; Huh, WRT45GL. Can't say I'm surprised.  Do want something from this decade, though."""
+753844546425851904,2016-07-15 06:52:00,"b'@ATT Is your email unsubscribe link broken or what?  I\'ve gotten like a half-dozen confirmations that I\'ve ""unsubscribed"" from your spam.'"
+753718740332732416,2016-07-14 22:32:05,b'RT @Sir_carma: My first animated scene! (realtime in Unity!) #voxel #madewithunity https://t.co/ug3ueb0DbW'
+752346377242472448,2016-07-11 03:38:48,"b'Damn, Marilynne Robinson knows how to put words on a page.'"
+751179530254094336,2016-07-07 22:22:10,"b""@hulu Why is Seinfeld cropped?  You chopped off the top and bottom\xe2\x80\xa6 I'm not sure I want to watch that\xe2\x80\xa6"""
+750801576617443329,2016-07-06 21:20:19,"b'@LiveNation what is up with your ticket website? I went through three rounds to prove I\'m not a robot, then ""unable to process your request""'"
+749786914379751424,2016-07-04 02:08:25,b'@Powells I miss you and I cannot live without you. The stores in NYC are just not the same.'
+749786412002803713,2016-07-04 02:06:25,b'RT @70sscifiart: Halfway through 2016 and I still have my smartphone and coffee. Prediction confirmed. https://t.co/RjaEUCK6Qb'
+746491281807970304,2016-06-24 23:52:45,"b""Setting up DKIM\xe2\x80\xa6 if I weren't so paranoid I'd let someone else run my mail server.  But I like it this way."""
+746463873016954881,2016-06-24 22:03:50,"b""Wow, the CEO's comments are just embarrassing. https://t.co/SFEiP76NvM"""
+744730718077489152,2016-06-20 03:16:54,b'New favorite command-line flag: -IHaveBeenWarnedThatAPFSIsPreReleaseAndThatIMayLoseData'
+743910983983259648,2016-06-17 20:59:34,"b'""What are you going to do without me? Who\'s going to keep you down? The man?"" \xe2\x80\x94my sister'"
+743886358389760000,2016-06-17 19:21:43,b'RT @McFunkypants: I feel like the gamejam community is maturing. My gut instinct tells me that Ludum Dare as we know it is about to have a\xe2\x80\xa6'
+742873125247844352,2016-06-15 00:15:29,"b""15 GB full backup at 180 KB/s upload... sigh. This was the package with the best upload rate, too. I can't even throw money at this problem."""
+742860173010575360,2016-06-14 23:24:01,b'Voxel Quest open source? Rad!'
+738806876796686336,2016-06-03 18:57:40,"b""Okay, I think I've properly configured Exim + SpamAssassin.  Only took like three hours."""
+733947332849369088,2016-05-21 09:07:34,"b""Who do I vote for to make the pixels smaller?  They're too big."""
+732981938508550144,2016-05-18 17:11:26,"b'""At 25 it\'s a quarter-life crisis, not a mid-life crisis."" ""It\'s a mid-life crisis if you\'re pessimistic.""'"
+731357338188144640,2016-05-14 05:35:52,b'@mtrc 5th no question.'
+731227868227719168,2016-05-13 21:01:23,b'@mtrc depends on the players. People who love crunchy tactical combat get 4th with MM3. Others get 5th.'
+728354853538254848,2016-05-05 22:45:03,b'Writing a Python script which writes a Python script which generates a build script which builds a compiler which\xe2\x80\xa6 #justdevthings'
+727082245668765696,2016-05-02 10:28:10,"b'@McFunkypants ""Offensive"".  Make a game that is crass, vulgar, profane, blasphemous, scatological, insensitive, in poor taste, rude, etc.'"
+725003074754908160,2016-04-26 16:46:17,b'Version control is way better when people actually use it.'
+724958319140560896,2016-04-26 13:48:27,b'@svnvsgit I was a beta user.'
+724728629289046016,2016-04-25 22:35:44,"b'I take back anything good I said about SVN. Granted, last time I did that was probably 2002.'"
+724727749210861568,2016-04-25 22:32:14,"b'Oh, SVN. No stashing. Lots of breaking. You were sometimes better than CVS. I wish my company could quit you.'"
+724726725247008768,2016-04-25 22:28:10,"b""Powershell, deleting my lines when I tab complete at the beginning. You're breaking my heart."""
+721589517925232640,2016-04-17 06:42:02,"b'Combat simulations for my #LDJAM game, to test game balance.  Need to nerf the ""air"" monster a bit, and bat too. https://t.co/KNy4APlz5v'"
+721245411684388865,2016-04-16 07:54:40,b'Gonna do Monte Carlo simulations for game balance for #LDJAM... balance is important!'
+721233714135506945,2016-04-16 07:08:11,b'First music track written for my #LDJAM game! https://t.co/6Dq1hzjTW2'
+721141092486291456,2016-04-16 01:00:09,b'#ldjam F5 F5 F5 F5 F5 F5 F5 F5 F5 F5 F5 F5 https://t.co/GsKBv1OT8L'
+721112052610150400,2016-04-15 23:04:45,"b""Ahh, two of my DIMMs weren't seated properly. It doesn't help that the BIOS labels don't match the mono labels. https://t.co/qrfzsyAUmz"""
+720983842664742912,2016-04-15 14:35:17,b'Got WebGL text rendering working before #LDJAM this time! https://t.co/NdQArx03ZR'
+720673838502023169,2016-04-14 18:03:27,"b'Oh man... once I migrate the other static sites, I can turn off nginx and use haproxy.  Looking forward to a simpler server.'"
+720673060542500865,2016-04-14 18:00:21,"b""Just migrated my website to S3... ahh, that's the sound of me maintaining one less service."""
+717770830453669889,2016-04-06 17:47:56,b'RT @etelsverdlov: No further explanation necessary. https://t.co/MOn4pya8nH'
+717769992243052544,2016-04-06 17:44:36,b'RT @DELICIOUSKEK: Gritty Thomas the Tank Engine Reboot https://t.co/sAApYpvumM'
+717217689710764034,2016-04-05 05:09:57,"b""RT @ludumdare: Happy Monday! Did you know it's Theme Slaughter time? Yes it is! https://t.co/3tRiOb4w0D #LDJAM https://t.co/PdPZFZV9m8"""
+717217370742333441,2016-04-05 05:08:41,"b""@Pr3stidigitator No info top themes until the first round of voting ends, and it won't start until next week.  Theme slaughter is different."""
+717118935414349824,2016-04-04 22:37:32,b'Seriously? 65 different command-line preprocessor definitions? _64_BITS defined for 32-bit builds? Why???'
+717048597607374849,2016-04-04 17:58:02,"b""@LGUSAMobile If you're using your cell phone on your date you should be seeing someone else."""
+716870517177778178,2016-04-04 06:10:24,"b""Excited for #LDJAM.  Hope I don't burst into flames."""
+716870119364829184,2016-04-04 06:08:49,b'Just merged a feature branch open since Jan 19.  Feels good!'
+716749761550819328,2016-04-03 22:10:34,"b'@dekadens @Jonathan_Blow Approximately same amount of power, because power consumption is swamped by other things besides ALU.'"
+716131857230737409,2016-04-02 05:15:14,"b""Recording gameplay footage in 4K UHD 60Hz\xe2\x80\xa6 I'm gonna need a bigger hard drive."""
+715960059935592448,2016-04-01 17:52:34,b'RT @MOOMANiBE: Oh my GOD. https://t.co/SwBQeU7358 https://t.co/FeKfVhYAj4'
+715378720643506176,2016-03-31 03:22:32,"b'Ahh, happy now, 4K@60Hz.'"
+715374004735881216,2016-03-31 03:03:48,b'Device manager: \xe2\x80\x9cthis hardware device is not connected to the computer\xe2\x80\x9d uhhh\xe2\x80\xa6 that\xe2\x80\x99s my graphics card\xe2\x80\xa6'
+715373613440864257,2016-03-31 03:02:15,b'\xe2\x80\x9cAn nVidia card was not detected in your system.\xe2\x80\x9d The fact that this message appears on a monitor plugged into a GeForce card baffles me.'
+714972384118202368,2016-03-30 00:27:54,"b'If the ship is sinking, throw hammers at it until it floats. Or in my world, ""The program is slow, let\'s make it multithreaded.""'"
+714755093069963268,2016-03-29 10:04:28,"b""There's always one idiot who ruins it for everyone.  Check when you're scheduled to be that idiot. \xe2\x80\x94Oglaf"""
+710176871057465344,2016-03-16 18:52:15,b'RT @marcosalvi: VR rendering problems at GDC16 https://t.co/JzkGI6lVBL'
+707320547068088322,2016-03-08 21:42:14,"b'""My wife doesn\'t want me naming our son Chip. It\'s a good name, though! It just happens to already be the name of our rabbit.""'"
+704273120794800128,2016-02-29 11:52:51,"b'@killer_networks E2200.  I want bare drivers, but the drivers are packaged as bare drivers in a zip file with no installer.'"
+703486437103005696,2016-02-27 07:46:51,b'@killer_networks I just want network access what makes you think that 216MB of extraneous crap is necessary or welcome.'
+703485155319525376,2016-02-27 07:41:45,b'@killer_networks Very unhappy with your bloated network drivers that install unwanted software. Do not recommend.'
+698589442051682305,2016-02-13 19:27:56,"b'Dammit Windows, some of us have work to do. Ask before you update. Were you raised in a barn?'"
+696968274932727812,2016-02-09 08:06:00,b'Working on a SFX generator to improve on BFXR / SFXR.  What should I include? https://t.co/87LUtKiYXa'
+690275448278757376,2016-01-21 20:51:06,"b'String.append("""").  Somebody thought that this belonged in the code.'"
+684831207188598784,2016-01-06 20:17:37,"b'Hey @Marriott, stop calling me on my cell phone.  Have you heard of the telecommunications act of 1996?'"
+682125726569476096,2015-12-30 09:07:01,b'Amusing to read code written by someone who uses snprintf() and va_list to write their own vsnprintf().  DELETED! :-)'
+682116252832116737,2015-12-30 08:29:22,"b'Love it when I find ""This file was automatically generated by..."" at the top of a file, and ""// jhacker 02/12/2008"" partway down.'"
+682075852104843265,2015-12-30 05:48:50,"b'""Huh, that\'s funny, why is this code even here?"" quickly becomes a negative 500 line commit.'"
+682005774114009088,2015-12-30 01:10:22,"b""Dammit, accidentally fixed some bugs I didn't know about with the refactor.  Now I have to go fix the test suite."""
+681983221358145536,2015-12-29 23:40:45,"b'Must refactor, but no unit tests. Integration test suite takes 16 minutes to run at home, and 30 minutes at work. Refactor slowly :-('"
+681410800699875329,2015-12-28 09:46:09,"b'RT @rifflesby: Confirm that you have landed on the Prime Material Plane. If you have landed on an Elemental Plane, do not exit. https://t.c\xe2\x80\xa6'"
+679600664314417152,2015-12-23 09:53:19,"b'If all you have is a regular expression, everything looks like a string.'"
+679516526102200321,2015-12-23 04:18:59,"b'Um... you know that &amp;ch isn\'t a string, right? regex regEx(""(\\\\w)""); char ch = ...; if (regex_search(&amp;ch, matches, regEx))'"
+678253770606702592,2015-12-19 16:41:14,"b""Never buy @generalelectric home security. Their sales team will harass you, wake you up, and won't stop. They're like zombies, but worse."""
+677273664736260096,2015-12-16 23:46:39,"b'RT @nvscene: Mercury has released a glsl library for SDFs, as seen in their #nvscene 2015 talk: https://t.co/5hcRM1X0t0 https://t.co/GN0Pgq\xe2\x80\xa6'"
+677265937301540864,2015-12-16 23:15:57,b'@schteppe user error in the end :-)'
+676510103105736704,2015-12-14 21:12:32,b'Homing missiles work in my #LDJAM game! Gif later...'
+676083820852994048,2015-12-13 16:58:38,"b'Hm, the 72-hour option for #LDJAM is very enticing.'"
+676016357566078977,2015-12-13 12:30:34,"b'Debugging texture problems for #LDJAM... just spent fifteen minutes on a ""count + 1"" that should have been ""count + i"".  Dammit.'"
+675846793184206848,2015-12-13 01:16:46,"b""Oh! Friction didn't work in my #LDJAM game was because the player was a circle, which could roll, even though it was drawn as a box."""
+675842152442695680,2015-12-13 00:58:20,"b""Can't get friction in p2.js to work for #LDJAM. Restitution works fine, though. Weird! My game doesn't really NEED friction anyway."""
+675814609807273984,2015-12-12 23:08:53,"b'Turns out WebGL for my #LDJAM is much, much faster with {alpha: false} at context creation.'"
+675481185179426817,2015-12-12 01:03:59,"b""@Sosowski I won a game jam raffle once, so it looks like I'm ahead :-)"""
+675459497763074048,2015-12-11 23:37:48,"b""@CharlotteGore @mikekasprzak Don't worry, I lose abilities as I progress too."""
+675452553245515777,2015-12-11 23:10:12,"b'In .bash_profile: ""source ~/.bash_profile"". Whoops.'"
+675445804094492672,2015-12-11 22:43:23,"b'Cygwin shell quits on launch. That will be fun to debug. Thanks, Windows.'"
+675434219456233472,2015-12-11 21:57:21,"b'RT @primaerfunktion: Should print, frame and hang this comment my last #LDJAM game got on the wall for motivation. https://t.co/XP5OMzaNoq'"
+675133233902837760,2015-12-11 02:01:20,"b'I love my Linux dev system with Emacs just the way I like it, but Chrome + WebGL + Mesa + Radeon HD 5xxx \xe2\x89\xa0 smooth gameplay. #LDJAM'"
+674861787267788800,2015-12-10 08:02:43,b'@KaiseanDev That looks like it would be terrible for red-green colorblind folks.'
+674771901927919616,2015-12-10 02:05:32,b'@ccolongames Oregon has Corvallis (pop 55k) but not Portland (pop 620k) :-/'
+674771137520267264,2015-12-10 02:02:30,b'NPM what is up with your search?\nnpm search envify  180.71s user 1.30s system 99% cpu 3:02.10 total'
+674433972537982976,2015-12-09 03:42:44,"b'@LennyLeBrun Makefiles are hard you need -MF $(patsubst %.o,%.d,$@) -MMD -MP and -include $(wildcard *.d) or things suck.'"
+674432140134617088,2015-12-09 03:35:27,b'Hooray for #LDJAM gonna WebGL all over the place!'
+671860270801641472,2015-12-02 01:15:45,b'Sometimes debugging your software you feel like Mr. Bean. #justdevthings https://t.co/UkbB1w4Snl'
+670874014592684032,2015-11-29 07:56:43,"b""@Powells Life isn't the same without you.  I wish we could hang out together the way we did in high school."""
+668279491093884928,2015-11-22 04:07:01,b'1384 insertions 1808 deletions -- it always makes me happy.'
+665298608699215872,2015-11-13 22:42:03,"b'Paris, my heart goes out to you.'"
+664940728426991617,2015-11-12 22:59:58,b'RT @tha_rami: So now that Zelda is finally female maybe we can start looking into other Nintendo characters like Metroid.'
+664676414935863296,2015-11-12 05:29:41,"b'So, this is not the first time this week I\'ve asked, ""Why doesn\'t it work?"" and found a ""dummy.cpp"" file with stubbed out functions.'"
+664323708547301376,2015-11-11 06:08:09,"b'Three Rs of code: Reduce the functionality, Reuse functions from multiple call sites, Recycle code by copying it. Only then write new code.'"
+664323313389318144,2015-11-11 06:06:35,"b'Ah yes, ""This function is hard to write,"" turns once again into, ""This API is too complicated.""  Less code, simpler code, is better code.'"
+662773777114075137,2015-11-06 23:29:16,b'@RatKingsLair one pixel game. Perfect scaling!'
+662381398506868736,2015-11-05 21:30:06,"b'So, to #procjam or not to #procjam, that is the question.'"
+658902088894672896,2015-10-27 07:04:34,b'@castle_dex Played a few rounds.  A little frustrating but still fun.'
+658371852213968896,2015-10-25 19:57:36,"b""Aptitude: 14.437g VIRT, 0.014t RES, 99.7% CPU, 90.5% MEM... guess those dependencies aren't getting resolved without a hardware upgrade."""
+658243678192795648,2015-10-25 11:28:17,"b""@FrontierCorp You're hijacking my DNS queries and returning incorrect data.  This is dishonest and unethical.  How do I turn it off?"""
+658138738267045888,2015-10-25 04:31:17,"b'""Have you ever cleaned an entire 737 on acid?""'"
+656891278865469440,2015-10-21 17:54:19,"b""Don't need a credit card to ride this train\xe2\x80\x94thanks for making my childhood brighter."""
+654701632672829440,2015-10-15 16:53:27,b'CVE-2015-7645\xe2\x80\xa6 this is why I disable Flash on every computer I use (except for a non-admin account for playing #ldjam games).'
+654476217081446400,2015-10-15 01:57:44,"b'@FrontierCorp I mean, sure there are going to be delays sometimes. But, installation pushed back twice, to the tune of NINE days? \xf0\x9f\x98\xa1\xf0\x9f\x98\xa1\xf0\x9f\x98\xa1'"
+654475225719934976,2015-10-15 01:53:48,b'@FrontierCorp why do you jerk me around like this? I thought you were supposed to be better than Comcast. \xf0\x9f\x98\x95\xf0\x9f\x98\x95\xf0\x9f\x98\x95\xf0\x9f\x98\x95\xf0\x9f\x98\x95\xf0\x9f\x98\x95\xf0\x9f\x98\x95\xf0\x9f\x98\x95\xf0\x9f\x98\x95\xf0\x9f\x98\x95 super unhappy'
+654155185145516032,2015-10-14 04:42:04,"b'""Will you go to the bathroom with me one last time?"" Not eavesdropping.'"
+653616339228037120,2015-10-12 17:00:53,b'RT @devolverdigital: Downwell from @moppin_ launches on iOS via @AppStoreGames this Thursday! Please retweet! http://t.co/tYz9afEIHD'
+651535750987550720,2015-10-06 23:13:22,"b""So, what took longer? Duke Nukem Forever or Perl 6? I'm honestly not sure."""
+649365420533641217,2015-09-30 23:29:15,"b""RT @emilymadly: If you're a Portlander I cannot recommend @PIGSquad enough to artists lookin to get into game art. so friendly, so many coo\xe2\x80\xa6"""
+635625482180935680,2015-08-24 01:31:38,"b""It isn't much, but it's my #LDJAM http://t.co/1f916hyu3N"""
+635599907626192896,2015-08-23 23:50:01,"b""It's probably going to get released in time for compo.  Woo! #LDJAM http://t.co/oIvEpKJyQE"""
+635481889201979393,2015-08-23 16:01:03,b'A few tweaks can make a big difference.  #LDJAM http://t.co/gc48DguWpg'
+635447447125233665,2015-08-23 13:44:12,"b""Yet again, I'm not sure if this #LDJAM will be a game within the next 11 hours."""
+635381685710774272,2015-08-23 09:22:53,"b'More #LDJAM progress, but... I spent a lot of time on that city generator. http://t.co/4UBAqUlsyR'"
+635259344326529024,2015-08-23 01:16:44,b'Random city block generator for #ldjam is working quite nicely... http://t.co/Q5Bh34QDeJ'
+635040348243275777,2015-08-22 10:46:32,b'THE HUMANS WILL BURN another song for #ldjam https://t.co/MOBxaB7lbL'
+634980516937142273,2015-08-22 06:48:47,"b'Wrote a song for #ldjam ""The Robot and the Butterfly"" https://t.co/9RDnzCKFA8'"
+634963441896189953,2015-08-22 05:40:56,"b""It's not much... but it's WebGL in the browser.  #LDJAM http://t.co/OFkAIqKL00"""
+634951890413862913,2015-08-22 04:55:02,b'RRRROBOT RRRRAMPAGE #ldjam http://t.co/DQjLv833FU'
+634888869582733312,2015-08-22 00:44:36,b'BAM... what does it Mean? #LDJAM #Illuminati'
+633881222674952192,2015-08-19 06:00:35,"b'@amywrdn Motivation and passion are gone, but are discipline and dedication still hanging around?'"
+633865613719375872,2015-08-19 04:58:33,"b'@tehPHEN Alone in the world, two elements work together to break the system.  But! Your companion is a hallucination, giving imperfect info!'"
+633810834519556097,2015-08-19 01:20:53,"b'@FuturistTeletex Hey... programmer here, want to do Ludum Dare together? Check out http://t.co/zdDWNb2GV4'"
+633731795041648641,2015-08-18 20:06:48,"b""@ggnewed I've played multiple games from the same person before, who created a second login for the other game."""
+633403713118273536,2015-08-17 22:23:07,b'I love the #LDJAM themes! Bring it on! http://t.co/E6YS3boBu0'
+632797033057792000,2015-08-16 06:12:24,b'@mikekasprzak Any way to look at the votes I cast for previous #LDJAM? I would love to go back through some of my favorites.'
+632088894306029569,2015-08-14 07:18:30,b'7d18h #LDJAM #LDJAM #LDJAM #LDJAM #LDJAM #LDJAM #LDJAM #LDJAM #LDJAM #LDJAM #LDJAM #LDJAM #LDJAM #LDJAM #LDJAM #LDJAM #LDJAM #LDJAM #LDJAM'
+623582881420550145,2015-07-21 19:58:39,"b""There's an actual wizard at the functional programming table at #OSCON. This makes me happy. @ Oregon\xe2\x80\xa6 https://t.co/fWjpD4SBdL"""
+618519278065573889,2015-07-07 20:37:42,"b""RT @NiallEM: Announcement: I've started an irregular blog highlighting small and/or overlooked games: http://t.co/oPiIiS7nIp\n\nRTs appreciat\xe2\x80\xa6"""
+603581533966893056,2015-05-27 15:20:26,"b'""I\'m getting a PhD just for fun, because I wasn\'t ready to stop doing pure math."" \xe2\x80\x94Eric'"
+602857428674191360,2015-05-25 15:23:06,"b'RT @McFunkypants: #gamedev wisdom by the creator of Pac-man, Toru Iwatani: http://t.co/1b1FZ0qb7E'"
+602617074582564864,2015-05-24 23:28:01,"b""@_sorceress that's just the :: operator, obviously. #phpisawesome"""
+596944314288111616,2015-05-09 07:46:29,"b""Hesse didn't write, he made mirrors. Every time you read it the novel is something different, because you are different."""
+596660771704045569,2015-05-08 12:59:48,b'@mdeforge Freenode is usually a good bet.'
+596652402037563394,2015-05-08 12:26:32,"b'@mdeforge Hard to say. What is it supposed to do? What actually happens? Try KHR_debug, kill glMatrix...(), ask IRC / StackOverflow.'"
+596453729194287104,2015-05-07 23:17:05,"b'Reminder that @ludumdare still hasn\'t fixed the ""OS X"" label... it\'s not ""OS/X"", it\'s ""OS X"".'"
+596270394211848192,2015-05-07 11:08:34,b'Check out gameplay visualized with SQL and D3.js: http://t.co/agKOPfdOlo #LDJAM http://t.co/xVUuVkG8Ip'
+595777117243232256,2015-05-06 02:28:28,b'Gnome-terminal crashes and takes all windows down? :-('
+592437996927848449,2015-04-26 21:20:00,b'Because cats. http://t.co/opcIGUTUHS'
+592198074442780672,2015-04-26 05:26:38,"b'Strike Dungeon by @Mental_Atrophy (from @PIGSquad) is a chaotic, fun #LDJAM game.  Play it! http://t.co/c5wIDqQuhm http://t.co/SDcmQdojYS'"
+592090435624939520,2015-04-25 22:18:55,"b'Fantastic ""Garden of Strife"" (think Zelda with plants) by @nanolotl for #LDJAM. Play it! http://t.co/Vj5Q2C6uYX http://t.co/rgQVw25g6p'"
+592083147589689344,2015-04-25 21:49:57,b'RT @kinifi: This will illustrate @tha_rami point on translating your game to other languages http://t.co/zYRKKs6JUC'
+591875732168552448,2015-04-25 08:05:45,b'Post-Mortem for my #LDJAM with @PIGSquad is up: http://t.co/L2ipkyedfZ http://t.co/gSB1kUTnBm'
+591774514754621440,2015-04-25 01:23:33,b'I adore the mechanics of the puzzle/action Ninja Swapper by @Plus_Tech for #LDJAM http://t.co/KSvOHfIhw7 http://t.co/jDffwh5029'
+591763326004109312,2015-04-25 00:39:06,"b'Sigh. #LDJAM means playing games, means installing Java, means changing my registry\xe2\x80\xa6 http://t.co/VzlYZdDKyn'"
+591452031480631296,2015-04-24 04:02:07,"b""RT @goodboydigital: We're proud to announce #PixiJS v3 is out today! http://t.co/oC2LIpEyfk Thanks everyone who helped! You all rock :D htt\xe2\x80\xa6"""
+591339988505137152,2015-04-23 20:36:54,b'Play TETRATOR for #LDJAM by @TRASEVOL_DOG: Tetris with artillery! http://t.co/eeam1xUncy'
+591308606177484802,2015-04-23 18:32:12,b'Sidekick by @The_Green_Tie is a hilarious and fun #LDJAM game.  Play it: http://t.co/xLHWpWMapc'
+591028187728990209,2015-04-22 23:57:55,b'RT @McFunkypants: Amazing #gamedev wisdom:\nFinding Your Perfect Game\nhttp://t.co/NFANPwQjKY\nby @JamesBoxCat http://t.co/WWX3qEBJ4B'
+590878818262388738,2015-04-22 14:04:22,b'Playthrough of my #LDJAM game made with @PIGSquad: https://t.co/7rVFDKGqgh'
+590319881121177601,2015-04-21 01:03:21,"b'Woo! Submitted my GitHub link for #LDJAM, gonna deploy it to a server so you all can play it.'"
+589924817421217792,2015-04-19 22:53:31,"b""I think I'm going to take the extra 24 hours again for #LDJAM..."""
+589397575112859648,2015-04-18 11:58:27,b'A track for my #LDJAM: https://t.co/rCvLhBTVra'
+589252578761814016,2015-04-18 02:22:17,b'Excited for #LDJAM with @PIGSquad!'
+588608574164574208,2015-04-16 07:43:14,"b""@YarharALC I'm hoping it's enough to learn Phaser :-)"""
+588494346430754816,2015-04-16 00:09:20,"b""@FussyCashew NPAPI is a legacy from the 90s when we couldn't make cool things with JavaScript. Unity doesn't need it anyway, good riddance."""
+588072376232873984,2015-04-14 20:12:35,b'Remember to consider the aesthetic appeal of your voting patterns for #LDJAM! http://t.co/WFF9yXKWDz'
+588060054097502208,2015-04-14 19:23:37,"b'Pre #LDJAM rituals: replacing guitar strings. But now I regret using 10-46, I want 11-49.'"
+587855189048070144,2015-04-14 05:49:33,"b'@mikekasprzak Messy dirty punk rock jazz improv, in the words of @McFunkypants'"
+587674964460838912,2015-04-13 17:53:24,"b""RT @McFunkypants: .@hexdie @ludumdare Yeah it's all about inspiration. To have fun and finish on time, you've gotta go messy dirty punk roc\xe2\x80\xa6"""
+587355165960773632,2015-04-12 20:42:38,"b'This #LDJAM, all of the themes look great.  Somebody else pick for me.'"
+586647771672784896,2015-04-10 21:51:42,b'RT @ianhamilton_: @danrhodenizer design tips on accessibility for gamers with disabilities  http://t.co/fVG9VSlmRv http://t.co/v1QnXHgmo7'
+586631156914765824,2015-04-10 20:45:41,b'Excited for #LDJAM on site in PDX! Still unsure whether I should dive into Unity 5 or do things the hard way again\xe2\x80\xa6 but I like the hard way.'
+582539516109443072,2015-03-30 13:46:58,"b""A couple hundred old shareware CDs\xe2\x80\xa6 nostalgic, some good games, but today I'm tossing them. Hard to let go. http://t.co/DDQxepsP1e"""
+582302114237403137,2015-03-29 22:03:37,b'RT @ludumdare: Our favorite gamedev webcomic @themeatly just had a Jam. Check out some of meaty (meatly?) submissions here: http://t.co/qg6\xe2\x80\xa6'
+581572125418385409,2015-03-27 21:42:54,b'T-rex is the cheese pizza of the dinosaur world.'
+578387044918902784,2015-03-19 02:46:32,"b""Dad: are you still munching? Sis: yeah. D: I'm making dinner. S: Did you know I'm 26? D: Did you know I'm making dinner?"""
+578290221147508736,2015-03-18 20:21:47,b'@lukz_dev Screenshake and persistent shell casings? It looks great!'
+576948575558447104,2015-03-15 03:30:34,"b'RT @JoeCreates: Ludum Bear, the softest mascot :D #pixel_dailies @pixel_dailies #pixelart #ldjam #ldmascot http://t.co/FPND7BtdZ3'"
+570874125381541888,2015-02-26 09:12:52,b'Found the leak. Also found a nifty way to mess up your day with WebGL.'
+570872753659580416,2015-02-26 09:07:25,"b'Okay, my #LDJAM game is leaking memory like a firehose leaks water. Leaking about 500MB per second, total system meltdown after one minute.'"
+570864129772118017,2015-02-26 08:33:09,"b""REISUB'd for the first time in ages.  I can't remember the last time I had a hard crash on this computer.  Of course GPU use would do it."""
+569966651312992256,2015-02-23 21:06:53,b'Post-mortem for my #LDJAM is up http://t.co/pupAN5brX0'
+569923185669378049,2015-02-23 18:14:10,"b'Okay, I have a big gulpfile and a triangle in WebGL.  Can I go home now?'"
+569359389116596224,2015-02-22 04:53:51,b'RT @OneGameAMonth: #gamedev wisdom by @ryanmalm via #1GAM http://t.co/2eUB4B43v6 http://t.co/8bbrHdFK1u'
+569340149022138369,2015-02-22 03:37:24,b'OpenCV is cool.  Documentation is cool.  Would love it if somehow the two could be combined.'
+568369743121354752,2015-02-19 11:21:21,b'@_snade There will be a submit link on the front page.'
+567501942885081088,2015-02-17 01:53:01,b'30 tiny tricks that will make your action game better: http://t.co/zVIMoOajVd'
+567080982558175232,2015-02-15 22:00:16,"b'The theme for Mini #LDJAM 57 is ""Reversed"" http://t.co/mtLeYsQQ7U'"
+566822813655261184,2015-02-15 04:54:24,b'@_sorceress Do you know I could make a post to start Mini LD #57?'
+566612693918814208,2015-02-14 14:59:28,"b""@jimmypaulin It mimics real cameras, but you don't have to do that.  You could blur everything but the center, for example."""
+562756745916080128,2015-02-03 23:37:18,"b'Ooh, I want this: http://t.co/su4fIX6Vrl #glnext'"
+560157634079096832,2015-01-27 19:29:21,b'@MichaelJBesemer You should join us for games night sometime!'
+558796177030647808,2015-01-24 01:19:25,b'Ready for #GlobalGameJam with @PIGSquad !'
+558781310508875777,2015-01-24 00:20:20,"b'@RichardRouseIII HHGTTG... man, that game takes stamina.'"
+558781042249564161,2015-01-24 00:19:16,"b'#fourgames that influenced me: Marathon Infinity, Chrono Trigger, Deus Ex, Shadow of the Colossus http://t.co/Qdk7t5GZjI'"
+547320871358955520,2014-12-23 09:20:39,"b""Just found out that Gallium supports the OpenGL core profile on my system, I just wasn't asking for it properly. D'oh x100."""
+546157729526452224,2014-12-20 04:18:44,"b'RT @McFunkypants: Think #1gam is hardcore? \nCHECK THIS OUT:\n\n""@jeansnow: The 50 games that Kenta Cho created in 2014: http://t.co/RyffflxU1\xe2\x80\xa6'"
+546099242503135232,2014-12-20 00:26:20,"b""Twelve more cool games from #LDJAM 31: http://t.co/SuwtZmSuDw Still taking requests, if you're patient :-)"""
+545809261259804672,2014-12-19 05:14:03,"b'@Abdurrahman_Kh Fruit factory was a blast, I put it in a video: http://t.co/dfCfQK396E'"
+545809107572101121,2014-12-19 05:13:26,"b'@Mystakin I enjoyed playing your game Dimensions, I put it in a video: http://t.co/dfCfQK396E'"
+545808852692647936,2014-12-19 05:12:25,"b'@theotheralvaro I had a blast playing your platformer 0000 : Press Z, I put it in a video: http://t.co/dfCfQK396E'"
+545808624845455361,2014-12-19 05:11:31,"b'@llnesisll Great puzzles in your game Mobius Dungeor, I put it in a video: http://t.co/dfCfQK396E'"
+545808388160892929,2014-12-19 05:10:35,"b'@aaronjbaptiste Loved your online game simulator, it made it into the video: http://t.co/dfCfQK396E'"
+545803697033207808,2014-12-19 04:51:56,"b""#LDJAM Episode 4: thirteen more cool games from Ludum Dare 31! Big backlog, but send me requests if you're patient. http://t.co/dfCfQK396E"""
+545789421925040128,2014-12-19 03:55:13,b'#LDJAM Episode 4 is in post-production.'
+545700475496976384,2014-12-18 22:01:46,b'@Hexicube Twitter works!'
+545309329050456064,2014-12-17 20:07:30,b'@metalchouchen 4 gamepads yes... 4 people might be hard to scare up.'
+544683690152824832,2014-12-16 02:41:26,"b'@SnoutUp I know what you mean! I feel like I had a poor showing this time around, but I just HAD to finish to participate in judging.'"
+544680472433815552,2014-12-16 02:28:38,"b""#LDJAM 31 Episode 3: 12 more games! Send me your games! (I have a small backlog, but I still want 'em...) http://t.co/BkmxJwHd1n"""
+544680247015120896,2014-12-16 02:27:45,b'@KualityGames Your game is in episode 3: http://t.co/BkmxJwHd1n'
+544680173350572032,2014-12-16 02:27:27,b'@sP0CkEr2 Your game is in episode 3: http://t.co/BkmxJwHd1n'
+544680083437273089,2014-12-16 02:27:06,b'@Sheepolution Your game is in Episode 3: http://t.co/BkmxJwHd1n'
+543946683474657280,2014-12-14 01:52:50,"b""@mikekasprzak #LDJAM Is there a way to see what ratings I've given out in previous Ludum Dares?"""
+543890482405732352,2014-12-13 22:09:30,"b""@Sheepolution I'll take a look at it!"""
+543890440353611777,2014-12-13 22:09:20,"b""@sP0CkEr2 I'll take a look at it!"""
+543888100665999361,2014-12-13 22:00:02,b'#LDJAM 31 Episode 2: 13 games for your enjoyment! Send me your games! https://t.co/qfwWzSbdLl @shackhal @kchplr @TrenchGames @NuclearNapalm'
+543586773830348801,2014-12-13 02:02:40,b'@NuclearNapalm I loved your game!'
+543567440907485184,2014-12-13 00:45:51,"b'@TrenchGames Nice! I like the difficulty progression, and the core mechanic is solid.'"
+543565310461087744,2014-12-13 00:37:23,"b""@kchplr You're right, it is hard!  12,000 is my best."""
+543555101114122240,2014-12-12 23:56:49,"b""Ludum Dare #31 Episode 1: 12 games for your enjoyment! Tweet games you want me to play, I'll get it on video! #LDJAM http://t.co/0Z51cPLZpO"""
+542916107128946688,2014-12-11 05:37:41,"b'Binaries are up! http://t.co/UMSR5WgOes Finally got OS X and Windows builds, discovered two people on my page asking for Linux. Cool. #LDJAM'"
+542765931412205568,2014-12-10 19:40:56,"b'Porting #LDJAM: I need GLSL \xe2\x89\xa5 130, Mesa has \xe2\x89\xa4130, OS X has \xe2\x89\xa5140 and 120. Now I need to write two versions of every shader.'"
+542135060233592832,2014-12-09 01:54:05,"b'I see @ludumdare still calls it ""OS/X"" instead of ""OS X"" :-('"
+542112794363981824,2014-12-09 00:25:36,"b'This is a hairy, hairy, finish.  The gameplay is like 20% there.  #LDJAM http://t.co/k7ApRi8uu5'"
+541647627616395264,2014-12-07 17:37:12,"b""I was shooting for the 48 hour mark, but I think I'll need 72. Having fun with GLSL in the meantime. #LDJAM http://t.co/PwezcrVmcZ"""
+541567456246890499,2014-12-07 12:18:38,"b""Banging my head against my computer until I realized that my color attribute wasn't normalized... explains why everything was white. #LDJAM"""
+541461236567666688,2014-12-07 05:16:33,"b""https://t.co/JnyTKM6WJI More epic version of the game's theme. #LDJAM"""
+541350444321079296,2014-12-06 21:56:18,b'I can walk around now. http://t.co/UITNzwjMcp #LDJAM'
+541320829934399488,2014-12-06 19:58:37,"b'Just implemented a basic walking animation, with separate sprites for legs, torso, and head.  Woo!  #LDJAM'"
+541277744571510785,2014-12-06 17:07:25,"b""RT @mikekasprzak: I'm not sure why folks that dislike the theme don't treat it as a thin layer to keep scope under control, and pick their \xe2\x80\xa6"""
+541277643564257281,2014-12-06 17:07:01,b'My black triangle moment: drawing goblin pants on the screen. #LDJAM'
+541112145404887040,2014-12-06 06:09:23,"b""Got the piano version of my game's theme recorded. #LDJAM https://t.co/0AtdP5LBQx"""
+541069126874046464,2014-12-06 03:18:27,"b'Trying the ""music first"" approach that I hear people talking about. #LDJAM http://t.co/5vp83j8LH0'"
+541065768192839680,2014-12-06 03:05:06,"b""Looking forward to not implementing a camera that follows the player around. That's always tricky to get right. #LDJAM"""
+541059549906493440,2014-12-06 02:40:23,"b""Do you believe in life on other screens? I just can't believe that in the entire universe, this is only screen with intelligent life. #LDJAM"""
+541012819152359424,2014-12-05 23:34:42,"b'The question is not, ""How can I get all that work done in 48 hours?"" The question is, ""How can I do less work and still make a game?"" #LDJAM'"
+540975386100654080,2014-12-05 21:05:57,b'RT @ludumdare: Ludum Dare 31 is only 6 hours away! Join us! Make a game this weekend! http://t.co/5X4e5FjwOc #LDJAM http://t.co/k0CoFd68w9'
+540928399070330881,2014-12-05 17:59:14,b'@ThatRatGuy Do it! Make a bad game!'
+540545516900073472,2014-12-04 16:37:48,b'RT @lukz_dev: Just few clicks to cool ambient sounds! Workshop conducted by @Disasterpeace - #FEZ music creator. Great for #LDJAM! https://\xe2\x80\xa6'
+540394605548535809,2014-12-04 06:38:08,b'I feel lucky. http://t.co/rZiPmlwK0M'
+540389361498337280,2014-12-04 06:17:18,"b""\xe2\x98\x83 You can't stop the signal. \xe2\x98\x83 #ldjam #snowman http://t.co/OgESvUTivC"""
+534496474038415362,2014-11-18 00:01:04,"b""@themeatly I didn't miss it :-)"""
+530944703316103168,2014-11-08 04:47:36,"b""Maybe I'm a little delayed with #7dfps but I cobbled together a standing desk to do work on. http://t.co/USEEr4AIAp"""
+530854356120535040,2014-11-07 22:48:35,"b'Okay, the 31G+ of log files happen if you have Visual Studio 2013 Express, and then install 2013 Professional. Bizarre.'"
+530853491804487680,2014-11-07 22:45:09,"b""Excited about #7dfps... I'm not ready, but you never are :-)"""
+530851054024282112,2014-11-07 22:35:28,"b""My Windows partition space disappeared into hiberfile.sys (13G) and log files in C:\\Windows\\Temp (31G). I don't need a new HD. WTF Windows?"""
+528845402217644034,2014-11-02 09:45:44,"b""#0hgame: Thinking it's going to be a 1h game jam :-("""
+528843592279027712,2014-11-02 09:38:32,"b""#0hgame: Amadeus why you say you've been tampered with?  Gah"""
+528838375940554752,2014-11-02 09:17:48,"b'#0hgame oh, falling behind... just starting on graphics now'"
+528834150560976896,2014-11-02 09:01:01,"b""#0hgame: it's starting and it's chaos and it's not going to work=\\\\"""
+528825731632349184,2014-11-02 08:27:34,"b""#0hgame Not enough time and I haven't started yet! (I'm on PDT-&gt;PST)"""
+528796814074724353,2014-11-02 06:32:39,"b'So, #0hgame... 10 minutes audio, 15 minutes graphics, 30 minutes code... maybe?'"
+526618018189955072,2014-10-27 06:14:54,"b'Ah, brings back memories. #justdevthings http://t.co/K6upOHjzB0'"
+526179335095742464,2014-10-26 01:11:44,"b'391 insertions(+), 819 deletions(-) \xe2\x80\x94 nothing beats that feeling.'"
+524662726233030657,2014-10-21 20:45:16,b'RT @ivansafrin: The Pixelarium. http://t.co/5a6Hrxw2oN'
+523755442481426433,2014-10-19 08:40:03,b'I have not gotten this much satisfaction out of beating a game in a long time. http://t.co/2e9MEsxe6L http://t.co/E630x0Ll3m'
+520389059894468608,2014-10-10 01:43:14,"b'How is it that you can live on 640x480 for years, but 2560x1440 seems so small today?'"
+517797376237371393,2014-10-02 22:04:49,b'RT @kouroute: Evoland 2 - Title screen background.\nDamn that took like forever to complete &gt;&lt; http://t.co/QKhgr4DeTI'
+517790140995874816,2014-10-02 21:36:04,"b""@jezzamonn I would love to co-host, if you're up for it."""
+517787339343814656,2014-10-02 21:24:56,"b'@jezzamonn It looks like the slot was empty when I took it: see the revision from Sep 7, when RobProductions gave up the slot.'"
+517786270718631936,2014-10-02 21:20:41,"b""@jezzamonn I'm sorry, I might have read something wrong."""
+516503023451783168,2014-09-29 08:21:31,b'So notepad.exe keeps on getting set as the default application for text files. On Linux.'
+514280952580046849,2014-09-23 05:11:48,"b'25k lines of C and C++ but ""no code analysis issues were detected"" with all rules enabled in VS2013. Is this thing turned on? Clang next.'"
+512080923748073472,2014-09-17 03:29:40,"b""Well, no bitbucket for me right now.  Can't put the status on the main page, we have to go to http://t.co/gB7ip9PJ2G ? seriously?"""
+511702233109782529,2014-09-16 02:24:54,"b'@whilefun Rating other games only affects how many people will rate your game, not the score you get (unless &lt; 20 people rate your game).'"
+510653011840860160,2014-09-13 04:55:40,"b'Five weird and cool games from Ludum Dare #30 by AnnaGavaldaKedavra, stvr, Tigro, @IAOfficial, and @nanolotl: http://t.co/vPshuGx0uP #LD48'"
+510618209708281856,2014-09-13 02:37:22,"b'@JoeCreates That was an estimate.  Specs: 6-core 3.2 GHz Phenom with 4 GB RAM and a 1 GB Radeon 5770, on Windows 8.1 in Google Chrome.'"
+510617435381063680,2014-09-13 02:34:18,"b'""82 minutes remaining"" I know the video I\'m uploading is almost a half a gigabyte but I thought this was 2014.'"
+509614211966582784,2014-09-10 08:07:50,"b'Warp Paint by zatyka is such a clever game, and the levels are amazing. Play it! #LD48 http://t.co/ibgh1nFzLm'"
+509609191191752704,2014-09-10 07:47:53,"b'""The Veiled World"" by @wiwyums - don\'t kill the gnomes.  Definitely fun, and you must hear the voice overs. #LD48 http://t.co/2SRKZF29f4'"
+509567872666832896,2014-09-10 05:03:42,"b'Play the surreal, atmospheric, and gruesome adventure ""Sllukswefa"" by @nanolotl! http://t.co/30gS712hgA #LD48'"
+509224010648154112,2014-09-09 06:17:19,b'@McFunkypants Managed to get air time of like ten or fifteen seconds.  Fun game!'
+509223140900487168,2014-09-09 06:13:52,"b'Whelp, got a post-mortem up: http://t.co/gtccu0MUsM #LD48'"
+507738701359636480,2014-09-05 03:55:14,"b'@graebor\'s ""Apollo"" is simply an amazing game. The game balance is just spot on, and it\'s gorgeous. Play it! http://t.co/JUQbB5R1uY #LD48'"
+507732036380274688,2014-09-05 03:28:45,"b'@oreganik\'s ""Sun God Star Bridge"" makes me think I have a pocket of quarters. Arise, Phoebus Apollo! Play it: http://t.co/0MlGSlg1OF #LD48'"
+507722213567758337,2014-09-05 02:49:43,"b""@ludumdare How do I report spam? Here's one on the front page: http://t.co/nV2zPD5AYQ"""
+507335783322112000,2014-09-04 01:14:11,"b'@headchant\'s ""Annex Kharon"" is a remarkably polished game for 48 hours, and lots of fun. See you in space! #LD48 http://t.co/sMO1uKZNwm'"
+507328527377502208,2014-09-04 00:45:21,"b""You can't play @jimmypaulin's Trappy Tomb alone, because the ghosts of dead players will always be there. Nice! #LD48 http://t.co/3HoXWR04b2"""
+507050381579272192,2014-09-03 06:20:06,"b'Another gem from #LD48: ""Fluid Perspectives"" by @jezzamon, it\'s got neat levels, a lovely mood, and solid gameplay. http://t.co/FnVhHBij6Y'"
+506983114435203072,2014-09-03 01:52:48,"b'PixelMonkey\'s ""A Step Away"" is a simple game with nice gameplay, level design, and graphics. Play it! http://t.co/ERvlbvXX1B #LD48'"
+506670384398479361,2014-09-02 05:10:07,"b'Just hit half century mark for games rated.  Here\'s a good one: the haunting ""Dreamshift"" by AgentParsec  http://t.co/tqInEyyexq #LD48'"
+506632490044620800,2014-09-02 02:39:33,b'RT @Big_Mike_Mike: Check out @ludumdare Lightning Round Part Deux with games by @TwoScoopGames @JajabenGames @KedumeBits &amp; @JoeCreates  htt\xe2\x80\xa6'
+505246220323782656,2014-08-29 06:51:00,"b'Generation ship... play it, you filthy human! http://t.co/UHJbjoNeiq #LD48'"
+504889953072197632,2014-08-28 07:15:19,b'@SUGBOERIE How do you beat level 3?'
+504889813028581376,2014-08-28 07:14:46,"b'@Hypnohustler Whoops, that is the wrong link!  I loved your game: http://t.co/rVlfje07Sr'"
+504888322389716992,2014-08-28 07:08:51,b'Does this game have everything? Paper rock scissors cheating? Space poop? Hitting electronics?  http://t.co/sg4lZV85uL @hypnohustler #LD48'
+504874440459841536,2014-08-28 06:13:41,b'@SUGBOERIE Awesome! http://t.co/sg4lZV85uL'
+504874046656634880,2014-08-28 06:12:07,"b""@SnailManDev Okay, I'll bite.  I want to hate your game but it's too awesome.  I just beat it :-) #LD48"""
+504860683797032960,2014-08-28 05:19:01,"b'""Cyberswap"": Wow, that\'s a lot of polish.  Reminds me of playing Chrono Trigger. http://t.co/NAWfEMzH44 #LD48 Credit to @rilemtwit and team'"
+504856070771474432,2014-08-28 05:00:41,"b""A charming platformer.  It may be incomplete, but it's captivating right up to the moment it ends. http://t.co/PI9nwBayLT #LD48"""
+504823925554315265,2014-08-28 02:52:57,"b'Antbassador is as awesome as it looks, play it! http://t.co/Op1ioNOgXw #LD48 props to @KevinZuhn @luthyr @ChrisStallman @devonsoft'"
+504807426483568641,2014-08-28 01:47:24,"b'You have to play ""Messenger"" by stvr.  Really short but high impact.  Keep Ludum Dare Weird.  http://t.co/737GtT67Fg #LD48'"
+504508284796407809,2014-08-27 05:58:43,"b""This game is just so AWESOME! It's like being in the best cheesy 80s Sci-Fi flick. http://t.co/FM02ot0H9Z Props to @The_Green_Tie #LD48"""
+504497472832827392,2014-08-27 05:15:45,"b""According to my game's analytics tools, someone just beat my game!  Cool! #LD48"""
+504482953523904512,2014-08-27 04:18:03,b'Windows version uploaded! http://t.co/sIdXbBNrVl #LD48'
+504472699604045824,2014-08-27 03:37:18,"b'OMG OMG OMG finally got Windows build working with all dependencies... LibCURL, Opus, Ogg, GLEW, SDL... I wish Windows had apt-get! #LD48'"
+503712325577474048,2014-08-25 01:15:51,"b'All that hard work, and I still need to do a Windows port. But I love my game! http://t.co/sg4lZV85uL #LD48 http://t.co/JuUwTzRntv'"
+503696569737416704,2014-08-25 00:13:15,"b'Forty-five minutes to do nothing but make the art better.  No wait, ""less terrible"" is the correct term. #LD48'"
+503690942319456258,2014-08-24 23:50:53,"b'Done writing dialogue.  Now, to make the sprites not utterly suck.  #LD48'"
+503683347907092480,2014-08-24 23:20:42,b'Gambling on finishing the dialogue system quickly enough that I can redo the graphics.  #LD48'
+503630060554031104,2014-08-24 19:48:58,"b""Six levels and counting.  It's the first time I could release early and actually have a playable game. #LD48"""
+503537035207258112,2014-08-24 13:39:19,"b'Also, I can control my minions and make them jump! #LD48'"
+503536854797656064,2014-08-24 13:38:36,"b""Wondering if I'm going to do Jam rules.  I think I can make the compo deadline.  #LD48"""
+503421398677983232,2014-08-24 05:59:49,"b""It's really satisfying to hear your minions footsteps as they walk across the screen.  Got sound effects! #LD48"""
+503287831004188672,2014-08-23 21:09:04,b'Platformer physics is always harder than you think.  #LD48'
+503205998421880833,2014-08-23 15:43:53,b'Game programming is slow work.  I still barely have pixels drawn on the screen.  #LD48 http://t.co/MgypHJbcGP'
+502982944797913090,2014-08-23 00:57:33,b'#LD48 So ready\xe2\x80\xa6 http://t.co/Y1KbqEADDN'
+502963193996906496,2014-08-22 23:39:04,b'#LD48 Declaring my base code: https://t.co/qBeyFandHO'
+474728602345291776,2014-06-06 01:44:53,b'What the hell happened to my Debian system?  I apply updates and then BOOM: it starts up FAST.  Very pleased.'
+474365434976665600,2014-06-05 01:41:47,"b'On the plus side, Uplay is so terrible that I can get lots of work done while I wait for Uplay.'"
+468556645832720384,2014-05-20 00:59:44,"b""Not enough time... I'm not going to meet my goal of playing 100 games for #LD48.  Only played ~90."""
+467955447970807808,2014-05-18 09:10:47,"b'Wow, what a twisted and cool game! Vignette of a candyland killer... note, only one ending.  Great cutscene. #LD48 http://t.co/NOuI1HDt57'"
+466593202938445825,2014-05-14 14:57:43,b'Finally posted post-jam version of my game. http://t.co/73FNQNV6Zi #LD48'
+462692538680242176,2014-05-03 20:37:52,"b'Damn amazing and polished platformer, kudos to @Raiyum and @Billtron209 #LD48 http://t.co/SZgv5AxVJC'"
+461719860104273921,2014-05-01 04:12:47,b'Play as a siren and slash at Greek sailors! http://t.co/rDXMVGx9GL #LD48'
+461683250402844673,2014-05-01 01:47:19,b'OS X port complete! http://t.co/73FNQNV6Zi #LD48'
+461429623511732224,2014-04-30 08:59:29,"b'@GoodReactions Windows port uploaded today, OS X port coming tomorrow.'"
+461429273375420417,2014-04-30 08:58:06,"b'@Tuism Sure thing -- Linux yesterday, Windows today, OS X port tomorrow: http://t.co/73FNQNV6Zi'"
+461428989509124096,2014-04-30 08:56:58,"b'Okay, last great game to play tonight before bed.  The Sun and Moon by Managore #LD48 http://t.co/THUTSSanzH'"
+461423319745445888,2014-04-30 08:34:26,b'Puny humans! Eat missiles from my land shark! Props to @tuism #LD48 http://t.co/8aogCOKmtw'
+461421691407564800,2014-04-30 08:27:58,"b'@Tuism Ok, here are three: http://t.co/8r4vIIlvPa http://t.co/auhZhSKrYW http://t.co/rHPbXmGIWr'"
+461412886167175168,2014-04-30 07:52:59,"b""And... third time is a charm for getting DLLs right on Windows? It's not like I can test if it works, because I have VS installed. #LD48"""
+461410455630532610,2014-04-30 07:43:19,b'This game is just awesome and fun.  Battle monsters underground!  Great music! Props to @TomboFry #LD48 http://t.co/auhZhSKrYW'
+461403474240880640,2014-04-30 07:15:35,"b""And, I had to fix my DLLs for Windows AGAIN.  I'm looking forward to the simplicity of the OS X port, but I can do that tomorrow. #LD48"""
+461403193964904448,2014-04-30 07:14:28,"b""This game is hilarious... it's short, so you can go play it right now. #LD48 http://t.co/8r4vIIlvPa"""
+461385212690038784,2014-04-30 06:03:01,"b'Okay, my Ludum Dare entry now has Windows binaries! Also, I hate DLLs. #LD48 http://t.co/73FNQNV6Zi'"
+461244017636679680,2014-04-29 20:41:57,"b""@GoodReactions It's the best part of Ludum Dare!"""
+460946237244448768,2014-04-29 00:58:41,"b'Okay, I cut it a little too close. A flurry of 8 commits in the final hour. https://t.co/0ZwxPXCB2X #LD48'"
+460759812364464128,2014-04-28 12:37:54,"b""@willeastcott Not everyone likes playing in Unity's sandbox.  Ludum Dare is about creation, not about getting games to the most people."""
+460757922289426432,2014-04-28 12:30:23,"b""@willeastcott You'll miss out on some good games.  WebGL hasn't arrived for everyone yet."""
+460755470362238976,2014-04-28 12:20:39,"b""@willeastcott I'll rate any game that I can get to work.  I remember running someone's game in an iOS emulator."""
+460526496474341376,2014-04-27 21:10:47,"b'Ah, definitely going for the Jam this time. So much I want to do! #LD48'"
+460482807186198528,2014-04-27 18:17:11,"b""Screw portability.  I don't care about Windows or OS X until the game is done. #LD48"""
+460476557102821376,2014-04-27 17:52:21,"b""Working on a super crude level editor... hope I can make it... by the way, DB's 16-color palette rocks! #LD48"""
+460463318256193537,2014-04-27 16:59:44,b'I wonder how much *more* game I could get done in the jam? #LD48'
+460411751905763328,2014-04-27 13:34:50,"b'I guess I should show some progress.  The physics is solid, and image editors are level editors. #LD48 http://t.co/Tcg5DwJSGY'"
+460410768471498753,2014-04-27 13:30:55,"b""It's amazing how long the little things can take, like a camera that follows the player around.  #LD48"""
+460392499991683072,2014-04-27 12:18:20,b'Double-jumping is now implemented. #LD48'
+460369252420042753,2014-04-27 10:45:57,b'Pixel-based collision detection is tricky.  #LD48'
+460334151841746945,2014-04-27 08:26:29,b'@Threef Programming enemies is hard!'
+460280928393129984,2014-04-27 04:54:59,"b""Now is not the time to figure out how to write my dream entity component system in C++.  Let's go back to basics. #LD48"""
+460263621323276288,2014-04-27 03:46:13,"b""@andromatta And I've got a guy that can fall down."""
+460219673523400705,2014-04-27 00:51:35,"b'Using a hand-rolled makefile, but screwed up dependency tracking.  Wasted half hour pulling my hair out debugging crashes.  #LD48'"
+459934319645978624,2014-04-26 05:57:41,"b""Love using DB's 16-color palette instead of Visibone's standard web-safe palette. #LD48"""
+459933768690577408,2014-04-26 05:55:30,"b'Diving into C++: even though it\'s a pain, it\'s what I know.  My game: ""The Oubliette Within."" Time to write collision detection. #LD48'"
+459863597619748864,2014-04-26 01:16:40,"b'Yes, we must go deeper.  Beneath the surface, we are all monsters.  #LD48'"
+459854498639265794,2014-04-26 00:40:30,"b""No clue what I'm doing for #LD48 this time around... JS+Canvas? Unity? Dart+WebGL? C++? I only know it's going to be a long weekend."""
+411662579824476160,2013-12-14 01:03:02,b'Wake me in an hour when #LD48 starts.'
+330042279932870656,2013-05-02 19:33:06,b'x264 never fails no amaze me.'
+327255352766758912,2013-04-25 02:58:50,"b""Writing a Linux game for #LD48? I want to play your game! Send me your username and I'll play it after the event is over."""
+279806099497025536,2012-12-15 04:32:27,"b'#LD48 RAAAAHHHHH GIMP, I told you to make a 32-pixel grid.  I double checked.  Why is the grid 31 pixels?'"

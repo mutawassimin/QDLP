@@ -1,0 +1,492 @@
+twitter_id,date,tweet
+1077995384826462208,2018-12-26 18:31:42,"b'If https://t.co/pfSJ4uTeGM looks like you need new glasses, block\n\nDIV[id=""js__gh__curtain""]\nDIV[id=""gh__curtain""]\xe2\x80\xa6 https://t.co/bm388gEEmR'"
+1076879598166700032,2018-12-23 16:37:58,"b""Edge 44 ups the game; the sample code to crash it barely fits in a tweet:\n\nconst s = document.createElement('style'\xe2\x80\xa6 https://t.co/wRWCkFCobE"""
+1060230763277357058,2018-11-07 18:01:26,"b'Weird #Javascript bug of the day:\nfetch(""data:,"")\ncrashes in Edge 15.\n\nfetch(""data:,a"")\nworks fine.'"
+1057956476789100545,2018-11-01 11:24:14,"b'Want to see the progress of an operation you started without pv, say, sha256sum hugefile\n? On Linux, you can look i\xe2\x80\xa6 https://t.co/TyALQ6Z0Ik'"
+1057951612554108929,2018-11-01 11:04:54,"b'To see the progress of an operation, use the pv command:\npv file | nc 10.0.0.2 1234\n(Using raw nc this is an insecu\xe2\x80\xa6 https://t.co/9mvKbjglmx'"
+1057919383731888128,2018-11-01 08:56:50,"b'Sparse cache or VM filesystem files are awesome though. These files never/rarely leave the disk, and using them can\xe2\x80\xa6 https://t.co/bDoVeLXlVh'"
+1057918245481648128,2018-11-01 08:52:19,"b""What's so bad about sparse executables/images/resource files?\nWhile they don't take up much space on disk, on the n\xe2\x80\xa6 https://t.co/PSli7Czi53"""
+1057916566241767424,2018-11-01 08:45:39,"b""See sparse files are a great way to save disk space, but I'm very surprised that some executables are stored as spa\xe2\x80\xa6 https://t.co/J5J7W7KViu"""
+1055566799339745280,2018-10-25 21:08:31,"b""A little explanation of what #enterprisecodecomments is: In the style of https://t.co/eBJfbOA5bZ, I'm collecting co\xe2\x80\xa6 https://t.co/4umHZEtQqj"""
+1055566757694529543,2018-10-25 21:08:21,"b'#enterprisecodecomments , this time in Elixir:\n\n# Removes all files created by this job, including /tmp/app_*\nFile.\xe2\x80\xa6 https://t.co/L16cQxDsq7'"
+1050816753062895616,2018-10-12 18:33:31,"b'@calavera @jonas_duri @Netlify @calavera How to? I tried\n[[headers]]\n  for = ""/*""\n  [headers.values]\n    strict-tra\xe2\x80\xa6 https://t.co/rpNHPwzjI5'"
+1049761075539955712,2018-10-09 20:38:38,"b""var name = 'lang'.replace(/[\\[\\]]/g, '\\\\$&amp;');\n\xf0\x9f\xa4\x94\n\xf0\x9f\x92\xa1This happens when people copy from Stack Overflow."""
+1042184333937831937,2018-09-18 22:51:22,"b'Leave it to the hipster apps to use a fancy dedicated search cluster (which does not allow fulltext search), but br\xe2\x80\xa6 https://t.co/zJam8zPMQd'"
+1040843054998061058,2018-09-15 06:01:36,"b'@marvinhagemeist @yarnpkg For me, the main reason to delete node_modules is because I edited the dependencies a lot\xe2\x80\xa6 https://t.co/yGNXZg3B5L'"
+1040841727471480832,2018-09-15 05:56:20,b'@marvinhagemeist @yarnpkg But how are you supposed to deploy to a server with .pnp.js ? The only way I see is using\xe2\x80\xa6 https://t.co/qbEpzGZAtW'
+1040500871078076416,2018-09-14 07:21:53,"b'@marvinhagemeist @yarnpkg I like that  rm -rf node_modules  always gets you to a known-good state, and just copying\xe2\x80\xa6 https://t.co/XenY62FInj'"
+1040494884103380992,2018-09-14 06:58:06,"b'RT @FiloSottile: Also, again, NEVER EVER EVER EVER do something with unauthenticated data before checking its signature. DEFINITELY don\xe2\x80\x99t u\xe2\x80\xa6'"
+1036405791484534785,2018-09-03 00:09:30,"b""@iliarostovtsev Unfortunately, it's impossible to post null bytes with curl's --data-binary. A workaround exists in\xe2\x80\xa6 https://t.co/4jL5KF3hUy"""
+1035811761692270592,2018-09-01 08:49:03,"b""@iliarostovtsev Yup, both bash and POSIX argv when exec'ing a program use null-terminated strings. One could work a\xe2\x80\xa6 https://t.co/XeLE2i2OTx"""
+1035640824380514306,2018-08-31 21:29:48,"b'The standard data format for HTTP requests is ... HAR? JSON? XML?\nNope, curl requests.\nFine for most requests, but\xe2\x80\xa6 https://t.co/QJfHRLM1tx'"
+1035185692228378624,2018-08-30 15:21:16,"b""@iliarostovtsev But fat arrow functions are only shorter if you don't assign them to a const immediately:\nconst x =\xe2\x80\xa6 https://t.co/KOmv1nWAgn"""
+1034877400016932865,2018-08-29 18:56:13,"b'For reference, 300 Mega is:\n3e8\n300e6\n300 * 10**6\n300000000\n\nand 300 Mebi is:\n300 * 2**20\n300 * 1024**2\nor simply 314572800'"
+1034877163508523008,2018-08-29 18:55:17,"b'#enterprisecode: 3.1457 * 10**8  # 300 MB\nClose enough, I guess..'"
+1034855243824152576,2018-08-29 17:28:11,"b""What's the advantage of\nconst func = (x, y) =&gt; {...}\nover\nfunction func(x, y) {...}\nassuming you don't use  this  o\xe2\x80\xa6 https://t.co/3I8jKVjCw7"""
+1033640508751601665,2018-08-26 09:01:16,"b'RT @Aissn: @phihag Use shellcheck as a linter, it would at least catch the missing quotes ^^'"
+1033444124857442304,2018-08-25 20:00:54,"b'Shell scripts should never handle untrusted input. More often than not, I see code like\nstat -c%s $x\ninstead of\nsta\xe2\x80\xa6 https://t.co/3Ow61Valqr'"
+1033440599481954304,2018-08-25 19:46:53,"b'When you rm -rf ""./$path"" (or its equivalent in your language), make sure $path is defined, and that $path is reall\xe2\x80\xa6 https://t.co/MBOdqtQ1ZL'"
+1033439151478194177,2018-08-25 19:41:08,b'RT @sadoperator: multipart email from an ops vendor:\n\ntext/html is two pages of GDPR garbage.\n\ntext/plain is an invite to an event with fre\xe2\x80\xa6'
+1027913716526927873,2018-08-10 13:45:02,"b'When referencing issues or Wiki pages in your source code, make sure to\ninclude the full URL.\nYears and teams later\xe2\x80\xa6 https://t.co/wbFYRzNFzs'"
+1026007946554236930,2018-08-05 07:32:11,"b'RT @PopCatalin: 2005: ""You should use a dynamic language like Javascript because it\'s faster to develop, no need to wait for the compiler t\xe2\x80\xa6'"
+1016732315278602241,2018-07-10 17:14:08,"b""#enterprisecode #4:\nunsigned char buf[210];\nmemset(buf, '\\0', 210);\nread(fd, buf, 256);\nI guess memset is prewarmin\xe2\x80\xa6 https://t.co/0fDacnZ3o6"""
+1016731855087984640,2018-07-10 17:12:18,b'#enterprisecode #3: CFLAGS+=-Wall  ... but dozens of warnings.\nEasy to avoid - simply add CFLAGS += -Werror.'
+1016731758509903873,2018-07-10 17:11:55,"b'#enterprisecode #2:  while (4);\nin code that is run almost every time. Without comments, of course.\nAnother module\xe2\x80\xa6 https://t.co/OiLOybGjY1'"
+1016731665652178945,2018-07-10 17:11:33,b'#enterprisecode #1:  int retval; long RetVal;\nin the same function..'
+1014389180888166400,2018-07-04 06:03:21,b'RT @marvinhagemeist: @phihag CTRL-click is not respected by many SPA routers too. I wish more libraries would focus on not being existing b\xe2\x80\xa6'
+1014190874291527680,2018-07-03 16:55:21,"b'Single-Page applications can be slick, but please make sure that all the links still work without JavaScript. You c\xe2\x80\xa6 https://t.co/VXKqKJe14M'"
+1014189174050746371,2018-07-03 16:48:36,"b'Great documentation is readable no matter where you start reading. If conventions apply to every page, you can auto\xe2\x80\xa6 https://t.co/eZ9UCUyW2V'"
+1007032098769788928,2018-06-13 22:48:56,b'django-hosts can break UNRELATED test cases: https://t.co/Wu9GkM5sa8\nTook me quite a while to figure out this one ...'
+1002570011150635014,2018-06-01 15:18:12,b'RT @SwiftOnSecurity: If you ask an expert a detailed question and their answer is not \xe2\x80\x9cit depends\xe2\x80\x9d you need to start reconsidering their ex\xe2\x80\xa6'
+1000125978226712577,2018-05-25 21:26:29,"b'Logging is great, but please include a marker. print(obj) will be a stray None in the output, confusing everyone. I\xe2\x80\xa6 https://t.co/nlQFWhtNWS'"
+992847254305243141,2018-05-05 19:23:26,"b'@timvogt Yes, docker is a great way to test for installation/compatibility problems, but the default Dockerfile of\xe2\x80\xa6 https://t.co/UbfrMKGn96'"
+992467440369094656,2018-05-04 18:14:11,"b""To find problems in different environments, try installing your library/application in a debootstrap'd chroot, on t\xe2\x80\xa6 https://t.co/bz8ojnlPrr"""
+992467371205038081,2018-05-04 18:13:55,"b'Complete installation instructions for software are surprisingly rare, especially for those projects which need it most.'"
+992467321036918789,2018-05-04 18:13:43,b'Some build/dependency tools are harder to install than the actual software.'
+992467242834186241,2018-05-04 18:13:24,"b'I am surprised how much of my time is spent building software, and building build tools.'"
+992467193798553601,2018-05-04 18:13:12,b'.@BrotherOffice offers decent documentation for 2 protocols (ESC/P &amp; P-Touch) to talk to their P950NW printer. But\xe2\x80\xa6 https://t.co/aqtH1XDb9D'
+988512907007807490,2018-04-23 20:20:17,"b'#enterprisecodecomments #6:\n// Always close the socket, no matter what\nif (success &amp;&amp; !settings-&gt;keep_sockets &amp;&amp; !is_long_sock) close(sock);'"
+988511625954152448,2018-04-23 20:15:11,"b'#enterprisecodecomments #5:\n// open a file, parse it, close it, then the next one.\nint fd1 = open(""a"", O_RDONLY);\ni\xe2\x80\xa6 https://t.co/Vl0OHY3ijW'"
+988510939455590404,2018-04-23 20:12:28,b'#enterprisecodecomments #4\nvoid fatal_abort() {\n  while (1); // Maybe do something here?\n}'
+988510412583915520,2018-04-23 20:10:22,"b'#enterprisecodecomments #3:\n// The following line is very important, do not delete or we leak handles!\n// closeHandle(fd);\ngoto end;'"
+988509740685758464,2018-04-23 20:07:42,b'#enterprisecodecomments #2:\nupdateState(); // does nothing\n[updateState significantly reconfigures the system state\xe2\x80\xa6 https://t.co/E3XGsRI1kI'
+988509295636635649,2018-04-23 20:05:56,"b'Enterprise code comments:\n// open file\nint fd = open(fname, O_RDONLY);\n[200 deeply nested lines without a single comment]'"
+987634395438895105,2018-04-21 10:09:23,"b'Adding ""protocol"" or ""RFC"" to any google search is a great way to filter out posts of users complaining about error\xe2\x80\xa6 https://t.co/TClu880KTU'"
+987219811074797568,2018-04-20 06:41:59,b'Which build system does our enterprise software use? ant of course! And maven and gradle for a subproject. And make\xe2\x80\xa6 https://t.co/V0HUEPpmSY'
+987065160543166465,2018-04-19 20:27:27,"b""Dear unnamed DHCP server, please don't crash if there's no IP associated. Or if the interface is currently down. In\xe2\x80\xa6 https://t.co/sfPAJhOyKr"""
+981608549762654209,2018-04-04 19:04:50,"b""@TechnoExplorer Sure, should be possible now. If you're having a technical issue, https://t.co/oRvsBnIxUK is the place to file those though."""
+980459358176923653,2018-04-01 14:58:21,b'RT @rcubitto: Merging your own PRs https://t.co/3gjVbwZ4x1'
+979302007675805696,2018-03-29 10:19:27,"b'If your code starts with warnings.filterwarnings(""ignore"") , please add a comment explaining why. Otherwise, I migh\xe2\x80\xa6 https://t.co/AevEt4QlW4'"
+978320890105679874,2018-03-26 17:20:51,"b'@raymondh Why is sys.getsizeof(set()) - sys.getsizeof([]) == 21 , as indicated in the comment in random.sample? https://t.co/WV1c2Nw2of'"
+976780462042570752,2018-03-22 11:19:44,b'Your Python (or node.js or ruby) library may be faster by calling out into C code. But please provide a pure fallba\xe2\x80\xa6 https://t.co/lQwcs53aoj'
+976778801123332096,2018-03-22 11:13:08,"b'Setting up a 5 year-old application, I notice how great it is to have dependencies that are not picky about their d\xe2\x80\xa6 https://t.co/c4PNm0jHly'"
+976052611727216641,2018-03-20 11:07:31,"b""@troyhunt If this were for a website with user data (like haveibeenpwned), wouldn't it be prudent to take it seriou\xe2\x80\xa6 https://t.co/V3B9U3rrQ5"""
+974415960328327168,2018-03-15 22:44:03,"b'#wtfcode: subprocess.Popen(""python {}/foo/file.py {}"".format(os.getcwd(), user_input))\nIf you construct a path with\xe2\x80\xa6 https://t.co/Tpw4d4Ej8b'"
+973308306004631553,2018-03-12 21:22:38,"b'@marvinhagemeist @robsmallshire @dabeaz Nah, I tend to work with integers only. And while https://t.co/gRksZRm6bd_i\xe2\x80\xa6 https://t.co/zjryv50c04'"
+961532224746217472,2018-02-08 09:28:41,b'#bucketlist Used /usr/bin/yes to confirm operations instead of simulating CPU load.'
+959705909969719296,2018-02-03 08:31:34,"b""If you must use javascript: instead of mailto: on links, please don't try to intercept your own website's links and load them via XHR!"""
+911002763416522754,2017-09-21 23:02:39,"b'@_davideast Just out of interest, why is there an empty &lt;title&gt; at https://t.co/DiiKQX7vO1 ? Oversight or some unknown UX/webdev rationale?'"
+856673753228615680,2017-04-25 00:58:33,b'@MSEdgeDev Is crypto.subtle.generateKey supposed to resolve to the algorithm spec as an error object? https://t.co/oB6lv7QNkf'
+685775316690800641,2016-01-09 10:49:11,b'@bwfmedia Where can I find the Umpire Training manuals and COCTales on the new website? (Previously on https://t.co/rJRxH1ou3C)'
+464133972856143872,2014-05-07 20:05:36,b'@fcassia Have you tried --batch-file a.txt to feed youtube-dl a list of URLs?'
+367222777004048385,2013-08-13 09:55:07,"b'Clever, storing data literally on the wire: http://t.co/ifYEwp0rDK'"
+346053343011020800,2013-06-15 23:55:20,"b'Some people write C in every language. Case in point, Python:  def str_compare(self, str1, str2). At least returns True/False instead -1/0/1'"
+346042588635209728,2013-06-15 23:12:36,"b'""In order to save RAM and processing power, developers did not use the operating system that came with the machine."" http://t.co/hiiBwpInEt'"
+346036925834072064,2013-06-15 22:50:06,"b""@troyhunt Then keep on tweeting about stackoverflow problems, I'll be happy to vote for reopening them :)"""
+346036720476770304,2013-06-15 22:49:17,"b""I'm looking at three different scripts that do the same (in JS only on Windows, ruby, sh), and every single one looks yucky"""
+346036360026664960,2013-06-15 22:47:51,"b""var imagemagick = 'C:/Program Files/ImageMagick-6.6.5-Q16/';  - woot, this program doesn't work on Linux?"""
+346036228682043393,2013-06-15 22:47:20,"b""@troyhunt That's security.sx, which has completely different moderators/community than SO. In my experience, appealing in the chat helps"""
+336843341666852865,2013-05-21 13:58:05,"b'My #dbus daemon is down ... apparently, everybody (in KDE land) and their pet duck is now depending on it, with &gt;10s timeouts'"
+331258144879689728,2013-05-06 04:04:30,"b'Mysterious comments are fun - just found ""# parsing""   in the middle of code that only prints stuff, and does no parsing whatsoever'"
+321259525678190592,2013-04-08 13:53:34,"b'According to #HISLSF, H71HV8pVTqmqzie56tES6ByX9y1zt0Hg is an insecure password. Argh'"
+320441462254866432,2013-04-06 07:42:52,"b""RT @iandevlin: Filed a bug about Twitter Bootstrap's misuse of the &lt;small&gt; element. They don't care about the spec. apparently htt ..."""
+317157282058231808,2013-03-28 06:12:43,"b""How do you add padding to an image in an HTML document? CSS? Nah, let's just make the image larger. #wtf"""
+305858490809868288,2013-02-25 01:55:21,b'TIL that VirtualBox breaks symlinks ... in the name of Windows 95 compatibility https://t.co/9pkQZGDNSy'
+299946953872121856,2013-02-08 18:25:01,b'jquery tooltip - clearly better user-... than title= http://t.co/DRJpUROj'
+299929621686796289,2013-02-08 17:16:08,"b'@zhenech Well, how would you write that code using absdir?'"
+299914204025065472,2013-02-08 16:14:53,"b""@zhenech dirname(dirname(x)) != dirname(x) . '..' - The former works even if the directory containing x is a symlink to somewhere else"""
+299171483954057218,2013-02-06 15:03:34,b'@nomaster /etc/rc.d/sshd on a bleeding-edge arch. Just installed it a week ago'
+299166378886311936,2013-02-06 14:43:17,"b""arch Linux' sshd start script has at least two obvious errors: shebang #!/bin/bash and sleep 1 (wtf?) in restart. Argh"""
+298899804824678400,2013-02-05 21:04:01,"b'@zhenech N\xc3\xb6, seit dem ersten iphone http://t.co/t7yGeW30'"
+298858799232585729,2013-02-05 18:21:04,b'@zhenech Meinst Du den? http://t.co/OxQKXpeW'
+296931725970395136,2013-01-31 10:43:34,"b""https on http://t.co/v0ZP69Jv is still broken (cert is for *.a.ssl.fastly.net). @github, what's up with that?"""
+293172228458180609,2013-01-21 01:44:40,"b'compression can be weird .. I add a character to a PDF file, it shrinks by 1 Byte'"
+289353768368238592,2013-01-10 12:51:28,"b'RT @axelmaireder: One of the best research paper titles ever: ""How extraverted is honey.bunny77@hotmail.de? Inferring personality from e ...'"
+288994030732337152,2013-01-09 13:02:00,"b'""note: expected \xe2\x80\x98struct AVFrame *\xe2\x80\x99 but argument is of type \xe2\x80\x98struct AVFrame **\xe2\x80\x99"" #wtf Guys, please activate -Werror in your projects'"
+285444815309664256,2012-12-30 17:58:41,"b'@github git push hangs atm for me (and others), but https://t.co/K1O1wqSn is green. Can you reproduce the issue?'"
+279226440745107456,2012-12-13 14:09:05,"b'""website: http:\\\\\\\\\\\\\\\\\\/\\\\\\\\\\\\\\\\\\/justinian.leibnizcenter.org\\\\\\\\\\\\\\\\\\/jurix\\\\\\\\\\\\\\\\\\/"" Well, you can never have enough backslashes, eh?'"
+276807211261501440,2012-12-06 21:55:56,"b'(US) Republican does the right thing, promptly gets fired http://t.co/3QzZuFNR'"
+276807061688434688,2012-12-06 21:55:20,"b'.@logitech I\'d wish I could filter for ""sane keyboard layout"". As in space after F4+F8, and Del/Pg*/.. in a block. You can call it ""pro""!'"
+275988668110475264,2012-12-04 15:43:20,b'@zhenech HTTP Header of the year. 2008.'
+273859539080708096,2012-11-28 18:42:56,b'Wading through a pcap file makes me realize how slow and unoptimized ad servers are. &gt;=50% of the requests go to various ad servers'
+273846782633603072,2012-11-28 17:52:15,"b'""ich habe Deinen Kontakt \xc3\xbcber github gefunden (...)  F\xc3\xbcr eine neue Fernsehshow sind wir auf der Suche nach Geeks im Alter von 18- 32 Jahren""'"
+273846471693045761,2012-11-28 17:51:01,"b""RT @raymondh: #python tip:  str.startswith() and str.endswith() can check multiple prefixes or suffixes:  s.endswith(('.html', '.xml', ' ..."""
+271978043910787072,2012-11-23 14:06:33,"b'RT @w3bd3vil: Thank you @TPLink for the ""awesome"" Wifi Password! /facepalm http://t.co/Z6RwCFfD'"
+270548039658266624,2012-11-19 15:24:13,"b'Status of one my students is ""it\'s compiling"". Time to speed up our software installation process ;)'"
+267322526122799104,2012-11-10 17:47:11,"b'Reading ""non-geek"" instead of ""clueless about technologie, i.e. the basics of their job"" makes me cringe'"
+267244681128202240,2012-11-10 12:37:51,"b'""code wins arguments"" http://t.co/DyYutpDz'"
+266094684399599616,2012-11-07 08:28:11,"b'JavaMail 7 is apprently ashamed; its emails lack both User-Agent and X-Mailer headers. Rightly so, since the mail is also HTML only'"
+261503433113231360,2012-10-25 16:24:11,"b'""It is a limitation of the LATEX\n 2 kernel that double column\nfloats cannot be placed at the bottom of pages."" #wtf'"
+259255823509897217,2012-10-19 11:32:59,"b'sourceforge vs github feels like cvs vs git: SF wants to spam me by default, requires my job title, uses mouse-only image buttons'"
+257879093519990787,2012-10-15 16:22:21,b'Windows users are plagued by malware. Linux users are plagued by PulseAudio (or its KDE integration)'
+256027438738460672,2012-10-10 13:44:32,"b'svn repositories have three branches: 1) Experimental from 2008 2) Created by accident 3) trunk, where everyone commits.'"
+253423679759855617,2012-10-03 09:18:08,b'Adobe security: This is an actual picture from Adobe HQ: http://t.co/wbX7QhCf (via http://t.co/DzINp9D2 )'
+253423031291101184,2012-10-03 09:15:33,b'RT @slashdot: SHA-3 Winner Announced http://t.co/6ZvTfZP2'
+251577760131215360,2012-09-28 07:03:06,b'break ALL the webservers http://t.co/yvmeJ1L0'
+251282738466934784,2012-09-27 11:30:48,b'RT @TheOnion: No One Murdered Because Of This Image http://t.co/FMwM7Opw'
+250662871925673984,2012-09-25 18:27:40,"b'Yahoo releases a web series about computer security, requires Flash Player to view it http://t.co/NuTCkjp8'"
+249436778010918912,2012-09-22 09:15:36,"b'Yes, Thunderbird, my message contains the string ""CV"". Not surprising, given that it\'s an encrypted blob.'"
+248787800944680960,2012-09-20 14:16:48,"b'If you search for K\xc3\xb6ln, you can see NetCologne in http://t.co/jDDITUUU'"
+248787372244869120,2012-09-20 14:15:06,"b'Someone wrote an actual real-world application in Google Go: http://t.co/cPlSo6Qm Unfortunately, the application is ransomware.'"
+248777453764501506,2012-09-20 13:35:41,"b""If you use U instead of \xe2\x88\xaa for set union, please choose a sensible font. On second thought, don't write math or code in PowerPoint at all"""
+243719037719302144,2012-09-06 14:35:21,"b""According to google, libjli's main function is to crash Java: http://t.co/Ej4ahdOW"""
+243718720575393793,2012-09-06 14:34:05,b'Stumbled upon http://t.co/W0sS0UmK - java/libjli.so crashes if /proc is not mounted #wtf'
+240104307654012930,2012-08-27 15:11:42,b'Excellent TheDailyWTF: data.data.data http://t.co/fS3ljiE8'
+238338422442446848,2012-08-22 18:14:42,"b'@zhenech jupp, der Spam von rosa archiv kam auch hier an. To: war meine debian-/launchpad-Adresse'"
+233586205055410177,2012-08-09 15:31:05,"b""You know you're on a limited system when ... `less: command not found`. I guess sometimes more is more than less."""
+233226977560117248,2012-08-08 15:43:39,"b""http://t.co/81uXTg8a Cookie value characters:  !#$%&amp;'()*+-./0123456789:&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[]^_`abcdefghijklmnopqrstuvwxyz{|}~"""
+233214316688596993,2012-08-08 14:53:20,b'TIL of the 1 Way-Handshake in TCP  http://t.co/eSbHHQs6 .. looks like we have to update the Computer Networks lecture'
+233150671153688577,2012-08-08 10:40:26,"b'@sublimehq ST2 looks really great, but ""Hide Menu Bar"" seems to be broken on Linux http://t.co/xQxcbfbi Can I vote with my wallet for that?'"
+233126667562917888,2012-08-08 09:05:03,b'#socialshareprivacy is not under version control. huh?'
+233125669163384832,2012-08-08 09:01:05,b'How not to test for a JSON-capable browser:  (!$.browser.msie || ($.browser.msie &amp;&amp; $.browser.version &gt; 7.0))  . (from #socialshareprivacy )'
+232784909343797248,2012-08-07 10:27:01,"b'RT @geneg1: In statically typed languages, the compiler tells me when there is a framework linking problem. In dynamic languages, #Stack ...'"
+230997960966688768,2012-08-02 12:06:20,b'@zhenech Have you tried strace-ing them?'
+230647892614971393,2012-08-01 12:55:17,b'RT @troyhunt: You can never have too much screen real estate :) http://t.co/18yZmZ7a'
+229974082416947201,2012-07-30 16:17:48,"b'""PCI devices crash when you read some parts of config space (this behavior probably doesn\'t violate the PCI standard)"" http://t.co/CdZxvxKZ'"
+229690356587954176,2012-07-29 21:30:23,"b""php's crypt function (http://t.co/mHPIuTsf silently falls back to DES if it doesn't (yet) support the selected algorithm #fail"""
+229689897592692736,2012-07-29 21:28:33,b'php - The language where a cryptographic function parses a string http://t.co/uI4hHwXJ'
+228803432931291137,2012-07-27 10:46:04,b'RT @e2b: Oh Apple. You ran out of space on your ... Microsoft server. http://t.co/05sbIZhn'
+227366034661847041,2012-07-23 11:34:21,"b'spam bots have discovered #stackoverflow: ""Hi, My name is miss CONFIDENCE, i saw your profile today on stackoverflow.""'"
+225576342438166528,2012-07-18 13:02:45,"b""Triple negation - that's what the cool kids do: https://t.co/LvjZZga1"""
+223026004854194176,2012-07-11 12:08:37,"b""Oops, defeated by google personalization. If google shows you a bug before the project's homepage, you've checked on it way too often ;)"""
+223025612997132288,2012-07-11 12:07:04,"b'If google ranks a bug higher than your project, you may want to consider fixing the bug: http://t.co/uONfNy3K'"
+222981052728213504,2012-07-11 09:10:00,b'RT @G33KatWork: TCP-S\xc3\xa4gmentierung... http://t.co/IKpVNfxP'
+222081153039990784,2012-07-08 21:34:07,b'Apple messes up String.prototype.replace in  Safari http://t.co/z8KRynSX'
+222075749979525120,2012-07-08 21:12:39,b'A regular expression that captures string representations of IP addresses: http://t.co/DcZwXzNV . Corrections welcome.'
+220897212253741057,2012-07-05 15:09:34,b'TIL that the default testrunner of node.js is written in Python: https://t.co/ZGPnOhYy'
+220546200510808064,2012-07-04 15:54:46,b'TIL that 3221236490 is a valid string representation of an IP address. Try it: http://t.co/mfVWhwS5'
+218666106896916482,2012-06-29 11:23:57,"b""The award for the weirdest standard page goes to http://t.co/Ge3RCQ74. That's why you let the W3C host standards"""
+218665066206203904,2012-06-29 11:19:49,"b'In 2012, you should NEVER use inet_aton . inet_pton works with IPv4 and IPv6. In Python, have a look at ipadress (in the stdlib in 3.3+)'"
+217903296826982400,2012-06-27 08:52:49,b'RT @cfbolz: A tree is a connected forest.'
+216184107032526848,2012-06-22 15:01:22,"b""In #python, you shouldn't use os.path.dirname(__file__) to locate resources. Instead, use pkgutil.get_data http://t.co/LYlgnUXZ"""
+215076102635401218,2012-06-19 13:38:33,b'RT @snipeyhead: I merge the commits of my enemy to gain their strength.'
+213622267706478592,2012-06-15 13:21:32,"b""@zhenech yeah, I do use ack-grep. But it's not in the standard installation, and rgrep is shorter than ack-grep -a"""
+213620752551911424,2012-06-15 13:15:30,"b'Waited forever for the result of  grep -r foo   .Only to find out that GNU grep 2.6 -r doesn\'t imply ""."", but falls back to regular grep.'"
+213553909703254016,2012-06-15 08:49:54,b'RT @yeslogic: Why write programs when you can write programs that write programs?'
+208553785398800384,2012-06-01 13:41:11,"b"".@zhenech Nothing, it's just good python style. In theory, if len is expensive (say a distributed database), objects can implement __bool__"""
+208550269821259776,2012-06-01 13:27:13,"b""#python tip: The boolean value of a str, list, set, dict,\xe2\x80\xa6 is false iff it's empty. Write  if s:  instead of  if len(s) &gt; 0:  or  if len(s):"""
+208221115338862592,2012-05-31 15:39:17,"b""Content-Type: text/plain Content-Transfer-Encoding: 8bit  &lt;html&gt;&lt;head&gt;&lt;title&gt;&lt;/title&gt;..  \xe2\x86\x90 That's an interesting definition of plain text"""
+208175011251494914,2012-05-31 12:36:05,"b""calls to sleep(1) mask multithreading bugs. Calls to a custom implementation of sleep unmask the author's programming skills"""
+206013052510928896,2012-05-25 13:25:13,b'RT @sparkycollier: U.S. law on github.  Genius.  https://t.co/ard67syR'
+205570360089915392,2012-05-24 08:06:07,b'Security tip: Do not publish your private key http://t.co/M8Sv0jMc'
+205382546027061248,2012-05-23 19:39:49,b'RT @SpaceX: Incredible shot of Falcon 9 launch (photo credit: James Fink) http://t.co/M97rrNfY'
+203417465231908864,2012-05-18 09:31:17,"b'I have yet to find a full implementation of the HTTP accept header. Can you parse A/a;level=1;q=0.6;q=1,*/*;q=0.6;A/*,A/a;q=0.6 ?'"
+202003291448672256,2012-05-14 11:51:52,"b""@zhenech Not yet, but you're welcome to send them to me via email or so"""
+201998789773508609,2012-05-14 11:33:59,"b'RT @notmynextbug: If everybody uses the common case, remove the special case http://t.co/lMTW0sqb'"
+201998723927113728,2012-05-14 11:33:43,"b""I'm a fan of bugs. Not writing them, but finding and avoiding. Follow @notmynextbug for a bug per week"""
+201998673733885952,2012-05-14 11:33:31,b'http://t.co/2FhwAyKP has 6 sides that explain how easy and open-source they are. But no demo or public source code. #vaporware'
+200606109130694656,2012-05-10 15:19:58,"b'Please don\'t cite the ""the usual approach"" in scientific papers. Thanks from 10 years, a continent, and a discipline apart.'"
+200300853574377472,2012-05-09 19:06:59,"b'386381 system calls. High-performance database? P2P filesharing? Nope,  rake help  (and it outputs an error message)'"
+199945917388963840,2012-05-08 19:36:36,"b'canPlayType returns one of three values: probably, maybe, or """". Previously, canPlayType returned ""no"" #wtf http://t.co/HxnAV1Gg'"
+196905561307103232,2012-04-30 10:15:18,"b""@zhenech CRC-16 is a hash function. It's not a *cryptographic* hash function."""
+196673254977572864,2012-04-29 18:52:12,"b'You should be using UTF-8, everywhere: http://t.co/tAetsTxD'"
+195549892238774272,2012-04-26 16:28:22,"b""Best use case I've found for large monitors: Comparing strace logs. Surprising how often the average applications calls the OS"""
+195547505868546048,2012-04-26 16:18:53,"b""#python destructors are evil - unless I'm mistaken, pdb doesn't show them. In any case, context managers are nice"""
+195522450195365888,2012-04-26 14:39:19,"b'@RegexTip Only 10k? I think you mean [1-9]\\d{4,} followers'"
+195507546155528192,2012-04-26 13:40:06,"b""Bug of the day: ssl in Python 3.1 needlessly dup()'ed and close()d the underlying socket, thereby changing its fileno() http://t.co/6Y5Nss5S"""
+195242698112905216,2012-04-25 20:07:41,b'# The following code was backported for older releases and copied.   class CertificateError(ValueError): pass'
+195242291861012481,2012-04-25 20:06:04,"b""TIL that Internet Explorer doesn't execute JavaScript if writing to disk fails #wtf  Don't ask ..."""
+195132420511629313,2012-04-25 12:49:29,"b'@chaosdorf \xc3\x96hm, wann ist denn das monatliche freifunk-Treffen? Fehlt leider auf http://t.co/etckPog8 ;)'"
+194158302681251840,2012-04-22 20:18:41,"b'@zhenech Add .diff to the URL to get raw diffs on @github, like https://t.co/DH16Xs9C'"
+192186132170162176,2012-04-17 09:41:59,b'@reichelt_el E-Mail an twitter@reichelt.de ist raus. Danke f\xc3\xbcr die schnelle Reaktion!'
+192180103999008770,2012-04-17 09:18:01,"b'@reichelt_el Ist es normal, das man mehr als 24 Stunden auf Antwort an E-Mails an ecenter@reichelt.de warten muss? 255180'"
+190549258175393792,2012-04-12 21:17:38,b'@zhenech Then there are probably two different devices. Is  cat /sys/devices/platform/dock.*/type   battery_bay ata_back on your system?'
+190515534079606785,2012-04-12 19:03:37,"b'@zhenech Works fine with my T410 as well, but no automatic display switching (Intel/KDE). ""newer series 3"" at http://t.co/dlfiSkis Thanks!'"
+190505998551744512,2012-04-12 18:25:44,b'Thinkwiki is outdated when it comes to modern docking stations. I wrote an updated guide: http://t.co/zXzyGRl5'
+190353952003469312,2012-04-12 08:21:33,"b""Some French publications are strange. For one thing, they're written in French."""
+190131691476631552,2012-04-11 17:38:22,"b'ACM promotes Real Player, a ""useful download"": http://t.co/VRURWVG9'"
+190127095853232128,2012-04-11 17:20:06,b'TIL that on Windows a directory can also be a symbolic link (and still contain files of its own): http://t.co/gwIt87te'
+189971063608848384,2012-04-11 07:00:05,"b""Argument to start teaching cs with a strongly typed language: #php implicitly converts '1'=='2' to 1==2. http://t.co/hBscAarv"""
+189781508154859520,2012-04-10 18:26:52,"b'ZigBee: The only P2P/mesh network that requires exactly one node to be a ""coordinator"".'"
+189431949981519873,2012-04-09 19:17:51,"b'Some people publish RFCs as Word documents, with random formatting #wtf'"
+184778965783805952,2012-03-27 23:08:33,"b'The intro video at http://t.co/lJ1ZpThm requires you to have Flash installed. Oh, the irony ...'"
+184731170444021760,2012-03-27 19:58:37,"b""@Vile_ircN You can ask for that feature at https://t.co/zm58lX3p . Bear in mind that we often don't know the file size (e.g. with RTMP)"""
+184728410763960320,2012-03-27 19:47:39,"b""Computer science professor doesn't know about Anycast: http://t.co/ACbQZzXp Ouch."""
+182143577558757377,2012-03-20 16:36:27,b'Turns out the overhead in dynamic programming languages is massive: http://t.co/0OtB5zLs'
+182142590802608128,2012-03-20 16:32:32,"b'@azizansari tries to release a video for fans, fails by requiring Flash: http://t.co/f2cBOUZi'"
+181910346875940864,2012-03-20 01:09:41,"b'""(...) the public doesn\'t change its views (...). Instead, it seems to start questioning reality itself."" http://t.co/3lDalpRF'"
+181901435133378563,2012-03-20 00:34:16,"b""Just got notified of the Windows RDP vulnerability via an HTML-only email. And my server runs Linux, so I don't think I'm affected."""
+181722831128772609,2012-03-19 12:44:33,"b""In #python, don't write  from foo import bar  . That's just bound to lead to confusion. Case in point:  http://t.co/z7fOvnS9"""
+181722522046304256,2012-03-19 12:43:20,"b'Admins know not to use the password 123456. Instead, they !@#123abc http://t.co/LZkPYBmJ'"
+181722480015192064,2012-03-19 12:43:10,b'newsflash: Avoid or scrutinize exec() valls in critical applications: http://t.co/kUytuE6v (via @zhenech)'
+176519306778132480,2012-03-05 04:07:36,b'@Logitech Does any of your headsets run on Linux? Even the top model G35 only lists Windows.'
+174838584870838272,2012-02-29 12:49:01,"b'@gialloporpora Just concatenate to the solve #sophospuzzle , i.e. RFCXpasswordRFCY. Note that RFCX is the text of the RFC.'"
+174626232082759681,2012-02-28 22:45:12,b'Pakistan wants to censor specific file names and types on Layer 2 and 3: http://t.co/5dExFbCS Incompetence: best defense against censorship'
+174597513561636864,2012-02-28 20:51:05,"b'@mikesorayama rfc0001 matches the (incompatible) .tar.gz version, but rfc10.txt is from the (correct) zip. Download: http://t.co/JJJ5vlR8'"
+174591715951386624,2012-02-28 20:28:03,"b'@mikesorayama Yes, that is the .tar.gz sum. The correct #sophospuzzle md5 is md5(rfc + pw + rfc10) = 7612aa5ba9d8b3c655242528bea065a9'"
+174558218561925120,2012-02-28 18:14:57,"b'@duckblog Important note for #sophospuzzle : md5sum only works with the zip file, not the .tar.gz one. URL: http://t.co/JJJ5vlR8'"
+174516465880408065,2012-02-28 15:29:02,"b'Once again, I note that the source control system is a great predictor for code quality. Newsflash: Programs maintained in CVS are buggy ;)'"
+174516224443695106,2012-02-28 15:28:04,"b'@SecShoggoth Just searched all RFCs in #sophospuzzle, but no luck. Is md5(rfc1, rfc10) == 7c6e7af2d5f52c45631d4ae45cebc127 correct?'"
+174389648347508736,2012-02-28 07:05:06,"b'Plans for #Python 4: Remove the cruft, such as u""string"" strings http://t.co/XOi09z55'"
+174357058857086976,2012-02-28 04:55:36,"b""strlen(argv[1]) == 8 is probably a hint in #sophospuzzle, but I've no idea what that could stand for. Any ideas?"""
+174356823661490177,2012-02-28 04:54:40,"b'Mmm, has anybody made headway in stage1 of #sophospuzzle ? It looks like an alphabetic cipher with characters depending on the previous one.'"
+173212423942189056,2012-02-25 01:07:14,"b""I'm surprised how often I see if x == True (or even  if x ==  'true': )  instead of simply  if x:  . #lazyprogrammerswriteless"""
+173212028893282304,2012-02-25 01:05:40,"b'Wow, you can actually buy Flac music files online, with two clocks @bandcamp: http://t.co/PY0CnBOo'"
+171638252145610752,2012-02-20 16:52:02,"b""+/v8- My hobby: Starting my posts with +/v8- and seeing what breaks. But then again, most coders aren't clever enough for that screw-up"""
+171582751584161793,2012-02-20 13:11:30,"b'facebook gets White Hat hacker into jail. http://t.co/hBa8Z8Wg  So, they want hackers to sell vulnerabilities to attackers? #wtf'"
+168259770288050177,2012-02-11 09:07:10,b'@pingdom Thanks for implementing my feature request before I asked for it ;)'
+168052514774724610,2012-02-10 19:23:36,"b'@pingdom Under ""Check settings"", I have to use a drop-down for http:// or https://. Why don\'t you let me paste the whole URL instead?'"
+168052334369312768,2012-02-10 19:22:53,"b""wow, http://t.co/nUOh2gOu is really good at presenting papers. Although it's not that hard beating IEEE, which demands 30$ per paper."""
+168052305927741440,2012-02-10 19:22:46,"b""Eolas (the patent troll) is back. And now they've patended EVERYTHING: http://t.co/UZF7KFWH"""
+165189867955949568,2012-02-02 21:48:28,"b""Why debian's php now comes without suhosin: http://t.co/3u0GKvPE"""
+165189657804550144,2012-02-02 21:47:38,"b""When naming your program, make sure the name does not conflict with an existing one, especially if there's a frikkin WIKIPEDIA article."""
+165189622450749440,2012-02-02 21:47:29,b'Picking a common English word as the name of your program is a bad idea.'
+165189561440403458,2012-02-02 21:47:15,"b'Oh, the irony of not being able to download papers written at the university I study at. Intentionally Eliminating Expert Education'"
+164083512423624705,2012-01-30 20:32:12,"b""Every security lecture should teach Zooko's conjecture: http://t.co/WJgORLoJ"""
+164083479028576257,2012-01-30 20:32:04,b'sprintf vulnerability in sudo. In 2012. http://t.co/xOBAh8L8'
+164083440331915264,2012-01-30 20:31:55,"b'I love insightful comments.  curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, FALSE); //Security...'"
+164083386586120192,2012-01-30 20:31:42,"b'PDF without a table of contents, two columns, references are not hyperlinked. That just screams ""PRINT ME!""'"
+164083299738857472,2012-01-30 20:31:21,b'FUD against Open Source ... from the Apache Software Foundation? http://t.co/A8pyrZv3 #wtf'
+164083199440465920,2012-01-30 20:30:57,b'Only in Egypt: US-funded Egypt military accuses US of illegally funding an NGO http://t.co/4cnh8E2y'
+161880396110376960,2012-01-24 18:37:48,"b'Somebody submit a paper to USENIX: ""Why http://t.co/TXobHxLU still? has a wrong SSL certificate in 2012.""'"
+161880177712959489,2012-01-24 18:36:56,"b'52 Tor routers are running on ""Windows XP Service Pack 2 [workstation]"" (1 on SP1!). I hope that\'s part of an elaborate joke #wtf'"
+161879871071588352,2012-01-24 18:35:43,"b'If the title of your paper is an absolute filename, and it starts with D:/Papers/2011, I might not take you seriously.'"
+161879794676531200,2012-01-24 18:35:25,"b'""Enterprise ready"" apparently means completely unnecessarily custom syntax:  http://t.co/U9x5dhLz No surprise there.'"
+161879741161422848,2012-01-24 18:35:12,b'Managing jokes in a distributed version control system: http://t.co/kjvqLCMY  Fuck yeah!'
+161820767590428674,2012-01-24 14:40:52,b'@i2p http://t.co/8yOMjyAm (and i2p.de in general) could really benefit from print css. Where is the public git repository of the website?'
+161208848869367808,2012-01-22 22:09:19,"b""#python2quirks: assert not isinstance(bytes().decode('utf-8'), str)  http://t.co/ldCbmuV6"""
+161208123732918272,2012-01-22 22:06:26,"b""#python2quirks: len('\xc3\xa4') http://t.co/gtfuE8AJ"""
+161207809441153026,2012-01-22 22:05:11,b'#python2quirks: class X: pass; assert type(X()) != X   http://t.co/caJw9VPx'
+161207483065565184,2012-01-22 22:03:53,b'#python2quirks: len(repr(10**42)) - len(repr(10**2))  http://t.co/wEJof2p2'
+161206839181189120,2012-01-22 22:01:20,"b'2012: The Tea Party is on the sane side. For the wrong reasons, but still ... http://t.co/enCQ9vPI'"
+160189754166616064,2012-01-20 02:39:48,"b""pcap is a really nice file format - simple and to the point: http://t.co/wqkQpLQ3  If only they weren't using 32 bit fields for time #y2k38"""
+159947309029924866,2012-01-19 10:36:24,"b""If you're starting a new C project, make sure to include -Werror in the Makefile. Otherwise, warnings will be useless 2 years later"""
+159434189433876481,2012-01-18 00:37:27,b'@duckblog Just analyzed a piece of php malware (can I submit it + analysis anywhere?). I must say #sophospuzzle was excellent preparation!'
+159433481175306240,2012-01-18 00:34:38,b'#python imports banned in the US: http://t.co/cirB6oV8'
+156768762668916736,2012-01-10 16:06:00,"b'wow, http://t.co/KTEO5T2x has a nice look to it. But slow due to 50 resources, and definitely http://t.co/vlHK5ZRm -compliant'"
+156448893637361664,2012-01-09 18:54:57,b'Eventually traced the cause for a crashing Windows PC to the StarForce DRM driver'
+156394896461275136,2012-01-09 15:20:23,"b""@zhenech True, although 10% is a very optimistic estimate. I don't see any reason not to include a second function which returns a string"""
+156392086558613504,2012-01-09 15:09:13,"b'@zhenech email.header.decode_header returns a list of tuples, which you must convert and join together. &gt;90% want just the decoded string'"
+156378067651149824,2012-01-09 14:13:31,"b""If I need a parser to parse the output of your parser, you're doing it wrong. Found this gem in the #python stdlib:  http://t.co/2i0gSQCZ"""
+156370505518157824,2012-01-09 13:43:28,"b""#pystache does not escape quotes: http://t.co/3zmoYUQt I'm glad there are just 4 special characters in HTML/XML #wtf"""
+156126680241545216,2012-01-08 21:34:35,"b'... by the way, we may have detected intelligent extraterrestrial life: http://t.co/EBGZVk8v &lt;http://t.co/EBGZVk8v&gt; #wtf'"
+153871497126088705,2012-01-02 16:13:18,b'RT @thezeist: JavaScript raytracer. This probably illustrates law of least power the best so far. @codinghorror should be pleased. http: ...'
+153839877383929856,2012-01-02 14:07:39,"b'@zhenech Wo bekommt man denn in .de 100MBit/s up, au\xc3\x9fer bei netcologne?'"
+153839478459482112,2012-01-02 14:06:04,"b'@zhenech Yes, I forgot mutt and lynx. Displaying help when the user presses ? is the very definition of usable.'"
+153826769504440320,2012-01-02 13:15:34,b'Only in ... C: #ifdef fail  #!/bin/sh  gcc -o program program.c -lssl  exit 0 #endif'
+153826622213066752,2012-01-02 13:14:59,b'There seems to be an unwritten law that every ncurses application must require a manual to use. The only exceptions: htop and kernel config'
+153826527686041600,2012-01-02 13:14:36,"b'Want to quickly see what apps are using your net connection? ntop is complicated, iftop and jnettop try graphs and fail. nethogs works'"
+153826006262743041,2012-01-02 13:12:32,"b""RT @imaguid: dear japanese researchers: making viruses that do good things isn't a new idea by a long shot. guess why we don't do it htt ..."""
+152355284772327424,2011-12-29 11:48:25,"b""In #python's higher-order functions (such as map and filter), None can be used for identity (lambda x: x). Great idea!"""
+152180176518778880,2011-12-29 00:12:36,"b'Being an academic, 7,8,9,12 and 24 of #sophoscrossword were really easy. I had to cheat with /usr/share/dicts and google for 2 and 10 though'"
+152179039619125248,2011-12-29 00:08:05,"b'Oops, you can check your #sophoscrossword guesses online at http://t.co/HRrjbnmv . Serves me right for trying to edit the PDF ...'"
+152178910182903808,2011-12-29 00:07:34,"b'""Congratulations. You have completed this crossword puzzle"" Woohoo! #sophoscrossword'"
+152175037854646272,2011-12-28 23:52:10,b'I have absolutely no idea what 2 could be in #sophoscrossword . w.s.e.? r.n.e.? (. = known characters)'
+151431245463699456,2011-12-26 22:36:37,"b""#GNOME's location picker knows Kalkum (pop. 1k), but neither D\xc3\xbcsseldorf(700k) nor Cologne (1m). Huh?"""
+151429977533980673,2011-12-26 22:31:34,"b'Dear #python library developers: Please let me pass you a socket instead of an (IP address, port) tuple. Not all sockets are TCP/IPv4.'"
+150224057382608896,2011-12-23 14:39:40,"b""@unusedcrayon Well, then why don't you post the website URL and let the twitter masses solve the problem? Don\xe2\x80\x99t ask to ask. Just ask!"""
+149960440645033984,2011-12-22 21:12:09,"b'Woohoo, I won .. a list of interesting people to follow in #sophospuzzle! And a cool shirt!'"
+149959813177159680,2011-12-22 21:09:40,"b'success seems to be a function of skill, commitment, and time. In that order, but it also needs every aspect.'"
+149257303399477248,2011-12-20 22:38:08,"b""Somebody should copy all functions from underscore.js into the ECMAScript standard. I'd rather give up objects than foreach, map, filter &co"""
+149092657765949440,2011-12-20 11:43:54,"b""RT @w3bd3vil: &lt;iframe height='18082563'&gt;&lt;/iframe&gt; causes a BSoD on win 7 x64 via Safari. Lol!"""
+149091972345376769,2011-12-20 11:41:10,b'Twitter advertises the quality of its search: https://t.co/V7L3Dj68'
+149071659352080384,2011-12-20 10:20:27,"b""@jeamland Looks like you've still some #sophospuzzle ing to do. Lengths are 575 and later 1065, and then 15."""
+149055488485629952,2011-12-20 09:16:12,"b""Unless you are generating permanent cryptographic keys, you shouldn't read from /dev/random, but from /dev/urandom. I'm looking at you, Java"""
+148905171412467713,2011-12-19 23:18:54,"b""@Martin_Rye You don't need significantly more complex coding than you needed on stage 1. #sophospuzzle"""
+148896946160017410,2011-12-19 22:46:12,b'@colinmartin100 Just to verify: Did you mail a colorful enigmatic question?'
+148896739196272640,2011-12-19 22:45:23,"b""@tyw7 You need some programming knowledge, about as much as you need to do anything with the Mindstorm robot you'll win #sophospuzzle"""
+148895281222656002,2011-12-19 22:39:36,"b""@Digital4rensics So the color sentence isn't the final piece? How embarassing for me :( But there's nothing left to decrypt, or is there?"""
+148894033266212864,2011-12-19 22:34:38,"b'@tyw7 by the way, you may contact the link to twitter on http://t.co/xg4T059f . Currently, you link to a spam site.'"
+148892892184838144,2011-12-19 22:30:06,"b""@tyw7 You're close, but it's not a hash. It's much more baseic. #sophospuzzle"""
+148876847617286144,2011-12-19 21:26:21,"b'@unusedcrayon Learning Python is a good idea no matter what. In C/C++, it will be ~4648 times harder to solve it.'"
+148874425511591936,2011-12-19 21:16:43,"b'@unusedcrayon No, xkcd/535 means that Python is great to solve it: There is a module that will be of great help (and has been for stage1)'"
+148872664008769536,2011-12-19 21:09:43,b'@duckblog My mail to L.Salander@sophos.com just bounced:Recipient address rejected: User unknown in relay. Is that part of #sophospuzzle ?'
+148871588471771136,2011-12-19 21:05:27,"b'@unusedcrayon Where are you stuck? Get back to the baseics! Btw, I solved it with http://t.co/tmQchbt1 #sophospuzzle'"
+148869698115735552,2011-12-19 20:57:56,"b""The #sophospuzzle is colorful, although it's based on simple reverse engineering."""
+148867137283424256,2011-12-19 20:47:46,b'@duckblog Looks like the content of the txt file just changed - now there are instructions.'
+148864266815012865,2011-12-19 20:36:21,"b""#sophospuzzle level 2 seems to refer to a recent excellent blog post. I'm still fiddling though. The filename is not the solution, is it?"""
+148540187545313281,2011-12-18 23:08:35,b'C:\\Windows\\System32 is for x64 code. 32bit code belongs into SysWow64. Duh. http://t.co/YqbtMIck #wtf'
+147832343741206529,2011-12-17 00:15:51,"b""wow, ffmpeg's ./configure is one of the fastest and nicest ./configure scripts I've ever seen. Quite refreshing, in contrast to autoconf"""
+146909516074721280,2011-12-14 11:08:52,b'$ mount -t $(yes proc | head -n 3)'
+146909454510723073,2011-12-14 11:08:38,b'RT @airbrakeapp: HTTP Status Cats http://t.co/XqZIcqdO'
+146620339798024192,2011-12-13 15:59:47,b'Want to have a UTF-8 encoded string in MySQL? You want utf8mb4 . utf8 is *not* UTF-8: http://t.co/P0WINNa8'
+146620152589467648,2011-12-13 15:59:03,b'Want to have a string in Python 2.x? You need a unicode object. str is a byte array.'
+146615890169962496,2011-12-13 15:42:06,"b'""Launchpad is processing new changes to this branch which will be available in a few minutes.""  @github \'s message: ""in a few microseconds""'"
+146614838834102274,2011-12-13 15:37:56,b'Launchpad requires public ssh keys to contain a comment #wtf'
+146596757302804480,2011-12-13 14:26:05,"b""GObject: The complexity of C++'s OO model, but not as intuitive. Works best in C++ code. For bonus points, use C++ *and* GObject classes"""
+146596184692240384,2011-12-13 14:23:48,b'RT @bivab: Lecture http://t.co/HmGOe6ay'
+144387110680535040,2011-12-07 12:05:44,"b'Things every cs graduate should know: string encodings, map/filter/reduce, speed of array/list/dict/set operations.'"
+143803663213789184,2011-12-05 21:27:19,"b""It's 2011, and I'm installing Windows XP to debug an IE6 problem. We're in dire need of an asteroid for these IE6 dinosaurs."""
+143415115193122817,2011-12-04 19:43:22,"b""RT @yeslogic: APIs that don't support UTF-8 should be abandoned in the mountains for the wolves. #youtrymypatiencewin32"""
+139076893633818624,2011-11-22 20:24:50,"b'@zhenech Just a random observation, the specific bug sat before the keyboard (or in an editor which produces non-UTF-8 text by default)'"
+139069087576883201,2011-11-22 19:53:48,"b""If you use any encoding but UTF-*, your code is buggy. You simply can't map Unicode to a single- or double-byte encoding. Test with \xe2\x84\x9d"""
+139068019061174272,2011-11-22 19:49:34,"b'RT @zhenech: Wenn Du diesen Satz liest, kann Dein Mailprogramm leider keine HTML-Mails darstellen. \xe2\x86\x90 Jupp, absichtilich, FIX YOUR CONTENT!'"
+138607160656535552,2011-11-21 13:18:16,"b""RT @zhenech: if isinstance(blub, unicode): blub = blub.encode('ISO-8859-1') #pain #wtf #yousuckatpython"""
+136862033411973120,2011-11-16 17:43:46,"b""@Yammer No, I've disabled HTML in my email client. Even if I'd enable it, downloading remote resources would allow to track when I read mail"""
+136786224047325184,2011-11-16 12:42:31,"b'@boydroid Nicht im blog bloggen, sondern hier im twitter-Stream ;) #edemok'"
+136772782917824512,2011-11-16 11:49:07,"b'@TobiasBuerger Wie soll den Interaktion sonst funktionieren, wenn nicht \xc3\xbcbers Internet? #edemok'"
+136758192179904512,2011-11-16 10:51:08,"b'@zhenech wrong hash tag anyways, hash edemok was the correct one'"
+136725477414027264,2011-11-16 08:41:08,"b""@Yammer If you send me emails about new cool features, please include text. At least you indicate a probability of 19% that it's spam ;)"""
+136561994638692352,2011-11-15 21:51:31,"b""Signs you've been using hg too much: $ git log | less"""
+135884189730996224,2011-11-14 00:58:10,"b'Wow, I just stumbled upon the second problem that could be solved with incremental JSON. http://t.co/TdQjZaKQ'"
+134048093304913920,2011-11-08 23:22:10,b'Eclipse: The only Java application that segfaults.'
+130038156073500672,2011-10-28 21:48:07,"b'From a .po (gettext translation) file: msgid ""%s""\nmsgstr ""%s"" . Any other translation would\'ve been even more interesting ...'"
+129700066977001472,2011-10-27 23:24:40,"b""If your password guidelines forbid  kuziudieL9to  because there's only one number in there, you may want to rethink your password guidelines"""
+126422755028639744,2011-10-18 22:21:48,b'EPS: Hopefully the only language where comments and commented comments are the most significant part of the program'
+124174793665822720,2011-10-12 17:29:12,"b'@zhenech Yup, but try the related presentations. @slideshare, what magic is needed to see a presentation without Flash?'"
+124169426294673409,2011-10-12 17:07:52,"b'site:http://t.co/EUmITdk9 ""Flash Player 9 (or above) is needed to view presentations."" No HTML fallback, and download is disabled.'"
+123820563436290048,2011-10-11 18:01:37,"b'""svn_client_update4(...)"" . If you\'re up to 4 in enumerating functions with the same name, you may want to rethink your naming scheme'"
+122436097178472448,2011-10-07 22:20:14,"b'""... crashes if argument is too long. attached patch increases the buffer size from 512 bytes  to 1024 bytes to avoid crashing.""'"
+122204240079884289,2011-10-07 06:58:55,"b""Projects don't succeed because of a BFDL, or community effort, or corporate sponsorship. They succeed because good developers invest time."""
+122203797790523392,2011-10-07 06:57:10,b'Simplicity is the soul of deployment. That may be why php is so successful'
+122203650784378881,2011-10-07 06:56:35,"b'If you use a non-UTF-8 encoding, you better have a really good reason for it. I want to see a 10+p document with at least 5 references.'"
+120619083539562496,2011-10-02 22:00:05,"b'""Returns TRUE on success or FALSE on failure. If called statically"" What\'s the return type of this #php function ? mixed of course.'"
+118961667081113600,2011-09-28 08:14:06,b'@github Can I include id= attributes in README.md of my project? That would allow precise linking to a specific question in the FAQ.'
+118961528505499648,2011-09-28 08:13:33,"b""Python's documentation allows specific links, by having lots of id= attributes. I wish more sites would do that."""
+116792269784354816,2011-09-22 08:33:41,"b'@googlewmc http://t.co/v9LSUsZR : ""This video is private."" And for once, I\'m not blocked by youtube for being in Germany ;)'"
+116251007364771840,2011-09-20 20:42:54,"b""It's amazing how JavaScript's object notation lets you forget all its other kinks (most of which are fixed by modern ECMAScript). {key: 'v'}"""
+114986908005834752,2011-09-17 08:59:49,"b'@BookOfZeus Comment form seems broken now: &lt;form action=""#"" method=""get""&gt; and the submit button has type=""button"" instead of type=""submit""'"
+113562202681782272,2011-09-13 10:38:33,"b""As a rule of thumb, documentation is always wrong. There may be exceptions, but in many cases it's easier just to read the code."""
+113200169553625088,2011-09-12 10:39:58,"b""@BookOfZeus I wrote some comments, but they don't show up. Is that due to a technical problem or was the comment quality too low?"""
+111903998692442112,2011-09-08 20:49:27,"b'@zhenech If the number and semantics of the return values is constant, return a tuple. Then let the #pypy guys go crazy about optimizing it.'"
+111141002730930176,2011-09-06 18:17:34,b'@github Can you make the branch names in Pull Requests clickable? contribr wants to merge 42 commits into my:master from &gt;&gt;contrib:master&lt;&lt;'
+111137710244237314,2011-09-06 18:04:29,"b'diginotar: ""all CA servers were members of the same Windows domain"". Put your CA servers in different Windows domains! http://t.co/bIfZn57'"
+111050127690571776,2011-09-06 12:16:28,"b""It's important to distinguish between Backslash and Backspace, especially if Ctrl and Alt are involved ;) : http://t.co/dGgX3zQ"""
+109755902822850560,2011-09-02 22:33:41,"b'@neiltyson Thanks to your tweets and @googleskymap, I could identify the only visible object in the bright D\xc3\xbcsseldorf night as Jupiter. Thx!'"
+109721176070299648,2011-09-02 20:15:41,"b""@QuarkXPress Sure, here's a link of a PDF file that looks like it's scanned in and OCR-ed instead of hypertexted: http://t.co/i2M70bR"""
+109605610433150976,2011-09-02 12:36:28,"b""Urgh, @amnesty 's 432-page report has no (PDF) table of contents, and no hyperlinks. A shame for @QuarkXPress too."""
+109571467385122816,2011-09-02 10:20:48,"b""@amnesty You should really present the PDF download prominently at http://t.co/MYDaf90 . It's suprisingly hard to find on that page."""
+105958434758864897,2011-08-23 11:03:54,"b""I'm happy we're over bikeshed coloring discussions. Let the bikevest coloring discussions begin: http://t.co/JDzCtoE"""
+104253719436214273,2011-08-18 18:09:58,"b'@slideshare Why publish a PDF or video? I want my scientific paper to appear as ""Flash Player 9 (or above) is needed to view presentations.""'"
+103174375926272000,2011-08-15 18:41:02,"b'@alicedsl Rechnungs\xc3\xbcbersicht: ""Microsoft VBScript runtime error \'800a0046\' Permission denied /asp/include/DAIW_funzioni.asp, line 442"". ASP?'"
+102339171686944768,2011-08-13 11:22:14,"b""I appreciate examples in documentation, but I'm horrified by all-example, no-reference documentation. Sometimes, examples just don't cut it."""
+99383974249508864,2011-08-05 07:39:20,"b'RT @codinghorror: over time I\'ve begun to believe a lot less in the ""Smart"" and a lot more in the ""Gets Things Done"".'"
+99382799391399936,2011-08-05 07:34:40,"b'Apparently, you can make pylint give a good score for a previously abysmally rated program just by re-indenting it. Is that the point?'"
+97988495838150656,2011-08-01 11:14:12,"b'""Reconciling forks is no more difficult than updating and commiting in CVS"". Also, it\'s no more difficult than proving P \xe2\x89\xa0 NP.'"
+96182239192301568,2011-07-27 11:36:47,"b""Dear websites: Please don't highlight the google search term I used to find you, especially if the search term was the project's name. #trac"""
+95776210226913280,2011-07-26 08:43:22,"b""I'm astounded how many scientific papers still don't include a PDF Table of Contents in 2011. How many cs researchers print out papers?"""
+95590220816318464,2011-07-25 20:24:19,"b'Can you make a build in one step? ""Yes, the step is pressing a magic button on a magic, not reproducible build server"" http://t.co/fM7FmG2'"
+93026161705226240,2011-07-18 18:35:39,"b""IPv6 addresses are too short. With 512 bits, we'd have enough space for cryptographic hashes in there, and not the watered-down CGA versions"""
+93023170063380481,2011-07-18 18:23:46,"b'Any great software project should compile in under a minute. Make that two minutes, including tests. Otherwise, dev speed grinds to a halt'"
+92523693225418752,2011-07-17 09:19:02,"b'""I have a simple example that\'s not working"" Cue to 100 lines of code with 6 imports and misleading comments'"
+90171943000612865,2011-07-10 21:34:01,b'lxml is an excellent way to parse HTML in #Python . With xpath support! http://t.co/izp0zXd'
+89644351583567872,2011-07-09 10:37:33,"b'@Vimeo Your register form is completely broken. Try signing in as t`$(\'""&lt;&gt;.m . There\'s probably an XSS vulnerability in there, too'"
+86880674799292416,2011-07-01 19:35:41,"b""Commit History for #trivialjson: 1. tests 2. Unicode tests 3. Implementation. I'm channeling my inner @cfbolz ;)"""
+86357171012513792,2011-06-30 08:55:28,"b'Wow, @github implemented my suggestion (autofocus title in issue creation) in less than 24 hours!'"
+85730089408528385,2011-06-28 15:23:40,"b""@github I'd like to work on the issues of my projects even when I'm offline. Any neat way to manage downloading them (mail would be fine,2)?"""
+85722666056683521,2011-06-28 14:54:10,b'Print your PGP key at http://t.co/rTiZJzW !'
+83269788088016896,2011-06-21 20:27:19,b'youtube-dl with blip.tv support (so far only for Python 2.6+): http://t.co/8wYPMnx'
+83262827065909248,2011-06-21 19:59:39,"b""I don't know why simplejson is called simple. ~5000 LOC, a C extension, all in 63 files. You're implementing JSON, not SGML."""
+83261934371209217,2011-06-21 19:56:06,b'Dear Python 2.5 developers: Please include a json module. Dear Python 3.3 developers: Please include a timemachine module.'
+83248976375201792,2011-06-21 19:04:37,"b""@bliptv 's API is awesome! Every video info you could ever dream of."""
+82537807066824704,2011-06-19 19:58:41,"b""An analogy is not a proof. I'm astounded on how often people assume the contrary."""
+82533342620303360,2011-06-19 19:40:56,"b""@BURSTNET Your signup form is bugged: I can't enter the hostname l.phihag.de . burstnet-form-wants-a-really-long-hostname.phihag.de it is"""
+81470171075723264,2011-06-16 21:16:17,"b'""Haha, so essentially python\'s keeping me from being an idiot"". The best commendation for a programming language'"
+78007468571115520,2011-06-07 07:56:44,b'::ffff:0:0/96 is way too small for mankind. ::/0 is more than enough for atom-kind. #worldipv6day'
+76774384404152320,2011-06-03 22:16:54,b'Thinking about including the XML billion laughs attack in a presentation about web security. Are there non-DoS XML bug classes?'
+76739591230586881,2011-06-03 19:58:38,b'php has 13 different sorting functions. But it still lacks the one I need (ukvsort)'
+76261479795539968,2011-06-02 12:18:48,b'Sorting in O(n + [OS scheduler]): http://ur.ly/LW1D'
+75541593641332737,2011-05-31 12:38:14,b'The web applications of the future will be written in ... Ruby? Python? php? perl? node.js? No. Client-Side JavaScript w/ P2P ;)'
+75537839080747008,2011-05-31 12:23:18,b'I love writing cool software: http://is.gd/vNyweR'
+72364958188441601,2011-05-22 18:15:25,b'@mattcutts Things to do before you die: Twitter prank\xe2\x9c\x93'
+70853749907783681,2011-05-18 14:10:25,b'PDF downloads on @sciencedirect start in an empty new window in chromium on Linux. Huh?'
+70078983194161152,2011-05-16 10:51:46,"b""BaseHTTPServer is the only old-style Python class in the stdlib that I know of. 100% coincidentally, it's also doing stuff I did not expect."""
+63337197738278912,2011-04-27 20:22:19,b'Bug of the week: http://ur.ly/KtCR'
+63225202397556736,2011-04-27 12:57:17,"b'Major hosts supporting #DNSSec: cdc.gov , funny-games.biz , cmu.edu , ietf.org , the-sex.us , whitehouse.gov'"
+58116557657735168,2011-04-13 10:37:21,b'Testing becomes harder as consistency requirements become lower'
+58110881724252160,2011-04-13 10:14:48,b'Found this in my code:  self._list = set([]) . Oops. #python'
+56277514615664640,2011-04-08 08:49:39,b'Automated tests should be included whenever possible; a lack thereof is acceptable if a formal proof for the inability to test is given'
+53491392122601472,2011-03-31 16:18:36,"b'I love the native #IPv6 at @hosteurope - as well as the blazingly fast CPU and net. Plus, unlimited traffic!'"
+50455658910334976,2011-03-23 07:15:41,"b""#thinkpad broken AGAIN - third time's the charm for a new mainboard and checked electrical connections"""
+48078245224120320,2011-03-16 17:48:41,"b'Just saw 6 ""Install Microsoft Silverlight"" banners on a site. With 7, I\'d have considered installing it :-p'"
+47621362633814016,2011-03-15 11:33:12,"b""Experience doesn't count. Facts do."""
+47615590420054016,2011-03-15 11:10:16,"b""Manually installed #Ubuntu and login doesn't react to input, but Ctrl+Alt+F1 works? Install xserver-xorg-input-mouse xserver-xorg-input-kbd"""
+45985465886707712,2011-03-10 23:12:44,"b""Just deleted 8 files of code, with &gt;1kLoC (in favor of built-in stuff). Feels strange, but it's more productive than /writing/ a kLoC"""
+41978484049981440,2011-02-27 21:50:25,"b'A function always becomes slow when called a billion times, but only often gets fast when called only once.'"
+40467567000686592,2011-02-23 17:46:34,"b'#vodafone callya internet password: ""First 4 super PIN digits"" ""Chosen by you"". Neither is true! First 4 letters of last name, capitalized'"
+40335552083402752,2011-02-23 09:01:59,b'sshd hangs after SSH2_MSG_SERVICE_ACCEPT: Check DNS of target machine or set UseDNS no in /etc/ssh/sshd_config on target'
+35303197052506113,2011-02-09 11:45:12,b'T-Shirt text for antimalware people: WWSD? - What Would Stuxnet Do?'
+35284594429263872,2011-02-09 10:31:17,"b""Looking for bitbucketredir? It's http://is.gd/HbVMqc &lt;http://tinyurl.com/45msoqr . Excellent work, @bitbucket !"""
+34024747750662145,2011-02-05 23:05:06,"b'0.9.. uptimes can be deceiving: 0.9% uptime = 4days/year, 0.95% = 2days, 0.99=9h, 0.999=1h, 0.9999=5min, 0.99999=30s, 0.999999=3s'"
+32726028757508096,2011-02-02 09:04:27,b'140c guide for problem description: 1. what do you want to achieve? 2. What do you expect? 3. What do you get? 4. What else have you tried?'
+32045591789830144,2011-01-31 12:00:39,"b'always say HOW ""it doesn\'t work"". Chances are, it did work as specified, but not as intended'"
+31335225757798400,2011-01-29 12:57:54,"b""Google's Transparency Report doesn't work without Flash. Very transparent indeed. http://ur.ly/CaMz"""
+28182345769029633,2011-01-20 20:09:29,b'T410 not booting - after being repaired for the same problem 2 days ago . Let me elaborate: grmph'
+19501301851234305,2010-12-27 21:14:07,b'#stackoverflow comments: good (even if short). Wrote the braces just to reach 15 chars'
+19170303707971584,2010-12-26 23:18:51,"b""Local razor for claims: If only claimed by people with a specific cultural background, it's assumed false."""
+12999788744151040,2010-12-09 22:39:25,"b""I love my Panasonic Hebron UJ890. Unfortunately, doesn't seem to be available outside .de: http://ur.ly/ynLr"""
+12998192207499264,2010-12-09 22:33:05,"b'Is there a webservice where I can post hashes to have them ""notarized""? d2c493cb6cd41af4bea6dc84efbd9969c43d36d7'"
+28818289153,2010-10-26 19:19:43,"b'Universities should post maps of their coverage. Not only WLAN, but also power outlets, temperature, bathroom distance, noise, etc.'"
+26443373798,2010-10-05 10:06:06,"b'Finally got an IPv6 vserver with vollmar.net. Still not native, but it works fine.  #ipv6'"
+22365328719,2010-08-28 16:19:41,b'@blowery Demo code on http://msdn.microsoft.com/en-us/scriptjunkie/ff928319.aspx : if(ie||webkit) a; if(ff||opera) b; ... else /*screw you*/'
+21431440272,2010-08-17 20:39:51,"b""The #flex color picker is ok, but could be better. Flex developers, why don't you ask the Photoshop guys?"""
+20076388183,2010-08-01 17:27:51,"b'@stadt_steinheim Gibt es in Steinheim ein Cafe o.\xc3\xa4., wo man als Tourist per WLAN ins Internet kann?'"
+19414789146,2010-07-24 11:31:05,"b""Many #CSS vertical centering guides are missing table-layout: fixed;. This one isn't: http://phihag.de/htmldemos/center.html"""
+18378196691,2010-07-12 19:54:15,b'Switch Fn and Ctrl on Lenovo keyboards: http://lenovoblogs.com/yamato/?p=518 . Just need to find to remove the keys around the arrows'
+18055481171,2010-07-08 18:50:35,b'The arrow keys on #Lenovo keyboards are tiny. Am I the only one who uses them ten times as often as that freaking Fn key?'
+18055202509,2010-07-08 18:45:37,b'tar: z: unknown option\n#signsthatyourescrewed'
+14457160438,2010-05-21 22:46:59,"b""#hhu D\xc3\xbcsseldorf doesn't seem to publish opening hours online. Probably to because students don't study on weekends/nights. Right?"""
+14456998150,2010-05-21 22:43:39,"b'Just discovered Window-&gt;New in #openoffice . Scroll to important results on one screen, write new findings on another'"
+13664927428,2010-05-09 12:29:49,"b""Laptop was way too loud. Just removed a ~20x8x5 mm piece of dust, now it's as silent as a Turing machine."""
+12900993491,2010-04-26 19:46:27,"b'Network printing could be that easy. Web interface with ps/pdf file upload. Throw in some easily scannable XML/JSON intf, solved.'"
+12897274174,2010-04-26 18:21:46,"b""bitbucket is great for turning in homework. The prof just checks out the version at deadline. I'm looking at you, paper-only math guys!"""
+12897129365,2010-04-26 18:18:28,"b'Want to work overnight on an important problem at #hhu D\xc3\xbcsseldorf? Tough luck, everything closes at 23:00. No problem at other universities.'"
+12409096996,2010-04-18 17:45:42,b'tweet.im seems to be down almost 90% of the time. Are there any other good XMPP&lt;-&gt;Twitter gateways?'
+11049839945,2010-03-25 19:37:48,"b'Custom serialization can be a PITA in #java . Why are there no byte[] Integer.toBytes(int i) and int Integer.fromBytes(byte[], int idx) ?'"
+11049484358,2010-03-25 19:28:30,b'Laziness and ADHD can be hard to distinguish. Look! A flashy'
+10384631967,2010-03-12 18:44:31,"b'Adobe: ""Forgot your password? No problem. We can fix that."" [Submit] ""Adobe ID and password do not match"". huh. #adobe #wtf'"
+10342243399,2010-03-11 22:14:07,b'The profiler in Flex Builder 3 seems just broken. The leaked object has no back references. Huh #flex'
+10342160358,2010-03-11 22:11:57,"b""tar: j: Unknown option. Maybe it's time for an update ..."""
+10187405720,2010-03-08 20:53:26,"b""jquery.org : Good idea: Use single sign-on. Bad implementation: Instead of OpenID, use a shady company's account system"""
+10119510769,2010-03-07 13:18:33,b'Strange that google favors the Java 1.4 documentation over newer versions: http://tinyurl.com/yb26gbk'
+10119485947,2010-03-07 13:17:43,"b'Hashing and ssl in Python are nice, but why is there no equivalent to java.security for encryption+key generation?'"
+8981320878,2010-02-11 22:45:00,"b'goo.gl IE headers: X-Content-Type-Options: nosniff, X-XSS-Protection: 0, X-Frame-Options: SAMEORIGIN. We could have had security by default'"
+8981246681,2010-02-11 22:43:01,"b""The python stdlib should include encryption/signature facities. There is crude socket-only SSL, but that's it"""
+8560815008,2010-02-02 22:25:42,b'~20 defective pixels after little more than one year. The quality of the new Dell notebook screens seems to be *really* low'
+7411343925,2010-01-05 18:41:21,"b""#VirtualBox shouldn't have a Virtual Media Manager.Instead, it should manage virtual media. Just ask me when something is needed and missing"""
+7411057868,2010-01-05 18:30:41,"b'Looking for a service which rents out access to obscure platforms like HP UX, Mac OS X, Solaris 9. Great for web design and development!'"
+6673098110,2009-12-14 20:58:39,b'@mattcuts How come http://goo.gl/e is a 404?'
+6657395243,2009-12-14 09:40:07,"b""@twitter Follower count and length of follower list don't match for me: http://bit.ly/5icww9 . Hidden followers?"""
+6657208053,2009-12-14 09:26:22,"b'HHU D\xc3\xbcsseldorf, VS1\xc3\x9c6: ""(see Internet)"" #hhu #quoting #scientificquoting'"
+6657159413,2009-12-14 09:22:48,"b'Cited by 8996: ""Given a set of transactions D, (...) D could be a data file, a relational table, (...)"". s/set/multiset ! #sciencewiki'"
+6384057493,2009-12-06 00:03:31,b'#inkscape should offer a way to let a rectangle or ellipse grow around text as you type the text. Doing a lot of manual aligning right now'
+6379321307,2009-12-05 20:52:06,b'The probability of Flash Player deadlocks or crashes is about 10^-6. A wheel would break after driving 500 km. Science: Use JavaScript!'
+6378034918,2009-12-05 20:00:45,"b'There seem to be at least 4 different designs for bing video. And every one of it is slow, lagging and buggy'"
+6377910210,2009-12-05 19:55:37,"b'most popular video on bing: The ""Loading ..."" icon. And is it that hard to write a video website that works even on FF/Linux?'"
+6264435399,2009-12-02 08:58:44,"b'A network simulation on a single PC could freeze and restore the whole state, even messages on the wire. Usability becomes a problem though'"
+6264240330,2009-12-02 08:44:27,"b""In some networking applications, your main code doesn't nearly matter as much as your exception handlers. #exceptionbydefault"""
+5791959219,2009-11-17 09:43:09,"b""Why can't I suggest words for OOo dictionaries, like on a web interface and by uploading my modified local dictionary? Or can I? #ooo"""
+5791914388,2009-11-17 09:39:40,b'Blackboards are suprisingly inefficient for long semi-textual content. A single page or screen corresponds to about 4 boards'
+4757695431,2009-10-10 09:41:24,b'@mattcuts http://google.com/mobile looks broken on FF3.5/Debian: http://bit.ly/3hO3p . Are you bugs.google?'
+4757591765,2009-10-10 09:30:21,b'Is there any service that archives visions and/or useful non-textual presentations? Just want to find http://bit.ly/api_design every time'
+4757562612,2009-10-10 09:27:05,"b""That's about the third time I hit Ctrl+Q in Firefox by accident. Please, Firefox developers: Can't you add Shift to that shortcut? Tab&lt;Q&lt;W!"""
+4757201229,2009-10-10 08:48:19,"b'Testing the W3C geolocation API. Kudos to its designers for a web standard that makes it really, really hard to create incompatibilities'"
+4424581768,2009-09-27 20:12:04,"b""AssertionError: classname('str_repr') != classname('str_repr'). Uh-oh"""
+3920446999,2009-09-11 21:47:35,"b'just saw a live Apple 30"" HD display. Top when it comes to size - and, unfortunately, price'"
+3883598067,2009-09-10 08:19:50,b'examination office(PAM)@uni-muenster.de: consultation hours amount to ~4% of work hours. imho there should be at least one open door per day'
+3883504889,2009-09-10 08:10:02,b'Linguistics@uni-muenster.de: Bilingual explanation at the toilet for disabled on where the regular one is. Why not an upfront map or a sign?'
+3867941853,2009-09-09 17:58:29,"b'omTom Home -based on XUL- installation aborts without .NET framework, not even showing an error message  #wtf ?'"
+3802202228,2009-09-06 18:05:39,"b'Strange website: they i18ned by hand, like ""G\xc3\xa4stebuch/Guestbook"". What\'s the reason for q=x.y in the HTTP content-language header?'"
+3513012432,2009-08-24 14:09:08,"b""German bureaucracy: Open Mo-Fr 8-12 and Th14-18. Reachable via email, but that's it.  http://bit.ly/VnQvH\n #haan"""
+3495544816,2009-08-23 18:01:25,"b""Trying to think about a reason why dhclient on debian/Ubuntu times out at all. Can't DHCP servers join the network after clients do?"""
+3433010114,2009-08-20 18:56:32,"b'All current OSs suck. Well, not so much the OS kernel, but the Is - API(typically abstracted), GUI(slow), CLI(no powershell-y or !POSIX).'"
+3432954760,2009-08-20 18:53:38,b'tweet.im is down. Forgot what i wanted to tweet about. Does twitter offer an official XMPP gateway?'
+3272833423,2009-08-12 20:57:49,"b'A lot of people don\'t know /dev/shm/, a fast memory disk on Linux, ""erased"" on powerdown. Sometimes, this is a nice alternative to /tmp'"
+3272761488,2009-08-12 20:53:57,"b""How can one map physical hostnames to functional ones? How to move func. hosts? VMs don't cut it, and chroots depend on resolv.conf"""
+3228175420,2009-08-10 17:03:50,"b'Thinking about a general approach to capture flash video. Execute it and capture output, exec and proxy-grab flv files or site-specific?'"
+2859487220,2009-07-26 22:12:17,"b""http://www.amazon.com/ ,end : 30 empty or two-space lines, followed by &lt;!-- MEOW --&gt; . Doesn't that cost ~ 20B*0.1$/GB ~= 2*10^-9$/request?"""
+2858925482,2009-07-26 21:30:36,"b""Ettiquette is complex. I'd like a program that takes plain language and translates to [professional, cordial, twitter, 1337, 1800s] language"""
+2854304375,2009-07-26 15:41:04,"b""Just found my phone charger. Can't wait for the standard (\xc2\xb5USB) in 2010@EU. The EU should mandate this for all small devices with&lt;=USB power"""
+2843885655,2009-07-25 22:28:57,"b'Dell notebook is broken(70\xc2\xb0C in idle, &gt;90\xc2\xb0C with 100%CPU) again. Same problem, and again after a couple of months. Planned obsolesence?'"
+2795355821,2009-07-23 08:59:58,b'True self-healing systems would consist of multiple agents capable of constructing/repairing itself. Min agent size =&gt; Max system robustness'
+2746626810,2009-07-20 22:16:53,"b'I wonder what a unification of XMPP+audio, email, RSS would look like. You could prioritize emergencyRSS&gt;phone&gt;XMPP,email&gt;RSS&gt;mailing list'"
+2746503986,2009-07-20 22:09:13,"b""KDE3 stores the windowed size of program windows. Resize it to maximum and close to get it maximized next time. Don't double-click title bar"""
+2667893893,2009-07-16 10:59:21,b'Portable loudspeaker: I look forward to bus-wide bad music in bad quality. http://bit.ly/OlZSx\n [lang=de]'
+2603573449,2009-07-12 21:05:45,"b'#firefox should really have a memory info dialog, like chrome or inkscape. Just killed a 2GB instance with 2 wikipedia pages and 3 RFCs'"
+2603412424,2009-07-12 20:53:16,b'#badpuns #1 Is this witty or just twitty?'
+2558360743,2009-07-09 22:58:48,"b""#psi should support global shortcuts, like Amarok. Oh wait! It does, but the interface is bad - the new message window isn't really mature"""
+2539060125,2009-07-08 21:17:25,"b""Predecessors of the metaverse exist. Where are early prototypes of ractives? Or is real RPG just too boring? I'm assuming WoW is not RPG"""
+2538821732,2009-07-08 21:01:21,"b""Down to 0 followers (I expect this to be public, not be read). Maybe I shouldn't block all those following spam accounts?"""
+2538771022,2009-07-08 20:58:00,"b'A standard for *any* formal grammar would be cool; you could link to an XML scheme, a BNF, a URL, any HTTP query, the odf spec etc. #rfc'"
+2538682657,2009-07-08 20:51:58,"b""#kxkb 's icon is a flag and the ISO code - redundantly displaying the current keyboard language, but not the specific scheme,e.g. nodeadkeys"""
+2409472831,2009-06-30 20:52:06,"b'My right eye is significantly redder than my left one. Strange, but not as strange as the mix of topics here'"
+2406343650,2009-06-30 17:08:46,"b""Specification is really hard. Most important steps to assist: Explain vocabulary, compare to options. Don't forget the option vocabulary."""
+2329734510,2009-06-25 18:07:02,"b'Just repaired my chair. Not perfect, but will suffice until I move out. In real world, necessary conditions often turn out to be sufficient'"
+2317754800,2009-06-24 23:01:42,b'The bzip2 source code is really cryptic. Wonder why such a popular piece of software reads like a TheDailyWTF entry.'
+2284807923,2009-06-22 21:20:31,"b'Why does Firefox (or even google) not predefine a couple of useful keywords? wp=Wikipedia, wpde,wpfr, wk=Wiktionary, wq=Wikiquote,yt=youtube'"
+2284785017,2009-06-22 21:18:47,"b'An ""I\'m currently listening to ..."" twitter plugin would be cooler, but also more annoying than any of those plugins'"
+2284754534,2009-06-22 21:16:28,"b""Great software should have an XMPP interface. Psi does, but it's not showing up in [Alt]+[Tab].Looks like greatness&gt;XMPP interface+good name"""
+2284209662,2009-06-22 20:36:05,"b""Love the python multiprocessing module. There's even a backport for python2.5 at http://bit.ly/HFbl4"""
+2236472995,2009-06-19 10:47:48,b'Heart: Fine. Dell Latitude Laptop: Would scream all the time if it were human. Luckily the fans are a little bit quieter than screaming'
+2228405053,2009-06-18 21:24:00,"b""Irrationally worried about heart, going to doctor tomorrow. Hope this is not my last tweet - didn't even get a chance to amass &gt;10 followers"""
+2228370408,2009-06-18 21:21:22,"b""My new Dell Latitude is 10*louder than my old Dell Inspiron! Dell advertised in uni, but I'm sure gonna buy a Lenovo or Apple next time"""
+2203829805,2009-06-17 07:38:14,"b""laptop: The BIOS update wasn't the problem, Laptop now happily slumbering at 35\xc2\xb0C"""
+2203508683,2009-06-17 06:53:56,"b'My first follower! Oh, wait, just a spam bot. Found another one:  @Piemol'"
+2203453962,2009-06-17 06:46:33,"b'#Qt spell checking sucks, right-click-and-add-word doesn\'t work, and ""doesn\'t"" is not in the dictionary'"
+2203445895,2009-06-17 06:45:29,"b""Mmmm, wonder why #twitter doesn't hover-link channels, like   a.hoverlink:normal {like: text;};a.hoverlink:hover{like: link}"""
+2203427018,2009-06-17 06:42:58,b'Workaround for spell checking another language in #psi : start with LANG=langcode psi&'
+2203417240,2009-06-17 06:41:40,"b'#psi support for spell checking different languages is under way ( http://thilo.cestona.ro/?p=13 ), although strangely not in context menu'"
+2203376699,2009-06-17 06:36:16,"b""Just joined http://tweet.im . XMPP is way better than that yucky web interface. Have to find out how to configure Psi's spellchecker though"""
+2203345445,2009-06-17 06:32:09,"b""twitter is a neat way to archive thoughts. The short max and therefore avg message length is well-suited for keywords, and it's public"""
+2201700601,2009-06-17 03:38:54,"b'After updating my Laptop (Dell Latitude E5400) to BIOS A12, the fan spins like crazy. Am I really looking for Dell support on twitter?'"
+2201569745,2009-06-17 03:27:38,b'My default twitter timezone was completely off - Greenland instead of Germany. Wonder how that happens?'
